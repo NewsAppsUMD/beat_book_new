@@ -1,0 +1,39 @@
+You are helping create a beginner-friendly "How To" guide for journalists who want to create a beat book using AI and data journalism techniques. 
+
+Based on the files and notes in the attached combined.txt, create a comprehensive, step-by-step guide that:
+
+1. **Explains what a beat book is** - Define it for someone who has never created one before. Explain why it's valuable for reporters.
+
+2. **Outlines the complete process** - Walk through the entire workflow from start to finish:
+   - How to gather and prepare source stories
+   - How to extract metadata and entities
+   - How to organize and filter the data
+   - How to use LLMs to generate the beat book
+   - How to fact-check and refine the output
+
+3. **Makes it non-technical** - Write for a reporter who may not have coding experience:
+   - Explain technical concepts in plain language
+   - Provide context for why each step matters
+   - Include what commands to run and what they do
+   - Anticipate common questions or confusion points
+
+4. **Provides practical examples** - Use real examples from the work shown in combined.txt to illustrate:
+   - What good prompts look like
+   - How to structure your data
+   - What kinds of outputs to expect
+   - How to troubleshoot common problems
+
+5. **Includes tips and best practices** - Based on the lessons learned:
+   - What worked well and what didn't
+   - How to choose the right LLM model
+   - How to iterate and improve your beat book
+   - How to verify accuracy using entity extraction
+
+6. **Addresses challenges** - Be honest about:
+   - Problems that came up and how they were solved
+   - Limitations of the approach
+   - When human judgment is needed
+
+Format the guide with clear sections, helpful headings, and a logical flow that someone could follow from beginning to end. Make it conversational but professional - like a senior reporter sharing knowledge with a colleague.
+
+The guide should be comprehensive enough that someone could recreate this process on their own beat, but accessible enough that they don't need to be a programmer to understand it.
