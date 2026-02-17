@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Create a narrative chronological beat book from stories_entities_3.json."""
+"""Create a narrative chronological beat book from stories_entities_3.json using LLM."""
 
 import argparse
 import json
@@ -7,6 +7,7 @@ from collections import Counter, defaultdict
 from datetime import datetime
 from pathlib import Path
 import re
+import subprocess
 
 
 def parse_date(date_str):
@@ -54,10 +55,70 @@ def summarize_counter(items, limit):
     return [name for name, _ in counter.most_common(limit)]
 
 
-def build_month_narrative(year, month, stories, topic_limit, place_limit, story_limit):
+def call_llm(prompt, model):
+    """Call LLM via CLI and return response."""
+    try:
+        result = subprocess.run(
+            ["llm", "prompt", prompt, "-m", model],
+            capture_output=True,
+            text=True,
+            timeout=60,
+        )
+        if result.returncode == 0:
+            return result.stdout.strip()
+        else:
+            print(f"LLM error: {result.stderr}")
+            return None
+    except Exception as e:
+        print(f"Failed to call LLM: {e}")
+        return None
+
+
+def build_introduction(stories, model):
+    """Build an introduction section using LLM."""
+    # Extract patterns from the entire dataset
+    all_topics = [t for s in stories if (t := get_topic(s))]
+    all_places = [p for s in stories for p in s.get("places", [])]
+    all_orgs = [o for s in stories for o in s.get("organizations", [])]
+    
+    top_topics = summarize_counter(all_topics, 5)
+    top_places = summarize_counter(all_places, 5)
+    top_orgs = summarize_counter(all_orgs, 5)
+    
+    # Use LLM to generate introduction narrative
+    context = f"""
+You are writing an introduction to a public safety beat book. 
+Here's what to cover:
+
+Primary coverage areas: {', '.join(top_topics)}
+Key locations: {', '.join(top_places)}
+Main agencies: {', '.join(top_orgs)}
+
+Write a compelling 2-3 paragraph introduction that explains what this beat covers, why it matters, 
+and what a new reporter should expect when covering public safety in this area. 
+Be conversational and specific to the Eastern Shore.
+
+Do not include a heading—just the narrative text.
+"""
+    
+    intro_text = call_llm(context, model)
+    if intro_text:
+        return f"## Introduction\n\n{intro_text}\n\n"
+    else:
+        # Fallback if LLM fails
+        lines = []
+        lines.append("## Introduction\n\n")
+        lines.append("This beat book covers public safety across the Eastern Shore. ")
+        if top_topics:
+            lines.append(f"The primary focus areas are {', '.join(top_topics)}. ")
+        lines.append("Coverage spans patrol operations, emergency response, crime reporting, ")
+        lines.append("community safety initiatives, and law-enforcement accountability.\n\n")
+        return "".join(lines)
+
+
+def build_month_narrative(year, month, stories, story_limit):
     month_label = datetime(year, month, 1).strftime("%B %Y")
-    topics = summarize_counter([t for s in stories if (t := get_topic(s))], topic_limit)
-    places = summarize_counter([p for s in stories for p in s.get("places", [])], place_limit)
+    places = summarize_counter([p for s in stories for p in s.get("places", [])], 3)
 
     stories_sorted = sorted(
         stories,
@@ -67,16 +128,14 @@ def build_month_narrative(year, month, stories, topic_limit, place_limit, story_
 
     lines = [f"## {month_label}\n\n"]
 
-    if topics:
-        lines.append(f"Coverage centered on {', '.join(topics)}. ")
     if places:
-        lines.append(f"Locations that surfaced repeatedly included {', '.join(places)}. ")
+        lines.append(f"**Locations**: {', '.join(places)}. ")
 
     if examples:
         if len(examples) == 1:
             story = examples[0]
             lines.append(
-                f"One notable story was \"{story.get('title', 'Untitled')}\" — "
+                f"**Key story**: \"{story.get('title', 'Untitled')}\" — "
                 f"{story_blurb(story)}\n\n"
             )
         else:
@@ -85,16 +144,15 @@ def build_month_narrative(year, month, stories, topic_limit, place_limit, story_
                 fragments.append(
                     f"\"{story.get('title', 'Untitled')}\" ({story_blurb(story)})"
                 )
-            lines.append("Stories ranged from " + "; ".join(fragments) + ".\n\n")
+            lines.append("**Stories**: " + "; ".join(fragments) + ".\n\n")
     else:
-        lines.append("No story summaries available for this month.\n\n")
+        lines.append("\n\n")
 
     return "".join(lines)
 
 
-def build_year_narrative(year, stories, topic_limit, place_limit, story_limit):
-    topics = summarize_counter([t for s in stories if (t := get_topic(s))], topic_limit)
-    places = summarize_counter([p for s in stories for p in s.get("places", [])], place_limit)
+def build_year_narrative(year, stories, story_limit):
+    places = summarize_counter([p for s in stories for p in s.get("places", [])], 3)
 
     stories_sorted = sorted(
         stories,
@@ -110,10 +168,9 @@ def build_year_narrative(year, stories, topic_limit, place_limit, story_limit):
     examples = examples[:story_limit]
 
     lines = [f"# {year}\n\n"]
-    if topics:
-        lines.append(f"This year focused heavily on {', '.join(topics)}. ")
+    
     if places:
-        lines.append(f"Recurring locations included {', '.join(places)}. ")
+        lines.append(f"**Recurring locations**: {', '.join(places)}. ")
 
     if examples:
         fragments = []
@@ -121,16 +178,16 @@ def build_year_narrative(year, stories, topic_limit, place_limit, story_limit):
             fragments.append(
                 f"\"{story.get('title', 'Untitled')}\" ({story_blurb(story)})"
             )
-        lines.append("Notable moments included " + "; ".join(fragments) + ".\n\n")
+        lines.append("**Notable moments**: " + "; ".join(fragments) + ".\n\n")
     else:
-        lines.append("No story summaries available for this year.\n\n")
+        lines.append("\n\n")
 
     return "".join(lines)
 
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Create a narrative chronological beat book from stories_entities_3.json"
+        description="Create a narrative chronological beat book from stories_entities_3.json using LLM"
     )
     parser.add_argument(
         "--input",
@@ -139,20 +196,13 @@ def main():
     )
     parser.add_argument(
         "--output",
-        default="beatbook_narrative_chronological_v2.md",
-        help="Output markdown file (default: beatbook_narrative_chronological_v2.md)",
+        default="beatbook_narrative_chronological_v3.md",
+        help="Output markdown file (default: beatbook_narrative_chronological_v3.md)",
     )
     parser.add_argument(
-        "--topic-limit",
-        type=int,
-        default=3,
-        help="Max topics to mention per section (default: 3)",
-    )
-    parser.add_argument(
-        "--place-limit",
-        type=int,
-        default=3,
-        help="Max places to mention per section (default: 3)",
+        "--model",
+        default="groq/meta-llama/llama-4-maverick-17b-128e-instruct",
+        help="LLM model to use (default: groq/meta-llama/llama-4-maverick-17b-128e-instruct)",
     )
     parser.add_argument(
         "--story-limit",
@@ -184,15 +234,19 @@ def main():
     output = [
         "# Beat Book: Public Safety (Chronological Narrative)\n\n",
         "This beat book walks through coverage in time order so a new reporter can see how the stories evolve.\n\n",
+        "---\n\n",
     ]
+    
+    # Add introduction section using LLM
+    print(f"Generating introduction with {args.model}...")
+    output.append(build_introduction(stories, args.model))
+    output.append("---\n\n")
 
     for year in sorted(by_year.keys()):
         output.append(
             build_year_narrative(
                 year,
                 by_year[year],
-                args.topic_limit,
-                args.place_limit,
                 args.story_limit,
             )
         )
@@ -204,8 +258,6 @@ def main():
                     year,
                     month,
                     by_month[(year, month)],
-                    args.topic_limit,
-                    args.place_limit,
                     args.story_limit,
                 )
             )
