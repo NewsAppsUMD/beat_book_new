@@ -92,13 +92,12 @@ Extract the following entities and metadata:
 
 **CONTEXTUAL DETAILS:**
 
-- time_of_incident: If time is mentioned in story, extract it (e.g., "10:30 p.m.", "early morning", "afternoon"). Use null if not mentioned.
+- time_of_incident: If time is mentioned in story, extract it (e.g., "morning", "early morning", "afternoon"). Use null if not mentioned.
 - weather_conditions: If weather is relevant/mentioned (e.g., "rainy", "snowy", "foggy", "clear"). Use null if not mentioned.
 - response_agencies: List of agencies that responded. Choose from: "police", "fire", "EMS", "state police", "coast guard", "multiple", or create list like ["police", "fire"]
 - outcome: Current status. Choose ONE: "arrest made", "under investigation", "resolved", "ongoing", "charges filed", "no charges", or describe briefly
 
 IMPORTANT RULES:
-- Extract ALL entities mentioned in the story
 - Do NOT include news organizations, reporters, photographers, or byline names
 - Be thorough and specific
 - Use null for fields where information is not available or not mentioned
@@ -116,7 +115,7 @@ Example output:
   "location": "downtown St. Michaels",
   "location_type": "commercial",
   "time_of_incident": "2:30 a.m.",
-  "weather_conditions": null,
+  "weather_conditions": "foggy",
   "response_agencies": ["fire", "EMS"],
   "outcome": "resolved"
 }}
@@ -155,7 +154,7 @@ def summarize_story_with_quotes(story_title, story_content, model):
     """Use LLM to summarize the story while retaining ALL direct quotes."""
     
     prompt = f"""
-Summarize this PUBLIC SAFETY news story in a concise way (2-4 paragraphs) while RETAINING ALL DIRECT QUOTES from the original story.
+Summarize this PUBLIC SAFETY news story in a concise way (2-5 paragraphs) while RETAINING ALL DIRECT QUOTES from the original story.
 
 CRITICAL REQUIREMENTS:
 1. Include EVERY direct quote from the original story - do not paraphrase or omit any quotes
@@ -164,13 +163,13 @@ CRITICAL REQUIREMENTS:
 4. Maintain the factual accuracy of all details
 5. Keep the summary focused on the key facts: who, what, when, where, why, how
 6. Organize information chronologically if appropriate
-7. Include all relevant names, locations, and organizations
+7. Include relevant names, locations, and organizations
 8. Retain specific numbers, dates, and times mentioned
 
 Do NOT include any meta-commentary like "this article discusses" - just provide the summary with integrated quotes.
 
 Story Title: {story_title}
-Story Content: {story_content}
+Story Content: {summary}
 
 Provide the summary as plain text (not JSON):
 """
@@ -341,14 +340,13 @@ def main():
             errors.append(f"Story {i+1}: {entities.get('error', 'Unknown error')[:80]}")
             print(f"  ✗ Entity extraction error: {entities.get('error', 'Unknown')[:60]}")
         
-        # Replace content with summary (as requested)
+        # Replace content with summary
         if summary and not summary.startswith('[Summary Error'):
-            enhanced_story['original_content_length'] = len(story_content)
             enhanced_story['content'] = summary
-            enhanced_story['summary_generated'] = True
             print(f"  ✓ Summary generated ({len(summary)} chars, original was {len(story_content)} chars)")
         elif summary:
-            enhanced_story['summary_error'] = summary
+            # If summary failed, keep original content but note the error
+            enhanced_story['entity_extraction_error'] = enhanced_story.get('entity_extraction_error', '') + f" | Summary error: {summary}"
             print(f"  ✗ Summary error: {summary[:60]}")
         
         enhanced_stories.append(enhanced_story)
