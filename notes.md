@@ -72,5 +72,29 @@ To generate a first draft, I ran this bash (or code):
 You should replace create_beatbook.py with whatever you call your script.
 While you may not have all the knowledge of Python, you have to pay attention to this script, especially whatever prompts/directives you might have given to your AI tool. The reason for this is, it helps you provide directions for your script so that even when you are unsure how the code works, you have you can direct the AI throught the prompts you provide in plain language.
 Without really editing my prompt, I generated a beatbook to have a glimpse of what might need some improvement. But I had given copilot some instructions for the script: make it narrative, but also chronological. I want to see trends in story coverage over time. Not trends in bylines, trends in stories. Remember, this is targetted at a reporter new in the beat.
-I ran the first prototype with this bash:
-`uv run python create_beatbook.py --input stories_entities_3.json --output beatbook_narrative_chronological.md --model groq/llama-3.3-70b-versatile`
+
+
+
+We want to extract entities from public_safety_stories.json. Modify add_entities_clay to create a new script. This is going to extract entities for a thematic beatbook that looks at public safety thematically over time. For example, common issues that occur in the summer vs. the winter, etc. It should: extract the entities first, then summarize the stories in the public_safety_stories.json. Also, it shoudl retain all quotes in the stories, and replace the story content with the summaries. I want metadata fields to include:
+Temporal information:
+names: (important people mentioned in the stories over time)
+season (winter/spring/summer/fall - can be derived)
+year
+is_weekend (boolean)
+
+Content Classiification:
+primary_theme (e.g., "traffic accidents", "violent crime", "fire/rescue")
+secondary_themes (list - articles often cover multiple issues)
+incident_type (more specific: "pedestrian fatality", "armed robbery", "house fire")
+severity_level (e.g., "minor", "moderate", "major" - based on injuries, damage,response)
+
+Geographic Information:
+location (neighborhood/district)
+location_type (residential, commercial, highway, park, school zone)
+
+Contextual Details:
+time_of_incident (if mentioned - helps identify patterns like late-night crimes)
+weather_conditions (if relevant/mentioned)
+response_agencies (police, fire, EMS, multiple)
+outcome (arrest made, under investigation, resolved, ongoing)
+

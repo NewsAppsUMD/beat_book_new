@@ -1,0 +1,219 @@
+{
+  "title": {
+    "text": {
+      "headline": "Talbot County Public Safety Beat Book",
+      "text": "A comprehensive timeline guide for reporters covering public safety on the Eastern Shore"
+    }
+  },
+  "events": [
+    {
+      "start_date": {
+        "year": "2023",
+        "month": "1",
+        "day": "1"
+      },
+      "text": {
+        "headline": "Welcome to the Beat",
+        "text": "<p>If you walk into a coffee shop on Main Street in Easton and ask the barista what's on the news, they'll probably tell you about the latest traffic-safety study, a fire-department fundraiser, or the town-hall debate over a protest permit. That's the rhythm of the beat here: a steady drum of community-policing events, a few high-stakes criminal investigations, and a constant undercurrent of weather-related preparedness.</p>\n\n<p>Talbot County sits on 269 square miles of flat, historic shoreline, with a county seat of roughly 16,800 people and three smaller towns that feel more like villages than cities. The population skews older\u2014nearly a quarter are 65 or older\u2014and most households own their homes. Those demographics shape the stories you'll hear: seniors worried about road safety on quiet country roads, volunteers who keep the fire stations running, and a growing tourism season that brings a seasonal surge of visitors and, occasionally, a flash-point for crime.</p>"
+      }
+    },
+    {
+      "start_date": {
+        "year": "2023",
+        "month": "6",
+        "day": "1"
+      },
+      "text": {
+        "headline": "What You'll Be Covering",
+        "text": "<strong>Key Coverage Areas:</strong><br><br>\n<ul style='text-align: left;'>\n<li><strong>Community-Policing:</strong> Shop-with-a-Cop events, Citizens Police Academy, National Night Out, and community engagement initiatives</li>\n<li><strong>Fire & EMS:</strong> Volunteer fire departments, historic building fires, mutual aid responses, and mental health support programs for first responders</li>\n<li><strong>Traffic Safety:</strong> Vision Zero grants, stop-sign installations, deer-season crashes, and engineering studies for aging population</li>\n<li><strong>Violent Crime:</strong> Cross-county investigations, drug trafficking, homicides, and multi-agency task forces</li>\n<li><strong>Emergency Preparedness:</strong> Storm drills, burn-ban ordinances, grant funding debates, and sanctuary jurisdiction controversies</li>\n</ul>"
+      }
+    },
+    {
+      "start_date": {
+        "year": "2024",
+        "month": "2",
+        "day": "1"
+      },
+      "text": {
+        "headline": "Major Kidnapping Investigation",
+        "text": "Cambridge kidnapping case prompted joint task force of Cambridge PD, Easton PD, Maryland State Police, and Talbot Sheriff's Office. The case lasted months and involved multi-agency coordination across the Mid-Shore region."
+      }
+    },
+    {
+      "start_date": {
+        "year": "2024",
+        "month": "4",
+        "day": "1"
+      },
+      "text": {
+        "headline": "Fake 911 Drug Bust",
+        "text": "Major drug bust uncovered \"shoot-to-kill\" ring using counterfeit 911 calls to mask fentanyl shipments. This sparked statewide conversation about how technology can be weaponized against public safety systems."
+      }
+    },
+    {
+      "start_date": {
+        "year": "2024",
+        "month": "6",
+        "day": "28"
+      },
+      "text": {
+        "headline": "A 'crisis' on the shore \u2014 animal intake on the rise",
+        "text": "<strong>Story Type: Feature</strong><br><br><strong>Why it's a good example:</strong> Longer\u2011form, human\u2011interest piece about the growing animal\u2011shelter intake crisis on the Eastern Shore. At 462 words it explores community impact, quotes shelter leaders, and tells personal stories of rescued pets.<br><br><em>This story exemplifies feature coverage on the public safety beat.</em>"
+      }
+    },
+    {
+      "start_date": {
+        "year": "2024",
+        "month": "7",
+        "day": "1"
+      },
+      "text": {
+        "headline": "Vision Zero Grant Awarded",
+        "text": "MD DOT Vision Zero grant funded three-way stop on Brookletts Avenue in Easton, addressing deer-season crash hotspot. Part of ongoing traffic safety improvements for aging population."
+      }
+    },
+    {
+      "start_date": {
+        "year": "2024",
+        "month": "7",
+        "day": "23"
+      },
+      "text": {
+        "headline": "Chestertown pediatrician closes practice amid allegations of abuse",
+        "text": "<strong>Story Type: Profile</strong><br><br><strong>Why it's a good example:</strong> Focused profile on Dr. Julio Ramirez, a Chestertown pediatrician who closed his practice amid serious abuse allegations. The 670\u2011word article follows his career, the allegations, and the legal ramifications.<br><br><em>This story exemplifies profile coverage on the public safety beat.</em>"
+      }
+    },
+    {
+      "start_date": {
+        "year": "2024",
+        "month": "8",
+        "day": "1"
+      },
+      "text": {
+        "headline": "Oxford Stop-Sign Installation",
+        "text": "Town of Oxford installed stop-sign at dangerous intersection after series of rear-end collisions. Demonstrates local response to traffic safety data."
+      }
+    },
+    {
+      "start_date": {
+        "year": "2024",
+        "month": "9",
+        "day": "1"
+      },
+      "text": {
+        "headline": "County-Wide Emergency Drill",
+        "text": "Talbot County Department of Emergency Services ran joint shelter-opening drill during National Preparedness Month, bringing together fire, EMS, and Maryland Emergency Management Agency."
+      }
+    },
+    {
+      "start_date": {
+        "year": "2024",
+        "month": "10",
+        "day": "1"
+      },
+      "text": {
+        "headline": "Route 662 Detour Begins",
+        "text": "Temporary closure began when new hospital wing construction forced detour, sparking multi-agency debate involving County Council, MD SHA, hospital system, and local farmers about economic impact versus safety."
+      }
+    },
+    {
+      "start_date": {
+        "year": "2024",
+        "month": "10",
+        "day": "24"
+      },
+      "text": {
+        "headline": "Mid-Shore sheriffs join in call for DJS secretary's resignation",
+        "text": "<strong>Story Type: In\u2011Depth</strong><br><br><strong>Why it's a good example:</strong> Investigative/analytical reporting on statewide law\u2011enforcement leaders demanding the resignation of the Maryland Department of Juvenile Services secretary. The 693\u2011word story provides background, stakeholder statements, and policy implications.<br><br><em>This story exemplifies in\u2011depth coverage on the public safety beat.</em>"
+      }
+    },
+    {
+      "start_date": {
+        "year": "2024",
+        "month": "11",
+        "day": "1"
+      },
+      "text": {
+        "headline": "County Burn-Ban Ordinance",
+        "text": "Talbot County rolled out burn-ban ordinance to curb wildfire risk during protracted drought, sparking lively town-hall debate over enforcement on private property."
+      }
+    },
+    {
+      "start_date": {
+        "year": "2024",
+        "month": "12",
+        "day": "1"
+      },
+      "text": {
+        "headline": "Talbot CaRES AED Rollout",
+        "text": "County-wide AED network (Talbot CaRES) expanded with new installations at Bluepoint Hospitality restaurants, part of public-access cardiac arrest response program."
+      }
+    },
+    {
+      "start_date": {
+        "year": "2025",
+        "month": "1",
+        "day": "1"
+      },
+      "text": {
+        "headline": "Citizens Police Academy Launch",
+        "text": "Sheriff Joe Gamble launched Citizens Police Academy, bringing high-school seniors into precinct for 10-week immersion program as part of community policing initiatives."
+      }
+    },
+    {
+      "start_date": {
+        "year": "2025",
+        "month": "5",
+        "day": "1"
+      },
+      "text": {
+        "headline": "Sanctuary Jurisdiction Controversy",
+        "text": "Federal grant threatened unless counties signed pledge not to limit ICE cooperation. Sparked debate between federal funding needs and community trust."
+      }
+    },
+    {
+      "start_date": {
+        "year": "2025",
+        "month": "6",
+        "day": "30"
+      },
+      "text": {
+        "headline": "Toddlers drown in incident in Greensboro on Sunday",
+        "text": "<strong>Story Type: Breaking News</strong><br><br><strong>Why it's a good example:</strong> Timely coverage of a tragic incident \u2013 two toddlers drowned in Greensboro on June 29, 2025. The story is recent, incident\u2011focused, and provides details from law\u2011enforcement responders.<br><br><em>This story exemplifies breaking news coverage on the public safety beat.</em>"
+      }
+    },
+    {
+      "start_date": {
+        "year": "2025",
+        "month": "7",
+        "day": "8"
+      },
+      "text": {
+        "headline": "Federalsburg police chief resigns; sheriff's office takes over leadership",
+        "text": "<strong>Story Type: Profile</strong><br><br><strong>Why it's a good example:</strong> Detailed look at the resignation of Federalsburg Police Chief Joseph Gasser and the sheriff\u2019s office assuming leadership, offering background on the chief\u2019s tenure and community reaction.<br><br><em>This story exemplifies profile coverage on the public safety beat.</em>"
+      }
+    },
+    {
+      "start_date": {
+        "year": "2025",
+        "month": "12",
+        "day": "1"
+      },
+      "text": {
+        "headline": "Bottom Line for the New Reporter",
+        "text": "Talbot County\u2019s public\u2011safety beat is a blend of **human stories** (the volunteer firefighter who\u2019s been on call for 30 years), **policy battles** (the sanctuary\u2011grant controversy), **technical fixes** (Vision Zero stop\u2011signs), and **regional cooperation** (the 39\u2011person drug\u2011trafficking task force). Keep your notebook open for the recurring characters\u2014Sheriff Gamble, Chief Lowrey, Director LeCates\u2014and for the agencies that turn a single incident into a multi\u2011county response. When a story feels \u201cjust another crash,\u201d dig into the engineering study, the grant paperwork and the senior\u2011driver advocacy group that pushed for the fix. When a fire blazes, follow the trail from the volunteer crew to the state fire marshal\u2019s investigation and the community donor who funded the new engine. By weaving those threads together, you\u2019ll move beyond a checklist of incidents and deliver a narrative that shows how a county of 37,500 people\u2014half of whom are retirees, most of whom own their homes, and all of whom rely on a patchwork of sheriffs, police chiefs, volunteers and state agencies\u2014keeps its streets safe, its historic buildings protected and its seniors feeling secure behind the wheel. That\u2019s the story Talbot County deserves, and it\u2019s the story you\u2019ll tell."
+      }
+    },
+    {
+      "start_date": {
+        "year": "2025",
+        "month": "12",
+        "day": "15"
+      },
+      "text": {
+        "headline": "Potential Follow-Up Stories",
+        "text": "<strong>Potential Follow-Up Stories</strong><br><br><ol><li><strong>Easton officials weigh in on Complete Streets study, pedestrian safety</strong><br><em>Angle:</em> Update on the Complete Streets study findings and any resulting roadway redesigns or funding approvals<br><em>Why:</em> The article notes that the study is ongoing and officials are still discussing pedestrian\u2011safety measures. Residents will want to know whether recommendations become policy, what timelines are set, and how construction will affect traffic.</li><br><li><strong>Easton police seek permits for future protests</strong><br><em>Angle:</em> Status of the new protest\u2011permit process: has the town adopted the police\u2011recommended guidelines, and how are community groups responding?<br><em>Why:</em> The story highlights a pending procedural change that impacts First Amendment rights. A follow\u2011up can clarify whether the policy was enacted, any legal challenges, and how it affects upcoming demonstrations.</li><br><li><strong>Kent Samaritan Group nears goal to open emergency shelter in December</strong><br><em>Angle:</em> Report on whether the emergency shelter opened as planned, its current capacity, and any ongoing funding or staffing needs<br><em>Why:</em> The piece mentions a target opening date but no confirmation that the shelter is operational. The community, especially unhoused residents and donors, will want to know if the goal was met and how the shelter is serving the area.</li><br><li><strong>Caroline County leaning towards not going forward with Regional Detention Center</strong><br><em>Angle:</em> Final decision on the Regional Detention Center and the next steps for the county\u2014alternative solutions, budget reallocations, or legal actions<br><em>Why:</em> The article reports a tentative stance, leaving the outcome uncertain. A follow\u2011up can reveal whether the project was cancelled, postponed, or revived, and what that means for local criminal\u2011justice planning.</li><br><li><strong>Police fatally shoot Cambridge man Thursday evening</strong><br><em>Angle:</em> Outcome of the internal and possibly state investigation into the fatal shooting, including any policy changes or disciplinary actions<br><em>Why:</em> Fatal police shootings trigger investigations that can take weeks or months. Residents will be interested in the investigative findings, any charges or reforms, and how the department is addressing community concerns.</li><br></ol>"
+      }
+    }
+  ]
+}
