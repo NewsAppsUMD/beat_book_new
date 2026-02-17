@@ -1,4 +1,4 @@
-## Beat book process 02/14/2026
+## Beat book process for beginners		02/14/2026
 
 Before we proceed with this task, users should:
     -Have story samples in a json file
@@ -38,4 +38,17 @@ Summarize each story (keeps quotes), then extracts entities from the summary.
 	- Do not include news organization names (Star Democrat, Chesapeake Publishing, APG Media).
 	Incremental saves:
 	- The script writes the output file after each story is processed.
-[talk about rate limits]
+[talk about rate limits: you are likely to hit rate limits because of ??]
+[to get through this, one needs to update the .py script that extract the eentities to save incrementally. That way, when you run into a problem, you can continue saving from where you stopped. Sometimes you have too many stories. It's best to process them in batches. Or how best to deal with this?]
+[It's usually best to use closed models: why?]
+[after generating entities, you might want to study it to see what your extracted vallues look like. SQLite database is a good way to do that because?]
+First you laod your json file into a sqlite database using this command: 
+`uv run sqlite-utils insert entities.db stories your_json_file_name --pk docref`
+
+Replace your_json_file_name with the name of the json file where you have the entities. The command above converts your json file into a database table that lives in entities.db. Now you can filter, analyze the data using datasette.
+What is datasette? Datasette is [ ??]
+To view your document on datasette you first have to install it in your environment: 
+`uv add datasette`
+You know you added it correctly when your output says: "Installed 15 packages in 58ms" and goes ahead to list the packages installed.
+Then you can run this to view your data in Datasette:
+`uv run datasette entities.db`
