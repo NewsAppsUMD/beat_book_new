@@ -1,0 +1,1411 @@
+# Beat Book: Public Safety (Chronological)
+
+Stories: 300
+
+Date range: 2023-08-03 to 2025-10-22
+
+## Timeline
+
+## August 2023
+
+- 2023-08-03 — St. Michaels VFD places new engine into service
+  - Topic: Public Safety
+  - Places: St. Michaels, Maryland, Talbot County, Maryland, Grasonville, Maryland
+  - Organizations: St. Michaels Volunteer Fire Department, Patriot Fire
+  - People: Chris Thomas, St. Michaels Volunteer Fire Department President
+- 2023-08-10 — Cambridge theater has another incident of smoke in theater
+  - Topic: Public Safety
+  - Places: Cambridge, Maryland, Dorchester Square Mall, the 2700 block
+  - Organizations: Cambridge Premier Cinema
+- 2023-08-10 — Dispute over girlfriend led to shooting, police say - Suspect arrested in D.C. area after massive manhunt
+  - Topic: Public Safety
+  - Places: Unionville, Maryland, Talbot County, Maryland, Easton, Maryland
+  - Organizations: Talbot County Sheriff's Office, U.S. Marshals Capitol Area Regional Fugitive Task Force, Alexandria Police Department
+  - People: Stewart Orlando Ray, 37, of Clinton, suspect, Jahari De'Mon Cooper, 39, of Talbot County, victim, Sheriff Joe Gamble, Talbot County Sheriff's Office
+- 2023-08-24 — Four prison murders, but officials plead immunity
+  - Topic: Public Safety
+  - Places: Washington, D.C., South Carolina, Talbot County, Maryland
+  - Organizations: U.S. Court of Appeals for the 4th Circuit, U.S. District Court
+  - People: Jacob Philip, inmate, Denver Simmons, inmate, John King, inmate, victim
+- 2023-08-24 — Three teens charged in attempted carjacking
+  - Topic: Public Safety
+  - Places: Cambridge, Maryland, 1400 block of Cambridge Beltway, Cambridge Beltway
+  - Organizations: Cambridge Police Department, Laurel Police Department, Talbot County Sheriff's Office
+  - People: 15-year-old male juvenile from Cambridge, 17-year-old male juvenile from Cambridge, 15-year-old male from Cambridge
+- 2023-08-25 — September declared National Preparedness Month
+  - Topic: Public Safety
+  - Places: Easton, Maryland, Talbot County, Maryland
+  - Organizations: Talbot County Council, Department of Emergency Services, Planning and Zoning
+  - People: Brian LeCates, director of Emergency Services, Geneva Schaffle, division chief, Emergency Management, Clay Stamp, County Manager
+- 2023-08-30 — Human trafficking expert hired by For All Seasons
+  - Topic: Public Safety
+  - Places: Easton, Maryland, Mid-Shore, Maryland, Eastern Shore, Maryland
+  - Organizations: For All Seasons, For All Seasons Rape Crisis Center, Maryland Regional Navigator Program
+  - People: Susan Ahlstrom, human trafficking navigator, Governor, Maryland
+- 2023-08-30 — Suspect still at large following police pursuit
+  - Topic: Public Safety
+  - Places: Denton, Maryland, Marydel, Maryland, Felton, Maryland
+  - Organizations: Caroline County Sheriff's Office, Maryland State Police, Delaware State Police
+  - People: Todd Randall Hockensmith, 36, of Felton, Donnie Baker, Caroline County Sheriff, Danyeal L. Shahan, associate of Hockensmith
+
+## September 2023
+
+- 2023-09-04 — After The Storm
+  - Topic: Public Safety
+  - Places: Horseshoe Beach, Florida
+- 2023-09-14 — '25 kids should not take this whole city down' - Cambridge council grapples with youth crime in city
+  - Topic: Public Safety
+  - Places: Cambridge, Maryland, Dorchester County, Maryland, Baltimore, Maryland
+  - Organizations: Cambridge City Council, United Way of the Lower Eastern Shore, Let's Thrive Baltimore
+  - People: Lance Cephas, father of Commission President Lajan Cephas and Commissioner Sputty Cephas, Lajan Cephas, Commission President, Sputty Cephas, Commissioner
+- 2023-09-15 — Man dies in crash as he avoided tree
+  - Topic: Public Safety
+  - Places: Federalsburg, Maryland, Smithville Road, Caroline County, Maryland
+  - Organizations: Caroline County Sheriff's Office, Maryland State Police Accident Reconstruction Unit
+  - People: Steven Alan Keene Jr.
+- 2023-09-20 — JONES NAMED EMS COORDINATOR
+  - Topic: Public Safety
+- 2023-09-27 — Suspect charged in Sunday Federalsburg shooting
+  - Topic: Public Safety
+- 2023-09-27 — Suspect charged in Sunday Federalsburg shooting
+  - Topic: Public Safety
+  - Places: Federalsburg, Maryland, Bloomery Road, TidalHealth Nanticoke, Seaford
+  - Organizations: Caroline County Sheriff's Office
+  - People: Thomas Barr, 51, suspect, Gregory Hobbs, victim, Donald Baker, Caroline County Sheriff
+- 2023-09-28 — Police arrest man on charges in overdose
+  - Topic: Public Safety
+  - Places: Easton, Maryland, Henderson, Baltimore
+  - Organizations: Easton Police Department, Talbot County paramedics, Talbot County Detention Center
+  - People: Justin A. Bodman, 35, suspect, Elina Lazarieva, 23, suspect, Cristian Gonzales, 28, victim
+- 2023-09-28 — Teen arrested for alleged assault with rock at park
+  - Topic: Public Safety
+- 2023-09-28 — Ophelia a bust but still causes flooding
+  - Topic: Public Safety
+  - Places: Hoopers Island, Dorchester County, Maryland, Emerald Isle, North Carolina
+  - Organizations: National Hurricane Center, National Weather Service, Dorchester County Department of Emergency Services
+  - People: Jimmy Windsor, Dorchester County Emergency Management Planner, Rob Kramer, Dorchester County Council member, Gov. Wes Moore
+
+## October 2023
+
+- 2023-10-04 — Two arrested in shooting death at Easton bar
+  - Topic: Public Safety
+  - Places: Easton, Maryland, Cambridge, Maryland, Hurlock, Maryland
+  - Organizations: Easton Police Department, Cambridge Police Department, Talbot County paramedics
+  - People: Kevron Chase, 34, of Cambridge, suspect, Chadnee Harris, 32, of Hurlock, suspect, Antonio L. Smith, 23, victim
+- 2023-10-11 — Sex offender arrested at Federalsburg school
+  - Topic: Public Safety
+  - Places: Federalsburg, Maryland, Easton, Maryland, Colonel Richardson High School, Federalsburg
+  - Organizations: Caroline County Sheriff's Office, Caroline County District Court
+  - People: Roberto Ivan Zaldivar, Jr., 26, defendant, Joseph Riley, Caroline County District Judge
+- 2023-10-12 — CHIEF OF POLICE POSITION TOWN OF GREENSBORO
+  - Topic: Public Safety
+- 2023-10-12 — CHIEF OF POLICE POSITION TOWN OF GREENSBORO
+  - Topic: Public Safety
+  - Places: Greensboro, Maryland
+  - Organizations: Greensboro Police Department, Maryland Police Training Commission
+- 2023-10-13 — Longtime fire department volunteer remembered in fishing tournament
+  - Topic: Public Safety
+  - Places: Oxford, Maryland, Delmarva, Doc's Sunset Grille, Oxford
+  - Organizations: Oxford Volunteer Fire Company, Oxford Fire Co., Doc's Sunset Grille
+  - People: Alvin L. 'Big Al' Ledford, Oxford Fire Co. volunteer, Mark Ledford, Big Al's son and event organizer, Tim Kearns, Oxford Fire Co. president
+- 2023-10-13 — Stranded boater rescued by MSP aviation crew
+  - Topic: Public Safety
+- 2023-10-17 — Strained blue lines - Police battle mental health challenges along with crime
+  - Topic: Public Safety
+  - Places: Sarasota, Florida, Laramie County, Wyoming, Wyoming
+  - Organizations: Sarasota Police Department, Laramie County Sheriff's Office, Talbot County Sheriff's Office
+  - People: Capt. Kenneth Rainey, Sarasota Police Department, Laramie County Sheriff Brian Kozak, Capt. John Bollinger, Talbot County Sheriff's Office
+- 2023-10-17 — Butters makes it back home - Missing cat returns to owners 12 years after being lost
+  - Topic: Public Safety
+  - Places: Stanwood, Washington, Riverside County, California, San Diego, California
+  - Organizations: Riverside County Animal Control, Animal Solutions Konnection Foundation, Riverside County Department of Animal Services
+  - People: Angelo Castellino, Shelley Castellino, Dalton Churchwell, Riverside County Animal Control Officer
+- 2023-10-20 — Straw bales burn off Route 50 in Trappe
+  - Topic: Public Safety
+  - Places: Trappe, Maryland, Route 50, Backtown Road
+  - Organizations: Retallack & Sons
+  - People: Natalie Jones
+- 2023-10-20 — Youth not facing consequences for breaking laws
+  - Topic: Public Safety
+  - Places: Annapolis, Maryland, Maryland, New York
+  - Organizations: Fraternal Order of Police, Fraternal Order of Police, Maryland State Lodge, Fraternal Order of Police, Cambridge-Dorchester Lodge No. 27
+  - People: Thomas R. Hurley, local lodge president of the Fraternal Order of Police, Cambridge-Dorchester Lodge No. 27, retired sergeant from the Cambridge Police Department
+- 2023-10-25 — Juvenile services department to move detained girls, again
+  - Topic: Public Safety
+  - Places: Annapolis, Maryland, Cheltenham Youth Detention Center, Western Maryland Children's Center, Hagerstown, Maryland
+  - Organizations: Department of Juvenile Services, Maryland, Juvenile Justice Monitoring Unit, Maryland, Office of the Attorney General, Maryland
+  - People: Steph Quinn, Capital News Service, Donald DeVore, former Juvenile Services secretary, Vincent Schiraldi, DJS Secretary
+- 2023-10-26 — Automotive Group gives $300,000 to first responder training campus
+  - Topic: Public Safety
+  - Places: Easton, Maryland, Talbot County, Maryland, Mistletoe Drive
+  - Organizations: Preston Automotive Group, Friends of the Easton Volunteer Fire Department, Easton Volunteer Fire Department (EVFD)
+  - People: David Wilson Jr., president of Preston Automotive Group, David Wilson, Sr., Preston Automotive Group, Brett Whitehead, co-chairman of the Public Safety Capital Campaign and president of the Friends of EVFD
+
+## November 2023
+
+- 2023-11-01 — 'We made a big impact' - Greensboro PD's Trams promoted, Chief Paugh joins Sheriff's Office
+  - Topic: Public Safety
+  - Places: Greensboro, Maryland, Easton, Maryland, Caroline County, Maryland
+  - Organizations: Greensboro Police Department, Easton Police Department, Caroline County Sheriff's Office
+  - People: Lenox Trams, Lieutenant, Greensboro Police Department, George Paugh, Chief, Greensboro Police Department, Tammy Kelledes, Town Manager
+- 2023-11-01 — Preston man pleads guilty to attempted murder - CRIME
+  - Topic: Public Safety
+  - Places: Preston, Maryland, Denton, Maryland, Caroline County, Maryland
+  - Organizations: Caroline County Sheriff's Office, Caroline County Circuit Court, Maryland State Police
+  - People: Mark William Thompkins, 25, Sloane Franklin, Caroline County State's Attorney, Jesse Hicks, Thompkins' attorney
+- 2023-11-01 — School bus crash sends 11 to hospital
+  - Topic: Public Safety
+- 2023-11-02 — St. Michaels peeping Tom sentenced to 3 years
+  - Topic: Public Safety
+- 2023-11-02 — St. Michaels peeping Tom sentenced to 3 years
+  - Topic: Public Safety
+  - Places: St. Michaels, Maryland, Jefferson Avenue, St. Michaels, Maryland, Talbot County, Maryland
+  - Organizations: Talbot District Court
+  - People: Diego Albarado Lopez, 31, defendant
+- 2023-11-03 — Cambridge man charged with armed carjacking, robbery
+  - Topic: Public Safety
+  - Places: Cambridge, Maryland, Dorchester County, Maryland, Race Street, Cambridge
+  - Organizations: Cambridge Police Department, Dorchester County District Court, Dorchester County Department of Corrections
+  - People: Kevin McClain, 53, suspect
+- 2023-11-08 — VETERANS, FIRST RESPONDERS HONORED AT BLUE MASS
+  - Topic: Public Safety
+  - Places: St. Benedict Catholic Church, Ridgely, Ridgely, Maryland, Caroline County, Maryland
+  - Organizations: Knights of Columbus, Maryland State Police, Anne Arundel County Fire Department
+  - People: Rev. Christopher Coffiey, retired Navy Reserve chaplain, Michael Ragolio, Marshal Eastern Shore, Knights of Columbus, Sid Pinder, retired Caroline County Chief Deputy and Maryland State Police
+- 2023-11-09 — Accessible AED added in Downtown Easton
+  - Topic: Public Safety
+  - Places: Easton, Maryland, Talbot County, Maryland, Downtown Easton
+  - Organizations: Talbot CARES, Talbot Paramedic Foundation, Bluepoint Hospitality
+  - People: Rachael Cox, special programs paramedic for Talbot Emergency Services, Michael Smith, head of security at Bluepoint Hospitality, Wayne Dyott, President of Talbot Paramedic Foundation
+- 2023-11-09 — Anton Black's family settles with state medical examiner
+  - Topic: Public Safety
+- 2023-11-15 — SMITH BECOMES GREENSBORO's NEWEST POLICE OFFICER
+  - Topic: Public Safety
+  - Places: Greensboro, Maryland, Easton, Maryland, Albuquerque, New Mexico
+  - Organizations: Greensboro Police Department, Town of Greensboro, Maryland Police Training Commission
+  - People: Jacob Smith, Greensboro police officer, Lt. Lenox Trams, Acting Greensboro Police Department Chief, Mayor David Spencer, Town of Greensboro
+- 2023-11-15 — PAUGH JOINS SHERIFF's OFFICE
+  - Topic: Public Safety
+- 2023-11-15 — PAUGH JOINS SHERIFF's OFFICE
+  - Topic: Public Safety
+  - Places: Caroline County, Maryland, Goldsboro, Maryland, Easton, Maryland
+  - Organizations: Caroline County Sheriff's Office, Greensboro Police Department, Easton Police Department
+  - People: Donnie Baker, Caroline County Sheriff, George Paugh, Lt., Caroline County Sheriff's Office, George Paugh, former Chief, Greensboro Police Department
+- 2023-11-15 — Caroline CASA honors armed forces veterans
+  - Topic: Public Safety
+  - Places: Denton, Maryland, Caroline County, Maryland, Denton Diner
+  - Organizations: CASA of Caroline, Calvary Baptist Church, Denton, Maryland Army National Guard
+  - People: Amy Horne, Executive Director, CASA of Caroline, Don Reynolds, Pastor, Calvary Baptist Church; retired lieutenant colonel, Maryland Army National Guard, Ben Cardin, U.S. Senator
+- 2023-11-17 — Oxford to install three-way stop on Tilghman Street - Town considering traffic study to address speeding concerns
+  - Topic: Public Safety
+  - Places: Oxford, Maryland, Tilghman Street, Oxford, Bank Street, Oxford
+  - Organizations: Commissioners of Oxford, Oxford Police Department, Traffic Concepts Inc.
+  - People: Will Cawley, Oxford resident, Cheryl Lewis, Oxford Town Manager, Tom Costigan, Oxford Commission President
+- 2023-11-29 — Talbot Police Accountability Board gears up for first annual report
+  - Topic: Public Safety
+- 2023-11-30 — Easton man gets five years for narcotics charges
+  - Topic: Public Safety
+  - Places: Easton, Maryland, Talbot County, Maryland, Econo Lodge
+  - Organizations: Easton Police Department, Talbot County Circuit Court, Talbot County paramedics
+  - People: Jaurice K. Henry, 27, Iyana Wilson, 27, Judge Stephen Kehoe, Talbot County Circuit Court
+- 2023-11-30 — Man killed after shooting at Baltimore County police
+  - Topic: Public Safety
+- 2023-11-30 — Man killed after shooting at Baltimore County police
+  - Topic: Public Safety
+
+## December 2023
+
+- 2023-12-01 — Bills' Miller facing arrest for assault
+  - Topic: Public Safety
+- 2023-12-01 — Bills' Miller facing arrest for assault
+  - Topic: Public Safety
+- 2023-12-06 — Man Arrested In Connection With Shooting, Escape At Hospital
+  - Topic: Public Safety
+  - Places: Cambridge, Maryland, Glen Burnie, Maryland, Rockville, Maryland
+  - Organizations: Cambridge Police Department, Rockville Police Department
+  - People: Israel Labastida, Jr., 19, of Glen Burnie, Darrin Lee Jeter, 19, of Rockville
+- 2023-12-13 — Police Team With Talbot Optimist Club For Shop With A Cop
+  - Topic: Public Safety
+  - Places: Easton, Maryland, Oxford, Maryland, Talbot County, Maryland
+  - Organizations: Easton Police Department, Oxford Police Department, Talbot County Sheriff's Office
+  - People: Debbie Henckel, event organizer and member of the Talbot Optimist Club, Alan Lowrey, Easton Police Chief, Cordero Proctor, Officer, Easton Police Department
+- 2023-12-13 — Trial Begins For Cambridge Man Charged In Fatal Shooting
+  - Topic: Public Safety
+  - Places: Cambridge, Maryland, Pleasant Street, Cambridge, Race Street, Cambridge
+  - Organizations: Dorchester County State's Attorney's Office, Cambridge Police Department, Maryland Judiciary
+  - People: Tramelle Williams, 23, defendant, Taijay Brian Daniels, 24, victim, Lory Eugene Fields, 69, victim
+- 2023-12-13 — Helmer Sworn In As Chief Deputy
+  - Topic: Public Safety
+  - Places: Caroline County, Maryland, Denton, Maryland, Caroline County Circuit Court, Denton, Maryland
+  - Organizations: Caroline County Sheriff's Office, Caroline County Circuit Court, Cambridge Police Department
+  - People: Capt. Rodney "R.J." Helmer, Chief Deputy, Caroline County Sheriff's Office, Terry Lord, Clerk of Court, Sheriff Donnie Baker, Caroline County Sheriff's Office
+- 2023-12-14 — Easton Man Gets 18 Years For Enticing Child For Sexual Activity
+  - Topic: Public Safety
+  - Places: Easton, Maryland, Baltimore, Maryland, Talbot County, Maryland
+  - Organizations: U.S. District Court, Federal Bureau of Investigation, FBI Baltimore Field Office
+  - People: Samuel Charles Hardeman, 55, U.S. District Judge George L. Russell III, United States Attorney Erek L. Barron, District of Maryland
+
+## January 2024
+
+- 2024-01-02 — Kyleigh remembered - Community rallies around family of girl killed in Christmas morning fire
+  - Topic: Public Safety
+  - Places: Elkton, Maryland, Winding Brook Village, Maryland, Willow Drive, Maryland
+  - Organizations: Singerly Volunteer Fire Company, Elkton, American Red Cross, Maryland State Fire Marshal's Office
+  - People: Tom Minor, neighbor, Nancy Minor, neighbor, Kyleigh Nicole Treadway, victim
+- 2024-01-03 — Cambridge, Queen Anne's County receive MDOT grants
+  - Topic: Public Safety
+  - Places: Cambridge, Maryland, Queen Anne's County, Maryland, Hanover, Maryland
+  - Organizations: Maryland Department of Transportation, U.S. Department of Transportation, City of Mount Rainier
+  - People: Gov. Wes Moore, Governor of Maryland, Maryland Transportation Secretary Paul Wiedefeld, Maryland Department of Transportation, Rocio Treminio-Lopez, Mayor of Brentwood
+- 2024-01-03 — New patrolman to join EPD
+  - Topic: Public Safety
+- 2024-01-06 — Trams takes helm as Greensboro police chief
+  - Topic: Public Safety
+  - Places: Greensboro, Greensboro Community Center and Fire Hall, Easton, Maryland
+  - Organizations: Greensboro Police Department, Easton Police Department, Oxford Police Department
+  - People: Lenox Trams, Greensboro Police Chief, David Spencer, Mayor of Greensboro, Jake Smith, Greensboro Police Sgt.
+- 2024-01-08 — After-school activities canceled, some Wednesday delays in place due to strong storm
+  - Topic: Public Safety
+  - Places: Dorchester County, Maryland, Queen Anne's County, Maryland, Talbot County, Maryland
+  - Organizations: Dorchester County Public Schools, Queen Anne's County Public Schools, Talbot County Public Schools
+  - People: Gov. Wes Moore, Governor of Maryland, Mike Lee, Meteorologist, National Weather Service
+- 2024-01-08 — Federalsburg carport fire causes estimated $125K in damage
+  - Topic: Public Safety
+- 2024-01-08 — Federalsburg carport fire causes estimated $125K in damage
+  - Topic: Public Safety
+  - Places: Federalsburg, Maryland, Denton, Maryland, 26955 Iron Gate Road
+  - Organizations: Denton Volunteer Fire Company, Office of the State Fire Marshal, Upper Eastern Regional Office of the Maryland State Fire Marshal
+- 2024-01-09 — Queenstown man charged in Centreville shooting
+  - Topic: Public Safety
+  - Places: Centreville, Maryland, Queenstown, Maryland, Little Kidwell Avenue, Centreville
+  - Organizations: Centreville Police Department, Maryland State Police, Queen Anne's County Office of the Sheriff
+  - People: Police Chief Robert Hobbs, Centreville Police Department, Del Rhodes, resident
+- 2024-01-10 — Number of Cambridge homicides down in 2023
+  - Topic: Public Safety
+- 2024-01-16 — Investigation continues after children die in Perryville home
+  - Topic: Public Safety
+  - Places: Perryville, Maryland, North East Barrack, Cole Street
+  - Organizations: Maryland State Police, Perryville Police Department, Office of the Chief Medical Examiner
+- 2024-01-24 — Democrats say no big changes to cannabis law
+  - Topic: Public Safety
+  - Places: Annapolis, Maryland, Baltimore City, Maryland, Frederick, Maryland
+  - Organizations: Maryland General Assembly, Maryland Legislative Black Caucus, Maryland Cannabis Administration
+  - People: Bill Ferguson, Senate President, Jheanelle Wilkins, Delegate, William Folden, Senator
+- 2024-01-30 — Police seeking information in Bay Bridge crash
+  - Topic: Public Safety
+- 2024-01-30 — Police seeking information in Bay Bridge crash
+  - Topic: Public Safety
+  - Places: Annapolis, Bay Bridge, US-50
+  - Organizations: Maryland Transportation Authority Police, MDTA Police Collision Reconstruction Unit
+
+## February 2024
+
+- 2024-02-01 — Democratic lawmakers plan to crack down on youth crime in the coming weeks
+  - Topic: Public Safety
+  - Places: Annapolis, Maryland, Baltimore County, Maryland, Baltimore City, Maryland
+  - Organizations: Juvenile Services, Maryland Youth Justice Coalition, Maryland State Legislature
+  - People: Adrienne Jones, House Speaker, D-Baltimore County, Bill Ferguson, Senate President, D-Baltimore City, Wes Moore, Democratic Gov.
+- 2024-02-01 — Democratic lawmakers plan to crack down on youth crime in the coming weeks
+  - Topic: Public Safety
+  - Places: Annapolis, Maryland, Baltimore County, Maryland, Baltimore City, Maryland
+  - Organizations: Maryland Youth Justice Coalition, Maryland Department of Juvenile Services
+  - People: Adrienne Jones, House Speaker, D-Baltimore County, Bill Ferguson, Senate President, D-Baltimore City, Wes Moore, Governor, Maryland
+- 2024-02-04 — Residents displaced in 2-house fire
+  - Topic: Public Safety
+- 2024-02-07 — Ridgely man indicted on rape, sex offense charges
+  - Topic: Public Safety
+  - Places: Ridgely, Maryland, Caroline County, Maryland, Denton, Maryland
+  - Organizations: Caroline County Circuit Court, Purple Peake CBD
+  - People: Rhett Ritter, 26, Ridgely man, Sloane Franklin, Caroline County State's Attorney, Chris Jennings, defense attorney
+- 2024-02-14 — Caroline Police Accountability Board reports progress
+  - Topic: Public Safety
+  - Places: Denton, Maryland, Caroline County, Maryland, Talbot County, Maryland
+  - Organizations: Caroline County Police Accountability Board, Caroline County Sheriff's Office, Denton Police Department
+  - People: John Bartlett, Police Accountability Board Chairman, Kimberly Raeder, Board Administrator, Owen Wise, retired Maryland Circuit Court Judge
+- 2024-02-15 — Queen Anne-Hilsboro firefighters honored for service
+  - Topic: Public Safety
+  - Places: Queen Anne, Maryland, Hillsboro, Maryland, Oxford, Maryland
+  - Organizations: Queen Anne-Hillsboro Volunteer Fire Company, U.S. Senate, Maryland State Senate
+  - People: Phil Starkey Jr., Fire Company President, Johnny Mautz, Maryland State Senator, Eric Voorhees, Firefighter
+- 2024-02-15 — Crash at Route 50, Black Dog Alley sends one to hospital
+  - Topic: Public Safety
+  - Places: Easton, Maryland, U.S. Route 50, Black Dog Alley
+  - Organizations: Easton Police Department
+  - People: Sgt. Tim Larrimore, Easton Police Department
+- 2024-02-16 — Chamber of Commerce partners with Sheriff in fight against opioid overdoses
+  - Topic: Public Safety
+  - Places: Chester, Maryland, Queen Anne's County, Maryland, Chestertertown, Maryland
+  - Organizations: Queen Anne's County Chamber of Commerce, Queen Anne's County Sheriff's Department, Centers for Disease Control and Prevention
+  - People: Sheriff Gary Hofmann, Queen Anne's County Sheriff's Department, Linda Friday, President, Queen Anne's County Chamber of Commerce, Rebecca Groff, Program Coordinator, Queen Anne's County Chamber of Commerce
+- 2024-02-17 — Train and tractor-trailer collide in Hurlock accident
+  - Topic: Public Safety
+  - Places: Hurlock, Maryland, Nealson Street, Broad Street
+  - Organizations: Maryland and Delaware Railroad Company, Hurlock Police Department, Amick Farms
+  - People: Leon Guin, jockey driver at Amick Farms, Cathrin Banks, President and General Counsel for Maryland and Delaware Railroad Company, Bruce Jones, Hurlock Chief of Police
+- 2024-02-20 — Officer fights to deter drivers like one who injured him
+  - Topic: Public Safety
+  - Places: Annapolis, Maryland, Bethesda, Maryland, Easton, Maryland
+  - Organizations: Montgomery County Police Department, Montgomery County Government, Maryland State Legislature
+  - People: Sgt. Patrick Kepp, Montgomery County Police Department, Marc Elrich, Montgomery County Executive, Del. Greg Wims, D-Montgomery
+- 2024-02-20 — Bikers try (and try) to gut a state helmet law
+  - Topic: Public Safety
+  - Places: Annapolis, Maryland, Maryland, Allegany County, Maryland
+  - Organizations: A Brotherhood Against Totalitarian Enactments (ABATE), Maryland General Assembly, Maryland State Medical Society (MedChi)
+  - People: Bob Spanburgh, Maryland ABATE's board chairman, Gary 'Pappy' Boward, former ABATE executive director, Sen. Mike McKay, R-Allegany, Garrett and Washington
+- 2024-02-21 — 'End of Watch'
+  - Topic: Public Safety
+  - Places: Centreville, Maryland, Queen Anne's County, Maryland, Centreville United Methodist Church
+  - Organizations: Fraternal Order of Police Lodge 108, Centreville United Methodist Church, Centreville Police Department
+  - People: Gary Hoffman, Sheriff, Rev. Karen Handy, Senior Pastor, Centreville United Methodist Church, Chase Armington, past president, Fraternal Order of Police Lodge 108, Queen Anne's County deputy
+- 2024-02-22 — Cambridge man charged with kidnapping in connection to missing woman
+  - Topic: Public Safety
+  - Places: Cambridge, Maryland, Anne Arundel County, Maryland, Glen Burnie, Maryland
+  - Organizations: Maryland State Police, Cambridge Police Department, Easton Police Department
+  - People: Kenneth Stefan Bradley, 41, suspect, Tiyavauna Britt, 31, victim, Tiyavauna Britt's mother
+- 2024-02-23 — New commander joins Maryland State Police barrack in Easton
+  - Topic: Public Safety
+  - Places: Easton, Maryland, Queen Anne's County High School, JFK Highway Barrack
+  - Organizations: Maryland State Police, Queen Anne's County High School
+  - People: Lt. Stacey J. Gappert, Maryland State Police Barrack Commander, Easton, Fred Stanco, Assistant Barrack Commander, Maryland State Police
+- 2024-02-25 — Two teens charged in connection to burglaries in Easton
+  - Topic: Public Safety
+- 2024-02-27 — 'End of Watch'
+  - Topic: Public Safety
+  - Places: Centreville, Maryland, Queen Anne's County, Maryland, Centreville United Methodist Church
+  - Organizations: Fraternal Order of Police Lodge 108, Centreville Police Department, Queen Anne's County Sheriff's Office
+  - People: Gary Hoffman, Sheriff, Karen Handy, Senior Pastor, Centreville United Methodist Church, Chase Armington, Queen Anne's County Deputy, past president of Fraternal Order of Police Lodge 108
+- 2024-02-27 — Ignited fuel vapors cause fire at Dave's Riverside Garage
+  - Topic: Public Safety
+- 2024-02-27 — Ignited fuel vapors cause fire at Dave's Riverside Garage
+  - Topic: Public Safety
+  - Places: Queen Anne, Main Street, Queen Anne
+  - Organizations: Dave's Riverside Garage Inc., Office of the State Fire Marshal, Cordova Volunteer Fire Department
+- 2024-02-28 — CPR training for 911 calls could expand statewide
+  - Topic: Public Safety
+  - Places: Charles County, Maryland, Annapolis, Maryland, Maryland
+  - Organizations: Charles County Commissioners, Maryland 911 Board, Charles County 911 Center
+  - People: Tony Rose, Chief of 911 for Charles County, Ralph E. Patterson II, Commissioner (D), Charles County
+
+## March 2024
+
+- 2024-03-02 — Following lockdown, lawmakers express worry over Capitol’s emergency alert system
+  - Topic: Public Safety
+  - Places: Annapolis, Maryland, Baltimore City, Maryland, Baltimore County, Maryland
+  - Organizations: Annapolis City Police Department, Maryland Capitol Police, Maryland Senate
+  - People: Sen. Antonio Hayes, D-Baltimore City, Bill Ferguson, Senate President, D-Baltimore County, Sen. Will Folden, R-Frederick
+- 2024-03-03 — Background checks needed
+  - Topic: Public Safety
+  - Places: Kansas City, Missouri, Newark, Delaware
+  - Organizations: National Rifle Association
+  - People: Joseph Murphy
+- 2024-03-04 — Rider trial postponed; bench warrant issued
+  - Topic: Public Safety
+  - Places: Easton, Maryland, Talbot County, Maryland, Johns Hopkins Hospital, Maryland
+  - Organizations: Talbot County Circuit Court, State's Attorney's Office, Talbot County, Maryland State Fire Marshal's Office
+  - People: Fred 'Trey' Rider III, defendant, Judge Thomas G. Ross, Talbot County Circuit Court, Stephanie Shipley, defense attorney
+- 2024-03-05 — Lawmakers work toward juvenile justice solution
+  - Topic: Public Safety
+  - Places: Annapolis, Maryland, Baltimore City
+  - Organizations: Maryland Department of Juvenile Services, Maryland House of Delegates, Maryland Senate
+  - People: Del. Luke Clippinger, D-Baltimore City, co-sponsor of the House bill, Sen. Will Smith, D-Montgomery, co-sponsor of the Senate bill, Kimber Watts, attorney in the Forensic Mental Health Division at the Maryland Office of the Public Defender
+- 2024-03-06 — Cambridge man handed two life sentences without parole
+  - Topic: Public Safety
+  - Places: Cambridge, Maryland, Dorchester County, Maryland, Pleasant Street, Cambridge
+  - Organizations: Cambridge Police Department, Dorchester County Circuit Court
+  - People: Tramelle Williams, 23, of Cambridge, Taijay Daniels, 24, victim, Lory Fields, 69, victim
+- 2024-03-08 — Stevensville man charged with sexual solicitation of minor
+  - Topic: Public Safety
+  - Places: Stevensville, Maryland, Queen Anne's County, Maryland
+  - Organizations: Queen Anne's County Sheriff's Office, Queen Anne's County Office of the Sheriff Criminal Investigation Unit
+  - People: Antonio Blaine Nicely, 20, of Stevensville, Deputy First Class Zane Doyle, Queen Anne's County Sheriff's Office, Sheriff Gary Hofmann, Queen Anne's County Sheriff's Office
+- 2024-03-08 — Charges dismissed for Ridgley man
+  - Topic: Public Safety
+- 2024-03-08 — Charges dismissed for Ridgley man
+  - Topic: Public Safety
+  - Places: Ridgely, Maryland, Caroline County, Maryland, Denton, Maryland
+  - Organizations: Caroline County State's Attorney's Office, Caroline County Circuit Court
+  - People: Rhett Ritter, 26, Ridgely man, Chris Jennings, defense attorney
+- 2024-03-08 — Jury acquits woman who stabbed two women in neighborhood fight
+  - Topic: Public Safety
+  - Places: North East, Maryland, Cecil County, Maryland, Cedar Hill neighborhood
+  - Organizations: Cecil County Circuit Court
+  - People: Lacey N. Siple, 31, defendant, Ellis Rollins, Assistant State's Attorney, Denise Winston, Assistant Public Defender
+- 2024-03-15 — Easton airport runway closed for construction work
+  - Topic: Public Safety
+  - Places: Easton, Maryland, Easton Airport
+  - Organizations: Easton Airport
+  - People: Micah Risher, airport manager
+- 2024-03-18 — Motorcyclist killed in U.S. 50 Sunday morning crash
+  - Topic: Public Safety
+  - Places: U.S. Route 50, State Route 404, Centreville
+  - Organizations: Maryland State Police
+  - People: Cody Morris
+- 2024-03-18 — Sewage truck crash closes eastbound U.S. Route 50
+  - Topic: Public Safety
+  - Places: Easton, Maryland, U.S. Route 50, Hiner's Lane
+  - Organizations: Easton firefighters, Maryland State Patrol, Department of the Environment
+- 2024-03-19 — Meet the bikers who try – and fail – each year to erode Maryland’s helmet law
+  - Topic: Public Safety
+  - Places: Maryland, Easton, Maryland, Allegany, Maryland
+  - Organizations: A Brotherhood Against Totalitarian Enactments (ABATE), Maryland General Assembly, Maryland State Medical Society (MedChi)
+  - People: Bob Spanburgh, Maryland ABATE's board chairman, Gary 'Pappy' Boward, former ABATE executive director, Sen. Mike McKay, R-Allegany, Garrett, Washington
+- 2024-03-20 — Caroline commissioners discuss plan for public safety after Ridgely police suspension
+  - Topic: Public Safety
+  - Places: Ridgely, Maryland, Caroline County, Maryland
+  - Organizations: Caroline County Sheriff's Office, Ridgely Police Department, Maryland State Police
+  - People: Commissioners of Caroline County, Sheriff Donald Baker, Caroline County Sheriff's Office, Commissioners of Ridgely
+- 2024-03-20 — Eclipse Tips
+  - Topic: Public Safety
+  - Places: U.S., Texas, Maine
+  - Organizations: Destination Mansfield, NASA, Exploratorium museum
+  - People: Mike Sunnucks, APG National Enterprise Editor
+- 2024-03-26 — Dundalk residents view crumpled bridge with shock, dismay
+  - Topic: Public Safety
+  - Places: Dundalk, Maryland, Washington, D.C., Baltimore, Maryland
+  - Organizations: Dundalk-Patapsco Neck Historical Society
+  - People: Teresita Santana, resident, Judy Corkhum, resident, Anthony Meeks, Dundalk native
+
+## April 2024
+
+- 2024-04-02 — Cambridge man charged with kidnap and murder of woman
+  - Topic: Public Safety
+  - Places: Cambridge, Maryland, Anne Arundel County, Maryland, Easton, Maryland
+  - Organizations: Maryland State Police, Maryland State Police Homicide Unit, Easton Police Department
+  - People: Tiyavauna Britt, 31, victim, Kenneth Stefan Bradley, 40, suspect, Sergeant Scott Sears, Maryland State Police
+- 2024-04-03 — Denton chief disciplines officers after Administrative Charging Committee gives recommendations
+  - Topic: Public Safety
+  - Places: Denton, Maryland, Caroline County, Maryland, Talbot County, Maryland
+  - Organizations: Denton Police Department, Caroline County Administrative Charging Committee, Talbot County Sheriff's Office
+  - People: George Bacorn, Jr., Denton Police Chief, Christopher Morgan, Corporal Mark Snyder, Denton Police Department
+- 2024-04-12 — Workshop encourages becoming an informed weather spotter
+  - Topic: Public Safety
+  - Places: Kent County, Maryland, Kent County Public Library, Eastern Shore
+  - Organizations: National Weather Service, SKYWARN
+  - People: Sarah Johnson, Warning Coordinator Meteorologist, National Weather Service
+- 2024-04-18 — Crime in Cambridge 'trending down,' police department says
+  - Topic: Public Safety
+  - Places: Cambridge, Maryland, Dorchester County, Maryland, Phillips Street, Cambridge
+  - Organizations: Cambridge Police Department, National Incident-Based Reporting System, Dorchester Star
+  - People: Justin Todd, Cambridge Police Chief, Isaiah David Foster, 23, of Cambridge
+- 2024-04-30 — After two deadly work zone crashes, Maryland officials press for change
+  - Topic: Public Safety
+  - Places: Maryland, Easton, Maryland, Baltimore city
+  - Organizations: Maryland Department of Transportation, State Highway Administration, National Transportation Safety Board
+  - People: Wes Moore, Governor of Maryland, Aruna Miller, Lt. Gov. of Maryland, Steven Cook, field maintenance technician, Maryland Department of Transportation
+
+## May 2024
+
+- 2024-05-08 — Hillsboro house fire results in $100K in damages
+  - Topic: Public Safety
+- 2024-05-08 — Hillsboro house fire results in $100K in damages
+  - Topic: Public Safety
+  - Places: Hillsboro, Maryland
+  - Organizations: Office of the State Fire Marshal
+- 2024-05-12 — Bradford House resident wants to feel safe at home after multiple assaults
+  - Topic: Public Safety
+  - Places: Bradford House Apartments, Cambridge, Maryland
+  - Organizations: Bradford House, Millennia Housing Management, Cambridge Police Department
+  - People: Tena Cheaton, 59, Bradford House resident
+- 2024-05-16 — Federalsburg man arrested after fleeing police
+  - Topic: Public Safety
+  - Places: Federalsburg, Maryland, Cambridge, Maryland, Trappe, Maryland
+  - Organizations: Talbot County Sheriff's Office, Dorchester County Sheriff's Office, Cambridge Police Department
+  - People: Adrian Jerrod Jenkins, 29
+- 2024-05-18 — Suspect arrested in Chester homicide
+  - Topic: Public Safety
+  - Places: Chester, Maryland, Queen Anne's County, Maryland, Virginia
+  - Organizations: Queen Anne's County Sheriff's Office
+  - People: Gary Hofmann, Queen Anne's County Sheriff, Lance Richardson, State's Attorney
+- 2024-05-29 — Three graduate from Caroline County's Problem Solving Court
+  - Topic: Public Safety
+  - Places: Denton, Maryland, Caroline County, Maryland, Circuit Court for Caroline County
+  - Organizations: Circuit Court for Caroline County, Caroline County Problem Solving Court, Caroline County Commission
+  - People: Heather Price, Judge, Circuit Court for Caroline County, Nichole Meredith, graduate, Samantha Mitchell, graduate
+- 2024-05-29 — Cambridge woman pleads guilty to altering evidence in Sidetracked Saloon shooting
+  - Topic: Public Safety
+  - Places: Easton, Maryland, Cambridge, Maryland, Talbot County, Maryland
+  - Organizations: Talbot County Circuit Court, Talbot County State's Attorney's Office, University of Maryland Shore Medical Center at Easton
+  - People: Chadnee Harris, 33, Judge Broughton Earnest, Talbot County Circuit Court, Kevron Chase, 35, of Cambridge
+
+## June 2024
+
+- 2024-06-07 — Local program celebrates 10th summer of free swim lessons for kids
+  - Topic: Public Safety
+  - Places: George Murphy Pool, Easton, Bay Hundred Pool, St. Michaels, Easton, Maryland
+  - Organizations: SOS Sink or Swim, Chesapeake Bay Maritime Museum, Talbot County Department of Parks & Recreation
+  - People: Libby Moose, President, SOS Sink or Swim
+- 2024-06-11 — Minor injured in Federalsburg vehicle fire
+  - Topic: Public Safety
+  - Places: Federalsburg, Johns Hopkins Burn Center
+  - Organizations: Office of the State Fire Marshal
+- 2024-06-13 — Two Cambridge men charged with assault
+  - Topic: Public Safety
+  - Places: Cambridge, Maryland, Dorchester County, Maryland, 400 block of Willis Street, Cambridge
+  - Organizations: Cambridge Police Department, Dorchester County Department of Corrections
+  - People: Marco Ray Wilkes, 42, of Cambridge, Rajame Charaka Zague Cooper, 30, of Cambridge
+- 2024-06-14 — Easton man charged with eight counts of child porn possession
+  - Topic: Public Safety
+  - Places: Easton, Maryland, Talbot County, Maryland
+  - Organizations: Talbot County Sheriff's Office, Talbot County Sheriff's Office Patrol Division, Talbot County Sheriff's Office Drug Task Force
+  - People: Travis Schwaninger, 42, suspect, Cpl. Samuel Faggert, Talbot County Sheriff's Office
+- 2024-06-14 — Laurel man arrested for vehicle theft in Easton
+  - Topic: Public Safety
+  - Places: Laurel, Maryland, Easton, Maryland, Hertrich Chevrolet GMC, Ocean Gateway, Easton, Maryland
+  - Organizations: Easton Police Department, Dorchester County Sheriff's Office, Maryland State Police Aviation Command
+  - People: Donya Jenkins-Patterson, 20, of Laurel
+- 2024-06-19 — Pride Flags stolen over the weekend
+  - Topic: Public Safety
+  - Places: Chestertown, Cross Street, High Street
+  - Organizations: Chestertown Police Department, Emmanuel Church
+  - People: Cpl. Chris Schwink, Chestertown Police Department
+- 2024-06-24 — Bay Bridge to hold traffic temporarily today
+  - Topic: Public Safety
+- 2024-06-24 — Bay Bridge to hold traffic temporarily today
+  - Topic: Public Safety
+- 2024-06-26 — Fire Marshal investigates abandoned mobile home fire
+  - Topic: Public Safety
+  - Places: Greensboro, Maryland, Kibler Road, Talbot County, Maryland
+  - Organizations: Office of the State Fire Marshal, Greensboro Volunteer Fire Company
+- 2024-06-28 — A 'crisis' on the shore — animal intake on the rise
+  - Topic: Public Safety
+  - Places: Eastern Shore, Easton, Maryland, Talbot County, Maryland
+  - Organizations: Talbot Humane, Caroline County Humane Society, Professional Animal Workers of Maryland
+  - People: Patty Crankshaw-Quimby, executive director of Talbot Humane, Karen Culotta, director of the Caroline County Humane Society
+
+## July 2024
+
+- 2024-07-01 — Fire Marshal investigating Greensboro vehicle fire
+  - Topic: Public Safety
+  - Places: Greensboro, Maryland, Kibler Road, 12640 Kibler Road
+  - Organizations: Office of the State Fire Marshal, Greensboro Volunteer Fire Company, Upper Eastern Regional Office of the Maryland State Fire Marshal
+  - People: Linda Bennett, vehicle owner
+- 2024-07-03 — American Legion Post 77 donates $40,000 to local organizations and in scholarships
+  - Topic: Public Safety
+- 2024-07-06 — Federalsburg apartment fire displaces 14
+  - Topic: Public Safety
+  - Places: Federalsburg, Maryland, Federalsburg Manor Apartments
+  - Organizations: Office of the State Fire Marshal, American Red Cross
+- 2024-07-13 — Cambridge man arrested on 30 charges following vehicle pursuit
+  - Topic: Public Safety
+  - Places: Cambridge, Maryland, Fairmount Avenue, High Street
+  - Organizations: Cambridge Police Department, Dorchester County Department of Corrections
+  - People: Keizye Daijuon Collins, 27, suspect
+- 2024-07-16 — Pilot dies in plane crash near Easton
+  - Topic: Public Safety
+  - Places: Easton, Maryland, Tred Avon River, Annapolis, Maryland
+  - Organizations: Maryland State Police, Federal Aviation Administration, Maryland Advanced Development Laboratory's University Research Foundation
+  - People: Robert Eugene Merlini, 56, pilot, David Abrams, communication director, Maryland Department of the Environment, David Heidhausen, president, University Research Foundation
+- 2024-07-19 — Chester man charged in murder of father
+  - Topic: Public Safety
+  - Places: Chester, Maryland, Queen Anne's County, Maryland, Auckland Way, Chester
+  - Organizations: Queen Anne's County Office of the Sheriff, Queen Anne's County Office of the Sheriff's Criminal Investigation Unit
+  - People: Drew Bernard Meyer, 32, of Chester, Wayne Michael Meyer, 65, of Chester, Sheriff Gary Hofmann, Queen Anne's County Office of the Sheriff
+- 2024-07-23 — Chestertown pediatrician closes practice amid allegations of abuse
+  - Topic: Public Safety
+  - Places: Chestertown, Maryland, Kent County, Maryland, Church Hill Road
+  - Organizations: Chestertown Police Department, Maryland State Board of Physicians, Schlachman, Belsky, Weiner & Davey
+  - People: Julio Ramirez, pediatrician, Michael J. Belsky, attorney, Catherine A. Dickinson, attorney
+- 2024-07-23 — Investigators looking into fatal crash in Easton
+  - Topic: Public Safety
+  - Places: Easton, Maryland, Talbot County, Maryland, Baltimore, Maryland
+  - Organizations: Talbot County Sheriff's Office, Easton Police Department, Maryland Office of the Attorney General
+- 2024-07-23 — Cambridge police investigating two weekend shootings
+  - Topic: Public Safety
+
+## August 2024
+
+- 2024-08-07 — Man charged with threatening to blow up Delaware mall
+  - Topic: Public Safety
+  - Places: Bear, Delaware, Christiana Mall, Delaware
+  - Organizations: Delaware State Police
+  - People: Devin Cunningham, 20
+- 2024-08-08 — Community block party brings resources and fun together
+  - Topic: Public Safety
+  - Places: Chester, Maryland, Queen Anne's County, Maryland, United Methodist Church, Chester
+  - Organizations: CSAFE, Collaborative Supervision and Focused Enforcement Group, Queen Anne's County Department of Health Alcohol and Drug Abuse Prevention Services, Citizens Against Smoking Tobacco Coalition
+  - People: Dorine Fassett, community event organizer
+- 2024-08-09 — Debby's remnants bring flooding to the Shore
+  - Topic: Public Safety
+  - Places: Eastern Shore, Cambridge, Oxford
+  - Organizations: Rescue Fire Company, National Hurricane Center, NOAA
+  - People: Adam Pritchett, Rescue Fire Company Chief
+- 2024-08-12 — Police investigating weekend shooting in Ridgely
+  - Topic: Public Safety
+- 2024-08-12 — Police investigating weekend shooting in Ridgely
+  - Topic: Public Safety
+  - Places: Ridgely, Caroline County, Maryland, Daysprings Townhomes
+  - Organizations: Caroline County Sheriff's Office, Maryland State Police, Criminal Investigations Division
+  - People: adult male, victim
+- 2024-08-14 — 'It was all smiles': Cambridge National Night Out brings more than 800 to county pool
+  - Topic: Public Safety
+  - Places: Cambridge, Dorchester County Pool
+  - Organizations: Cambridge Police Department, Dorchester County Health Department, Department of Juvenile Services
+  - People: Justin Todd, Cambridge Police Chief, Antoine Patton, Cambridge Police Captain, DJ Doc Lane
+- 2024-08-15 — Case for woman charged with assault of toddler at child care center made inactive
+  - Topic: Public Safety
+  - Places: Preston, Talbot County District Court, Easton
+  - Organizations: Talbot County District Court, Best Buddies Learning Center, Easton Police Department
+  - People: Linda Perry, 77, Preston woman charged with assault, District Court Judge Karen Ketterman, Talbot County District Court, Christine DuFour, defense attorney
+- 2024-08-21 — State looks to clear out homeless camp near highway
+  - Topic: Public Safety
+  - Places: Charles County, Maryland, Waldorf, Maryland, Crain Highway and Mattawoman Beantown Road
+  - Organizations: Maryland State Highway Administration, Lifestyles of Maryland, Southern Maryland News
+  - People: Corae Young, Chief Operating Officer of Lifestyles of Maryland, Daniel Allman, Communications Office, Maryland State Highway Administration, Matt Wynn, Reporter
+- 2024-08-22 — 2-structure fire causes $850,000 in damage
+  - Topic: Public Safety
+  - Places: CAMBRIDGE, Maryland, Stone Boundary Road, Maryland
+  - Organizations: State Fire Marshal, Tanker Task Force
+- 2024-08-22 — American Legion Post 77 looking to jumpstart Hometown Heroes banner project
+  - Topic: Public Safety
+  - Places: Easton, Maryland, Talbot County, Maryland, Harrisburg, Pennsylvania
+  - Organizations: Blake-Blackston American Legion Post 77, Easton Town Council, American Legion Talbot Post 70
+  - People: Joan Harris-Brooks, spokesperson for Blake-Blackston American Legion Post 77, John Harris Jr., member of Post 77, Rev. Elmer Davis, Ward 4 Council Member, Easton Town Council
+- 2024-08-28 — Woman killed, two others injured in Preston crash
+  - Topic: Public Safety
+  - Places: Preston, Maryland, Salisbury, Maryland, Baltimore, Maryland
+  - Organizations: Maryland State Police, Maryland State Police Crash Team, Maryland State Police Easton Barrack
+  - People: Courtney Dunn, 30, of Salisbury, 16-year-old passenger, details not specified
+- 2024-08-30 — Chester woman charged in January Bay Bridge crash
+  - Topic: Public Safety
+  - Places: Chester, Maryland, Queen Anne's County, Maryland, Bay Bridge
+  - Organizations: Maryland Department of Transportation Authority Police Collision Reconstruction Unit, Queen Anne's County Circuit Court, Queen Anne's County Detention Center
+  - People: Gwendolyn Persina, 48, of Chester, Lance Richardson, Queen Anne's County State's Attorney
+
+## September 2024
+
+- 2024-09-04 — Police arrest Dorchester County man on rape, sexual assault charges
+  - Topic: Public Safety
+  - Places: Toddville, Maryland, Cambridge, Maryland, Dorchester County, Maryland
+  - Organizations: Cambridge Police Department, Dorchester County Sheriff's Office, Dorchester County Department of Corrections
+  - People: Jason Groff, 41, suspect
+- 2024-09-10 — Cambridge man gets 25 years after taking plea deal in murder trial
+  - Topic: Public Safety
+  - Places: Cambridge, Maryland, Dorchester County, Maryland, Patuxent Youthful Offenders Program
+  - Organizations: Cambridge Police Department, Dorchester County State's Attorney Office
+  - People: Daeveon Johnson, 19, Ja'Len Woolford, victim, Key'Marion Ennals, 19
+- 2024-09-11 — Easton police officer found guilty of misconduct
+  - Topic: Public Safety
+  - Places: Easton, Maryland, Talbot County, Maryland, Target parking lot, Easton, Maryland
+  - Organizations: Easton Police Department, Office of the State Prosecutor, Talbot County Circuit Court
+  - People: Sgt. Jason Dyott, 38, Easton Police Department, Judge C. Carey Deeley Jr., Talbot County Circuit Court, Senior Assistant State Prosecutor Mary Setzer, Office of the State Prosecutor
+- 2024-09-12 — Videos of Easton High School assault circulate online
+  - Topic: Public Safety
+  - Places: Easton, Maryland, Easton High School, Talbot County, Maryland
+  - Organizations: Talbot County Sheriff's Office, Talbot County Public Schools, Talbot County Department of Emergency Services
+  - People: Debbie Gardner, director of communications for Talbot County Public Schools, Deputy Horseman, Talbot County Sheriff's Office
+- 2024-09-16 — UPDATED: Easton High School evacuating due to bomb threat
+  - Topic: Public Safety
+  - Places: Easton, Maryland, Easton High School, Talbot County, Maryland
+  - Organizations: Talbot County Sheriff's Office, Talbot County Public Schools
+  - People: Joe Gamble, Talbot County Sheriff
+- 2024-09-16 — Talbot County Sheriffs' Office investigating another threat, threat not specific to TCPS
+  - Topic: Public Safety
+  - Places: Easton, Maryland, Talbot County, Maryland, United States
+  - Organizations: Talbot County Sheriff's Office, Talbot County Public Schools
+  - People: Talbot County Sheriff Joe Gamble, Maggie Trovato
+- 2024-09-17 — Police charge suspect in connection with Easton High bomb threat
+  - Topic: Public Safety
+  - Places: Easton, Maryland, Easton High School, Talbot County, Maryland
+  - Organizations: Talbot County Sheriff's Office, Talbot County Public Schools, Easton Police Department
+  - People: Sheriff Joe Gamble, Talbot County Sheriff's Office, Don Abbatiello, Ward 2 Councilmember, Easton Town Council, 17-year-old female, suspect
+- 2024-09-19 — Scammers look to lure voters to get information
+  - Topic: Public Safety
+
+## October 2024
+
+- 2024-10-02 — Some political signs vandalized in Talbot County
+  - Topic: Public Safety
+  - Places: Easton, Talbot County, Dover Street
+  - Organizations: Easton Police Department, Talbert County Republican Central Committee, Talbot County Democratic Central Committee
+  - People: Captain Greg Wright, Easton Police Department, Robert Osborne, Talbot County Republican Central Committee Chair, Patrick Firth, Chair, Talbot County Democratic Central Committee
+- 2024-10-02 — Police: Couple robbed homeless man inside his tent
+  - Topic: Public Safety
+  - Places: Elkton, Maryland, Cecil County District Court, Elkton Police Department
+  - Organizations: Elkton Police Department, Cecil County District Court
+  - People: Justin William Hand, 27, Elkton resident, Brandy Lee Gibbs, 50, Elkton resident
+- 2024-10-10 — Woman faces murder charge after allegedly running over man with SUV
+  - Topic: Public Safety
+  - Places: Lexington Park, Maryland, St. Mary's Detention Center, Maryland, Spring Valley Drive, Lexington Park
+  - Organizations: Maryland State Police, Maryland State Police Aviation Command, Maryland State Police Homicide Unit
+  - People: Simone Stewart, 50, of Lexington Park, Demeatrum Scarborough, 53, of Lexington Park
+- 2024-10-13 — Delaware cocoa processing plant damaged by fire again
+  - Topic: Public Safety
+  - Places: Glasgow, Delaware, Pencader Corporate Center, Delaware
+  - Organizations: United Cocoa Processors, New Castle County paramedics, Delaware state fire marshal
+- 2024-10-18 — Dorchester County may need to add to detention center
+  - Topic: Public Safety
+  - Places: Cambridge, Maryland, Dorchester County, Maryland, U.S. Route 50
+  - Organizations: Dorchester County detention center, Dorchester County Council, Maryland General Assembly
+  - People: Mike Detmer, Councilmember, George Pfeffer, Council President, Ricky Travers, Councilmember
+- 2024-10-19 — Eastern Shore fire companies aid areas affected by Hurricane Helene
+  - Topic: Public Safety
+  - Places: Oxford, Maryland, Tilghman, Maryland, Eastern Shore, Maryland
+  - Organizations: Oxford Fire Company, Tilghman Fire Company, Maryland State Firefighters Association
+  - People: Graham Norbury, chief of the Oxford Fire Company, Bill Killan, member from a fire department in Tennessee, Tim Kearns, president of Oxford Fire Company
+- 2024-10-24 — Mid-Shore sheriffs join in call for DJS secretary's resignation
+  - Topic: Public Safety
+  - Places: Maryland, Dorchester County, Maryland, Talbot County, Maryland
+  - Organizations: Department of Juvenile Services, Maryland Sheriffs' Association, Talbot Teen Court
+  - People: Gov. Wes Moore, Governor of Maryland, Vincent Schiraldi, Secretary of the Department of Juvenile Services, James Phillips, Dorchester County Sheriff
+- 2024-10-25 — Talbot County places burn ban
+  - Topic: Public Safety
+  - Places: Talbot County, Maryland, Easton, Maryland, Dorchester County, Maryland
+  - Organizations: Talbot County Council, Talbot County Emergency Services, National Oceanic and Atmospheric Administration
+  - People: Brian LeCates, county director of emergency services
+- 2024-10-30 — ‘Cutting edge’: Talbot County first responders create mental health peer program
+  - Topic: Public Safety
+  - Places: Easton, Maryland, Talbot County, Maryland, Maryland
+  - Organizations: Talbot County Department of Emergency Services, Talbot County Sheriff's Office, Talbot County Department of Corrections
+  - People: Tina Kintop, EMS division chief for the Talbot County Department of Emergency Services, Clay Stamp, Talbot County Manager, Matt Watkins, former EMS Division Chief
+
+## November 2024
+
+- 2024-11-02 — People can get vicious
+  - Topic: Public Safety
+- 2024-11-02 — People can get vicious
+  - Topic: Public Safety
+  - Places: Easton
+  - Organizations: Firehouse
+  - People: Catherine Nobles
+- 2024-11-05 — Political vandalism reported in Easton ahead of Election Day
+  - Topic: Public Safety
+  - Places: Easton, Maryland, Talbot County, Maryland
+  - Organizations: Easton Police Department, Talbot County Sheriff's Office, Talbot County Board of Education
+  - People: Sandra Chappell, Vice President Kamala Harris, Angela Alsobrooks
+
+## December 2024
+
+- 2024-12-03 — Easton firefighters respond to blaze on Glebe Road
+  - Topic: Public Safety
+- 2024-12-03 — 11-year-old killed in hit-and-run remembered in Elkton
+  - Topic: Public Safety
+  - Places: Elkton, Maryland, Cherry Hill Middle School, Kenmore Elementary School
+  - Organizations: Spirit Life Ministries International, Cecil Whig
+  - People: Mesiah Lafayette, 11, victim, The Rev. Moneira Hawkins, Spirit Life Ministries International, Joanne Carradin, Cherry Hill Middle School counselor
+- 2024-12-05 — Mid-Shore organization pioneers a 'hub' of resources for victims of domestic violence
+  - Topic: Public Safety
+  - Places: Easton, Maryland, Mid-Shore, Maryland, Maryland
+  - Organizations: Mid-Shore Council on Family Violence, Access to Justice, GIS Hub
+  - People: Jeanne Yeager, executive director, Mid-Shore Council on Family Violence, Kazeem Anifowoshe, GIS senior data analyst, Pamela Caudill Jordan, program evaluator, GIS Hub
+- 2024-12-06 — Jury acquits man of all charges in fatal shooting
+  - Topic: Public Safety
+  - Places: Elkton, Maryland, Cecil County, Maryland, Locust Point Road, Elkton, Maryland
+  - Organizations: Maryland State Police, Cecil County Detention Center, Cecil County State's Attorney's Office
+  - People: Donald Raymond Snyder Jr., defendant, Christopher Cimorose, victim, Michelle McCarthy, witness
+- 2024-12-10 — Family fights Dunkirk cemetery's plan to move plot
+  - Topic: Public Safety
+  - Places: Dunkirk, Maryland, Southern Memorial Gardens, Dunkirk, North Carolina
+  - Organizations: Southern Memorial Gardens, Southern Maryland News, Maryland State Police
+  - People: Gloria Moseley, Laura Dodgson, Moseley's daughter, Robert Moseley, Gloria's husband
+- 2024-12-12 — Easton Elks Veterans Affairs Committee hosts a USO dance
+  - Topic: Public Safety
+  - Places: Easton, Maryland, Easton Elks Lodge, Cambridge, Maryland
+  - Organizations: Easton Elks 1622 Veterans Affairs Committee, Easton Elks Lodge, Pleasant Day Adult Day Care
+  - People: Bridget O'Brien, 2024 Miss Maryland, Michael Feehley, chair, Easton Elks 1622 Veterans Affairs Committee, Tom Carlson, Vietnam veteran, member, Easton Elks 1622 Veterans Affairs Committee
+- 2024-12-12 — 39 indicted, accused of drug-trafficking ring
+  - Topic: Public Safety
+  - Places: Eastern Shore, Wicomico County, Maryland, Fruitland, Maryland
+  - Organizations: Wicomico Narcotics, Maryland Department of State Police, Fruitland Police Department
+- 2024-12-18 — Gallatin County Sheriff's Office welcomes public to tour new building at Four Corners
+  - Topic: Public Safety
+  - Places: Four Corners, Gallatin County, Montana, Laura Louise Lane
+  - Organizations: Gallatin County Sheriff's Office, Missouri River Drug Task Force
+  - People: Dan Springer, Gallatin County Sheriff, Jill Therrien, county auditor, Justine Swanson, county CFO
+- 2024-12-25 — No small feat
+  - Topic: Public Safety
+  - Places: Easton, Maryland, Dorchester County, Maryland, Kent County, Maryland
+  - Organizations: CASA of the Mid-Shore
+  - People: Jane Crawford, CASA of the Mid-Shore Volunteer Coordinator, Robin Davenport, CASA of the Mid-Shore Executive Director, Janet Healy, CASA volunteer
+- 2024-12-28 — Time to remove delivery boxes
+  - Topic: Public Safety
+  - Places: Royal Oak, Easton, MD, MD
+  - Organizations: Star Democrat, Chesapeake Publishing Group, Adams Publishing
+  - People: Suzanne Hood
+
+## January 2025
+
+- 2025-01-03 — Talbot sheriff's office operating out of new facility
+  - Topic: Public Safety
+  - Places: Mary's Court, Easton, Easton, Maryland, Glebe Road
+  - Organizations: Talbot County Sheriff's Office, Talbot County Public Safety Complex, Talbot County Department of Emergency Services
+  - People: Joe Gamble, Talbot County Sheriff
+- 2025-01-04 — Counties and towns prepare for snow on the Mid-Shore this weekend
+  - Topic: Public Safety
+  - Places: Easton, Maryland, Talbot County, Maryland, Dorchester County, Maryland
+  - Organizations: Talbot County Department of Emergency Services, Talbot County Public Schools, National Weather Service
+  - People: Rick Van Emburgh, Easton Town Engineer, Debbie Gardner, Talbot County Public Schools Communications Director, Jimmy Windsor, Dorchester County Emergency Management Division Director
+- 2025-01-08 — Icy roads, school closures continue into Thursday
+  - Topic: Public Safety
+  - Places: Eastern Shore, Easton, Maryland, Denton, Maryland
+  - Organizations: Talbot County Public Schools, Dorchester County Public Schools, Caroline County Public Schools
+  - People: Rick Van Emburgh, town engineer, Mark Chandler, superintendent of public works
+- 2025-01-11 — EMS team coordination astonishing
+  - Topic: Public Safety
+  - Places: Easton, Maryland
+  - Organizations: Easton fire department
+  - People: Bill Mocarszky, resident of Easton
+- 2025-01-13 — YMCA fire on Saturday intentionally set, fire marshal says
+  - Topic: Public Safety
+  - Places: Easton, Maryland, Peachblossom Road, YMCA
+  - Organizations: Office of the State Fire Marshal, Easton Volunteer Fire Department, YMCA of the Chesapeake
+  - People: Robbie Gill, YMCA of the Chesapeake CEO, Peter Hyman, president of the YMCA's board
+- 2025-01-17 — Prosecutors: 80-year-old man who fatally shot son won't be charged
+  - Topic: Public Safety
+  - Places: Conowingo, Cecil County, Maryland, 200 block of Mt. Zoar Road
+  - Organizations: Office of the Cecil County State's Attorney, Maryland State Police, Maryland Office of the State Fire Marshal
+  - People: Joe Berry Jr., 53, of Conowingo
+- 2025-01-18 — Easton's new fire chief has plans for equipment, recruitment
+  - Topic: Public Safety
+  - Places: Easton, Maryland, Trappe, Maryland, Talbot County, Maryland
+  - Organizations: Trappe Volunteer Fire Company, Easton Volunteer Fire Department, Talbot County Sheriff's Office
+  - People: J.R. Dobson, Easton Volunteer Fire Department, Sonny Jones, Easton Volunteer Fire Department
+- 2025-01-23 — Dollar Tree in Denton Plaza small HVAC fire
+  - Topic: Public Safety
+  - Places: Denton, Maryland, Denton Plaza
+  - Organizations: Denton Volunteer Fire Department, Dollar Tree
+- 2025-01-23 — Easton woman charged with assault of correctional officer
+  - Topic: Public Safety
+  - Places: Easton, Maryland, Talbot County, Maryland, Talbot County Detention Center
+  - Organizations: Talbot County District Court, Talbot County correctional facility
+  - People: Latoia Handy, 35, Cpl. Michelle Armstrong, Talbot County correctional officer
+- 2025-01-24 — Dead body found in Walmart parking lot in Denton
+  - Topic: Public Safety
+  - Places: Denton, Maryland, Walmart, Denton Police Department
+  - Organizations: Denton Police Department, Walmart
+  - People: George Bacorn, Denton Police Chief
+- 2025-01-24 — Crane accident at power substation leaves much of Caroline County without power Thursday
+  - Topic: Public Safety
+  - Places: Denton, Maryland, Caroline County, Maryland, Delmarva
+  - Organizations: Delmarva Power, Maryland Department of Emergency Management, Caroline County Commissioners
+  - People: Travis Breeding, Caroline County Commissioners President, Ahmad Garnett, Author/Byline
+- 2025-01-24 — Newark man charged in DUI crash that killed local hockey coach
+  - Topic: Public Safety
+  - Places: Newark, Delaware, Glasgow, Delaware, Centreville, Maryland
+  - Organizations: Delaware State Police, Delaware Ducks Hockey Club, Eastern Shore Hockey Association
+  - People: Fidel Villatoro-Martinez, 28, suspect, David Funk, 51, victim, David Funk's 16-year-old son, injured
+- 2025-01-30 — 'Heartbroken': Delaware figure skaters, coach among those killed in D.C. plane, Black Hawk crash
+  - Topic: Public Safety
+  - Places: Washington, D.C., Delaware, University of Delaware
+  - Organizations: University of Delaware, University of Delaware Figure Skating Club, University of Delaware High Performance Training Center
+  - People: Dennis Assanis, University of Delaware President, Chrissi Rawak, University of Delaware Athletic Director, Alexandr 'Sasha' Kirsanov, 46, figure skating coach
+- 2025-01-31 — For All Seasons gives update on human trafficking in Talbot County
+  - Topic: Public Safety
+  - Places: Easton, Maryland, Talbot County, Maryland, Caroline County, Maryland
+  - Organizations: For All Seasons, Talbot County Council, Talbot County Government
+  - People: Lauren Weber, Vice President of Strategy and Development, For All Seasons, Katie Theeke, Vice President of Marketing and Communications, For All Seasons, Keasha Haythe, Talbot County Council Member
+- 2025-01-31 — Organizations on the Shore hosts count of people experiencing homelessness
+  - Topic: Public Safety
+  - Places: Easton, Maryland, Queen Anne's County, Maryland, Dorchester County, Maryland
+  - Organizations: Mid-Shore Behavioral Health, Neighborhood Service Center, U.S. Department of Housing and Urban Development
+  - People: Jimmy Morris, continuum of care housing specialist for Mid-Shore Behavioral Health, Ashley Kessinger, continuum care manager at Mid-Shore Behavioral Health, Yvette Robinson, grant manager at Neighborhood Service Center
+
+## February 2025
+
+- 2025-02-05 — Maryland man gets 8 years in crossbow killing of girlfriend
+  - Topic: Public Safety
+  - Places: Conowingo, Maryland, Cecil County, Maryland, Lancaster, Pennsylvania
+  - Organizations: Cecil County Circuit Court, Cecil County Sheriff's Office, Maryland Department of Corrections
+  - People: Jeffrey Allen Lander, 41, Judy Elizabeth Gee, 45, victim, Brenda A. Sexton, Cecil County Circuit Court Administrative Judge
+- 2025-02-05 — QA, Kent approve regional jail agreement, Caroline not yet on board
+  - Topic: Public Safety
+  - Places: 700 Flat Iron Square Road, Church Hill, Caroline County, Maryland, Queen Anne's County, Maryland
+  - Organizations: Mid-Shore Regional Detention Center, Queen Anne's County, Kent County
+  - People: Todd Mohn, Queen Anne's County Administrator, John Price, Kent Commissioner, Larry Porter, Caroline County Commission Vice President
+- 2025-02-18 — Bill could improve police awareness of unseen disabilities
+  - Topic: Public Safety
+  - Places: Annapolis, Maryland, Maryland, Prince George's County, Maryland
+  - Organizations: Maryland Motor Vehicle Administration, Maryland State Police, Prince George's County Sheriff's Office
+  - People: Del. Kym Taylor, Democrat representing Prince George's County, Eric Blessed Carpenter Grantham, 20, Maryland native, Linda Grantham, mother of Eric Grantham
+- 2025-02-24 — Stolen delivery truck found burning on train tracks
+  - Topic: Public Safety
+- 2025-02-24 — Stolen delivery truck found burning on train tracks
+  - Topic: Public Safety
+  - Places: Red Toad Road, Bethel Church Road, North East
+  - Organizations: Office of the Maryland State Fire Marshal, FedEx, CSX
+- 2025-02-26 — Leaving a timeless mark: Remembering lives lost with roadside memorials
+  - Topic: Public Safety
+  - Places: Route 210, Bryans Road, Livingston Road, Bryans Road, Indian Head Highway
+  - Organizations: Bryans Road Volunteer Fire Department and Rescue Squad, Charles County Sheriff's Office, Maryland State Police
+  - People: Deborah Carrington-Smith, mother of Tiffani Carrington, Tiffani Carrington, 19, victim, Daniel Allman, SHA spokesman
+- 2025-02-26 — Multiple crashes at Easton intersection lead to resident concerns
+  - Topic: Public Safety
+  - Places: Easton, Maryland, Talbot County, Maryland, Brookletts Avenue
+  - Organizations: Easton Police Department, Easton's Planning Commission, Lenhart Traffic Consulting
+  - People: Lydia Pinkney, resident, Tony Ruffini, resident, Rick Van Emburgh, Town Engineer
+
+## March 2025
+
+- 2025-03-01 — Common sense degrees needed
+  - Topic: Public Safety
+  - Places: Easton, Maryland, Wittman, Maryland
+  - People: Walter Wood, chief of police, Easton
+- 2025-03-05 — UPDATE: Bay Bridge reopened to most traffic, wind restrictions in place
+  - Topic: Public Safety
+  - Places: Chesapeake Bay Bridge, Maryland
+  - Organizations: Maryland Transportation Authority
+- 2025-03-11 — On NTSB recommendations, FAA closes helicopter route near DC airport weeks after tragedy
+  - Topic: Public Safety
+  - Places: Washington, Ronald Reagan Washington National Airport, Potomac River
+  - Organizations: National Transportation Safety Board (NTSB), Federal Aviation Administration (FAA), American Airlines
+  - People: Jennifer Homendy, NTSB Chair, Sean Duffy, Transportation Secretary, Pete Hegseth, Defense Secretary
+- 2025-03-11 — Talbot County man charged for possessing, distributing child porn
+  - Topic: Public Safety
+  - Places: Easton, Maryland, Talbot County, Maryland, Trappe, Maryland
+  - Organizations: Talbot County Sheriff's Office, Instagram, Twitter
+  - People: Jordan Cabrera, 20, defendant
+- 2025-03-14 — Adams brings experience, potential K-9 to Greensboro Police Department
+  - Topic: Public Safety
+  - Places: Greensboro, Maryland, New Jersey, Eastern Shore
+  - Organizations: Greensboro Police Department, Easton Police Department, Federalsburg Police Department
+  - People: Sgt. Jeff Adams, Greensboro Police Department, Police Chief Lenox Trams, Greensboro Police Department
+- 2025-03-22 — Students complete inaugural Talbot County Sheriff's Office police academy
+  - Topic: Public Safety
+  - Places: Easton, Maryland, Talbot County, Maryland, Saints Peter & Paul High School
+  - Organizations: Talbot County Sheriff's Office
+  - People: Carson Tyree, Saints Peter & Paul sophomore, Canin Parks, Saints Peter & Paul junior, Jules Stepp, Saints Peter & Paul junior
+- 2025-03-22 — Telling the truth matters
+  - Topic: Public Safety
+  - Places: Dorchester County, Maryland, Cambridge, Maryland, Worcester County, Maryland
+  - Organizations: Dorchester County Republican Central Committee
+  - People: Andy Harris
+- 2025-03-23 — Queen Anne's County man added to Animal Abuse Registry
+  - Topic: Public Safety
+  - Places: Queen Anne's County, Maryland, Queenstown, Maryland, Thompson Avenue, Queenstown
+  - Organizations: Queen Anne's County State's Attorney's Office, Queen Anne's County District Court, Queen Anne's County Animal Abuse Registry
+  - People: Troy Michael Sellman, 37, of Queenstown, Lance Richardson, Queen Anne's County State's Attorney
+- 2025-03-28 — Kent County weighs ICE cooperation amid liability concerns
+  - Topic: Public Safety
+  - Places: Kent County, Maryland, Chestertown, Maryland, Prince George's County, Maryland
+  - Organizations: U.S. Immigration and Customs Enforcement (ICE), Maryland State's Attorney's Office, Maryland General Assembly
+  - People: Dennis Hickman, Kent County Sheriff, Nicole Williams, D-Prince George's County, Maryland House of Delegates, Will Smith, D-Montgomery County, Maryland State Senate
+
+## April 2025
+
+- 2025-04-01 — Firefighters battle blaze at auto salvage yard in Cambridge
+  - Topic: Public Safety
+  - Places: Cambridge, Maryland, Cordtown Road, Dorchester County, Maryland
+  - Organizations: Office of the State Fire Marshal, Threesome Auto Salvage, Dorchester County Emergency Services
+- 2025-04-17 — Fire, exacerbated by hoarding, rips through house killing two
+  - Topic: Public Safety
+  - Places: Charles County, Maryland, Calvert County, Maryland, St. Mary's County, Maryland
+  - Organizations: Charles County Volunteer Fire and Emergency Medical Services, Office of the State Fire Marshal, Office of the Chief Medical Examiner
+  - People: Robert Bowling, 62, homeowner, Kim Dickens, 70, homeowner, Matt Wynn, reporter
+- 2025-04-26 — CASA of the Mid-Shore celebrates its volunteers
+  - Topic: Public Safety
+  - Places: Easton, Maryland, Dorchester County, Maryland, Kent County, Maryland
+  - Organizations: CASA of the Mid-Shore
+  - People: Robin Davenport, Executive Director, Sally, CASA volunteer, Geoff Searle, CASA volunteer
+- 2025-04-28 — Talbot County man convicted of sexually assaulting a child
+  - Topic: Public Safety
+- 2025-04-28 — Talbot County man convicted of sexually assaulting a child
+  - Topic: Public Safety
+- 2025-04-28 — Talbot County man convicted of sexually assaulting a child
+  - Topic: Public Safety
+  - Places: Talbot County, Maryland, Circuit Court for Talbot County
+  - Organizations: Easton Police Department, Talbot County Department of Social Services, Talbot County State's Attorney's Office
+  - People: Kevin Halmiton Manning, 34, defendant, Chelsea Endzel, Deputy State's Attorney
+- 2025-04-30 — Plane crashes during landing at Bay Bridge Airport
+  - Topic: Public Safety
+  - Places: Stevensville, Maryland, Bay Bridge Airport, Queen Anne's County, Maryland
+  - Organizations: Queen Anne's County
+  - People: Beth Malasky, public information manager for Queen Anne's County
+
+## May 2025
+
+- 2025-05-01 — Kent recognizes Child Abuse Prevention Month
+  - Topic: Public Safety
+  - Places: Chestertown, Kent County, Circuit Court courtyard
+  - Organizations: Kent County commissioners, Department of Social Services, Child Advocacy Center in Kent County
+  - People: Shelly Neal-Edwards, Department of Social Services Director, Albert Nickerson, Kent County Commissioner
+- 2025-05-06 — Ridgley commissioners vote to continue MOU with Caroline County Sheriff's Office
+  - Topic: Public Safety
+  - Places: Ridgely, Maryland, Caroline County, Maryland
+  - Organizations: Caroline County Sheriff's Office, Office of the State Prosecutor, Caroline County Drug Task Force
+  - People: Brad Sears, Commissioner, Donald Baker, Caroline County Sheriff
+- 2025-05-10 — Be responsible on the water
+  - Topic: Public Safety
+  - Places: Eastern Shore, National Safe Boating Week
+  - Organizations: National Safe Boating Council, U.S. Coast Guard, U.S. Coast Guard Auxiliary
+  - People: Capt. Brett M. Sause, USCG master licensed captain
+- 2025-05-12 — Easton woman charged with placing swastikas on political signs
+  - Topic: Public Safety
+  - Places: Easton, Maryland, Talbot County, Maryland, Eastern Shore
+  - Organizations: Easton Police Department, Temple B'Nai Israel, Satell Center for Jewish Life
+  - People: Jennifer Cristaudo, 53, Detective Cory Schuch, Easton Police Department, Frank Gunsallus, candidate
+- 2025-05-16 — Anton Black's cause of death should be ruled homicide, audit finds
+  - Topic: Public Safety
+  - Places: Greensboro, Maryland, Towson, Maryland, Minneapolis, Minnesota
+  - Organizations: Maryland State Medical Examiner's Office, Towson University, Minneapolis Police Department
+  - People: Anton Black, 19, Dr. David Fowler, former Medical Examiner, Jeff Kukucka, Towson University psychology professor
+- 2025-05-16 — Severe thunderstorm causes 'numerous' power outages
+  - Topic: Public Safety
+- 2025-05-16 — Severe thunderstorm causes 'numerous' power outages
+  - Topic: Public Safety
+- 2025-05-16 — Severe thunderstorm causes 'numerous' power outages
+  - Topic: Public Safety
+  - Places: Mid-Shore, Salisbury area, Ocean Gateway
+  - Organizations: Easton Utilities, Delmarva Power, National Weather Service
+  - People: Orestes Baez, APG Chesapeake Regional President
+- 2025-05-16 — Mother gets six years for Christmas Day fire that killed daughter, 10
+  - Topic: Public Safety
+  - Places: Elkton, Maryland, Cecil County, Maryland, 317 Willow Dr., Winding Brook neighborhood
+  - Organizations: Cecil County Circuit Court, Cecil County Department of Social Services, Cecil County Department of Animal Services
+  - People: Theresa Ann Moats, 41, defendant, Kyleigh Nicole Treadway, 10, victim, Kevin Neal Summerfield, 42, mother's boyfriend
+- 2025-05-20 — Solar panel fire damages Chestertown home
+  - Topic: Public Safety
+  - Places: Chestertown, Maryland, 22000 block of Great Oak Landing Road, Kent County, Maryland
+  - Organizations: Chestertown Volunteer Fire Company, Kent EMS, Maryland State Fire Marshal's Office
+  - People: Chief J. Darling, Chestertown Volunteer Fire Company
+- 2025-05-23 — 400 flags placed to honor heroes this Memorial Day weekend
+  - Topic: Public Safety
+  - Places: Easton, Maryland, Talbot County, Maryland, Talbot County Community Center
+  - Organizations: Civil Air Patrol, Easton Composite Squadron, Easton Rotary Club
+  - People: 1st Lt. Richard Mellinger, commander, Easton Composite Squadron, Civil Air Patrol, George Hatcher, Rotary Club Secretary
+- 2025-05-24 — Local K-9 units work to overcome retirements from cannabis law
+  - Topic: Public Safety
+  - Places: Easton, Maryland, Talbot County, Maryland, Maryland
+  - Organizations: Easton Police Department, Talbot County Sheriff's Office, Kent County Sheriff's Office
+  - People: Pfc. Mark Schinault, Easton Police Department, Lt. Tim Larrimore, Easton Police Department, Talbot County Sheriff Joe Gamble
+- 2025-05-28 — Man gets five years for Thanksgiving Day stabbing of stepson
+  - Topic: Public Safety
+  - Places: Elkton, Maryland, Cecil County, Maryland, Stirrup Drive, Elkton, Maryland
+  - Organizations: Cecil County Circuit Court, Cecil County Sheriff's Office, Maryland Department of Corrections
+  - People: Ernest Anthony Vuocolo, 64, defendant, Cameron A. Brown, Cecil County Circuit Court Judge, Gavin Patashnick, Assistant State's Attorney
+- 2025-05-30 — Talbot, Queen Anne's counties included on Trump's list of 'sanctuary jurisdictions'
+  - Topic: Public Safety
+  - Places: Talbot County, Maryland, Queen Anne's County, Maryland, Trappe, Maryland
+  - Organizations: Department of Homeland Security, Talbot County Sheriff's Office, Queen Anne's County Sheriff's Office
+  - People: President Donald Trump, President of the United States, DHS Secretary Kristi Noem, Department of Homeland Security, Talbot County Sheriff Joe Gamble, Talbot County Sheriff's Office
+
+## June 2025
+
+- 2025-06-03 — Transcript reveals final words from Dali crew before Key Bridge collapse
+  - Topic: Public Safety
+  - Places: Francis Scott Key Bridge, Baltimore, Dundalk
+  - Organizations: National Transportation Safety Board, Maryland Transportation Authority Command Center, AMP Pilot Command Center
+  - People: Dali pilot, Dali second officer, Dali helmsman
+- 2025-06-07 — The Star Democrat's top 10 online stories this week
+  - Topic: Public Safety
+  - Places: Easton, Maryland, St. Michaels, Maryland, Talbot County, Maryland
+  - Organizations: Easton Police Department, Maryland State Police, Queen Anne's County Office of the Sheriff
+  - People: Evelyn Klotz, 12-year-old author, Dan Hortert, former North Dorchester High School baseball coach, Negasi Zuberi, 29, suspect
+- 2025-06-09 — Cambridge police investigating fatal shooting on Sunday
+  - Topic: Public Safety
+- 2025-06-12 — Seaplane crashes into Harris Creek, pilot uninjured, state police say
+  - Topic: Public Safety
+- 2025-06-12 — North East mom, boyfriend charged in murder of toddler
+  - Topic: Public Safety
+  - Places: North East, Maryland, Cecil County, Maryland, Dune Drive, North East
+  - Organizations: Maryland State Police, New Castle County Police, Office of the Medical Examiner
+  - People: Darrian Lynelle Randle, North East, charged with first- and second-degree murder, Nola Dinkins, 3-year-old victim, Cedrick Antoine Britten, 44, North East, charged as accessory
+- 2025-06-18 — Police investigating serious rollover crash outside Trappe
+  - Topic: Public Safety
+- 2025-06-18 — Police investigating serious rollover crash outside Trappe
+  - Topic: Public Safety
+  - Places: Trappe, Maryland, Chloras Point Road, Claylands Road
+  - Organizations: Talbot County Sheriff's Office
+  - People: Ellis Newcomb, 18-year-old driver
+- 2025-06-23 — Firefighters handle major town house blaze in St. Michaels
+  - Topic: Public Safety
+- 2025-06-23 — Easton man killed in car crash in Anne Arundel County
+  - Topic: Public Safety
+  - Places: Easton, Maryland, Anne Arundel County, Maryland, Severn, Maryland
+  - Organizations: Anne Arundel County Police Department, Shock Trauma, Traffic Safety Section
+  - People: Jose Garcia Tovar, 22
+- 2025-06-24 — Body sits in Greensboro yard for hours due to traffic delay
+  - Topic: Public Safety
+  - Places: Greensboro, Maryland, 110 Maple Ave., Greensboro, Maryland, Baltimore, Maryland
+  - Organizations: Greensboro Police Department, Town of Greensboro, Springbok
+- 2025-06-25 — Federalsburg Police Department welcomes new officer
+  - Topic: Public Safety
+  - Places: Federalsburg, Maryland, Easton, Maryland, Talbot County, Maryland
+  - Organizations: Federalsburg Police Department, Eastern Shore Criminal Justice Academy, Talbot County Corrections
+  - People: Officer Chandler Dyott, Federalsburg Police Department, Lt. Michelle Schuerholz, Federalsburg Police Department
+- 2025-06-26 — Demolition of remaining Key Bridge structures beginning around July 7
+  - Topic: Public Safety
+  - Places: Key Bridge, Hawkins Point, Sollers Point
+  - Organizations: Maryland Transportation Authority, Maryland Board of Public Works, Maryland Department of the Environment
+- 2025-06-28 — The Star Democrat's top 10 online stories this week
+  - Topic: Public Safety
+  - Places: Easton, Maryland, Greensboro, Maryland, Trappe, Maryland
+  - Organizations: Greensboro Police Department, Talbot County Sheriff's Office, Easton Police Department
+  - People: Darren Foxwell, Easton High School graduate, Nick Shajwani, Co-owner, Molly's Place, Chikki Shajwani, Co-owner, Molly's Place
+- 2025-06-30 — Toddlers drown in incident in Greensboro on Sunday
+  - Topic: Public Safety
+  - Places: Greensboro, Maryland, Greensboro Road, Easton, Maryland
+  - Organizations: Caroline County Sheriff's Office, Caroline County Department of Emergency Services, Greensboro Volunteer Fire Department
+
+## July 2025
+
+- 2025-07-01 — Delaware woman killed when falling tree hits SUV during storm
+  - Topic: Public Safety
+  - Places: Delaware, Wilmington, Delaware, Lancaster Pike
+  - Organizations: Delaware State Police
+  - People: Beverly Wolfe, 79, of Newark, Master Cpl. J. Forester, Delaware State Police
+- 2025-07-02 — Officials emphasize firework safety ahead of July 4
+  - Topic: Public Safety
+  - Places: Easton, Maryland, Talbot County, Maryland, Maryland
+  - Organizations: Easton Volunteer Fire Department, State Fire Marshal's Office
+  - People: Oliver Alkire, Master Deputy State Fire Marshal, J.R. Dobson, Easton Volunteer Fire Department Chief
+- 2025-07-03 — Greensboro contractor sentenced for felony home improvement fraud
+  - Topic: Public Safety
+  - Places: Greensboro, Sussex County, Delaware, Kent County, Delaware
+  - Organizations: Sussex County Superior Court, Delaware Attorney General's Office
+  - People: Jeremy Bowen, 44, Greensboro contractor, Kathy Jennings, Delaware Attorney General
+- 2025-07-04 — Trappe Volunteer Fire Company seeks funding for firehouse
+  - Topic: Public Safety
+  - Places: Trappe, Maryland, Talbot County, Maryland, Eastern Shore, Maryland
+  - Organizations: Trappe Volunteer Fire Company, U.S. Congress
+  - People: Cheryl Lewis, Assistant Secretary Treasurer of the Trappe Volunteer Fire Company, Andy Harris, Rep. (R-Md. 1st)
+- 2025-07-08 — Federalsburg police chief resigns; sheriff's office takes over leadership
+  - Topic: Public Safety
+  - Places: Federalsburg, Maryland, Caroline County, Maryland, Ridgley, Maryland
+  - Organizations: Federalsburg Police Department, Caroline County Sheriff's Office
+  - People: Kim Abner, Federalsburg Mayor, Joseph Gasser, Federalsburg Police Chief, Donald Baker, Caroline County Sheriff
+- 2025-07-09 — Church outside Trappe struck by lightning; storms cause other minor damages
+  - Topic: Public Safety
+  - Places: Trappe, Maryland, Talbot County, Maryland, Bruceville, Maryland
+  - Organizations: Trappe Volunteer Fire Company, Talbot County Emergency Services, Faith Chapel United Methodist Church
+  - People: Rev. Gary Moore, Faith Chapel United Methodist Church, Brian LeCates, Talbot County Emergency Services Director, Jimmy Windsor, Dorchester County's emergency management planner
+- 2025-07-09 — Fire marshal investigating arson attempt at Ridgely trucking company
+  - Topic: Public Safety
+- 2025-07-09 — Fire marshal investigating arson attempt at Ridgely trucking company
+  - Topic: Public Safety
+  - Places: Ridgely, Maryland, West Belle Road
+  - Organizations: Office of the State Fire Marshal, Murphy Transport, Upper Eastern Regional Office
+- 2025-07-11 — Talbot County Sheriff's Office to place cameras in patrol cars
+  - Topic: Public Safety
+  - Places: Easton, Maryland, Talbot County, Maryland, Queen Anne's, Maryland
+  - Organizations: Talbot County Sheriff's Office, Queen Anne's Sheriff's Office, Dorchester County Sheriff's Office
+  - People: Joe Gamble, Talbot County Sheriff, Gary Hofmann, Queen Anne's Sheriff, James Phillips, Dorchester Sheriff
+- 2025-07-11 — Chester woman sentenced in 2024 multi-vehicle crash on Bay Bridge
+  - Topic: Public Safety
+  - Places: Chester, Maryland, Centreville, Maryland, Queen Anne's County, Maryland
+  - Organizations: Queen Anne's County Circuit Court, Office of the State's Attorney, Maryland Department of Health
+  - People: Gwendolyn Persina, 49, of Chester, Lance G. Richardson, state's attorney for Queen Anne's County, Carolynn Grammas, assistant state's attorney from Anne Arundel County
+- 2025-07-14 — Fire to Federalsburg residence causes $95,000 in damages
+  - Topic: Public Safety
+  - Places: Federalsburg, Maryland, West Central Avenue
+  - Organizations: Federalsburg Volunteer Fire Company, Office of the State Fire Marshal, Upper Eastern Regional Office of the Maryland State Fire Marshal
+- 2025-07-15 — 4 plead guilty to varying misdemeanors in 2024 Kohl's incident
+  - Topic: Public Safety
+  - Places: Easton, Maryland, Laurel, Delaware, St. Michaels, Maryland
+  - Organizations: Easton Police Department, Talbot County Circuit Court
+  - People: Raven Todd, 24, of Laurel, Delaware, Tucker Eason, 21, of Easton, Blake Dorman, 19, of St. Michaels
+- 2025-07-15 — Easton man sentenced on child pornography charges
+  - Topic: Public Safety
+  - Places: Easton, Maryland
+  - Organizations: Easton Police Department, National Center for Missing and Exploited Children
+  - People: Darian Braun, 23, defendant, Judge Philip Cronan
+- 2025-07-16 — Tilghman Island Volunteer Fire Department marks 100 years with parade Saturday
+  - Topic: Public Safety
+  - Places: Tilghman Island, Maryland, St. Michaels, Maryland, Talbot County, Maryland
+  - Organizations: Tilghman Island Volunteer Fire Department, Talbot County Emergency Medical Services
+  - People: Jesse Gottleib, President, Tilghman Island Volunteer Fire Department, Linda Gottleib, Secretary, Tilghman Island Volunteer Fire Department, Dewayne Stewart, Line Officer, Tilghman Island Volunteer Fire Department
+- 2025-07-19 — The Star Democrat's top 10 online stories this week
+  - Topic: Public Safety
+  - Places: Easton, Maryland, Caroline County, Maryland, Talbot County, Maryland
+  - Organizations: Caroline County Sheriff's Office, Cambridge Police Department, Easton government
+  - People: Darian Braun, 23, of Easton, Mason Puckett, 1, victim, Bentley Puckett, 3, victim
+- 2025-07-21 — Lightning strike causes house fire in Toddville
+  - Topic: Public Safety
+- 2025-07-21 — Lightning strike causes house fire in Toddville
+  - Topic: Public Safety
+- 2025-07-21 — Lightning strike causes house fire in Toddville
+  - Topic: Public Safety
+  - Places: Toddville Road, Toddville, Wingate
+  - Organizations: Office of the State Fire Marshal, Lakes & Straits Volunteer Fire Company
+- 2025-07-28 — Second fatal crash in three days prompts re-closure of Price Station Road crossover on U.S. 301
+  - Topic: Public Safety
+- 2025-07-30 — Fire causes $1 million in damage to pizzeria
+  - Topic: Public Safety
+  - Places: Elkton, Maryland, Cherry Hill, Maryland, Beauchamp Road, Elkton
+  - Organizations: Maryland Office of the State Fire Marshal, Singerly Volunteer Fire Company of Elkton, Mario's Pizza
+  - People: Mario Testa, owner of Mario's Pizza
+- 2025-07-30 — MD 405 crossover closure to remain until safety improvement implemented
+  - Topic: Public Safety
+  - Places: MD 405 (Price Station Road), U.S. Route 301, Queen Anne's County
+  - Organizations: State Highway Administration, Church Hill Volunteer Fire Department, R Adams Cowley Shock Trauma Center
+  - People: Charlie Gischlar, State Highway Administration spokesperson
+- 2025-07-30 — Police: Suspects caught with Molotov cocktail in truck linked to recent homicide
+  - Topic: Public Safety
+  - Places: Elkton, Maryland, Cecil County, Maryland, Newark, Delaware
+  - Organizations: Elkton Police Department, Cecil County District Court, Cecil County State's Attorney's Office
+  - People: Timothy Michael Dickerson, 18, of Newark, Del., Bobbie Sue Perkins, 28, of Elkton, Xavier Armani Santana, 20, of Philadelphia, Pa.
+- 2025-07-31 — Mid-Shore preps for National Night Out Aug. 5
+  - Topic: Public Safety
+  - Places: Easton, Maryland, St. Michaels, Maryland, United States
+  - Organizations: St. Michaels Police Department, Caroline County Sheriff's Office, Easton Police Department
+  - People: Jeffery Oswald, St. Michaels Police Department Chief
+- 2025-07-31 — Police, EMS perform active shooter drills at school
+  - Topic: Public Safety
+  - Places: Easton, Maryland, Talbot County, Maryland, Caroline County, Maryland
+  - Organizations: Talbot County Sheriff's Office, Caroline County Sheriff's Office, Easton Police Department
+  - People: Cpl. Kenny Tull, Caroline County Sheriff's Office
+- 2025-07-31 — Water main break shuts down Washington, Harrison streets intersection
+  - Topic: Public Safety
+  - Places: Easton, Maryland, North Washington Street, North Harrison Street
+  - Organizations: Talbot County Department of Emergency Services, Easton Utilities
+
+## August 2025
+
+- 2025-08-13 — Reporting when rumors spread faster than facts
+  - Topic: Public Safety
+- 2025-08-13 — Reporting when rumors spread faster than facts
+  - Topic: Public Safety
+  - Places: Maryland, Delaware, Eastern Shore
+  - Organizations: U.S. Immigration and Customs Enforcement, Greensboro Historical Society, HUD
+  - People: Konner Metz, reporter, Wendy Weitzel
+- 2025-08-18 — 2 arrested on gun charges in Days Inn incident
+  - Topic: Public Safety
+  - Places: Easton, Maryland, Federalsburg, Maryland, Queen Anne, Maryland
+  - Organizations: Easton Police Department
+  - People: Ernest Young Jr., 40, of Federalsburg, Katherine Adkins, 29, of Queen Anne, James Terrell Jr., 58
+- 2025-08-22 — Old mill to be demolished
+  - Topic: Public Safety
+  - Places: Centreville, Maryland, Centreville Road, 2647 Centreville Road
+  - Organizations: Centreville Town Council, Ethics Board, Board of Supervisors of Elections
+  - People: Ashley Kaiser, Council President, Jim Beauchamp, Council Member
+- 2025-08-22 — County buys mask testing system to keep firefighters safe
+  - Topic: Public Safety
+  - Places: Talbot County, Maryland
+  - Organizations: Talbot County Volunteer Fire & Rescue Association, Talbot County Volunteer Fire companies, Talbot County government
+  - People: Jimmy Eason, President of the Talbot County Volunteer Fire & Rescue Association, Chuck Callahan, council President
+- 2025-08-28 — Rape charges against Cambridge man dropped; now facing 8 counts of sextortion
+  - Topic: Public Safety
+  - Places: Cambridge, Maryland, Dorchester County, Maryland, Dorchester County Circuit Court
+  - Organizations: Cambridge Police Department, Dorchester County Circuit Court
+  - People: Devonte Rodriguez, 37, suspect, Amanda Leonard, Dorchester County State's Attorney
+- 2025-08-30 — The Star Democrat's top 10 online stories this week
+  - Topic: Public Safety
+  - Places: Easton, Maryland, Dorchester County, Maryland, Mid-Shore
+  - Organizations: Talbot County Sheriff's Office, Talbot County Public Schools, Easton Town Council
+  - People: Cindy Yost, Greensboro Town Manager, Sharon Pepukayi, Talbot County Public Schools Superintendent, Ellis Mitcham Newcomb, 18, of Easton
+
+## September 2025
+
+- 2025-09-02 — Ex-officers sue Ridgely, sheriff over disbanding force
+  - Topic: Public Safety
+  - Places: Ridgely, Maryland, Caroline County, Maryland, U.S. District Court for the District of Maryland
+  - Organizations: Ridgely Police Department, Caroline County Sheriff's Office, Town of Ridgely
+  - People: Jeff Eckrich, former Police Chief, Ridgely Police Department, Donnie Baker, Caroline County Sheriff, Rodney Helmer, Chief Deputy, Caroline County Sheriff's Office
+- 2025-09-03 — Ridgely police force saga is far from over
+  - Topic: Public Safety
+- 2025-09-05 — Police fatally shoot Cambridge man Thursday evening
+  - Topic: Public Safety
+  - Places: Cambridge, Maryland, Salisbury, Maryland, Deep Harbor, Cambridge
+  - Organizations: Cambridge Police Department, Maryland State Police, Maryland State Police Aviation
+  - People: Justin Todd, Cambridge Police Chief, the male subject, 30-year-old Caucasian male from Cambridge
+- 2025-09-06 — Cambridge police arrest 15-year-old for allegedly shooting stepfather
+  - Topic: Public Safety
+- 2025-09-10 — Electrical fire closes QA high school for a day
+  - Topic: Public Safety
+  - Places: Centreville, Maryland, Queen Anne's County, Maryland, Queen Anne's County High School
+  - Organizations: Goodwill Volunteer Fire Company, Queen Anne's County Public Schools, Queen Anne's County Fire Marshal's Office
+  - People: Matthew Kibler, Interim Superintendent, Lou Sheppard, Principal
+- 2025-09-10 — Caroline County leaning towards not going forward with Regional Detention Center
+  - Topic: Public Safety
+  - Places: Denton, Maryland, Caroline County, Maryland, Queen Anne's County, Maryland
+  - Organizations: Caroline County Commissioners, Queen Anne's County Commissioners
+  - People: Kathleen Freeman, County Administrator, Travis Breeding, Commissioners President
+- 2025-09-11 — Attorney takes on ICE on Eastern Shore
+  - Topic: Public Safety
+  - Places: Chestertown, Maryland, Eastern Shore, Maryland, Kent County, Maryland
+  - Organizations: U.S. Immigration and Customs Enforcement (ICE), Campbell and Furneisen law firm, Kent County News
+  - People: Ivette Furneisen, criminal defense attorney, Anthony G. Brown, Maryland Attorney General, Dennis Hickman, Kent County Sheriff
+- 2025-09-13 — The Star Democrat's top 10 online stories this week
+  - Topic: Public Safety
+  - Places: Easton, Maryland, Colonel Richardson High School, Cambridge, Cambridge, Maryland
+  - Organizations: Easton High School, Colonel Richardson High School, Cambridge Police Department
+  - People: Matt Griffith, Easton High head football coach, Negasi Zuberi is not mentioned, instead: a 15-year-old, suspect, a woman, suspect, accused of spray-painting graffiti
+- 2025-09-17 — Trial begins for Cambridge man accused of murder, kidnapping of woman
+  - Topic: Public Safety
+  - Places: Cambridge, Maryland, Easton, Maryland, Gerry Boyle Park at Great Marsh, Cambridge
+  - Organizations: Cambridge Police Department, Easton Police Department, Maryland State Police
+  - People: Kenneth Bradley, 43, defendant, Tiyavauna Britt, 31, victim, Amanda Leonard, Dorchester County State's Attorney
+- 2025-09-21 — Maryland State Police investigating two late-night fatal crashes in Queen Anne’s, Kent counties
+  - Topic: Public Safety
+  - Places: Queen Anne's County, Maryland, Kent County, Maryland, Centreville, Maryland
+  - Organizations: Maryland State Police, Maryland State Police Centreville Barrack, Maryland State Police Aviation Command
+  - People: 17-year-old boy, passenger in Ford Fusion, Marcus Dangerfield, 20, of Dover, Delaware, 45-year-old man, driver of GMC Acadia
+- 2025-09-23 — Federalsburg workshops agreement with Caroline County Sheriff's Office
+  - Topic: Public Safety
+  - Places: Federalsburg, Maryland, Caroline County, Maryland
+  - Organizations: Federalsburg Town Council, Caroline County Sheriff's Office, Federalsburg Police Department
+  - People: Sgt. Brian McNeill, Federalsburg Police Department, Council Member Brandy James, Federalsburg Town Council, Council Member Ian Furgerson, Federalsburg Town Council
+- 2025-09-26 — How one Mid-Shore town plans to weather future storms
+  - Topic: Public Safety
+- 2025-09-26 — How one Mid-Shore town plans to weather future storms
+  - Topic: Public Safety
+  - Places: Mid-Shore
+- 2025-09-29 — Ridgely man arrested on 2nd-degree murder, abuse charges
+  - Topic: Public Safety
+  - Places: Ridgely, Maryland, Maple Avenue, Ridgely, Caroline County, Maryland
+  - Organizations: Caroline County Sheriff's Office, Maryland State Police Crime Scene Unit, Caroline County State's Attorney's Office
+  - People: Robert Daywalt, 65, victim, Tyler Davis, 22, suspect
+- 2025-09-30 — 2 charged with hindering drug investigation, reporting fake shooting in Easton
+  - Topic: Public Safety
+  - Places: Easton, Maryland, Worton, Maryland, U.S. Route 50
+  - Organizations: Easton Police Department, Talbot County District Court, Talbot County Circuit Court
+  - People: Elon Black, 38, of Easton, Lacira Wilson, 39, of Worton
+
+## October 2025
+
+- 2025-10-01 — County says new paramedic station in Cordova will reduce wait times for residents
+  - Topic: Public Safety
+  - Places: Cordova, Maryland, Talbot County, Maryland, Chapel District Elementary School
+  - Organizations: Talbot County Department of Emergency Services, Talbot County Council, Talbot County Volunteer Fire and Rescue Association
+  - People: Brian LeCates, Director, Talbot County Department of Emergency Services, Chuck Callahan, Talbot County Council President, Jimmy Eason, President, Talbot County Volunteer Fire and Rescue Association
+- 2025-10-01 — Two arrested in separate child-abuse cases
+  - Topic: Public Safety
+  - Places: Queen Anne's County, Maryland, Stevensville, Maryland, Fulton County, Kentucky
+  - Organizations: Queen Anne's County Sheriff's Office, Fulton County Sheriff's Office, National Crime Information Center
+  - People: Robert Wolfe, 59, of Stevensville, Jamie Lee Overton Jr., 23, of Essex, Kaitlyn Briselli, public information officer, Queen Anne's County Sheriff's Office
+- 2025-10-02 — Mother charged in killing of daughter, 3, extradited back to Maryland
+  - Topic: Public Safety
+  - Places: North East, Maryland, Cecil County, Maryland, Delaware
+  - Organizations: Cecil County Detention Center, Cecil County Circuit Court, Cecil County State's Attorney's Office
+  - People: Darrian Lynnelle Randle, 31, defendant, Cedrick Antoine Britten, 44, defendant, Gavin Patashnick, Assistant State's Attorney
+- 2025-10-03 — State Supreme Court hears arguments on police stops for cell phone use while driving
+  - Topic: Public Safety
+  - Places: Easton, Maryland, Easton High School, Washington County, Maryland
+  - Organizations: Maryland Supreme Court, Maryland Appellate Court, Washington County Circuit Court
+  - People: Michael Eugene Stone, Washington County man, Jillian Chieppor, Assistant Attorney General, Douglas Nivens II, Public Defender
+- 2025-10-06 — Cambridge police ready for National Night Out
+  - Topic: Public Safety
+  - Places: Cambridge, Maryland, Great Marsh Park, Walmart
+  - Organizations: Cambridge Police Department
+  - People: Sgt. Antione Patton, Cambridge Police Department
+- 2025-10-08 — Three arrested in connection with death of Centreville teen
+  - Topic: Public Safety
+  - Places: Centreville, Maryland, Queen Anne's County, Maryland, Queenstown, Maryland
+  - Organizations: Queen Anne's County Sheriff's Office, Federal Bureau of Investigation's Baltimore-Annapolis Field Office, Chesapeake Bay Safe Streets Task Force
+  - People: Kamryn Andrews, 19, of Seaford, Delaware, James Lawson, 20, of Queenstown, Travis Lissau, 27, of Centreville
+- 2025-10-08 — ‘High-risk targets’: New normal at churches, houses of worship after deadly attacks
+  - Topic: Public Safety
+  - Places: Minneapolis, Minnesota, Michigan, Manchester, England
+  - Organizations: Church of Jesus Christ of Latter-Day Saints, CLS Background Investigations, Hawkeye Active Shooter Response
+  - People: Doug Andersen, spokesman for the Church of Jesus Christ of Latter-Day Saints, Dan Skoczylas, vice president of CLS Background Investigations and executive director of Hawkeye Active Shooter Response, Charlie Kirk, conservative Christian influencer
+- 2025-10-11 — Weekend storm threatens Shore with rain, wind
+  - Topic: Public Safety
+  - Places: Eastern Shore, Mount Holly, Easton, Maryland
+  - Organizations: National Weather Service, National Weather Service Office in Mount Holly, Maryland Transportation Authority
+  - People: Zack Cooper, meteorologist, National Weather Service
+- 2025-10-14 — Changes ripple through Caroline County law enforcement
+  - Topic: Public Safety
+  - Places: Caroline County, Maryland, Ridgely, Maryland, Greensboro, Maryland
+  - Organizations: Greensboro Police Department, Ridgely Police Department, Federalsburg Police Department
+  - People: Lenox Trams, Police Chief, Greensboro Police Department
+- 2025-10-16 — Kent Samaritan Group nears goal to open emergency shelter in December
+  - Topic: Public Safety
+  - Places: Chestertown, Maryland, Kent County, Maryland, Presbyterian Church of Chestertown
+  - Organizations: Samaritan Group of Kent County, Mid-Shore Community Foundation, United Way of Kent County
+  - People: Rev. James Diggs, Shelter Director, Marcia Stoltzfus, volunteer, Annie Woodall, volunteer
+- 2025-10-16 — Students warned of 'imposters' with offers of 'DoorDash-style' marijuana deliveries
+  - Topic: Public Safety
+  - Places: Newark, Delaware, University of Delaware, Delaware
+  - Organizations: Delaware Division of Alcohol & Tobacco Enforcement, Fresh Cannabis, University of Delaware
+  - People: Jon Peterson, spokesman for Delaware Division of Alcohol & Tobacco Enforcement, Cpl. Tristin Burris, Delaware Division of Alcohol & Tobacco Enforcement
+- 2025-10-22 — Easton officials weigh in on Complete Streets study, pedestrian safety
+  - Topic: Public Safety
+

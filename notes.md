@@ -70,4 +70,7 @@ I saved mine as create_beatbook.py. You can call yours whatever.
 To generate a first draft, I ran this bash (or code):
 `python create_beatbook.py`
 You should replace create_beatbook.py with whatever you call your script.
-While you may not have all the knowledge of Python, you have to pay attention to this script, especially the prompt section.
+While you may not have all the knowledge of Python, you have to pay attention to this script, especially whatever prompts/directives you might have given to your AI tool. The reason for this is, it helps you provide directions for your script so that even when you are unsure how the code works, you have you can direct the AI throught the prompts you provide in plain language.
+Without really editing my prompt, I generated a beatbook to have a glimpse of what might need some improvement. But I had given copilot some instructions for the script: make it narrative, but also chronological. I want to see trends in story coverage over time. Not trends in bylines, trends in stories. Remember, this is targetted at a reporter new in the beat.
+I ran the first prototype with this bash:
+`uv run python create_beatbook.py --input stories_entities_3.json --output beatbook_narrative_chronological.md --model groq/llama-3.3-70b-versatile`
