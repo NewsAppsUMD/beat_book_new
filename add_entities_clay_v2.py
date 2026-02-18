@@ -6,6 +6,7 @@ import sys
 from pathlib import Path
 from datetime import datetime
 import re
+import random
 
 def derive_season(date_str):
     """Derive season from date string (YYYY-MM-DD format)."""
@@ -169,7 +170,7 @@ CRITICAL REQUIREMENTS:
 Do NOT include any meta-commentary like "this article discusses" - just provide the summary with integrated quotes.
 
 Story Title: {story_title}
-Story Content: {summary}
+Story Content: {story_content}
 
 Provide the summary as plain text (not JSON):
 """
@@ -240,9 +241,18 @@ def main():
     print(f"{'='*60}")
     print(f"Loaded {len(all_stories)} stories from {args.input}")
     print(f"Filtered out {len(filtered_out)} non-news stories")
-    print(f"Remaining stories: {len(stories)}")
+    print(f"Remaining stories after filtering: {len(stories)}")
     
-    # Apply limit if specified
+    # Randomly sample 300 stories by default
+    sample_size = min(300, len(stories))
+    if sample_size < len(stories) and not args.limit:
+        print(f"Randomly sampling {sample_size} stories from {len(stories)} available")
+        random.seed(42)  # Set seed for reproducibility
+        stories = random.sample(stories, sample_size)
+    else:
+        print(f"Using all {len(stories)} stories (less than 300 available)")
+    
+    # Apply limit if specified (for testing)
     if args.limit and args.limit < len(stories):
         print(f"Limiting to first {args.limit} stories (--limit)")
         stories = stories[:args.limit]
@@ -267,6 +277,7 @@ def main():
     # Process each story
     errors = []
     starting_count = len(enhanced_stories)
+    summary_success_count = 0
     
     for i, story in enumerate(stories):
         # Skip if already processed
@@ -291,9 +302,9 @@ def main():
         summary = None
         if not args.skip_summary:
             print(f"  → Summarizing story (retaining quotes)...")
+            # Wait before making second LLM call to avoid rate limits
+            time.sleep(3)
             summary = summarize_story_with_quotes(story_title, story_content, args.model)
-            # Add small delay between LLM calls
-            time.sleep(0.5)
         
         # Build enhanced story
         enhanced_story = story.copy()
@@ -310,7 +321,7 @@ def main():
         enhanced_story['is_weekend'] = is_weekend(story_date) if story_date else None
         
         # Add entity extraction results
-        if 'error' not in entities:
+        if isinstance(entities, dict) and 'error' not in entities:
             # Named entities
             enhanced_story['people'] = entities.get('people', [])
             enhanced_story['places'] = entities.get('places', [])
@@ -335,14 +346,34 @@ def main():
             print(f"  ✓ Entities: {len(enhanced_story['people'])} people, {len(enhanced_story['places'])} places, {len(enhanced_story['organizations'])} orgs")
             print(f"    Theme: {enhanced_story.get('primary_theme')} | Type: {enhanced_story.get('incident_type')} | Severity: {enhanced_story.get('severity_level')}")
         else:
-            # Handle errors
-            enhanced_story['entity_extraction_error'] = entities.get('error', 'Unknown error')
-            errors.append(f"Story {i+1}: {entities.get('error', 'Unknown error')[:80]}")
-            print(f"  ✗ Entity extraction error: {entities.get('error', 'Unknown')[:60]}")
+            # Handle errors (including unexpected response formats)
+            if isinstance(entities, dict):
+                error_msg = entities.get('error', 'Unknown error')
+            else:
+                error_msg = f"Unexpected response format: {type(entities).__name__}"
+            
+            enhanced_story['people'] = []
+            enhanced_story['places'] = []
+            enhanced_story['organizations'] = []
+            enhanced_story['primary_theme'] = None
+            enhanced_story['secondary_themes'] = []
+            enhanced_story['incident_type'] = None
+            enhanced_story['severity_level'] = None
+            enhanced_story['location'] = None
+            enhanced_story['location_type'] = None
+            enhanced_story['time_of_incident'] = None
+            enhanced_story['weather_conditions'] = None
+            enhanced_story['response_agencies'] = []
+            enhanced_story['outcome'] = None
+            enhanced_story['entity_extraction_error'] = error_msg
+            
+            errors.append(f"Story {i+1}: {error_msg[:80]}")
+            print(f"  ✗ Entity extraction error: {error_msg[:60]}")
         
         # Replace content with summary
         if summary and not summary.startswith('[Summary Error'):
             enhanced_story['content'] = summary
+            summary_success_count += 1
             print(f"  ✓ Summary generated ({len(summary)} chars, original was {len(story_content)} chars)")
         elif summary:
             # If summary failed, keep original content but note the error
@@ -355,8 +386,8 @@ def main():
         with open(output_filename, 'w') as f:
             json.dump(enhanced_stories, f, indent=2)
         
-        # Rate limiting
-        time.sleep(1.5)
+        # Rate limiting - increased delay to respect API limits (2 LLM calls per story)
+        time.sleep(4)
     
     # Final summary
     print(f"\n{'='*60}")
@@ -364,16 +395,15 @@ def main():
     print(f"{'='*60}")
     print(f"Total stories in input: {len(all_stories)}")
     print(f"Filtered out: {len(filtered_out)}")
-    print(f"Processed in this run: {len(enhanced_stories) - starting_count}")
+    processed_this_run = len(enhanced_stories) - starting_count
+    print(f"Processed in this run: {processed_this_run}")
     print(f"Total stories in output: {len(enhanced_stories)}")
     
     # Count successful operations
     successful_entities = sum(1 for s in enhanced_stories if 'entity_extraction_error' not in s)
-    successful_summaries = sum(1 for s in enhanced_stories if s.get('summary_generated'))
-    
     print(f"\n✓ Successfully extracted entities: {successful_entities}/{len(enhanced_stories)}")
     if not args.skip_summary:
-        print(f"✓ Successfully generated summaries: {successful_summaries}/{len(enhanced_stories)}")
+        print(f"✓ Summaries generated in this run: {summary_success_count}/{processed_this_run}")
     
     # Thematic breakdown
     print(f"\nTHEMATIC BREAKDOWN:")
