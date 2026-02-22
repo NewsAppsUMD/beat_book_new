@@ -26,51 +26,28 @@ def extract_key_people(stories):
     """Extract notable people mentioned across stories."""
     people_freq = Counter()
     for story in stories:
-        people = story.get('people', [])
-        if people:
+        people = story.get('people') or []
+        if isinstance(people, list):
             people_freq.update(people)
-    # Return top people with frequency > 1
     return [name for name, count in people_freq.most_common(20) if count > 1]
 
 def extract_key_organizations(stories):
     """Extract notable organizations mentioned across stories."""
     org_freq = Counter()
     for story in stories:
-        orgs = story.get('organizations', [])
-        if orgs:
+        orgs = story.get('organizations') or []
+        if isinstance(orgs, list):
             org_freq.update(orgs)
-    # Return top organizations
     return [org for org, count in org_freq.most_common(15)]
 
 def extract_geographic_coverage(stories):
     """Extract geographic areas covered."""
     locations = Counter()
     for story in stories:
-        place_list = story.get('places', [])
-        if place_list:
+        place_list = story.get('places') or []
+        if isinstance(place_list, list):
             locations.update(place_list)
     return [loc for loc, count in locations.most_common(10)]
-
-def get_story_examples(stories, theme=None, season=None, limit=3):
-    """Get specific story examples for a theme/season."""
-    filtered = stories
-    if theme:
-        filtered = [s for s in filtered if s.get('primary_theme') == theme]
-    if season:
-        filtered = [s for s in filtered if s.get('season') == season]
-    
-    # Prioritize major severity stories
-    filtered.sort(key=lambda x: (
-        x.get('severity_level') == 'major',
-        x.get('date', '')
-    ), reverse=True)
-    
-    return [{'title': s.get('title', 'Untitled'),
-             'date': s.get('date', 'Unknown date'),
-             'summary': s.get('content', '')[:300] + '...' if len(s.get('content', '')) > 300 else s.get('content', ''),
-             'theme': s.get('primary_theme'),
-             'incident_type': s.get('incident_type')}
-            for s in filtered[:limit]]
 
 def summary_blurb(text, max_chars=280):
     """Return first sentence-ish summary from pre-extracted summary text."""
@@ -86,6 +63,27 @@ def summary_blurb(text, max_chars=280):
     if len(candidate) > max_chars:
         return candidate[:max_chars].rstrip() + '...'
     return candidate
+
+def get_story_examples(stories, theme=None, season=None, limit=3):
+    """Get specific story examples for a theme/season."""
+    filtered = stories
+    if theme:
+        filtered = [s for s in filtered if s.get('primary_theme') == theme]
+    if season:
+        filtered = [s for s in filtered if s.get('season') == season]
+
+    filtered.sort(key=lambda x: (
+        x.get('severity_level') == 'major',
+        x.get('date', '')
+    ), reverse=True)
+
+    return [{
+        'title': s.get('title', 'Untitled'),
+        'date': s.get('date', 'Unknown date'),
+        'summary': s.get('content', '')[:300] + '...' if len(s.get('content', '')) > 300 else s.get('content', ''),
+        'theme': s.get('primary_theme'),
+        'incident_type': s.get('incident_type')
+    } for s in filtered[:limit]]
 
 def build_year_story_briefing(year, year_bucket):
     """Build a story-driven yearly briefing using summaries and metadata."""
@@ -137,6 +135,13 @@ def build_year_story_briefing(year, year_bucket):
 
     lines.append("")
     return "\n".join(lines)
+
+def get_story_blurb(story):
+    """Get a short summary/title for a story."""
+    content = story.get('content', '')
+    # Take first sentence or up to 200 chars
+    first_sentence = content.split('.')[0] if content else story.get('title', 'Untitled')
+    return first_sentence[:200] + ('...' if len(first_sentence) > 200 else '')
 
 def analyze_temporal_periods(stories):
     """Analyze patterns over time periods (by year)."""
@@ -317,6 +322,77 @@ Keep it short and get to the point. No fluff.
 """
     
     return call_llm(prompt, model)
+
+def generate_coverage_narrative(stories, top_themes, geographic, model):
+    """Generate a narrative overview of what this beat actually covers before trend analysis."""
+    top_incidents = Counter(s.get('incident_type') for s in stories if s.get('incident_type')).most_common(6)
+    top_locations = geographic[:6]
+
+    sample_stories = sorted(
+        stories,
+        key=lambda s: (
+            s.get('severity_level') == 'major',
+            s.get('date', '')
+        ),
+        reverse=True
+    )[:4]
+
+    sample_lines = []
+    for story in sample_stories:
+        summary = summary_blurb(story.get('content', ''), max_chars=220)
+        sample_lines.append(f"- {story.get('title', 'Untitled')} ({story.get('date', 'Unknown date')}): {summary}")
+
+    prompt = f"""
+Write a narrative section titled "What You're Covering" for a public safety beatbook.
+
+Audience: a reporter new to this beat.
+Tone: business casual, practical, colleague-to-colleague.
+
+Context from the dataset:
+- Top themes: {', '.join(f'{t.replace('_', ' ').title()} ({d['count']})' for t, d in top_themes[:5])}
+- Common incident types: {', '.join(f'{i} ({c})' for i, c in top_incidents)}
+- Common coverage locations: {', '.join(top_locations)}
+
+Representative story snapshots:
+{chr(10).join(sample_lines)}
+
+Write 3-5 short paragraphs that:
+1) Explain the types of stories this beat actually includes (not abstractly).
+2) Mention recurring incident categories and the agencies/issues that keep showing up.
+3) Briefly ground it in a few examples from the snapshot list.
+4) Help the reporter understand where to focus attention day-to-day.
+
+Do not use an academic tone. Keep it clear, direct, and practical.
+"""
+
+    narrative = call_llm(prompt, model)
+
+    if narrative.startswith("[LLM Error:"):
+        fallback = []
+        fallback.append(
+            "This beat is a mix of breaking incidents, accountability stories, and policy-driven coverage. "
+            "On a typical week, you will bounce between law-enforcement operations, violent-crime updates, "
+            "fire/rescue response, and community-safety efforts with direct public impact."
+        )
+        fallback.append(
+            f"Recurring themes include {', '.join(t.replace('_', ' ').title() for t, _ in top_themes[:4])}. "
+            f"Common incident types include {', '.join(i for i, _ in top_incidents[:4]) if top_incidents else 'a broad mix of incidents'} "
+            "across both municipal and county jurisdictions."
+        )
+        if sample_stories:
+            story_snippets = []
+            for s in sample_stories[:3]:
+                story_snippets.append(f"{s.get('title', 'Untitled')} ({s.get('date', 'Unknown date')})")
+            fallback.append(
+                "Story snapshots in this dataset show the range clearly: " + "; ".join(story_snippets) + "."
+            )
+        fallback.append(
+            "For day-to-day reporting, track both immediate incidents and the follow-on policy, court, and agency-response angles. "
+            "That combination is where the strongest enterprise stories usually come from."
+        )
+        return "\n\n".join(fallback)
+
+    return narrative
 
 def generate_temporal_overview(temporal_data, trend_analysis, model):
     """Generate overview of how coverage has evolved over time."""
@@ -537,6 +613,10 @@ def build_beatbook(stories, model):
     print("  → Analyzing thematic trends...")
     theme_data = analyze_theme_trends(stories)
     top_themes = sorted(theme_data.items(), key=lambda x: x[1]['count'], reverse=True)[:5]
+
+    # Narrative overview of beat coverage before trend analysis section
+    print("  → Writing narrative coverage overview...")
+    coverage_narrative = generate_coverage_narrative(stories, top_themes, geographic, model)
     
     theme_sections = {}
     theme_examples = {}
@@ -569,12 +649,12 @@ def build_beatbook(stories, model):
 
 ## What You're Covering
 
-This beat encompasses multiple agencies and incident types across diverse geographic areas. Here's what you need to know:
+{coverage_narrative}
 
-**Primary Themes:**
+**Coverage touchpoints that appear most often:**
 {chr(10).join(f"- {t.replace('_', ' ').title()}" for t, _ in top_themes[:5])}
 
-**Coverage Areas:**
+**Frequent places in the coverage footprint:**
 {chr(10).join(f"- {loc}" for loc in geographic[:6])}
 
 ---
