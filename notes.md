@@ -1,84 +1,100 @@
-## Beat book process for beginners		02/14/2026
+## From news archives to beatbook
 
-Before we proceed with this task, users should:
-    -Have story samples in a json file
-    -Have a Github account
-If these requirements are met, the next thing is to set up our environment. Note: we will be using Groq models for this process, but users can feel free to install other models.
-## Quick setup for beginners
-First create a repository: 
-1. Go to github.com -> Log into your account
+### 1) Prerequisites
+- Story samples in a JSON file
+- GitHub account
+- Access to a terminal/Codespace
+
+### 2) Quick Setup for Beginners
+- Create a GitHub repository:
+  Go to github.com -> Log into your account
 	- Click the + icon in the top-right, choose New repository.
 	- Name it, set Public or Private, then click Create repository.
-2. Open your codespace or terminal:
-	- Click Code -> Codespaces -> Create codespace.
+
+- Open Codespace or local terminal in project folder
+  - Click Code -> Codespaces -> Create codespace.
 	- We'll work locally, so open a terminal in your project folder. [explain this like they have never used a terminal, explain parts of the terminal. keep it concise but detailed. Let the user know how to install copilot]
-3. Install uv (Python tool runner):
-	- Run: curl -LsSf https://astral.sh/uv/install.sh | sh
-	- Then run: export PATH="$HOME/.local/bin:$PATH"
-4. Initialize your project (optional but helpful):
-	- Run: uv init --python 3.12
-5. Install llm:
-	- Run: uv add llm
-    - Run: uv add llm install llm-groq (Here, you can include other models: llm-gemini, llm-anthropic, especially if you have access to their API keys).
+- Install `uv`
+  ## NOTE I dont remember how to do this, but co-pilot says (- Run: curl -LsSf https://astral.sh/uv/install.sh | sh
+	- Then run: export PATH="$HOME/.local/bin:$PATH")
+  Initialize your project (optional but helpful):
+	- Run: uv init --python 3.12)
+
+- Install `llm` and model plugins (Groq, Gemini, Anthropic, etc.)
+  Plugins are tools you add into bigger apps that help perform new functions. Think Chrome extension and how it helps give Chrome extra features.
+  - Run: `uv add llm install llm-groq` (Here, you can include other models in addition to groq: llm-gemini, llm-anthropic, especially if you have access to their API keys).
+  For this presentation, we'll work with groq.
 6. Get a Groq API key:
 	- Go to https://console.groq.com
 	- Create an account and an API key (click on Create API at the top right corner when you log in to Groq).
-    - To set up your Groq API key which should help you access the models, run: uv run llm keys set groq. You'll be prompted to enter your API keys. Bear in mind that you wont see the key, but when you click 'enter/return' it should work.
+  - To set up your Groq API key which should help you access the models, run: uv run llm keys set groq. You'll be prompted to enter your API keys. Bear in mind that you wont see the key, but when you click 'enter/return' it should work.
+- Set API key (`uv run llm keys set groq`)
+Now you are ready to use open source models on your local computers.
 
-## Next steps: Extract Metadata
-Now that we are all set up, our next step is to begin gathering/extracting entities: metadata from the stories we have. One reason for extracting entities is that it influences how our beatbooks turn out. A chronological beat book for instance may not turn out well if this the format is not taken into consideration at this stage [Explain further, do not oversimpify.]
-We can use any of the models we have access to to extract metadata. We also need a python script for this process, but since many people are not versed in Python, we'll turn to copilot to generate a script that extracts our metadata.
-Although the beatbook is the main product, this is a particularly important step. It can make or mar the product [talk a little more about this]
-But while metadata can provide [what ?] it is not enough context for a beatbook.
-To get more context for a beatbook, we need to have some parts of our story included in the beatbook script. We can choose to include entire stories as they appear in our original data, or just summaries. Summaries work best because [conserve token: get results while feeding in less info]
+### 3) First: Extract Metadata!
+# Step 1
+- The first step to taking our archives from json file to beatbook is to extract metadata. Metadata is simply data about the stories we have and to a reason why this step is crucial is: we do not want to dump all of our sensitive data into commercial models. The ope models we use for this task allow us use llms locally on our computers. So we are able to download the weights or brains of the models onto our devices and use them like we would use Word or Excel.
+(How to access their APIs?)
+To extract metadata, we will need a python script, and this is where our friend copilot comes in. Go into the copilot chat box and craft a prompt asking it to generate a Python script that extracts metadata from your original json file. Your prompt must be detailed, and put into perspective the kind of beatbook you'd like to create.
+For instance consider telling copilot that you want a beatbook that looks at the following, if your aim is to generate a thematic beatbook that looks at how occurrences have changed over time:
+- Key field groups:
+  - **Temporal:** names, season, year, is_weekend
+  - **Content classification:** primary/secondary themes, incident type, severity
+  - **Geographic:** location, location type
+  - **Contextual:** incident time, weather, agencies, outcomes
+For a narrative beatbook
+- Key field groups:
+  - **People:** names,title
+  - **Places:** Maryland, Talbot, St Michael's
+- Regardless of the type of beatbook, you want to keep quotes and replace full story content with summaries in output. The reason for this extraction is: we do not want to dump our data into commercial models. We want to generate metadata from our json file directly on our devices without pushing it to the internet. So our json files are not exposed, and we have summaries of our stories, which can now serve as the raw materials for our beatbook.
+- Exclude bylines, photographer names, and org names
 
-I decided I wanted a chronologically organized beatbook that would look at events over a period of time.
-I generated my entities extraction script by given copilot the folllowing instuctions:
+# PRO TIP: When unsure about what prompts/directions to give your AI tool, ask AI!
+# [SAMPLE PROMPT: I'd like to generate metadata from articles that will help me create a beat book that looks at public safety issues thematically over time. For example, common issues that occur in the summer vs. the winter. What would the structure of that metadata need to look like?]
 
-We want to extract entities from public_safety_stories.json. Write me a script to extract entities for a thematic beatbook that looks at public safety thematically over time. For example, common issues that occur in the summer vs. the winter, etc. It should: extract the entities first, then summarize the stories in the public_safety_stories.json. Also, it shoudl retain all quotes in the stories, and replace the story content with the summaries. I want metadata fields to include:
-Temporal information:
-names: (important people mentioned in the stories over time)
-season (winter/spring/summer/fall - can be derived)
-year
-is_weekend (boolean)
+Copilot generates the script and saves it in your directory in a file that will end in .p (since it is a python script). While the script will mostly not be easy to understand, being a Python script written in code, you need to look over it and read through the prompt contained in the script. These are more likely to be written in plalin text within the script. Check for things that might not align with your intial intention for the beatbook, a step you should not miss, given AI's affinity for halluciantions.
 
-Content Classiification:
-primary_theme (e.g., "traffic accidents", "violent crime", "fire/rescue")
-secondary_themes (list - articles often cover multiple issues)
-incident_type (more specific: "pedestrian fatality", "armed robbery", "house fire")
-severity_level (e.g., "minor", "moderate", "major" - based on injuries, damage,response)
+# Step 2
+Now that the script for the extraction is ready, run this command in the terminal to carry out the extraction:
+```bash
+uv run python metadata.py --model YOUR MODEL --input story_sample.json
+```
+In the command above, metadata.py will be replaced with the name of the script copilot generated for you. YOUR MODEL should be replaced eith whatever AI open source model you will be using for your extraction. NOTE that is is very important to use OPEN SOURCE MODELS here, This is the part of beatbook generation that requires extra care and attention. You want to be conscious so that you are not running this prompt with a commercial model.
+NOTE also, that earlier, we installed Groq llm. If you are unsure what open source model to use, run:
+`uv run llm models`
 
-Geographic Information:
-location (neighborhood/district)
-location_type (residential, commercial, highway, park, school zone)
+You will get results in your terminal similar to this:
+LLMGroq: groq/groq/compound-mini
+LLMGroqWhisper: groq/whisper-large-v3
+LLMGroq: groq/qwen/qwen3-32b
+LLMGroq: groq/llama-3.1-8b-instant (aliases: groq-llama3.1-8b)
+LLMGroq: groq/meta-llama/llama-4-scout-17b-16e-instruct
+LLMGroq: groq/canopylabs/orpheus-arabic-saudi
+LLMGroq: groq/moonshotai/kimi-k2-instruct-0905
+LLMGroq: groq/groq/compound
+LLMGroq: groq/openai/gpt-oss-120b
+LLMGroq: groq/openai/gpt-oss-safeguard-20b
+Any of the models that show up should be fine to run the extraction with. So if you choose to use `groq/qwen/qwen3-32b` and your python script and json file are called metada,py and story_sample.json like mine is in the example above, you should run this command in the terminal: 
 
-Contextual Details:
-time_of_incident (if mentioned - helps identify patterns like late-night crimes)
-weather_conditions (if relevant/mentioned)
-response_agencies (police, fire, EMS, multiple)
-outcome (arrest made, under investigation, resolved, ongoing)
+`uv run python metadata.py --model groq/qwen/qwen3-32b --input story_sample.json`
 
-PRO TIP: When unsure about what directions to give your AI tool, ask AI!
-[SAMPLE PROMPT: I'd like to generate metadata from articles that will help me create a beat book that looks at public safety issues thematically over time. For example, common issues that occur in the summer vs. the winter. What would the structure of that metadata need to look like?]
+# Possible problems with extraction
+Although it sounds quite straight forward, many things can go wrong with extraction, and you should not be surprised if you run into errors while carrying out your extraction.
+One common reason why you might get an error with this process is rate limits. Rate limits are limits on how many API requests you can make at a given time to the AI model. So if you are working with hundreds of stories you are making hundreds of calls to the AI model. You are likely to run into limits at some point, escpecially if you are using free open source models.
+[Image of rate limits error]
+When you run into rate limits, the metadata already extracted can be lost.
+You can fix rate limits by going again to our friend copilot and asking it to modify your script so that it saves output incrementally. So what happens here is that as your python script extracts the metadata. it saves it directly to a new document. Whenever you encounter rate limits, you can move on immediately to a new miodel. The new model continues from where the older model stopped, instead of starting afresh. So say use used this model: `groq/qwen/qwen3-32b`  and extracted 80 stories out of 500 before reaching your rate limits, you can switch to `groq/meta-llama/llama-4-scout-17b-16e-instruct` simply by interrupting the error messages you are receiving using Cntrl/Cmd + C
+The you rerun this command with your new model: `uv run python metadata.py --model groq/meta-llama/llama-4-scout-17b-16e-instruct --input story_sample.json`
+Replace your model as many times as possible to complete the process, if using free open source models.
+This step is critical to the outcome of your beatbook, because it replaces the raw materials i.e. the story archives, and serves as the bases upon which we build our beatbook. Consider spending enough time here and not rushing through the process. You should also repeat the process if you notice that something seems off during verification, as it most likely will.
 
- As I examined the script AI generated, I included other requirements: 
- 	Metadata be extracted from the original stories first, before they are summarized. I did not want to be limited to only the metadata found in the summaries.
-	- Output: replace full story content with the summary text in the saved JSON.
-	Exclusions in metadata extraction:
-	- Do not include author/byline names.
-	- Do not include photographer names.
-	- Do not include news organization names (Star Democrat, Chesapeake Publishing, APG Media).
-	Incremental saves:
-	- The script writes the output file after each story is processed.
-[talk about rate limits: Incremental saves are important because you are likely to hit rate limits because of ??]
-[to get through this, one needs to update the .py script that extract the eentities to save incrementally. That way, when you run into a problem, you can continue saving from where you stopped. Sometimes you have too many stories. It's best to process them in batches. Or how best to deal with this?]
-[It's usually best to use closed models: why?]
-[after generating entities, you want to study it to see what your extracted values look like. SQLite database is a good way to do that because?]
-First you laod your json file into a sqlite database using this command: 
-`uv run sqlite-utils insert entities.db stories your_json_file_name --pk docref`
-
-Replace 'your_json_file_name' with the name of the json file where you have the entities. The command above converts your json file into a database table that lives in entities.db. Now you can filter, analyze the data using datasette.
-What is datasette? Datasette is [ ??]
+### 4) Verification
+We are still working with llms, even if locally and one thing to always do, is verify. Now you have your metadata in a json file. You might want to go through the json file to ensure that names, organizaions, everything extracted were actually extracted from the stories you fed into the llm, rather than manufactured from thin air by your llm. A smooth way to look through your metadata is loading the json file into a simple tool: Datasette. Datasette is a tool that allows you load your unstructued data into a database and view it in structured format.[###Get_better_desc_from_Derek]
+[Image of Datasette]
+To view your metadata in Datasette, first push your metadata into the tool using this bash: 
+```bash
+uv run sqlite-utils insert entities.db stories your_json_file_name --pk docref
+```
 To view your document on datasette you first have to install it in your environment: 
 `uv add datasette`
 You know you added it correctly when your output says: "Installed 15 packages in 58ms" and goes ahead to list the packages installed.
@@ -88,31 +104,41 @@ What the command above does is take you to Datasette on you browser. Running thi
 The last four figures there tells you what port to look for.
 CLick on the link. A globe icon pops up by the side. Click on that and look through your data. Your data is linked to "stories" under entities [we know this how?]
 Looking at your work in datasette lets you see how well your extraction worked. It also helps you with factchecking: are there false names in the extracted data? You are able to compare the extractions with the summary you have. You also get to see how many cases your llm failed to parse or extract your data, which gives a sense of how reliable the data is.
-If you are not content with your extracted entities, you can review the process afresh, prompting copilot to update the script so that it reflects whatever you wish to include or take out.
-If you are unsure of what to do to update your script, describe what is wrong to copilot or any other llm and have them make suggestions for you.
-This step requires some refinement and should be carried out multiple times.
-There is no need to rush through this.
-You may choose to create your beatbook in a way that focuses on the most important people mentioned, or the most significant issues covered in one beat. ANYTHING can infuence the angle from which you may choose to create your beatbook. I have decided to create a beatbook that is chronological narrative? This helps a new reporter not only understand the beat, but see how that has evolved over time.
-One other significant factor to consider when creating a beatbook is the format. Will this be in text? A table? A webpage?
 
-## Writing the beat book
-This process will largely be handled by your AI tool (preferably a commercial model?). Again, what this means is that we need a Python script to [do what?]
-To generate this, we go again to copilot and ask it to generate a script.
-Many people have limited knowledge of Python, but it is important to pay attention to this script, especially to the areas that are not code, which you can understand. Understand the sections of your script that has your prompt in it and go through them to be sure they are in line with what you [need out of your beat book]. You may ask copilot to do a break down of the script, so that you understand it better. It helps you provide directions in your script so that even when you are unsure how the code works, you can direct the AI throught the prompts you provide in plain language.
+- Use Datasette to:
+  - Inspect extraction quality
+  - Check false positives/failed parses
+  - Compare extracted fields against summaries and actual stories.
+Notice something off? Now is the time to repeat the metadata extraction process until metadata quality is acceptable.
 
-uv run python generate_thematic_beatbook.py \
-  --model "anthropic/claude-3-haiku-20240307" \
-  --input thematic_entities_stories.json \
-  --output my_narrative_beatbook_v2.md
-
-
-
-
-Update add_entities_clay_v2 to script that generates a beatbook. Save to add_entities_clay_v2. Create a script that will:
-Create a narrative, reporter-friendly beatbook leveraging on pre-extracted data in thematic_entities_stories.json.
+### 6) Generate the Beatbook
+This is another iterative process similar to the process for metadata extraction, only, this time, you are not really dealing with sensitive materials (your main stories data/archives) and can use commercial models for parts of this process.
+To create a beatbook out of the metadata you have, you need a second python script. Prompt copilot to create that.
+You should be very specific in writing the prompt for this script. The type of beatbook you hope to create should come to bear on your prompt.
+Sample prompt:
+Create a script that will:
+Produce a narrative, reporter-friendly beatbook leveraging on pre-extracted data in metadata_stories.json (assuming this is where you saved your metadata).
 Rely on the summaries in the document, rather than calling the the stories afresh.
 Have a business casual tone. Write like you're briefing a colleague, not writing an academic paper.
 Short, approachable introduction .
 Include potential follow up stories with a disclaimer that data may be outdated.
 MOST IMPORTANTLY, LOOKS AT PUBLIC SAFETY ISSUES THEMATICALLY OVER TIME. FOR EXAMPLE, COMMON ISSUES THAT HAPPEN IN THE SUMMER VS. WINTER. I  do not want the beat book to be strictly limited to seasons. What are trends in the story over time? Seasonal issues are only an example, and if there are seasonal trends, include them. But how has coverage of the stories and incidents in the coverage area evolved over time?
-This is what i want the focus of the beatbook to be. Update the script to reflect this.
+When the beatbook generator script is ready, use that to create the first draft of your beatbook by running the bash below:
+```bash
+uv run python generate_beatbook.py --model "anthropic/claude-sonnet-4-" --input metadata_stories.json --output my_narrative_beatbook_v2.md
+```
+In the bash above, `generate_beatbook.py` represents the second python script copilot produced and you should replace that what whatever you have named your script.
+`"anthropic/claude-sonnet-4-"` refers to whatever model you decide to use for your beatbook.
+`metadata_stories.json` refers to the json file containing your metadata.
+`my_narrative_beatbook_v2.md` refers to whatever you would like to save your beatbook as.
+As with metadata generation, consider refining your beatbook until you get a sophisticated copy. Read through to ensure that the information included is accurate and always remember to cross-check this with your raw data.
+
+Other things you may include in refining the beatbook:
+- Display contact ninformation of courses if mentioned (like a cource directory))
+- Include follow-up story ideas + disclaimer that data may be outdated.
+- Whatever else comes to mind as you refine.
+
+### 7) Expore other formats
+After you have generated a beatbook that's good enough, you may consider displaying it in a format different from just text.
+Assuming you generated a beatbook that looks at stories contained in the archives to show how things have changed with a newsroom's coverage over time, you can decided to reproduce this as a timeline even if you are not familiar with using [#timeline_tool]
+To convert a thematic beatbook into a timeline, you might need a final python script and you certainly need copilot. Write a prompt to copilot asking it to reformat your beatbook into a timeline. Or a mind map. Or a html page. When copilot is done, it presents your beatbook in a new format as a server and you see the pop up at the lower right side of your screen. Click on the pop up, or follow the same steps as we did when viewing Datasette in "PORTS."
