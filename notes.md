@@ -59,11 +59,13 @@ Now that the script for the extraction is ready, run this command in the termina
 ```bash
 uv run python metadata.py --model YOUR MODEL --input story_sample.json
 ```
-In the command above, metadata.py will be replaced with the name of the script copilot generated for you. YOUR MODEL should be replaced eith whatever AI open source model you will be using for your extraction. NOTE that is is very important to use OPEN SOURCE MODELS here, This is the part of beatbook generation that requires extra care and attention. You want to be conscious so that you are not running this prompt with a commercial model.
+In the command above, metadata.py will be replaced with the name of the script copilot generated for you. 'YOUR MODEL' should be replaced eith whatever AI open source model you will be using for your extraction.
+- NOTE that it is very important to use OPEN SOURCE MODELS here, This is the part of beatbook generation that requires extra care and attention. You want to be conscious so that you are not running this prompt with a commercial model.
 NOTE also, that earlier, we installed Groq llm. If you are unsure what open source model to use, run:
 `uv run llm models`
 
 You will get results in your terminal similar to this:
+- 
 LLMGroq: groq/groq/compound-mini
 LLMGroqWhisper: groq/whisper-large-v3
 LLMGroq: groq/qwen/qwen3-32b
