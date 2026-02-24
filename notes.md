@@ -15,8 +15,7 @@
   - Click Code -> Codespaces -> Create codespace.
 	- We'll work locally, so open a terminal in your project folder. [explain this like they have never used a terminal, explain parts of the terminal. keep it concise but detailed. Let the user know how to install copilot]
 - Install `uv`
-  ## NOTE I dont remember how to do this, but co-pilot says (- Run: curl -LsSf https://astral.sh/uv/install.sh | sh
-	- Then run: export PATH="$HOME/.local/bin:$PATH")
+  Run: `pip install uv`
   Initialize your project (optional but helpful):
 	- Run: uv init --python 3.12)
 
