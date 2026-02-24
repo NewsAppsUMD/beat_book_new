@@ -32,9 +32,10 @@ Now you are ready to use open source models on your local computers.
 
 ### 3) First: Extract Metadata!
 # Step 1
-- The first step to taking our archives from json file to beatbook is to extract metadata. Metadata is simply data about the stories we have, and to a reason why this step is crucial is: we do not want to dump all of our sensitive data into commercial models. We also want to reduce the number of tokens we use to generate our beatbook.
+- The first step to taking our archives from json file to beatbook is to extract metadata. Metadata is simply data about the stories we have, and a reason why this step is crucial is: we do not want to dump all of our sensitive data into commercial models. We also want to reduce the number of tokens we use to generate our beatbook.
 - The open models we use for this task allow us use llms locally on our computers. So we are able to download the weights (or brains) of the models onto our devices and use them like we would use Word or Excel.
 (How to access their APIs?)
+
 To extract metadata, we will need a python script, and this is where our friend copilot comes in. Go into the copilot chat box and craft a prompt asking it to generate a Python script that extracts metadata from your original json file. Your prompt must be detailed, and put into perspective the kind of beatbook you'd like to create.
 For instance consider telling copilot that you want a beatbook that looks at the following, if your aim is to generate a thematic beatbook that looks at how occurrences have changed over time:
 - Key field groups: 
