@@ -65,7 +65,7 @@ NOTE also, that earlier, we installed Groq llm. If you are unsure what open sour
 `uv run llm models`
 
 You will get results in your terminal similar to this:
-- 
+ 
 LLMGroq: groq/groq/compound-mini
 LLMGroqWhisper: groq/whisper-large-v3
 LLMGroq: groq/qwen/qwen3-32b
@@ -76,6 +76,7 @@ LLMGroq: groq/moonshotai/kimi-k2-instruct-0905
 LLMGroq: groq/groq/compound
 LLMGroq: groq/openai/gpt-oss-120b
 LLMGroq: groq/openai/gpt-oss-safeguard-20b
+
 Any of the models that show up should be fine to run the extraction with. So if you choose to use `groq/qwen/qwen3-32b` and your python script and json file are called metada,py and story_sample.json like mine is in the example above, you should run this command in the terminal: 
 
 `uv run python metadata.py --model groq/qwen/qwen3-32b --input story_sample.json`
