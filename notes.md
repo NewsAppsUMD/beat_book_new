@@ -175,6 +175,12 @@ Other things you may include in refining the beatbook:
 - Whatever else comes to mind as you refine.
 
 ### 7) Expore other formats
-After you have generated a beatbook that's good enough, you may consider displaying it in a format different from just text.
-Assuming you generated a beatbook that looks at stories contained in the archives to show how things have changed with a newsroom's coverage over time, you can decided to reproduce this as a timeline even if you are not familiar with using [#timeline_tool]
-To convert a thematic beatbook into a timeline, you might need a final python script and you certainly need copilot. Write a prompt to copilot asking it to reformat your beatbook into a timeline. Or a mind map. Or a html page. When copilot is done, it presents your beatbook in a new format as a server and you see the pop up at the lower right side of your screen. Click on the pop up or follow the same steps as we did when viewing Datasette in "PORTS."
+After you have generated a beatbook that's good enough, consider displaying it in a format different from just text.
+
+Assuming you generated a beatbook that shows how a newsroom's coverage of a beat has changed over time, you can decided to reproduce this as a timeline even if you are not familiar with using [#timeline_tool].
+
+To convert a thematic beatbook into a timeline, you might need a final python script and you certainly need copilot.
+
+Write a prompt to copilot asking it to reformat your beatbook into a timeline. Or a mind map. Or a html page.
+
+When copilot is done, it presents your beatbook in a new format as a server and you see the pop up at the lower right side of your screen. Click on the pop up or follow the same steps as we did when viewing Datasette in "PORTS."
