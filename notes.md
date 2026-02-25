@@ -75,9 +75,9 @@ LLMGroq: groq/moonshotai/kimi-k2-instruct-0905
 LLMGroq: groq/groq/compound
 LLMGroq: groq/openai/gpt-oss-120b
 LLMGroq: groq/openai/gpt-oss-safeguard-20b
-[substitutee list above with screenshot]
+- [substitutee list above with screenshot]
 
-Any of the models that show up should be fine to run the extraction with. So if you choose to use `groq/qwen/qwen3-32b` and your python script and json file are called metada,py and story_sample.json like mine is in the example above, you should run this command in the terminal: 
+Any of the models that show up should be fine to run the extraction with. So if you choose to use `groq/qwen/qwen3-32b` and your python script and json file are called metadata.py and story_sample.json like mine in the example above, you should run this command in the terminal and let bebgin extraction: 
 
 `uv run python metadata.py --model groq/qwen/qwen3-32b --input story_sample.json`
 
