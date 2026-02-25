@@ -51,16 +51,16 @@ Now you are ready to use open source models on your local computers.
 # PRO TIP: When unsure about what prompts/directions to give your AI tool, ask AI!
 # [SAMPLE PROMPT: I'd like to generate metadata from articles that will help me create a beat book that looks at public safety issues thematically over time. For example, common issues that occur in the summer vs. the winter. What would the structure of that metadata need to look like?]
 
-In response to your prompt, copilot will generate the script and save it in your directory, in a file that will end in .py (since it is a python script). While the script will mostly not be easy to understand given that it is written in code, you need to look over it and read through the prompts contained in the script, which, more likely than not, will be written in plalin text within the script. Check for things that might not align with your intial intention for the beatbook, a step you should not miss, given AI's affinity for halluciantions.
+In response to your prompt, copilot will generate the script and save it in your directory, in a file that will end in .py (since it is a python script). While the script will mostly not be easy to understand given that it is written in code, you need to look over it and read through the prompts contained in the script, which, more likely than not, will be written in plain text within the script. Check for things that might not align with your intial intention for the beatbook; a step you should not skip, given AI's affinity for halluciantions.
 
 # Step 2
 Now that the script for the extraction is ready, run this command in the terminal to carry out the extraction:
 ```bash
 uv run python metadata.py --model YOUR MODEL --input story_sample.json
 ```
-In the command above, metadata.py will be replaced with the name of the script copilot generated for you. 'YOUR MODEL' should be replaced eith whatever AI open source model you will be using for your extraction.
-- NOTE that it is very important to use OPEN SOURCE MODELS here, This is the part of beatbook generation that requires extra care and attention. You want to be conscious so that you are not running this prompt with a commercial model.
-NOTE also, that earlier, we installed Groq llm. If you are unsure what open source model to use, run:
+In the command above, metadata.py will be replaced with the name of the script copilot generated for you. 'YOUR MODEL' should be replaced with whatever AI open source model you will be using for your extraction.
+- NOTE: it is very important to use OPEN SOURCE MODELS here. This is the part of beatbook generation that requires extra care and attention. You want to be conscious so that you are not running this prompt with a commercial model.
+NOTE ALSO: earlier, we installed Groq llm. If you are unsure what open source model to use, run:
 `uv run llm models`
 
 You will get results in your terminal similar to this:
@@ -75,6 +75,7 @@ LLMGroq: groq/moonshotai/kimi-k2-instruct-0905
 LLMGroq: groq/groq/compound
 LLMGroq: groq/openai/gpt-oss-120b
 LLMGroq: groq/openai/gpt-oss-safeguard-20b
+[substitutee list above with screenshot]
 
 Any of the models that show up should be fine to run the extraction with. So if you choose to use `groq/qwen/qwen3-32b` and your python script and json file are called metada,py and story_sample.json like mine is in the example above, you should run this command in the terminal: 
 
