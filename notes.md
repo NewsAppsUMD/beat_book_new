@@ -133,29 +133,40 @@ Looking at your work in datasette lets you see how well your extraction worked. 
   - Inspect extraction quality
   - Check false positives/failed parses
   - Compare extracted fields against summaries and actual stories.
-  
+
 Notice something off? Now is the time to repeat the metadata extraction process until metadata quality is acceptable.
 
 ### 6) Generate the Beatbook
 This is another iterative process similar to the process for metadata extraction, only, this time, you are not really dealing with sensitive materials (your main stories data/archives) and can use commercial models for parts of this process.
+
 To create a beatbook out of the metadata you have, you need a second python script. Prompt copilot to create that.
+
 You should be very specific in writing the prompt for this script. The type of beatbook you hope to create should come to bear on your prompt.
+
 Sample prompt:
+
 Create a script that will:
 Produce a narrative, reporter-friendly beatbook leveraging on pre-extracted data in metadata_stories.json (assuming this is where you saved your metadata).
 Rely on the summaries in the document, rather than calling the the stories afresh.
 Have a business casual tone. Write like you're briefing a colleague, not writing an academic paper.
-Short, approachable introduction .
+Short, approachable introduction.
 Include potential follow up stories with a disclaimer that data may be outdated.
 MOST IMPORTANTLY, LOOKS AT PUBLIC SAFETY ISSUES THEMATICALLY OVER TIME. FOR EXAMPLE, COMMON ISSUES THAT HAPPEN IN THE SUMMER VS. WINTER. I  do not want the beat book to be strictly limited to seasons. What are trends in the story over time? Seasonal issues are only an example, and if there are seasonal trends, include them. But how has coverage of the stories and incidents in the coverage area evolved over time?
+
 When the beatbook generator script is ready, use that to create the first draft of your beatbook by running the bash below:
+
 ```bash
 uv run python generate_beatbook.py --model "anthropic/claude-sonnet-4-" --input metadata_stories.json --output my_narrative_beatbook_v2.md
 ```
+
 In the bash above, `generate_beatbook.py` represents the second python script copilot produced and you should replace that what whatever you have named your script.
+
 `"anthropic/claude-sonnet-4-"` refers to whatever model you decide to use for your beatbook.
+
 `metadata_stories.json` refers to the json file containing your metadata.
+
 `my_narrative_beatbook_v2.md` refers to whatever you would like to save your beatbook as.
+
 As with metadata generation, consider refining your beatbook until you get a sophisticated copy. Read through to ensure that the information included is accurate and always remember to cross-check this with your raw data.
 
 Other things you may include in refining the beatbook:
