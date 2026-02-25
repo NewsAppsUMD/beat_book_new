@@ -42,8 +42,8 @@ Now you are ready to use open source models on your local computers.
   - **Content classification:** primary/secondary themes, incident type, severity
   - **Geographic:** location, location type
   - **Contextual:** incident time, weather, agencies, outcomes.
-- For a narrative beatbook
-- Key field groups:
+- For a narrative beatbook:
+  - Key field groups:
   - **People:** names,title
   - **Places:** Maryland, Talbot, St Michael's
 - Regardless of the type of beatbook, you want to keep quotes and replace full story content with summaries in output. The reason for this extraction is: we do not want to dump our data into commercial models. We want to generate metadata from our json file directly on our devices without pushing it to the internet. So our json files are not exposed, and we have summaries of our stories, which can now serve as the raw materials for our beatbook.
