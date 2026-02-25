@@ -99,8 +99,13 @@ Replace your model as many times as possible to complete the process, if using f
 Again, this step is critical to the outcome of the beatbook, because it replaces the raw materials i.e. the story archives, and serves as the bases upon which we build our beatbook. Consider spending enough time here and not rushing through the process. You should also repeat the process if you notice that something is not right during verification, as it most likely will.
 
 ### 4) Verification
-We are still working with llms, even if locally and one thing to always do, is verify. Now you have your metadata in a json file. You might want to go through the json file to ensure that names, organizaions, everything extracted were actually extracted from the stories you fed into the llm, rather than manufactured from thin air by your llm. A smooth way to look through your metadata is loading the json file into a simple tool: Datasette. Datasette is a tool that allows you load your unstructued data into a database and view it in structured format.[###Get_better_desc_from_Derek]
+We should remember that we are still working with llms, even if locally and one thing to always do, is verify. Now you have your metadata in a json file, you want to go through the file to ensure that names, organizaions, all extracted pieces of information were actually extracted from the stories you fed into the llm, rather than manufactured from thin air by AI.
+
+An easy way to look through your metadata is loading the json file into a simple tool: Datasette. Datasette allows you load your unstructued data into a database and view it in structured format.
+[###Get_better_description_of_Datasette]
+
 [Image of Datasette]
+
 To view your metadata in Datasette, first push your metadata into the tool using this bash: 
 ```bash
 uv run sqlite-utils insert entities.db stories your_json_file_name --pk docref
