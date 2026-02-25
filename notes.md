@@ -51,7 +51,7 @@ Now you are ready to use open source models on your local computers.
 # PRO TIP: When unsure about what prompts/directions to give your AI tool, ask AI!
 # [SAMPLE PROMPT: I'd like to generate metadata from articles that will help me create a beat book that looks at public safety issues thematically over time. For example, common issues that occur in the summer vs. the winter. What would the structure of that metadata need to look like?]
 
-In response to your prompt, copilot will generate the script and save it in your directory, in a file that will end in .py (since it is a python script). While the script will mostly not be easy to understand being a Python script written in code, you need to look over it and read through the prompt contained in the script. These are more likely to be written in plalin text within the script. Check for things that might not align with your intial intention for the beatbook, a step you should not miss, given AI's affinity for halluciantions.
+In response to your prompt, copilot will generate the script and save it in your directory, in a file that will end in .py (since it is a python script). While the script will mostly not be easy to understand given that it is written in code, you need to look over it and read through the prompts contained in the script, which, more likely than not, will be written in plalin text within the script. Check for things that might not align with your intial intention for the beatbook, a step you should not miss, given AI's affinity for halluciantions.
 
 # Step 2
 Now that the script for the extraction is ready, run this command in the terminal to carry out the extraction:
