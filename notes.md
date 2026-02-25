@@ -45,8 +45,8 @@ Now you are ready to use open source models on your local computers.
 - For a narrative beatbook, key field groups:
   - **People:** names,title
   - **Places:** Maryland, Talbot, St Michael's
-- Regardless of the type of beatbook, you want to keep quotes and replace full story content with summaries in output. We want to generate metadata from our json file directly on our devices without pushing it to the internet. So our json files are not exposed, and we have summaries of our stories, which can now serve as the raw materials for our beatbook.
-- Exclude bylines, photographer names, and org names
+- Regardless of the type of beatbook, you want to keep quotes and replace full story content with summaries in output. We want to generate metadata from our json file directly on our devices without pushing it to the internet. So our json files are not exposed, and we have extracted summaries of our stories, which can now serve as the raw materials for our beatbook.
+- Remember that your prompt should exclude bylines, photographer names, and name of news organization.
 
 # PRO TIP: When unsure about what prompts/directions to give your AI tool, ask AI!
 # [SAMPLE PROMPT: I'd like to generate metadata from articles that will help me create a beat book that looks at public safety issues thematically over time. For example, common issues that occur in the summer vs. the winter. What would the structure of that metadata need to look like?]
