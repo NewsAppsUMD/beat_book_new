@@ -77,7 +77,7 @@ LLMGroq: groq/openai/gpt-oss-120b
 LLMGroq: groq/openai/gpt-oss-safeguard-20b
 - [substitutee list above with screenshot]
 
-Any of the models that show up should be fine to run the extraction with. So if you choose to use `groq/qwen/qwen3-32b` and your python script and json file are called metadata.py and story_sample.json like mine in the example above, you should run this command in the terminal and let bebgin extraction: 
+Any of the models that show up should be fine to run the extraction with. So if you choose to use `groq/qwen/qwen3-32b` and your python script and json file are called metadata.py and story_sample.json like mine in the example above, you should run this command in the terminal and begin extraction: 
 
 `uv run python metadata.py --model groq/qwen/qwen3-32b --input story_sample.json`
 
@@ -85,12 +85,18 @@ Any of the models that show up should be fine to run the extraction with. So if 
 Although it sounds quite straight forward, many things can go wrong with extraction, and you should not be surprised if you run into errors while carrying out your extraction.
 
 One common reason why you might get an error with this process is rate limits. Rate limits are limits on how many API requests you can make at a given time to the AI model. So if you are working with hundreds of stories you are making hundreds of calls to the AI model. You are likely to run into limits at some point, escpecially if you are using free open source models.
+
 [Image of rate limits error]
+
 When you run into rate limits, the metadata already extracted can be lost.
-You can fix rate limits by going again to our friend copilot and asking it to modify your script so that it saves output incrementally. So what happens here is that as your python script extracts the metadata. it saves it directly to a new document. Whenever you encounter rate limits, you can move on immediately to a new miodel. The new model continues from where the older model stopped, instead of starting afresh. So say use used this model: `groq/qwen/qwen3-32b`  and extracted 80 stories out of 500 before reaching your rate limits, you can switch to `groq/meta-llama/llama-4-scout-17b-16e-instruct` simply by interrupting the error messages you are receiving using Cntrl/Cmd + C
-The you rerun this command with your new model: `uv run python metadata.py --model groq/meta-llama/llama-4-scout-17b-16e-instruct --input story_sample.json`
+You can fix this by going again to copilot and asking it to modify your script so that it saves output incrementally. What happens here is that as your python script extracts the metadata, it saves it directly to a new document. Whenever you encounter rate limits, you can move on immediately to a new model, and the new model continues from where the older model stopped, instead of starting afresh.
+
+Say you used this model: `groq/qwen/qwen3-32b`  and extracted 80 stories out of 500 before reaching your rate limits, you can switch to `groq/meta-llama/llama-4-scout-17b-16e-instruct` simply by interrupting the error messages you are receiving using Cntrl/Cmd + C.
+
+Then you rerun this command with your new model: `uv run python metadata.py --model groq/meta-llama/llama-4-scout-17b-16e-instruct --input story_sample.json`
 Replace your model as many times as possible to complete the process, if using free open source models.
-This step is critical to the outcome of your beatbook, because it replaces the raw materials i.e. the story archives, and serves as the bases upon which we build our beatbook. Consider spending enough time here and not rushing through the process. You should also repeat the process if you notice that something seems off during verification, as it most likely will.
+
+Again, this step is critical to the outcome of the beatbook, because it replaces the raw materials i.e. the story archives, and serves as the bases upon which we build our beatbook. Consider spending enough time here and not rushing through the process. You should also repeat the process if you notice that something is not right during verification, as it most likely will.
 
 ### 4) Verification
 We are still working with llms, even if locally and one thing to always do, is verify. Now you have your metadata in a json file. You might want to go through the json file to ensure that names, organizaions, everything extracted were actually extracted from the stories you fed into the llm, rather than manufactured from thin air by your llm. A smooth way to look through your metadata is loading the json file into a simple tool: Datasette. Datasette is a tool that allows you load your unstructued data into a database and view it in structured format.[###Get_better_desc_from_Derek]
