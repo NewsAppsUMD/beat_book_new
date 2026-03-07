@@ -1,0 +1,380 @@
+[
+  {
+    "full_sentence": "This isn't a funding problem; it's a systemic instructional crisis affecting how Maryland teaches mathematics from elementary school through high school.",
+    "article_id": "search-hits__hit--5397",
+    "sentence_similarity": 0.6505,
+    "paragraph_similarity": 0.6009,
+    "combined_score": 0.6307,
+    "is_first_in_run": true,
+    "paragraph_index": 3
+  },
+  {
+    "full_sentence": "The algebra crisis reveals Maryland's most urgent instructional failure.",
+    "article_id": "search-hits__hit--4776",
+    "sentence_similarity": 0.6552,
+    "paragraph_similarity": 0.5777,
+    "combined_score": 0.6242,
+    "is_first_in_run": true,
+    "paragraph_index": 8
+  },
+  {
+    "full_sentence": "Whether students attend schools in Queen Anne's County (median income $113,347, strong elementary scores) or Dorchester County (median income $60,495, struggling elementary performance), algebra proficiency collapses to 5-6%.",
+    "article_id": "search-hits__hit--642",
+    "sentence_similarity": 0.6428,
+    "paragraph_similarity": 0.6116,
+    "combined_score": 0.6303,
+    "is_first_in_run": true,
+    "paragraph_index": 8
+  },
+  {
+    "full_sentence": "Queen Anne's fifth graders score 45.8% proficient in ELA and 38.4% in math, well above state averages.",
+    "article_id": "search-hits__hit--642",
+    "sentence_similarity": 0.742,
+    "paragraph_similarity": 0.6237,
+    "combined_score": 0.6947,
+    "is_first_in_run": true,
+    "paragraph_index": 9
+  },
+  {
+    "full_sentence": "Dorchester's fifth graders score just 38.0% in ELA and 18.2% in math, among the state's lowest.",
+    "article_id": "search-hits__hit--3618",
+    "sentence_similarity": 0.6606,
+    "paragraph_similarity": 0.6228,
+    "combined_score": 0.6455,
+    "is_first_in_run": true,
+    "paragraph_index": 9
+  },
+  {
+    "full_sentence": "Yet by high school, these vastly different starting points lead to the same destination: Queen Anne's algebra proficiency drops to 5.7%, Dorchester to 5.0%.",
+    "article_id": "search-hits__hit--642",
+    "sentence_similarity": 0.6351,
+    "paragraph_similarity": 0.6237,
+    "combined_score": 0.6305,
+    "is_first_in_run": true,
+    "paragraph_index": 9
+  },
+  {
+    "full_sentence": "The Blueprint for Maryland's Future represents the state's largest education investment in decades —mandating $60,000 minimum teacher salaries by July 2026, universal pre-K, expanded special education, career pathways, and instructional reforms.",
+    "article_id": "search-hits__hit--4842",
+    "sentence_similarity": 0.7863,
+    "paragraph_similarity": 0.771,
+    "combined_score": 0.7802,
+    "is_first_in_run": true,
+    "paragraph_index": 11
+  },
+  {
+    "full_sentence": "But counties face these mandates with profoundly unequal fiscal capacity.",
+    "article_id": "search-hits__hit--4842",
+    "sentence_similarity": 0.6728,
+    "paragraph_similarity": 0.771,
+    "combined_score": 0.7121,
+    "is_first_in_run": false,
+    "paragraph_index": 11
+  },
+  {
+    "full_sentence": "Dorchester faces an immediate $5.5M deficit forcing program cuts even as Blueprint requires expansion.",
+    "article_id": "search-hits__hit--166",
+    "sentence_similarity": 0.7106,
+    "paragraph_similarity": 0.5293,
+    "combined_score": 0.6381,
+    "is_first_in_run": true,
+    "paragraph_index": 11
+  },
+  {
+    "full_sentence": "Kent's small size (1,800 students) means every mandate costs proportionally more when spread across a tiny enrollment.",
+    "article_id": "search-hits__hit--4842",
+    "sentence_similarity": 0.5833,
+    "paragraph_similarity": 0.771,
+    "combined_score": 0.6584,
+    "is_first_in_run": true,
+    "paragraph_index": 11
+  },
+  {
+    "full_sentence": "The Blueprint assumed state funding could equalize opportunity, but it's layering new requirements onto fundamentally unequal fiscal foundations.",
+    "article_id": "search-hits__hit--2886",
+    "sentence_similarity": 0.6186,
+    "paragraph_similarity": 0.7191,
+    "combined_score": 0.6588,
+    "is_first_in_run": true,
+    "paragraph_index": 11
+  },
+  {
+    "full_sentence": "For wealthy counties resisting local tax increases, Blueprint mandates become political conflicts over whether communities adequately fund education or rely on state intervention.",
+    "article_id": "search-hits__hit--2886",
+    "sentence_similarity": 0.6355,
+    "paragraph_similarity": 0.6538,
+    "combined_score": 0.6428,
+    "is_first_in_run": true,
+    "paragraph_index": 13
+  },
+  {
+    "full_sentence": "Black students average just 25% proficient in ELA and 5.1% in math—meaning three out of four Black students cannot read at grade level and 95% cannot do grade-level math.",
+    "article_id": "search-hits__hit--3347",
+    "sentence_similarity": 0.7523,
+    "paragraph_similarity": 0.6061,
+    "combined_score": 0.6938,
+    "is_first_in_run": true,
+    "paragraph_index": 15
+  },
+  {
+    "full_sentence": "Blueprint's $60,000 minimum salary requirement arrives into this fragile context.",
+    "article_id": "search-hits__hit--6865",
+    "sentence_similarity": 0.6729,
+    "paragraph_similarity": 0.6617,
+    "combined_score": 0.6684,
+    "is_first_in_run": true,
+    "paragraph_index": 19
+  },
+  {
+    "full_sentence": "Kent County: Kent County High School's 6.1% algebra proficiency represents catastrophic failure despite $21,188 per-pupil spending (sixth highest statewide) and strong local funding (60% local share, $11,912 per pupil).",
+    "article_id": "search-hits__hit--2886",
+    "sentence_similarity": 0.6156,
+    "paragraph_similarity": 0.6363,
+    "combined_score": 0.6239,
+    "is_first_in_run": true,
+    "paragraph_index": 25
+  },
+  {
+    "full_sentence": "Yet Talbot posts a 95% graduation rate (tied for top four statewide) and received the state's largest Blueprint increase (49% from FY2019-2024, state aid growing from $4,579 to $5,883 per pupil).",
+    "article_id": "search-hits__hit--949",
+    "sentence_similarity": 0.6676,
+    "paragraph_similarity": 0.5634,
+    "combined_score": 0.6259,
+    "is_first_in_run": true,
+    "paragraph_index": 27
+  },
+  {
+    "full_sentence": "At Easton Elementary (27% white, 75% FARMS, 45% Hispanic), just 19.8% meet standards—a 47.7-point gap predicting algebra failure.",
+    "article_id": "search-hits__hit--2456",
+    "sentence_similarity": 0.6228,
+    "paragraph_similarity": 0.6312,
+    "combined_score": 0.6261,
+    "is_first_in_run": true,
+    "paragraph_index": 27
+  },
+  {
+    "full_sentence": "Caroline provides only 20.2% of education costs ($3,760 per pupil locally, increasing from $2,760 in FY2020 to just $3,002 in FY2024) while the state covers 78.8% ($14,630 per pupil, up from $12,432 in FY2020—a 40% increase, fifth-largest in Maryland).",
+    "article_id": "search-hits__hit--6419",
+    "sentence_similarity": 0.614,
+    "paragraph_similarity": 0.6694,
+    "combined_score": 0.6362,
+    "is_first_in_run": true,
+    "paragraph_index": 28
+  },
+  {
+    "full_sentence": "As Blueprint mandates arrive—$60,000 minimum teacher salaries (July 2026 requiring ~$1.45M for 289 teachers), pre-K expansion, special education increases—Caroline has zero fiscal cushion.",
+    "article_id": "search-hits__hit--2344",
+    "sentence_similarity": 0.6905,
+    "paragraph_similarity": 0.6108,
+    "combined_score": 0.6586,
+    "is_first_in_run": true,
+    "paragraph_index": 28
+  },
+  {
+    "full_sentence": "Dorchester County: Dorchester's $5.5M deficit (reduced from $10M through cuts) forced summer school cancellations and eliminated 36 teaching positions in 2024-2025.",
+    "article_id": "search-hits__hit--1150",
+    "sentence_similarity": 0.7477,
+    "paragraph_similarity": 0.601,
+    "combined_score": 0.689,
+    "is_first_in_run": true,
+    "paragraph_index": 29
+  },
+  {
+    "full_sentence": "Despite receiving Maryland's largest Blueprint-driven funding increases—state aid grew 37% from $11,996 per pupil (FY2020) to $14,405 (FY2024), reaching 74% of total funding—the county cannot sustain Blueprint obligations.",
+    "article_id": "search-hits__hit--4842",
+    "sentence_similarity": 0.6981,
+    "paragraph_similarity": 0.594,
+    "combined_score": 0.6564,
+    "is_first_in_run": true,
+    "paragraph_index": 29
+  },
+  {
+    "full_sentence": "Mace's Lane Middle School ranks 4th percentile statewide (33/100 points, Maryland's lowest-ranked middle school) despite third-highest regional per-pupil spending—proving money alone doesn't determine success.",
+    "article_id": "search-hits__hit--2357",
+    "sentence_similarity": 0.6191,
+    "paragraph_similarity": 0.6237,
+    "combined_score": 0.6209,
+    "is_first_in_run": true,
+    "paragraph_index": 29
+  },
+  {
+    "full_sentence": "The $60,000 minimum salary mandate costs $396,000 annually in a district where each teacher represents 1.5% of total workforce.",
+    "article_id": "search-hits__hit--6865",
+    "sentence_similarity": 0.7038,
+    "paragraph_similarity": 0.5352,
+    "combined_score": 0.6364,
+    "is_first_in_run": true,
+    "paragraph_index": 30
+  },
+  {
+    "full_sentence": "Queen Anne's County: Queen Anne's received the region's smallest Blueprint increase—state aid grew just 2% in real terms from FY2019-2024, the lowest statewide growth, rising from $5,844 to $6,926 per pupil (FY2020-2024).",
+    "article_id": "search-hits__hit--3671",
+    "sentence_similarity": 0.5749,
+    "paragraph_similarity": 0.7011,
+    "combined_score": 0.6254,
+    "is_first_in_run": true,
+    "paragraph_index": 31
+  },
+  {
+    "full_sentence": "For Queen Anne's 2,680 Hispanic residents (5.26%, growing from 4.19% foreign-born in 2022) and 2,570 foreign-born residents, this creates unique crisis: living in Maryland's wealthiest county yet attending schools operating on artificial scarcity created by political choice, not economic necessity.",
+    "article_id": "search-hits__hit--3671",
+    "sentence_similarity": 0.6056,
+    "paragraph_similarity": 0.7011,
+    "combined_score": 0.6438,
+    "is_first_in_run": true,
+    "paragraph_index": 31
+  },
+  {
+    "full_sentence": "Blueprint funding flows equally to all schools, but need concentrates in specific buildings, widening rather than closing gaps.",
+    "article_id": "search-hits__hit--4842",
+    "sentence_similarity": 0.6812,
+    "paragraph_similarity": 0.5682,
+    "combined_score": 0.636,
+    "is_first_in_run": true,
+    "paragraph_index": 32
+  },
+  {
+    "full_sentence": "Math gaps are even worse: 23.5 points (5.1% vs. 28.6%), meaning 95% of Black students fail grade-level math.",
+    "article_id": "search-hits__hit--330",
+    "sentence_similarity": 0.7161,
+    "paragraph_similarity": 0.5421,
+    "combined_score": 0.6465,
+    "is_first_in_run": true,
+    "paragraph_index": 34
+  },
+  {
+    "full_sentence": "With strong elementary performance overall (45.8% proficient 5th grade ELA) and 95% graduation rate, Queen Anne's shows that excellence for white students coexists with persistent underperformance for students of color.",
+    "article_id": "search-hits__hit--642",
+    "sentence_similarity": 0.6802,
+    "paragraph_similarity": 0.6173,
+    "combined_score": 0.655,
+    "is_first_in_run": true,
+    "paragraph_index": 36
+  },
+  {
+    "full_sentence": "Blueprint's $60,000 minimum (July 2026) will cost $1.45M annually if current average salary is $55,000, consuming scarce local resources county doesn't have.",
+    "article_id": "search-hits__hit--6865",
+    "sentence_similarity": 0.6799,
+    "paragraph_similarity": 0.5625,
+    "combined_score": 0.6329,
+    "is_first_in_run": true,
+    "paragraph_index": 38
+  },
+  {
+    "full_sentence": "County's 12.0% new hire rate paired with declining total staff proves Dorchester is bleeding experienced teachers it cannot afford to replace.",
+    "article_id": "search-hits__hit--4964",
+    "sentence_similarity": 0.6603,
+    "paragraph_similarity": 0.5926,
+    "combined_score": 0.6332,
+    "is_first_in_run": true,
+    "paragraph_index": 39
+  },
+  {
+    "full_sentence": "Blueprint's $60,000 minimum costs $396,000 annually (66 teachers × $6,000)—easily affordable with 61.4% local funding, but real crisis is recruitment.",
+    "article_id": "search-hits__hit--6865",
+    "sentence_similarity": 0.6938,
+    "paragraph_similarity": 0.5228,
+    "combined_score": 0.6254,
+    "is_first_in_run": true,
+    "paragraph_index": 40
+  },
+  {
+    "full_sentence": "Blueprint's $60,000 minimum costs just $784,000 (392 teachers × $2,000)—easily affordable with $10,498 per-pupil local funding, yet likely to trigger taxpayer demands for cost control rather than enhanced recruitment.",
+    "article_id": "search-hits__hit--6865",
+    "sentence_similarity": 0.7042,
+    "paragraph_similarity": 0.5184,
+    "combined_score": 0.6299,
+    "is_first_in_run": true,
+    "paragraph_index": 41
+  },
+  {
+    "full_sentence": "Talbot County: Talbot employs 283 teachers serving 4,300 students (15.2:1 ratio, best in region).",
+    "article_id": "search-hits__hit--4938",
+    "sentence_similarity": 0.6318,
+    "paragraph_similarity": 0.6233,
+    "combined_score": 0.6284,
+    "is_first_in_run": true,
+    "paragraph_index": 42
+  },
+  {
+    "full_sentence": "This strong staffing position—best student-teacher ratio, competitive pay, stable enrollment—should yield teacher retention, yet 12.4% new hire rate proves even Talbot can't retain teachers better than poorer counties.",
+    "article_id": "search-hits__hit--4938",
+    "sentence_similarity": 0.6591,
+    "paragraph_similarity": 0.6233,
+    "combined_score": 0.6448,
+    "is_first_in_run": true,
+    "paragraph_index": 42
+  },
+  {
+    "full_sentence": "With 35.4% ELA proficiency and a 43.9-point credential gap, Dorchester sits between Caroline's honest assessment (43.0-point gap) and wealthy counties' extreme inflation (53-61 points).",
+    "article_id": "search-hits__hit--7939",
+    "sentence_similarity": 0.6527,
+    "paragraph_similarity": 0.6053,
+    "combined_score": 0.6338,
+    "is_first_in_run": true,
+    "paragraph_index": 44
+  },
+  {
+    "full_sentence": "Dorchester's $5.59M budget deficit in 2024-25 forced elimination of 36 teaching positions and cancellation of summer school—removing the very interventions that could either improve actual achievement or enable credential inflation.",
+    "article_id": "search-hits__hit--1150",
+    "sentence_similarity": 0.7095,
+    "paragraph_similarity": 0.5317,
+    "combined_score": 0.6384,
+    "is_first_in_run": true,
+    "paragraph_index": 44
+  },
+  {
+    "full_sentence": "In 2024-25, Dorchester canceled summer school and eliminated 36 teaching positions to close a $5.59M budget deficit—removing critical remediation for students at Choptank Elementary (90.5% FARMS, 72% Black) and other high-poverty schools.",
+    "article_id": "search-hits__hit--1150",
+    "sentence_similarity": 0.7389,
+    "paragraph_similarity": 0.6684,
+    "combined_score": 0.7107,
+    "is_first_in_run": true,
+    "paragraph_index": 54
+  },
+  {
+    "full_sentence": "Dorchester's \"23 No More\" absenteeism initiative and improved Report Card scores (82% of schools at 3+ stars, with Cambridge-South Dorchester, Vienna Elementary, and Sandy Hill Elementary each advancing one star) show progress.",
+    "article_id": "search-hits__hit--2357",
+    "sentence_similarity": 0.6742,
+    "paragraph_similarity": 0.6,
+    "combined_score": 0.6445,
+    "is_first_in_run": true,
+    "paragraph_index": 55
+  },
+  {
+    "full_sentence": "But until Maryland addresses the economic conditions producing 90.5% poverty rates at individual schools, Blueprint funding sustains the system without transforming it.",
+    "article_id": "search-hits__hit--2886",
+    "sentence_similarity": 0.6726,
+    "paragraph_similarity": 0.5925,
+    "combined_score": 0.6406,
+    "is_first_in_run": true,
+    "paragraph_index": 55
+  },
+  {
+    "full_sentence": "Regular Meetings: 2nd Monday, 5:30 PM Location: KCPS Admin Building, 5608 Boundary Ave., Rock Hall",
+    "article_id": "search-hits__hit--6517",
+    "sentence_similarity": 0.8217,
+    "paragraph_similarity": 0.8217,
+    "combined_score": 0.8217,
+    "is_first_in_run": true,
+    "paragraph_index": 61
+  },
+  {
+    "full_sentence": "Easton Elementary (27% white, 75% FARMS, 45% Hispanic) achieves just 19.8%—a 47.7-point gap within the same county.",
+    "article_id": "search-hits__hit--2456",
+    "sentence_similarity": 0.6481,
+    "paragraph_similarity": 0.6208,
+    "combined_score": 0.6372,
+    "is_first_in_run": true,
+    "paragraph_index": 69
+  },
+  {
+    "full_sentence": "Talbot's \"Align by 2029\" strategic plan launched in 2025 signals ambition, and progress is visible: all elementary schools except one improved on the 2024-25 Report Card, Easton Middle School advanced from 2 to 3 stars, and 100% of Talbot schools earned 3+ stars.",
+    "article_id": "search-hits__hit--330",
+    "sentence_similarity": 0.663,
+    "paragraph_similarity": 0.588,
+    "combined_score": 0.633,
+    "is_first_in_run": true,
+    "paragraph_index": 70
+  }
+]

@@ -1,0 +1,1939 @@
+{
+  "sentences": [
+    {
+      "sentence": "The Eastern Shore education landscape encompasses five counties with dramatically different fiscal capacities, demographic profiles, and educational outcomes.",
+      "container_selector": ".narrative-box p",
+      "paragraph_index": 0
+    },
+    {
+      "sentence": "This region of 24,000 students serves as a microcosm of Maryland's broader educational equity challenges, where local wealth directly determines educational opportunity despite state equalization efforts.",
+      "container_selector": ".narrative-box p",
+      "paragraph_index": 0
+    },
+    {
+      "sentence": "The wealth divide is stark: Queen Anne's County operates with the highest median household income in the region ($108,000) and directs 39.6% of its county budget—nearly 40 cents of every local tax dollar—to education.",
+      "container_selector": ".narrative-box p",
+      "paragraph_index": 1
+    },
+    {
+      "sentence": "This enables per-pupil local spending of $10,498, robust staffing (20.4:1 student-teacher ratio), and comprehensive programming.",
+      "container_selector": ".narrative-box p",
+      "paragraph_index": 1
+    },
+    {
+      "sentence": "Meanwhile, Dorchester County, with a median income of just $57,000 (nearly half of Queen Anne's), allocates 28.6% of a much smaller county budget to schools.",
+      "container_selector": ".narrative-box p",
+      "paragraph_index": 1
+    },
+    {
+      "sentence": "The result: Dorchester can provide only $5,544 per pupil from local sources and must rely on state funding for 73.6% of all education costs.",
+      "container_selector": ".narrative-box p",
+      "paragraph_index": 1
+    },
+    {
+      "sentence": "Blueprint for Maryland's Future was designed to close these gaps, delivering massive increases ranging from 25.4% (Queen Anne's) to 49% (Talbot).",
+      "container_selector": ".narrative-box p",
+      "paragraph_index": 2
+    },
+    {
+      "sentence": "Yet the five key issues documented below reveal that money alone hasn't solved systemic problems: algebra instruction fails uniformly across wealth levels, discipline disparities persist regardless of resources, and achievement gaps mirror income divides.",
+      "container_selector": ".narrative-box p",
+      "paragraph_index": 2
+    },
+    {
+      "sentence": "These findings suggest that how money is spent, the efficiency of small districts, local fiscal capacity, and deeply rooted instructional practices matter more than total funding levels.",
+      "container_selector": ".narrative-box p",
+      "paragraph_index": 2
+    },
+    {
+      "sentence": "Critical Finding: Algebra failure is uniform across all five counties—proficiency rates between 5.0% and 6.1%—despite vastly different wealth levels and per-pupil spending.",
+      "container_selector": ".analysis-highlight",
+      "paragraph_index": 3
+    },
+    {
+      "sentence": "This isn't a funding problem; it's a systemic instructional crisis affecting how Maryland teaches mathematics from elementary school through high school.",
+      "container_selector": ".analysis-highlight",
+      "paragraph_index": 3
+    },
+    {
+      "sentence": "Critical Finding: Blueprint state aid increases range from 2% real growth (Queen Anne's) to 49% (Talbot), yet outcomes don't correlate with funding growth.",
+      "container_selector": ".analysis-highlight",
+      "paragraph_index": 4
+    },
+    {
+      "sentence": "How money is spent, local fiscal capacity, district efficiency, and political will matter more than total per-pupil spending levels.",
+      "container_selector": ".analysis-highlight",
+      "paragraph_index": 4
+    },
+    {
+      "sentence": "Critical Finding: Achievement gaps and discipline disparities compound to create systemic racial inequality.",
+      "container_selector": ".analysis-highlight",
+      "paragraph_index": 5
+    },
+    {
+      "sentence": "Black and Hispanic students score 20-37 points lower than white peers in reading and math, then face suspension at 2-4x their enrollment rates.",
+      "container_selector": ".analysis-highlight",
+      "paragraph_index": 5
+    },
+    {
+      "sentence": "This double disadvantage—failing academically while being removed from learning environments—ensures persistent inequality regardless of county wealth or spending.",
+      "container_selector": ".analysis-highlight",
+      "paragraph_index": 5
+    },
+    {
+      "sentence": "Critical Finding: Student-teacher ratios vary wildly across region despite similar spending levels.",
+      "container_selector": ".analysis-highlight",
+      "paragraph_index": 6
+    },
+    {
+      "sentence": "Small district size creates inefficiency that no amount of funding can overcome.",
+      "container_selector": ".analysis-highlight",
+      "paragraph_index": 6
+    },
+    {
+      "sentence": "All counties face chronic turnover regardless of resources.",
+      "container_selector": ".analysis-highlight",
+      "paragraph_index": 6
+    },
+    {
+      "sentence": "Blueprint's salary mandate will strain budgets differently across districts but won't solve underlying retention challenges.",
+      "container_selector": ".analysis-highlight",
+      "paragraph_index": 6
+    },
+    {
+      "sentence": "Credential Inflation Exposed: Wealthy Eastern Shore counties graduate economically disadvantaged students at 91-95% rates while only 33-39% read proficiently—creating 53-61 point gaps between diplomas and actual competency.",
+      "container_selector": ".analysis-highlight",
+      "paragraph_index": 7
+    },
+    {
+      "sentence": "This isn't educational success—it's systematic deception.",
+      "container_selector": ".analysis-highlight",
+      "paragraph_index": 7
+    },
+    {
+      "sentence": "Poor students receive credentials without skills, entering adulthood unprepared for college or careers while wealthy districts maintain high graduation statistics.",
+      "container_selector": ".analysis-highlight",
+      "paragraph_index": 7
+    },
+    {
+      "sentence": "Caroline County shows the opposite pattern: lowest graduation rate (83.86%) but highest achievement (40.7%) for poor students—honesty instead of inflation.",
+      "container_selector": ".analysis-highlight",
+      "paragraph_index": 7
+    },
+    {
+      "sentence": "The algebra crisis reveals Maryland's most urgent instructional failure.",
+      "container_selector": ".issue-content > p",
+      "paragraph_index": 8
+    },
+    {
+      "sentence": "Across the Eastern Shore, high school students fail Algebra I at nearly identical rates regardless of their county's wealth, per-pupil spending, or elementary school performance.",
+      "container_selector": ".issue-content > p",
+      "paragraph_index": 8
+    },
+    {
+      "sentence": "Whether students attend schools in Queen Anne's County (median income $113,347, strong elementary scores) or Dorchester County (median income $60,495, struggling elementary performance), algebra proficiency collapses to 5-6%.",
+      "container_selector": ".issue-content > p",
+      "paragraph_index": 8
+    },
+    {
+      "sentence": "This uniformity is the crisis: the problem isn't individual districts' failures but a systemic breakdown in how Maryland prepares students for abstract mathematical thinking.",
+      "container_selector": ".issue-content > p",
+      "paragraph_index": 8
+    },
+    {
+      "sentence": "Elementary achievement shows dramatic variation—yet high school outcomes converge on failure.",
+      "container_selector": ".issue-content > p",
+      "paragraph_index": 9
+    },
+    {
+      "sentence": "Queen Anne's fifth graders score 45.8% proficient in ELA and 38.4% in math, well above state averages.",
+      "container_selector": ".issue-content > p",
+      "paragraph_index": 9
+    },
+    {
+      "sentence": "Dorchester's fifth graders score just 38.0% in ELA and 18.2% in math, among the state's lowest.",
+      "container_selector": ".issue-content > p",
+      "paragraph_index": 9
+    },
+    {
+      "sentence": "Yet by high school, these vastly different starting points lead to the same destination: Queen Anne's algebra proficiency drops to 5.7%, Dorchester to 5.0%.",
+      "container_selector": ".issue-content > p",
+      "paragraph_index": 9
+    },
+    {
+      "sentence": "The pipeline breaks somewhere between elementary computational skills and high school abstract reasoning—likely during middle school—and no county has solved this instructional challenge regardless of resources available.",
+      "container_selector": ".issue-content > p",
+      "paragraph_index": 9
+    },
+    {
+      "sentence": "Within-school achievement gaps compound the regional crisis.",
+      "container_selector": ".issue-content > p",
+      "paragraph_index": 10
+    },
+    {
+      "sentence": "The most disturbing pattern isn't between counties but within individual schools.",
+      "container_selector": ".issue-content > p",
+      "paragraph_index": 10
+    },
+    {
+      "sentence": "At high-performing elementary schools in affluent neighborhoods, white students thrive while Black and Hispanic students in the same classrooms score 30-50 percentage points lower on identical state assessments.",
+      "container_selector": ".issue-content > p",
+      "paragraph_index": 10
+    },
+    {
+      "sentence": "These disparities persist even in well-funded districts, proving that resource equity doesn't guarantee outcome equity.",
+      "container_selector": ".issue-content > p",
+      "paragraph_index": 10
+    },
+    {
+      "sentence": "The combination of uniform cross-county algebra failure and stark within-school racial gaps reveals both systemic instructional collapse and deep-seated inequities that funding alone cannot address.",
+      "container_selector": ".issue-content > p",
+      "paragraph_index": 10
+    },
+    {
+      "sentence": "The Blueprint for Maryland's Future represents the state's largest education investment in decades —mandating $60,000 minimum teacher salaries by July 2026, universal pre-K, expanded special education, career pathways, and instructional reforms.",
+      "container_selector": ".issue-content > p",
+      "paragraph_index": 11
+    },
+    {
+      "sentence": "But counties face these mandates with profoundly unequal fiscal capacity.",
+      "container_selector": ".issue-content > p",
+      "paragraph_index": 11
+    },
+    {
+      "sentence": "Caroline's school operating budget ($100.4M) exceeds the county's entire general fund ($79.2M), creating complete dependence on state decisions made in Annapolis.",
+      "container_selector": ".issue-content > p",
+      "paragraph_index": 11
+    },
+    {
+      "sentence": "Dorchester faces an immediate $5.5M deficit forcing program cuts even as Blueprint requires expansion.",
+      "container_selector": ".issue-content > p",
+      "paragraph_index": 11
+    },
+    {
+      "sentence": "Kent's small size (1,800 students) means every mandate costs proportionally more when spread across a tiny enrollment.",
+      "container_selector": ".issue-content > p",
+      "paragraph_index": 11
+    },
+    {
+      "sentence": "Queen Anne's has wealth ($113,347 median income) but voters resist tax increases even as Blueprint requirements grow.",
+      "container_selector": ".issue-content > p",
+      "paragraph_index": 11
+    },
+    {
+      "sentence": "The Blueprint assumed state funding could equalize opportunity, but it's layering new requirements onto fundamentally unequal fiscal foundations.",
+      "container_selector": ".issue-content > p",
+      "paragraph_index": 11
+    },
+    {
+      "sentence": "Structural challenges compound disparities in ways funding formulas don't address.",
+      "container_selector": ".issue-content > p",
+      "paragraph_index": 12
+    },
+    {
+      "sentence": "Small districts spread unavoidable fixed costs—transportation networks, building operations, administrative compliance, special education mandates—across too few students, driving per-pupil spending higher without improving outcomes.",
+      "container_selector": ".issue-content > p",
+      "paragraph_index": 12
+    },
+    {
+      "sentence": "Poor rural counties make extraordinary sacrifices to fund education, yet still provide fractions of what wealthy communities contribute almost effortlessly.",
+      "container_selector": ".issue-content > p",
+      "paragraph_index": 12
+    },
+    {
+      "sentence": "Districts facing immediate fiscal crises cannot implement Blueprint improvements while simultaneously eliminating positions to balance budgets.",
+      "container_selector": ".issue-content > p",
+      "paragraph_index": 12
+    },
+    {
+      "sentence": "The result: identical Blueprint mandates produce vastly different outcomes depending on local context that state formulas inadequately address.",
+      "container_selector": ".issue-content > p",
+      "paragraph_index": 12
+    },
+    {
+      "sentence": "Long-term sustainability remains uncertain across the region.",
+      "container_selector": ".issue-content > p",
+      "paragraph_index": 13
+    },
+    {
+      "sentence": "Blueprint mandates create permanent obligations—salary floors maintained annually, expanded programs requiring ongoing funding, facility modernization needing decades of capital investment—yet Maryland faces projected multi-billion dollar budget shortfalls.",
+      "container_selector": ".issue-content > p",
+      "paragraph_index": 13
+    },
+    {
+      "sentence": "For counties dependent on state funding for 70-80% of operations, any state reduction triggers immediate crisis.",
+      "container_selector": ".issue-content > p",
+      "paragraph_index": 13
+    },
+    {
+      "sentence": "For wealthy counties resisting local tax increases, Blueprint mandates become political conflicts over whether communities adequately fund education or rely on state intervention.",
+      "container_selector": ".issue-content > p",
+      "paragraph_index": 13
+    },
+    {
+      "sentence": "The question isn't whether counties received large Blueprint increases—it's whether those increases created sustainable systems or temporary expansions that will collapse when state priorities shift.",
+      "container_selector": ".issue-content > p",
+      "paragraph_index": 13
+    },
+    {
+      "sentence": "Racial inequality operates through two mutually reinforcing mechanisms: academic failure and systematic exclusion.",
+      "container_selector": ".issue-content > p",
+      "paragraph_index": 14
+    },
+    {
+      "sentence": "Across all five counties, Black and Hispanic students dramatically underperform white peers on state assessments—gaps ranging from 20 to 37 percentage points in ELA, 13 to 24 points in math.",
+      "container_selector": ".issue-content > p",
+      "paragraph_index": 14
+    },
+    {
+      "sentence": "Then, these same students who are already struggling academically face suspension at rates multiple times higher than their enrollment share.",
+      "container_selector": ".issue-content > p",
+      "paragraph_index": 14
+    },
+    {
+      "sentence": "The cruelest pattern: students who most need instructional time are systematically removed from classrooms, deepening academic gaps that justify further exclusion.",
+      "container_selector": ".issue-content > p",
+      "paragraph_index": 14
+    },
+    {
+      "sentence": "This isn't two separate problems—it's one interconnected system of racial inequality.",
+      "container_selector": ".issue-content > p",
+      "paragraph_index": 14
+    },
+    {
+      "sentence": "The compound disadvantage is starkest in Dorchester County, where Black students face Maryland's worst outcomes.",
+      "container_selector": ".issue-content > p",
+      "paragraph_index": 15
+    },
+    {
+      "sentence": "Black students average just 25% proficient in ELA and 5.1% in math—meaning three out of four Black students cannot read at grade level and 95% cannot do grade-level math.",
+      "container_selector": ".issue-content > p",
+      "paragraph_index": 15
+    },
+    {
+      "sentence": "Then, these academically struggling students represent 74.3% of all suspensions despite being just 26.8% of enrollment.",
+      "container_selector": ".issue-content > p",
+      "paragraph_index": 15
+    },
+    {
+      "sentence": "Black students in Dorchester are simultaneously failing academically and being removed from the limited instruction they receive.",
+      "container_selector": ".issue-content > p",
+      "paragraph_index": 15
+    },
+    {
+      "sentence": "In Talbot, Hispanic students show the region's widest achievement gaps (37.5 points below white peers in ELA) while also facing elevated suspension rates.",
+      "container_selector": ".issue-content > p",
+      "paragraph_index": 15
+    },
+    {
+      "sentence": "In Queen Anne's, wealth doesn't eliminate these patterns—despite the county's affluence, significant achievement gaps persist alongside discipline disparities.",
+      "container_selector": ".issue-content > p",
+      "paragraph_index": 15
+    },
+    {
+      "sentence": "These patterns exist independent of overall school quality or county resources.",
+      "container_selector": ".issue-content > p",
+      "paragraph_index": 16
+    },
+    {
+      "sentence": "Kent County, with the region's highest per-pupil spending ($21,188) and strong local funding, shows 31.5-point white-Black ELA gap and 29.8-point white-Hispanic gap.",
+      "container_selector": ".issue-content > p",
+      "paragraph_index": 16
+    },
+    {
+      "sentence": "Talbot, with excellent overall performance and Blueprint's largest funding increase (49%), maintains 36.8-point white-Black ELA gap and 37.5-point white-Hispanic gap.",
+      "container_selector": ".issue-content > p",
+      "paragraph_index": 16
+    },
+    {
+      "sentence": "Even Queen Anne's, with median income of $113,347 and strong elementary performance (45.8% proficient in 5th grade ELA), shows 26.3-point white-Black ELA gap and 24.7-point white-Hispanic gap.",
+      "container_selector": ".issue-content > p",
+      "paragraph_index": 16
+    },
+    {
+      "sentence": "Money, resources, and overall school quality don't eliminate racial inequality—they exist alongside it, revealing that these gaps reflect systematic differences in how schools perceive, teach, support, and discipline students of different races.",
+      "container_selector": ".issue-content > p",
+      "paragraph_index": 16
+    },
+    {
+      "sentence": "Teacher staffing challenges reveal how district size and structure matter as much as funding.",
+      "container_selector": ".issue-content > p",
+      "paragraph_index": 17
+    },
+    {
+      "sentence": "Some counties achieve favorable student-teacher ratios through scale and efficiency—large enough to spread fixed costs but small enough to maintain coherence.",
+      "container_selector": ".issue-content > p",
+      "paragraph_index": 17
+    },
+    {
+      "sentence": "Others face structural disadvantages where high per-pupil spending yields poor ratios because fixed costs consume resources before reaching classrooms.",
+      "container_selector": ".issue-content > p",
+      "paragraph_index": 17
+    },
+    {
+      "sentence": "Small districts cannot offer career ladders, department structures, peer collaboration, or professional community—making recruitment of specialized teachers nearly impossible regardless of salary competitiveness.",
+      "container_selector": ".issue-content > p",
+      "paragraph_index": 17
+    },
+    {
+      "sentence": "Meanwhile, large districts face internal migration where teachers transfer from high-need schools to affluent campuses, concentrating novice educators at schools serving most vulnerable students.",
+      "container_selector": ".issue-content > p",
+      "paragraph_index": 17
+    },
+    {
+      "sentence": "Chronic turnover affects all counties despite different resource levels.",
+      "container_selector": ".issue-content > p",
+      "paragraph_index": 18
+    },
+    {
+      "sentence": "Every district in region hires new teachers at rates exceeding 10% annually—meaning one in ten teachers is brand new to school system.",
+      "container_selector": ".issue-content > p",
+      "paragraph_index": 18
+    },
+    {
+      "sentence": "This perpetual cycle creates instability: curriculum continuity breaks, relationships with families dissolve, institutional knowledge disappears, students cycle through rotating instructors who lack context about their academic histories or family circumstances.",
+      "container_selector": ".issue-content > p",
+      "paragraph_index": 18
+    },
+    {
+      "sentence": "Turnover hits multilingual learners especially hard, as ESL-certified teachers are scarce regionally and high turnover means students repeatedly start over with instructors lacking cultural competency or language acquisition training.",
+      "container_selector": ".issue-content > p",
+      "paragraph_index": 18
+    },
+    {
+      "sentence": "For schools serving high-poverty communities, teacher churn compounds every other challenge.",
+      "container_selector": ".issue-content > p",
+      "paragraph_index": 18
+    },
+    {
+      "sentence": "Blueprint's $60,000 minimum salary requirement arrives into this fragile context.",
+      "container_selector": ".issue-content > p",
+      "paragraph_index": 19
+    },
+    {
+      "sentence": "For poor districts already struggling with deficits and program cuts, salary floor consumes scarce resources without solving retention problems—teachers leave not just for money but for manageable working conditions, supportive leadership, schools where students arrive ready to learn.",
+      "container_selector": ".issue-content > p",
+      "paragraph_index": 19
+    },
+    {
+      "sentence": "For small districts, every salary increase affects higher percentage of total budget when spread across tiny workforces.",
+      "container_selector": ".issue-content > p",
+      "paragraph_index": 19
+    },
+    {
+      "sentence": "For wealthy districts, mandate becomes political flashpoint as communities debate whether to exceed minimum to maintain competitive advantage.",
+      "container_selector": ".issue-content > p",
+      "paragraph_index": 19
+    },
+    {
+      "sentence": "Across all contexts, salary floor addresses real teacher compensation needs but cannot solve structural challenges—district size inefficiencies, within-district inequities, chronic instability, working conditions—that actually drive educators away.",
+      "container_selector": ".issue-content > p",
+      "paragraph_index": 19
+    },
+    {
+      "sentence": "Wealthy districts inflate graduation rates to mask achievement failures among economically disadvantaged students.",
+      "container_selector": ".issue-content > p",
+      "paragraph_index": 20
+    },
+    {
+      "sentence": "Kent, Queen Anne's, and Talbot counties graduate 91-95% of their economically disadvantaged students—rates that would suggest educational success.",
+      "container_selector": ".issue-content > p",
+      "paragraph_index": 20
+    },
+    {
+      "sentence": "But proficiency data reveals the truth: just 33-39% of these students read proficiently.",
+      "container_selector": ".issue-content > p",
+      "paragraph_index": 20
+    },
+    {
+      "sentence": "These counties award diplomas to students who cannot read at grade level, creating 53-61 point gaps between credential and competency.",
+      "container_selector": ".issue-content > p",
+      "paragraph_index": 20
+    },
+    {
+      "sentence": "This pattern appears only in wealthy counties—not in poor ones—suggesting that local affluence enables grade inflation, credit recovery programs, and alternative pathways that prioritize graduation statistics over actual learning.",
+      "container_selector": ".issue-content > p",
+      "paragraph_index": 20
+    },
+    {
+      "sentence": "The poorest county demonstrates the highest academic integrity through lower but honest graduation rates.",
+      "container_selector": ".issue-content > p",
+      "paragraph_index": 21
+    },
+    {
+      "sentence": "Caroline County—with the region's second-lowest median income ($66,368) and highest state dependency (78.8%)—graduates just 83.86% of economically disadvantaged students, the lowest rate regionally.",
+      "container_selector": ".issue-content > p",
+      "paragraph_index": 21
+    },
+    {
+      "sentence": "But Caroline's economically disadvantaged students achieve 40.7% ELA proficiency, the highest among the five counties.",
+      "container_selector": ".issue-content > p",
+      "paragraph_index": 21
+    },
+    {
+      "sentence": "Caroline's 43.0-point credential gap (graduation rate minus proficiency) is 10-18 points smaller than wealthy counties' gaps, revealing a hard truth: poor counties lack resources to inflate credentials through credit recovery, online courses, alternative assessments, and administrative pressure to boost statistics.",
+      "container_selector": ".issue-content > p",
+      "paragraph_index": 21
+    },
+    {
+      "sentence": "Caroline's low graduation rate reflects honest evaluation rather than systemic failure.",
+      "container_selector": ".issue-content > p",
+      "paragraph_index": 21
+    },
+    {
+      "sentence": "Credential inflation perpetuates inequality by hiding the wealth-achievement correlation.",
+      "container_selector": ".issue-content > p",
+      "paragraph_index": 22
+    },
+    {
+      "sentence": "When wealthy counties report 95% graduation rates alongside 33% proficiency, they obscure the actual educational crisis: most economically disadvantaged students graduate unprepared for college or careers.",
+      "container_selector": ".issue-content > p",
+      "paragraph_index": 22
+    },
+    {
+      "sentence": "This deception serves multiple constituencies: politicians cite high graduation rates as policy success, administrators avoid state intervention that low graduation rates would trigger, colleges maintain enrollment by accepting underprepared students into remedial programs, and wealthy families preserve their advantage because poor students with inflated credentials compete unsuccessfully against wealthy students with actual skills.",
+      "container_selector": ".issue-content > p",
+      "paragraph_index": 22
+    },
+    {
+      "sentence": "The result: generational poverty persists because poor students receive diplomas that don't represent competency, entering adulthood with credentials employers and colleges don't value.",
+      "container_selector": ".issue-content > p",
+      "paragraph_index": 22
+    },
+    {
+      "sentence": "Caroline County: At North Caroline High School, only 5.1% of students pass Algebra I.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 23
+    },
+    {
+      "sentence": "This isn't about individual student ability—it's about a pipeline that breaks long before high school.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 23
+    },
+    {
+      "sentence": "At Greensboro Elementary, where 50% of students are Hispanic and 87.7% qualify for free meals, just 25.7% meet 5th grade ELA standards.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 23
+    },
+    {
+      "sentence": "These students—many from Caroline's growing immigrant population (6.8% foreign-born, up from 6.29% in 2022; 8.77% Hispanic)—enter school facing language barriers and leave elementary school without literacy foundations that make algebra possible four years later.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 23
+    },
+    {
+      "sentence": "The county's heavy state funding dependency (78.8% state-funded, receiving $14,630 per pupil in state aid) means Caroline cannot afford intensive middle school math intervention programs that might bridge the gap.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 23
+    },
+    {
+      "sentence": "When students fail algebra, they lose access to advanced coursework, STEM pathways, and four-year college admission.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 23
+    },
+    {
+      "sentence": "For families in Caroline's high-poverty communities (12.4% poverty rate, median income $66,368), algebra failure locks another generation into limited economic opportunity.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 23
+    },
+    {
+      "sentence": "Dorchester County: Cambridge-South Dorchester High's 5.0% algebra proficiency is predetermined by elementary school failures.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 24
+    },
+    {
+      "sentence": "At Choptank Elementary, where 90.5% of students qualify for free meals and 72% are Black, just 7.4% meet 5th grade math standards.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 24
+    },
+    {
+      "sentence": "These aren't just statistics—they represent Dorchester's 8,250 Black residents (25.3% of population, Maryland's highest rural Black percentage) watching their children fall behind year after year.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 24
+    },
+    {
+      "sentence": "Despite receiving among Maryland's highest per-pupil funding ($21,000 total, with state providing 74%), the county's $5.5M deficit forced summer school cancellations that eliminated intervention opportunities.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 24
+    },
+    {
+      "sentence": "With median income of $60,495 (lowest in region), families cannot purchase private tutoring to fill gaps.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 24
+    },
+    {
+      "sentence": "For Dorchester's 1,300 foreign-born residents and growing Hispanic population, algebra failure means the American Dream ends in high school, despite living in a state investing heavily in education reform.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 24
+    },
+    {
+      "sentence": "Kent County: Kent County High School's 6.1% algebra proficiency represents catastrophic failure despite $21,188 per-pupil spending (sixth highest statewide) and strong local funding (60% local share, $11,912 per pupil).",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 25
+    },
+    {
+      "sentence": "The county's small size creates the crisis: with only 1,800 students across five schools and 66 teachers, Kent cannot offer differentiated math instruction, intervention courses, or specialized support programs that larger districts provide.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 25
+    },
+    {
+      "sentence": "The 27.1:1 student-teacher ratio (worst in region) means teachers cannot provide individualized attention despite knowing every student personally.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 25
+    },
+    {
+      "sentence": "Mosley Elementary, just 36.7% of 5th graders meet ELA standards and 19.8% meet math—these students never build foundations algebra requires.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 25
+    },
+    {
+      "sentence": "Kent's wealth (median income $74,402, property taxes generate $11,912 per pupil locally) creates false confidence that resources guarantee outcomes, but small district limitations prevent the programming diversity that money enables elsewhere.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 25
+    },
+    {
+      "sentence": "Kent students who fail algebra face limited local employment options and lack credentials to compete regionally.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 25
+    },
+    {
+      "sentence": "Queen Anne's County: Queen Anne's paradox exposes that the algebra crisis isn't about resources.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 26
+    },
+    {
+      "sentence": "Fifth graders score 45.8% proficient in ELA and 38.4% in math—well above state averages and the region's strongest elementary performance.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 26
+    },
+    {
+      "sentence": "Yet algebra proficiency collapses to 5.7%, identical to far poorer counties.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 26
+    },
+    {
+      "sentence": "This reveals an instructional crisis, not a funding problem.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 26
+    },
+    {
+      "sentence": "With median income of $113,347 (highest in region), the county generates $9,714 per pupil locally and could easily afford enhanced math programs—yet chooses not to implement them effectively.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 26
+    },
+    {
+      "sentence": "High-performing elementary schools build computational skills but fail to develop algebraic thinking.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 26
+    },
+    {
+      "sentence": "Middle school math instruction doesn't bridge concrete arithmetic to abstract reasoning.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 26
+    },
+    {
+      "sentence": "By high school, even students from the county's most affluent families cannot solve basic algebra despite attending well-resourced schools.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 26
+    },
+    {
+      "sentence": "For Queen Anne's 2,680 Hispanic residents (5.26%, growing from 4.19% foreign-born in 2022 to 5.04% in 2023) and multilingual learner concentrations, inadequate support persists despite abundant local capacity.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 26
+    },
+    {
+      "sentence": "Talbot County: Easton High School serves 1,179 students: 28.33% Hispanic, 17.64% Black, 58.4% eligible for free meals, 13.7% multilingual learners.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 27
+    },
+    {
+      "sentence": "Only 5.0% pass Algebra I.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 27
+    },
+    {
+      "sentence": "Yet Talbot posts a 95% graduation rate (tied for top four statewide) and received the state's largest Blueprint increase (49% from FY2019-2024, state aid growing from $4,579 to $5,883 per pupil).",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 27
+    },
+    {
+      "sentence": "This contradiction exposes hollow graduation statistics when students leave without mathematical competency.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 27
+    },
+    {
+      "sentence": "Within-district gaps are stark: at Chapel District Elementary (77% white, 42% FARMS), 67.5% of 5th graders meet ELA standards.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 27
+    },
+    {
+      "sentence": "At Easton Elementary (27% white, 75% FARMS, 45% Hispanic), just 19.8% meet standards—a 47.7-point gap predicting algebra failure.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 27
+    },
+    {
+      "sentence": "Talbot's median income ($84,378) and strong local funding ($12,047 per pupil in FY2024) create a two-tier system where zip code determines whether students receive strong K-5 math foundations or enter middle school years behind.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 27
+    },
+    {
+      "sentence": "For the county's 3,430 Hispanic residents (9.1%, highest in region) and 3,210 foreign-born residents (8.51%, highest in region), algebra failure eliminates pathways to four-year colleges despite living in one of Maryland's wealthiest counties.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 27
+    },
+    {
+      "sentence": "Caroline County: Caroline's fiscal crisis is unprecedented: the school operating budget ($100.4M) exceeds the county government's entire general fund ($79.2M).",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 28
+    },
+    {
+      "sentence": "The school system is literally larger than the government funding it.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 28
+    },
+    {
+      "sentence": "Caroline provides only 20.2% of education costs ($3,760 per pupil locally, increasing from $2,760 in FY2020 to just $3,002 in FY2024) while the state covers 78.8% ($14,630 per pupil, up from $12,432 in FY2020—a 40% increase, fifth-largest in Maryland).",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 28
+    },
+    {
+      "sentence": "By FY2025, state funding reached $15,287 per pupil.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 28
+    },
+    {
+      "sentence": "This heavy state dependency reflects Blueprint's equity goals but creates vulnerability: every dollar comes from Annapolis decisions beyond local control.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 28
+    },
+    {
+      "sentence": "The county's median income ($66,368, second-lowest) and 12.4% poverty rate prevent tax revenue growth.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 28
+    },
+    {
+      "sentence": "As Blueprint mandates arrive—$60,000 minimum teacher salaries (July 2026 requiring ~$1.45M for 289 teachers), pre-K expansion, special education increases—Caroline has zero fiscal cushion.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 28
+    },
+    {
+      "sentence": "One delayed state payment triggers catastrophe: school closures, mass layoffs, program eliminations.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 28
+    },
+    {
+      "sentence": "For Caroline's 2,930 Hispanic residents and 2,271 foreign-born residents, Blueprint-funded multilingual services could vanish overnight if state priorities shift.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 28
+    },
+    {
+      "sentence": "Caroline's future depends entirely on legislators who don't represent the county.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 28
+    },
+    {
+      "sentence": "Dorchester County: Dorchester's $5.5M deficit (reduced from $10M through cuts) forced summer school cancellations and eliminated 36 teaching positions in 2024-2025.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 29
+    },
+    {
+      "sentence": "Despite receiving Maryland's largest Blueprint-driven funding increases—state aid grew 37% from $11,996 per pupil (FY2020) to $14,405 (FY2024), reaching 74% of total funding—the county cannot sustain Blueprint obligations.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 29
+    },
+    {
+      "sentence": "Local funding increased from $4,432 to $5,698 per pupil but represents extraordinary sacrifice from Maryland's poorest community (median income $60,495, lowest in region, 25.3% Black population).",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 29
+    },
+    {
+      "sentence": "Total per-pupil spending reached ~$21,000, yet the district faces collapse.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 29
+    },
+    {
+      "sentence": "Superintendent Dr. Jymil Thompson (appointed July 2024) inherited a system one quarter from fiscal catastrophe.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 29
+    },
+    {
+      "sentence": "The $60,000 minimum teacher salary costs ~$1.4M annually for 233 teachers in a district already eliminating positions.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 29
+    },
+    {
+      "sentence": "Mace's Lane Middle School ranks 4th percentile statewide (33/100 points, Maryland's lowest-ranked middle school) despite third-highest regional per-pupil spending—proving money alone doesn't determine success.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 29
+    },
+    {
+      "sentence": "For Dorchester's 1,300 foreign-born residents and 8,250 Black residents, budget failures mean overcrowded classrooms, eliminated ESL programs, cancelled interventions—systematic disinvestment despite Blueprint's equity intentions.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 29
+    },
+    {
+      "sentence": "Kent County: Kent appears fiscally strong: $21,188 per-pupil spending (sixth highest statewide), 60% local funding ($11,912 per pupil in FY2024, up from $10,058 in FY2020), low state dependency (40%).",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 30
+    },
+    {
+      "sentence": "But small scale creates crisis.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 30
+    },
+    {
+      "sentence": "With only 1,800 students and 66 teachers, every cost hits proportionally harder.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 30
+    },
+    {
+      "sentence": "The $60,000 minimum salary mandate costs $396,000 annually in a district where each teacher represents 1.5% of total workforce.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 30
+    },
+    {
+      "sentence": "Blueprint state aid grew 33.8% ($6,666 to $7,957 per pupil, FY2020-2024), but growth went to fixed costs: health insurance, pensions, facility maintenance for buildings serving declining enrollment.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 30
+    },
+    {
+      "sentence": "The district initially proposed eliminating 44 positions; county commissioners intervened with $300,000, reducing cuts to 18 positions scheduled by 2026.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 30
+    },
+    {
+      "sentence": "Kent officials estimate Blueprint obligations will cost $8M through 2030—a massive burden for a small tax base.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 30
+    },
+    {
+      "sentence": "The 27.1:1 student-teacher ratio (worst in region) reflects efficiency paradox: Kent can't achieve economies of scale regardless of per-pupil spending.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 30
+    },
+    {
+      "sentence": "In a 66-teacher district, one retirement eliminates courses; one resignation ends programs.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 30
+    },
+    {
+      "sentence": "For Kent's 855 foreign-born residents and 1,070 Hispanic residents, small scale means zero bilingual staff, no dedicated ESL teachers, complete dependence on regional cooperatives for services the district structurally cannot provide.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 30
+    },
+    {
+      "sentence": "Queen Anne's County: Queen Anne's received the region's smallest Blueprint increase—state aid grew just 2% in real terms from FY2019-2024, the lowest statewide growth, rising from $5,844 to $6,926 per pupil (FY2020-2024).",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 31
+    },
+    {
+      "sentence": "Because state formulas assume local wealth enables self-funding, the county spends just $17,662 per pupil (23rd of 24 Maryland counties, second-lowest statewide) despite median income of $113,347 (highest in region).",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 31
+    },
+    {
+      "sentence": "This contradiction reflects political dysfunction: capacity exists but political will doesn't.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 31
+    },
+    {
+      "sentence": "Local funding increased 29% over three years ($7,934 to $9,714 per pupil, FY2020-2024), now covering 60% of school costs, but growth required staff furloughs that saved $1.4M.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 31
+    },
+    {
+      "sentence": "Education represents 39.6% of county budget, yet expansion is politically impossible.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 31
+    },
+    {
+      "sentence": "The county commissioned independent budget reviews (FY2023-2025) signaling fiscal tension.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 31
+    },
+    {
+      "sentence": "Interim Superintendent Dr. Matthew Kibler (appointed June 2025) inherits capacity without support.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 31
+    },
+    {
+      "sentence": "The $60,000 minimum teacher salary costs just $784,000 (392 teachers × ~$2,000)—easily affordable but likely triggering demands for tax cuts rather than program expansion.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 31
+    },
+    {
+      "sentence": "For Queen Anne's 2,680 Hispanic residents (5.26%, growing from 4.19% foreign-born in 2022) and 2,570 foreign-born residents, this creates unique crisis: living in Maryland's wealthiest county yet attending schools operating on artificial scarcity created by political choice, not economic necessity.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 31
+    },
+    {
+      "sentence": "Talbot County: Talbot's Blueprint increase—49% state aid growth from FY2019-2024 (largest percentage increase statewide), rising from $4,579 to $5,883 per pupil—pushed total per-pupil spending from ~$14,000 (FY2020) to $19,238 (FY2025).",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 32
+    },
+    {
+      "sentence": "The county now receives 33% from state (lowest in Maryland), 67% locally ($12,047 per pupil in FY2024, up from $9,568 in FY2020).",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 32
+    },
+    {
+      "sentence": "Despite this growth, within-district inequity deepens.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 32
+    },
+    {
+      "sentence": "At Easton High School (28.33% Hispanic, 58.4% FARMS, 13.7% multilingual learners), only 5.0% pass algebra.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 32
+    },
+    {
+      "sentence": "At St. Michaels Middle/High (11.14% Hispanic, 46.4% FARMS), outcomes are dramatically better.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 32
+    },
+    {
+      "sentence": "Blueprint funding flows equally to all schools, but need concentrates in specific buildings, widening rather than closing gaps.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 32
+    },
+    {
+      "sentence": "The county's \"Align by 2029\" strategic plan acknowledges this but offers no redistribution mechanism.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 32
+    },
+    {
+      "sentence": "With median income of $84,378 and property values of $398,300, Talbot has capacity but faces political deadlock: wealthy waterfront communities resist tax increases to fund high-poverty schools in Easton.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 32
+    },
+    {
+      "sentence": "The 3,430 Hispanic residents (9.1%, highest) and 3,210 foreign-born residents (8.51%, highest) concentrate in Easton, creating two-tier system.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 32
+    },
+    {
+      "sentence": "Blueprint increases were supposed to close gaps but instead exposed the political impossibility of equitable distribution in a divided county.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 32
+    },
+    {
+      "sentence": "Caroline County: Caroline's racial inequality manifests as parallel failures: Black students score 27.5 points below white peers in ELA (30.8% vs. 58.3%) and 19.6 points below in math (9.1% vs. 28.7%), then face suspension at 28.8% of total suspensions.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 33
+    },
+    {
+      "sentence": "Hispanic students show similar patterns—21.5-point ELA gap, 13.5-point math gap—but face far less disciplinary targeting (4.8% of suspensions despite being 8.77% of population).",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 33
+    },
+    {
+      "sentence": "At Federalsburg Elementary (38.55% Black, 35.66% white), the achievement gap begins early and discipline disparities compound it throughout schooling.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 33
+    },
+    {
+      "sentence": "For Caroline's 4,420 Black residents (13.2% of population), this creates a devastating pipeline: enter elementary school already facing disadvantage, fall further behind as white peers receive more effective instruction, exhibit frustration that gets labeled as misbehavior, lose additional instructional time to suspensions, fail to catch up, and graduate (if at all) without college-ready skills.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 33
+    },
+    {
+      "sentence": "The county's 78.8% state funding dependency means it cannot afford intensive interventions, culturally responsive teaching training, or restorative justice programs that might interrupt this cycle.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 33
+    },
+    {
+      "sentence": "Caroline's 2,930 Hispanic students face the academic gaps without equivalent discipline targeting, suggesting different mechanisms of exclusion—likely language barriers and inadequate ESL support rather than behavioral removal.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 33
+    },
+    {
+      "sentence": "The result: racial inequality operates through different pathways but produces similarly harmful outcomes.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 33
+    },
+    {
+      "sentence": "Dorchester County: Dorchester shows Maryland's most extreme compound racial disadvantage.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 34
+    },
+    {
+      "sentence": "Black students score 33.2 points below white peers in ELA (25.0% vs. 58.2%)—meaning three out of four Black students cannot read at grade level compared to two out of five white students.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 34
+    },
+    {
+      "sentence": "Math gaps are even worse: 23.5 points (5.1% vs. 28.6%), meaning 95% of Black students fail grade-level math.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 34
+    },
+    {
+      "sentence": "Then these academically struggling students face suspension at 74.3% of all disciplinary actions despite representing just 26.8% of enrollment—a 2.8x disparity.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 34
+    },
+    {
+      "sentence": "At Choptank Elementary (72% Black, 90.5% FARMS), 92.6% of students fail 5th grade math, creating a cohort of students who are both academically unprepared and subject to elevated discipline.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 34
+    },
+    {
+      "sentence": "For Dorchester's 8,250 Black residents (25.3% of population, Maryland's highest rural Black percentage), this represents systematic exclusion disguised as education.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 34
+    },
+    {
+      "sentence": "The county's $5.5M deficit forced elimination of counselors and behavioral specialists, leaving suspension as the only available response to student misconduct—but suspension removes already-struggling students from the limited instruction they receive, guaranteeing continued failure.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 34
+    },
+    {
+      "sentence": "Hispanic students show moderate achievement gaps (23.4-point ELA gap) but minimal discipline targeting (3.7% of suspensions), suggesting that Dorchester's primary racial inequality mechanism is anti-Black bias in both instruction and discipline.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 34
+    },
+    {
+      "sentence": "With median income of $60,495 (lowest in region) and 74% state funding dependency, Dorchester lacks resources to implement evidence-based interventions like culturally responsive teaching, trauma-informed discipline, or intensive tutoring that might close gaps.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 34
+    },
+    {
+      "sentence": "The result: Black students experience compounding disadvantage where each system failure reinforces the next.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 34
+    },
+    {
+      "sentence": "Kent County: Kent's racial inequality exists despite highest regional per-pupil spending ($21,188) and strong local funding (60%, $11,912 per pupil), proving that money alone doesn't eliminate systematic racial gaps.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 35
+    },
+    {
+      "sentence": "Black students score 31.5 points below white peers in ELA (22.1% vs. 53.6%) and 17.4 points below in math (7.3% vs. 24.7%), then face suspension at 44.8% of total suspensions despite representing just 18.9% of enrollment—a 2.4x disparity.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 35
+    },
+    {
+      "sentence": "Hispanic students show nearly identical achievement patterns (29.8-point ELA gap, 23.8% proficient) but face less extreme discipline targeting (9.5% of suspensions).",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 35
+    },
+    {
+      "sentence": "In a district of only 1,800 students and 66 teachers, these gaps reflect individual-level failures: every teacher knows every student personally, yet Black and Hispanic students receive dramatically different outcomes.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 35
+    },
+    {
+      "sentence": "The 27.1:1 student-teacher ratio (worst in region) means teachers lack capacity for individualized instruction or differentiated support, defaulting to one-size-fits-all teaching that serves white students while leaving Black and Hispanic students behind.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 35
+    },
+    {
+      "sentence": "For Kent's 2,740 Black residents (14.2%) and 1,070 Hispanic residents (5.57%, up from 3.99% foreign-born in 2022), small district size creates unique vulnerability: no critical mass enables culturally responsive programming, no bilingual staff exists to support language needs, no peer community exists for students of color.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 35
+    },
+    {
+      "sentence": "Kent's wealth enables high spending but cannot overcome structural limitations of size—the district is too small to provide specialized racial equity interventions that might close gaps.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 35
+    },
+    {
+      "sentence": "Queen Anne's County: Queen Anne's proves that wealth doesn't eliminate racial inequality—it just makes it more politically contentious.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 36
+    },
+    {
+      "sentence": "Despite median income of $113,347 (highest in region) and strong local funding ($9,714 per pupil), Black students score 26.3 points below white peers in ELA (37.2% vs. 63.5%) and 24.4 points below in math (11.7% vs. 36.1%).",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 36
+    },
+    {
+      "sentence": "Hispanic students show similar gaps: 24.7-point ELA gap, 15.4-point math gap.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 36
+    },
+    {
+      "sentence": "Suspension disparities are more moderate than other counties (Black students 16.8% of suspensions vs. 12.0% enrollment, Hispanic 8.6% vs. 5.26% population) but still reflect systematic bias.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 36
+    },
+    {
+      "sentence": "What makes Queen Anne's distinct is that these gaps exist in a county that could afford to eliminate them—the county simply chooses not to.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 36
+    },
+    {
+      "sentence": "With strong elementary performance overall (45.8% proficient 5th grade ELA) and 95% graduation rate, Queen Anne's shows that excellence for white students coexists with persistent underperformance for students of color.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 36
+    },
+    {
+      "sentence": "The county's 3,040 Black residents (5.97%) and 2,680 Hispanic residents (5.26%, growing from 4.19% foreign-born in 2022) experience racial inequality in an affluent community that markets itself as high-performing.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 36
+    },
+    {
+      "sentence": "Parents pay high property taxes expecting excellent schools and receive them—if they're white.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 36
+    },
+    {
+      "sentence": "The achievement gaps suggest that teaching practices, curricular choices, and support systems are optimized for white students while inadequately serving students of color.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 36
+    },
+    {
+      "sentence": "Unlike poor counties that can blame resource constraints, Queen Anne's gaps reflect political choices about whether racial equity is a priority worth investing in.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 36
+    },
+    {
+      "sentence": "Talbot County: Talbot maintains the region's widest racial achievement gaps despite receiving Blueprint's largest funding increase (49% state aid growth, $4,579 to $5,883 per pupil FY2019-2024) and posting 95% graduation rate across all races.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 37
+    },
+    {
+      "sentence": "Black students score 36.8 points below white peers in ELA (25.7% vs. 62.5%)—the largest gap in the region.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 37
+    },
+    {
+      "sentence": "Hispanic students fare even worse: 37.5-point ELA gap (25.0% proficient) and 22.5-point math gap (7.8% proficient), making them the region's lowest-performing group.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 37
+    },
+    {
+      "sentence": "Then these academically struggling students face elevated suspension rates: Black students represent 36.4% of suspensions, Hispanic students 6.7%, compared to white students' 21.6%.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 37
+    },
+    {
+      "sentence": "The within-district segregation drives these patterns: at Chapel District Elementary (77% white, 42% FARMS), white students score 67.5% proficient in 5th grade ELA while at Easton Elementary (27% white, 75% FARMS, 45% Hispanic), students score 19.8%—a 47.7-point gap.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 37
+    },
+    {
+      "sentence": "These elementary gaps persist and widen through secondary school, yet both groups graduate at 95% rates, proving that Talbot grants diplomas regardless of competency.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 37
+    },
+    {
+      "sentence": "For Talbot's 4,520 Black residents (12.0%) and 3,430 Hispanic residents (9.1%, highest in region), this represents the cruelest form of inequality: the illusion of equity through equal graduation rates that masks profound and growing academic gaps.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 37
+    },
+    {
+      "sentence": "Wealthy families in waterfront communities supplement public schools with private tutoring, test prep, summer enrichment—investments that compound advantages while families in Easton depend entirely on schools that systematically underserve their children.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 37
+    },
+    {
+      "sentence": "Blueprint funding was supposed to close these gaps but instead flows equally to all schools, widening disparities when need concentrates in specific buildings.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 37
+    },
+    {
+      "sentence": "Caroline County: Caroline employs 289 teachers serving 5,400 students (18.7:1 ratio, second-worst in region).",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 38
+    },
+    {
+      "sentence": "District hired 34 new teachers in 2023-2024 (11.8% turnover), signaling chronic workforce instability.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 38
+    },
+    {
+      "sentence": "With median income $66,368 and 78.8% state funding dependency, Caroline can't compete on salary with Anne Arundel, Talbot, or Kent.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 38
+    },
+    {
+      "sentence": "Starting teachers earn approximately $48,000—barely above poverty level for a family—while neighboring counties offer $55,000+.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 38
+    },
+    {
+      "sentence": "Blueprint's $60,000 minimum (July 2026) will cost $1.45M annually if current average salary is $55,000, consuming scarce local resources county doesn't have.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 38
+    },
+    {
+      "sentence": "Budget narrative acknowledges \"special education and utilities rising steeply\"—code for saying there's no money for retention bonuses, salary steps, or competitive compensation.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 38
+    },
+    {
+      "sentence": "For Caroline's 2,930 Hispanic residents (8.77%) and 2,271 foreign-born residents (6.8%), teacher turnover is catastrophic: ESL-certified teachers are scarce regionally, and high turnover means multilingual students cycle through instructors lacking cultural competency or language acquisition training.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 38
+    },
+    {
+      "sentence": "County's +2.1% teacher growth masks deeper crisis: for every teacher hired to meet Blueprint mandates, an experienced teacher leaves for better pay elsewhere—creating perpetually novice workforce teaching region's most vulnerable students.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 38
+    },
+    {
+      "sentence": "Dorchester County: Dorchester employs 233 teachers serving 4,500 students (19.3:1 ratio, tied for worst in region).",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 39
+    },
+    {
+      "sentence": "District hired 28 new teachers (12.0% turnover) but experienced -1.7% year-over-year decline—meaning Dorchester is shrinking its workforce while replacing departures.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 39
+    },
+    {
+      "sentence": "The $5.5M deficit forced elimination of 36 positions, signaling staffing crisis that will worsen.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 39
+    },
+    {
+      "sentence": "With median income $60,495 (lowest in region), Dorchester offers starting salaries around $46,000—uncompetitive with any neighboring system.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 39
+    },
+    {
+      "sentence": "County's 69.0% state dependency means every dollar for salary increases comes at expense of textbooks, technology, or building maintenance.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 39
+    },
+    {
+      "sentence": "Superintendent Dr. Jymil Thompson (appointed July 2024) inherited district where fiscal collapse threatens mass teacher layoffs at any moment.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 39
+    },
+    {
+      "sentence": "Blueprint's $60,000 minimum costs $1.4M annually (233 teachers × $6,000)—impossible in district already eliminating positions.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 39
+    },
+    {
+      "sentence": "For Dorchester's 8,250 Black residents (25.3%) and 1,300 foreign-born residents (3.98%), teacher shortages mean larger classes (19.3:1 worst in region), less individual attention, more behavioral removals as overwhelmed teachers can't manage large groups, and rotating substitute coverage that eliminates instructional continuity.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 39
+    },
+    {
+      "sentence": "County's 12.0% new hire rate paired with declining total staff proves Dorchester is bleeding experienced teachers it cannot afford to replace.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 39
+    },
+    {
+      "sentence": "Kent County: Kent employs just 66 teachers serving 1,800 students—region's smallest workforce creates extraordinary vulnerability.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 40
+    },
+    {
+      "sentence": "The 27.1:1 student-teacher ratio (worst in region) exists despite $21,188 per-pupil spending (highest) because small scale prevents efficiency.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 40
+    },
+    {
+      "sentence": "District hired 8 new teachers (12.1% turnover) with +1.5% growth—seemingly modest numbers that represent massive percentage shifts in 66-person workforce.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 40
+    },
+    {
+      "sentence": "In this tiny system, every resignation is catastrophic: sole AP Calculus teacher leaving eliminates course; only Spanish teacher retiring ends program; single school counselor resigning leaves 1,800 students without mental health support.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 40
+    },
+    {
+      "sentence": "Blueprint's $60,000 minimum costs $396,000 annually (66 teachers × $6,000)—easily affordable with 61.4% local funding, but real crisis is recruitment.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 40
+    },
+    {
+      "sentence": "Kent can't attract specialized teachers (AP instructors, world languages, STEM) because 66-teacher district offers no career ladder, no peer support, no department colleagues, no professional community.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 40
+    },
+    {
+      "sentence": "For Kent's 1,070 Hispanic residents (5.57%) and 855 foreign-born residents (4.44%), small scale means zero bilingual staff, no dedicated ESL teachers, complete dependence on regional cooperatives for services district structurally cannot provide independently.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 40
+    },
+    {
+      "sentence": "Queen Anne's County: Queen Anne's employs 392 teachers serving 8,000 students (20.4:1 ratio, regional middle).",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 41
+    },
+    {
+      "sentence": "District hired 47 new teachers (12.0% turnover) with +3.2% year-over-year growth—region's strongest teacher workforce expansion.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 41
+    },
+    {
+      "sentence": "Yet this barely keeps pace with enrollment growth: 256 new students in 2023-2024 versus 12 new teachers, worsening student-teacher ratio.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 41
+    },
+    {
+      "sentence": "With median income $113,347 (highest in region), Queen Anne's can afford competitive salaries—current starting salary approximately $54,000 with potential to offer retention bonuses and rapid advancement—but county's conservative fiscal culture resists above-minimum investments.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 41
+    },
+    {
+      "sentence": "Blueprint's $60,000 minimum costs just $784,000 (392 teachers × $2,000)—easily affordable with $10,498 per-pupil local funding, yet likely to trigger taxpayer demands for cost control rather than enhanced recruitment.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 41
+    },
+    {
+      "sentence": "Interim Superintendent Dr. Matthew Kibler (appointed June 2025) signals leadership instability that compounds staffing challenges: teachers prefer stable administrative leadership, and high superintendency turnover (three leaders in four years) creates uncertainty.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 41
+    },
+    {
+      "sentence": "For Queen Anne's 2,680 Hispanic residents (5.26%, growing from 4.19% foreign-born in 2022) and 2,570 foreign-born residents (5.04%), 12.0% new hire rate creates recruitment opportunities for bilingual teachers and culturally responsive educators—if county chooses to prioritize diversity over just filling positions with whoever applies.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 41
+    },
+    {
+      "sentence": "Talbot County: Talbot employs 283 teachers serving 4,300 students (15.2:1 ratio, best in region).",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 42
+    },
+    {
+      "sentence": "District hired 35 new teachers (12.4% turnover, highest percentage) with +2.8% year-over-year growth.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 42
+    },
+    {
+      "sentence": "This strong staffing position—best student-teacher ratio, competitive pay, stable enrollment—should yield teacher retention, yet 12.4% new hire rate proves even Talbot can't retain teachers better than poorer counties.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 42
+    },
+    {
+      "sentence": "Within-district inequality creates teacher migration: educators hired at Easton High School (28.33% Hispanic, 58.4% FARMS, 13.7% multilingual learners, 5.0% algebra proficiency) transfer to St. Michaels Middle/High (11.14% Hispanic, 46.4% FARMS, better outcomes) as soon as positions open.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 42
+    },
+    {
+      "sentence": "County's median income $84,378 and property values $398,300 enable competitive starting salaries around $52,000 with strong benefits, but challenging school assignments drive turnover.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 42
+    },
+    {
+      "sentence": "Blueprint's $60,000 minimum costs $1.7M annually (283 teachers × $6,000)—easily affordable but likely to trigger community pressure for above-minimum increases to maintain regional advantage, potentially creating new compensation competitions with Anne Arundel and Queen Anne's.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 42
+    },
+    {
+      "sentence": "For Talbot's 3,430 Hispanic residents (9.1%, highest in region) and 3,210 foreign-born residents (8.51%, highest in region), this internal transfer pattern means schools serving most vulnerable students—those requiring ESL instruction, trauma-informed teaching, culturally responsive pedagogy—get least experienced teachers, while affluent schools accumulate veteran educators, compounding within-district inequity.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 42
+    },
+    {
+      "sentence": "Caroline County: Caroline's 83.86% graduation rate for economically disadvantaged students ranks lowest regionally—but this reflects educational honesty, not failure.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 43
+    },
+    {
+      "sentence": "With 40.7% ELA proficiency among economically disadvantaged students (highest in the region), Caroline maintains a 43.0-point credential gap, the smallest among all five counties.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 43
+    },
+    {
+      "sentence": "This means Caroline graduates students who demonstrate actual competency more often than wealthy counties do.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 43
+    },
+    {
+      "sentence": "At Greensboro Elementary (50% Hispanic, 87.7% FARMS), students who don't meet proficiency standards repeat grades or receive intensive remediation rather than social promotion.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 43
+    },
+    {
+      "sentence": "This approach prioritizes real learning over graduation statistics, even though it makes Caroline appear less successful in state accountability metrics that reward graduation rates over proficiency rates.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 43
+    },
+    {
+      "sentence": "Caroline's median income ($66,368, second-lowest) and 78.8% state funding dependency limit resources for the credit recovery programs, online alternative courses, and administrative pressure that enable credential inflation in wealthier counties.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 43
+    },
+    {
+      "sentence": "The result: Caroline's low graduation rate signals integrity—students earn diplomas by demonstrating competency, not by aging out of the system.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 43
+    },
+    {
+      "sentence": "For Caroline's 2,930 Hispanic residents (8.77%) and families at schools like Greensboro Elementary, this creates a painful trade-off: honest assessment means lower graduation rates and potential shame, but inflated credentials would send students into adulthood unprepared for college or careers.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 43
+    },
+    {
+      "sentence": "Caroline chose honesty—and state accountability systems punish this choice by ranking counties on graduation rates rather than the relationship between credentials and competency.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 43
+    },
+    {
+      "sentence": "Dorchester County: Dorchester's 79.32% graduation rate for economically disadvantaged students is the region's lowest—a direct result of the county's median income ($60,495, lowest regionally) and inability to fund the grade inflation infrastructure that wealthy counties deploy.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 44
+    },
+    {
+      "sentence": "With 35.4% ELA proficiency and a 43.9-point credential gap, Dorchester sits between Caroline's honest assessment (43.0-point gap) and wealthy counties' extreme inflation (53-61 points).",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 44
+    },
+    {
+      "sentence": "At Choptank Elementary (90.5% FARMS, 72% Black), students who fall behind lack access to credit recovery programs, online course options, alternative assessment pathways, and administrative pressure to inflate grades that wealthier districts provide.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 44
+    },
+    {
+      "sentence": "Dorchester's $5.59M budget deficit in 2024-25 forced elimination of 36 teaching positions and cancellation of summer school—removing the very interventions that could either improve actual achievement or enable credential inflation.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 44
+    },
+    {
+      "sentence": "The county cannot afford to do either.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 44
+    },
+    {
+      "sentence": "Dorchester's low graduation rate thus reflects dual disadvantage: students don't learn at grade level due to concentrated poverty (90.5% FARMS at Choptank Elementary), and the district lacks resources to inflate credentials to match wealthier counties.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 44
+    },
+    {
+      "sentence": "For Dorchester's 8,250 Black residents (25.3%) and families in Cambridge's poorest neighborhoods, this creates generational poverty traps: students graduate without skills and without inflated credentials that might temporarily mask deficiencies, entering adulthood doubly unprepared.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 44
+    },
+    {
+      "sentence": "Dorchester's honest but low graduation rates trigger state intervention and public criticism, while Kent's dishonest but high graduation rates (91.46% grad, 32.3% proficient, 59.2-point gap) receive acclaim—proof that accountability systems reward credential inflation over educational integrity.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 44
+    },
+    {
+      "sentence": "Kent County: Kent's 91.46% graduation rate for economically disadvantaged students combined with just 32.3% ELA proficiency creates a 59.2-point credential gap—the second-highest regional inflation rate.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 45
+    },
+    {
+      "sentence": "This means Kent awards diplomas to 59% more economically disadvantaged students than demonstrate grade-level reading competency.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 45
+    },
+    {
+      "sentence": "With median income of $74,402 and 61.4% local funding (highest regionally), Kent has resources to operate comprehensive credit recovery programs, online alternative courses, and flexible assessment pathways that allow students to graduate without demonstrating proficiency.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 45
+    },
+    {
+      "sentence": "Kent's small scale (1,800 students, 5 schools) actually enables this inflation: administrators know every student personally and face intense community pressure to graduate all seniors regardless of academic readiness.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 45
+    },
+    {
+      "sentence": "Wealthy families demand high graduation statistics even as they purchase private tutoring, test prep, and college counseling that their children need precisely because public school diplomas don't represent actual learning.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 45
+    },
+    {
+      "sentence": "For Kent's 1,070 Hispanic residents (5.57%) and economically disadvantaged students, this creates false hope: they receive diplomas that suggest college readiness, enroll in community colleges or four-year universities, then fail remedial courses because high school graduation didn't require actual competency.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 45
+    },
+    {
+      "sentence": "Kent's credential inflation serves wealthy families (high graduation rates suggest excellent schools) while harming poor students (diplomas without skills lead to failed college enrollment, low-wage jobs, continued poverty).",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 45
+    },
+    {
+      "sentence": "Kent spends $21,188 per pupil—the highest regionally—yet produces the region's second-lowest actual achievement for poor students (32.3% proficient), proving that wealth enables credential manipulation rather than educational excellence when accountability systems reward graduation rates over learning.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 45
+    },
+    {
+      "sentence": "Queen Anne's County: Queen Anne's 91.97% graduation rate for economically disadvantaged students paired with 38.6% ELA proficiency yields a 53.4-point credential gap—the third-highest inflation rate despite being the region's wealthiest county ($113,347 median income).",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 46
+    },
+    {
+      "sentence": "This suggests Queen Anne's has sufficient resources to improve actual achievement but chooses credential inflation instead.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 46
+    },
+    {
+      "sentence": "At $17,662 total per-pupil spending (lowest regionally), Queen Anne's operates lean public schools while wealthy families purchase private educational advantages: $3,000-6,000 annually on tutoring, $1,500-3,000 on summer programs, $2,000-5,000 on college counseling.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 46
+    },
+    {
+      "sentence": "Public schools serve primarily as credentialing institutions—awarding diplomas that unlock college applications—while real education happens through private purchases.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 46
+    },
+    {
+      "sentence": "For economically disadvantaged students, this creates devastating deception: they graduate at 91.97% rates (suggesting success), receive diplomas (suggesting college readiness), but only 38.6% read proficiently (revealing actual unpreparedness).",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 46
+    },
+    {
+      "sentence": "When these students enroll in college, they discover their diplomas are hollow—they need remedial reading courses, cannot handle college-level coursework, drop out with debt but no degree.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 46
+    },
+    {
+      "sentence": "Queen Anne's credential inflation serves multiple interests: politicians cite 91.97% graduation rates as evidence of educational success, administrators avoid state intervention that low graduation rates would trigger, colleges maintain enrollment by accepting underprepared students into remedial programs, and wealthy families preserve their children's competitive advantage because poor students with inflated credentials compete unsuccessfully against wealthy students with actual skills.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 46
+    },
+    {
+      "sentence": "For Queen Anne's 2,680 Hispanic residents (5.26%) and economically disadvantaged families, this system perpetuates generational inequality: diplomas promise opportunity but deliver only continued poverty because credentials without competency don't enable upward mobility.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 46
+    },
+    {
+      "sentence": "Talbot County: Talbot's ≥95% graduation rate for economically disadvantaged students combined with just 33.9% ELA proficiency creates the region's largest credential gap—at least 61 points.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 47
+    },
+    {
+      "sentence": "This means Talbot graduates virtually all economically disadvantaged students regardless of whether they can read at grade level, awarding diplomas that represent seat time rather than competency.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 47
+    },
+    {
+      "sentence": "With median income of $84,378 and $7,600 local per-pupil funding, Talbot operates sophisticated credit recovery programs, alternative assessment pathways, and administrative systems designed to maximize graduation statistics.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 47
+    },
+    {
+      "sentence": "At Easton High School (28.33% Hispanic, 58.4% FARMS, 13.7% multilingual learners), economically disadvantaged students graduate at 95%+ rates—but only 33.9% read proficiently.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 47
+    },
+    {
+      "sentence": "This 61+ point gap isn't accidental—it's systematic.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 47
+    },
+    {
+      "sentence": "Talbot's \"Align by 2029\" strategic plan emphasizes college and career readiness, yet the credential gap proves the opposite: diplomas don't represent readiness.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 47
+    },
+    {
+      "sentence": "For Talbot's 3,430 Hispanic residents (9.1%, highest regionally) and 3,210 foreign-born residents (8.51%, highest regionally), this deception is particularly cruel.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 47
+    },
+    {
+      "sentence": "Immigrant families view high school graduation as proof their children achieved the American Dream—but when 95% graduate yet only 34% read proficiently, the diploma becomes a false promise.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 47
+    },
+    {
+      "sentence": "These students enter adulthood with credentials that employers and colleges don't value: they cannot pass workplace literacy tests, cannot handle college reading assignments, cannot compete for jobs requiring actual competency.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 47
+    },
+    {
+      "sentence": "Talbot's extreme credential inflation enables the district to report stellar graduation statistics (≥95%) while masking educational failure (66% cannot read proficiently), creating a system where wealthy students' parents purchase real education privately while poor students receive diplomas without skills—perpetuating the generational inequality that Talbot's strategic plan claims to address.",
+      "container_selector": ".county-tab-pane",
+      "paragraph_index": 47
+    },
+    {
+      "sentence": "Caroline County exemplifies Maryland's Blueprint funding paradox.",
+      "container_selector": ".county-stat-panel p",
+      "paragraph_index": 48
+    },
+    {
+      "sentence": "With a population of 33,406 and median household income of just $66,368—the second-lowest among Eastern Shore counties—Caroline receives the highest state aid dependency at 78.8%.",
+      "container_selector": ".county-stat-panel p",
+      "paragraph_index": 48
+    },
+    {
+      "sentence": "The school operating budget ($100.4M) exceeds the entire county general fund ($79.2M), creating what amounts to fiscal impossibility: the county cannot sustain its schools without the state.",
+      "container_selector": ".county-stat-panel p",
+      "paragraph_index": 48
+    },
+    {
+      "sentence": "This isn't a funding success story—it's evidence of structural inequality.",
+      "container_selector": ".county-stat-panel p",
+      "paragraph_index": 49
+    },
+    {
+      "sentence": "At Greensboro Elementary, 50% of students are Hispanic and 87.7% qualify for free/reduced meals, the second-highest poverty concentration in the region.",
+      "container_selector": ".county-stat-panel p",
+      "paragraph_index": 49
+    },
+    {
+      "sentence": "Federalsburg Elementary posts 38.55% Black enrollment with concentrated poverty.",
+      "container_selector": ".county-stat-panel p",
+      "paragraph_index": 49
+    },
+    {
+      "sentence": "Yet 100% of Caroline schools earned 3+ stars on the 2024-25 Report Card—proof that Blueprint funding works when properly funded.",
+      "container_selector": ".county-stat-panel p",
+      "paragraph_index": 49
+    },
+    {
+      "sentence": "But the dependency creates vulnerability.",
+      "container_selector": ".county-stat-panel p",
+      "paragraph_index": 50
+    },
+    {
+      "sentence": "Caroline's per-pupil spending ($19,796) ranks third among the five counties, with just $3,760 per student from local sources versus $14,630 from the state.",
+      "container_selector": ".county-stat-panel p",
+      "paragraph_index": 50
+    },
+    {
+      "sentence": "If state aid dropped to the regional average of 54%, Caroline would lose $28.4M annually—equivalent to eliminating 315 teaching positions.",
+      "container_selector": ".county-stat-panel p",
+      "paragraph_index": 50
+    },
+    {
+      "sentence": "The Blueprint sustains Caroline, but it doesn't fix the underlying wealth gap that necessitates 78.8% state dependency in the first place.",
+      "container_selector": ".county-stat-panel p",
+      "paragraph_index": 50
+    },
+    {
+      "sentence": "Regular Meetings: 1st Tuesday, 6:00 PM Work Sessions: 3rd Tuesday, 9:30 AM Location: Central Office, 204 Franklin St., Denton",
+      "container_selector": ".county-stat-panel p",
+      "paragraph_index": 51
+    },
+    {
+      "sentence": "Agendas/Minutes: go.boarddocs.com/mabe/carps/Board.nsf/Public",
+      "container_selector": ".county-stat-panel p",
+      "paragraph_index": 52
+    },
+    {
+      "sentence": "Dorchester County faces the starkest equity challenges on the Eastern Shore.",
+      "container_selector": ".county-stat-panel p",
+      "paragraph_index": 53
+    },
+    {
+      "sentence": "With a population of 32,616, the lowest median household income in the region at $60,495, and 25.3% Black population, Dorchester's schools serve communities dealing with generational poverty and structural disinvestment.",
+      "container_selector": ".county-stat-panel p",
+      "paragraph_index": 53
+    },
+    {
+      "sentence": "Despite the second-highest per-pupil spending ($21,009) among the five counties, outcomes reflect deep structural challenges—evidence that funding alone cannot overcome concentrated poverty.",
+      "container_selector": ".county-stat-panel p",
+      "paragraph_index": 53
+    },
+    {
+      "sentence": "The fiscal crisis is acute.",
+      "container_selector": ".county-stat-panel p",
+      "paragraph_index": 54
+    },
+    {
+      "sentence": "In 2024-25, Dorchester canceled summer school and eliminated 36 teaching positions to close a $5.59M budget deficit—removing critical remediation for students at Choptank Elementary (90.5% FARMS, 72% Black) and other high-poverty schools.",
+      "container_selector": ".county-stat-panel p",
+      "paragraph_index": 54
+    },
+    {
+      "sentence": "More troubling: Mace's Lane Middle School ranks as Maryland's lowest-performing middle school (4th percentile, 33/100 points), yet all academic indicators showed improvement, suggesting the problem isn't effort but systemic inequality.",
+      "container_selector": ".county-stat-panel p",
+      "paragraph_index": 54
+    },
+    {
+      "sentence": "Superintendent Dr. Jymil Thompson, appointed in July 2024, inherited these structural contradictions.",
+      "container_selector": ".county-stat-panel p",
+      "paragraph_index": 55
+    },
+    {
+      "sentence": "Dorchester's \"23 No More\" absenteeism initiative and improved Report Card scores (82% of schools at 3+ stars, with Cambridge-South Dorchester, Vienna Elementary, and Sandy Hill Elementary each advancing one star) show progress.",
+      "container_selector": ".county-stat-panel p",
+      "paragraph_index": 55
+    },
+    {
+      "sentence": "But until Maryland addresses the economic conditions producing 90.5% poverty rates at individual schools, Blueprint funding sustains the system without transforming it.",
+      "container_selector": ".county-stat-panel p",
+      "paragraph_index": 55
+    },
+    {
+      "sentence": "Regular Meetings: 3rd Thursday, 6:00 PM Work Sessions: Same day, 4:30 PM Location: Dorchester Career & Tech Center, 700 Glasgow St., Cambridge",
+      "container_selector": ".county-stat-panel p",
+      "paragraph_index": 56
+    },
+    {
+      "sentence": "Agendas/Minutes: go.boarddocs.com/mabe/dcps/Board.nsf/Public",
+      "container_selector": ".county-stat-panel p",
+      "paragraph_index": 57
+    },
+    {
+      "sentence": "Kent County—Maryland's smallest county at 19,265 residents and 24th of 24 in population—operates the state's smallest school district.",
+      "container_selector": ".county-stat-panel p",
+      "paragraph_index": 58
+    },
+    {
+      "sentence": "With 5,082 students across 5 schools, Kent spends $21,188 per pupil (highest among Eastern Shore counties) yet achieves a student-teacher ratio of 27.1:1, the worst in the region.",
+      "container_selector": ".county-stat-panel p",
+      "paragraph_index": 58
+    },
+    {
+      "sentence": "This isn't administrative failure—it's mathematical inevitability.",
+      "container_selector": ".county-stat-panel p",
+      "paragraph_index": 58
+    },
+    {
+      "sentence": "Small scale creates unavoidable inefficiencies that high per-pupil spending cannot overcome.",
+      "container_selector": ".county-stat-panel p",
+      "paragraph_index": 58
+    },
+    {
+      "sentence": "The district's fiscal profile is unique: 61.4% local funding (highest regionally) and just 33.5% state dependency (lowest regionally), with median household income of $74,402.",
+      "container_selector": ".county-stat-panel p",
+      "paragraph_index": 59
+    },
+    {
+      "sentence": "Kent has wealth but lacks population.",
+      "container_selector": ".county-stat-panel p",
+      "paragraph_index": 59
+    },
+    {
+      "sentence": "Just 66 teachers serve the entire system, limiting Advanced Placement offerings, multilingual learner services, and specialized programming—not from budget constraints but from insufficient enrollment to justify dedicated staff positions.",
+      "container_selector": ".county-stat-panel p",
+      "paragraph_index": 59
+    },
+    {
+      "sentence": "Yet Kent achieves strong outcomes, demonstrating consistent excellence.",
+      "container_selector": ".county-stat-panel p",
+      "paragraph_index": 60
+    },
+    {
+      "sentence": "This success validates a hard truth: wealth compensates for structural disadvantage.",
+      "container_selector": ".county-stat-panel p",
+      "paragraph_index": 60
+    },
+    {
+      "sentence": "Kent County's poverty rate is just 6.2% of families versus Dorchester's concentrated 90.5% FARMS schools.",
+      "container_selector": ".county-stat-panel p",
+      "paragraph_index": 60
+    },
+    {
+      "sentence": "The Blueprint cannot fix geography—small, wealthy districts will always spend more per pupil than larger systems, and Maryland's county-based structure makes consolidation politically impossible.",
+      "container_selector": ".county-stat-panel p",
+      "paragraph_index": 60
+    },
+    {
+      "sentence": "Regular Meetings: 2nd Monday, 5:30 PM Location: KCPS Admin Building, 5608 Boundary Ave., Rock Hall",
+      "container_selector": ".county-stat-panel p",
+      "paragraph_index": 61
+    },
+    {
+      "sentence": "Agendas/Minutes: go.boarddocs.com/mabe/kcps/Board.nsf/Public",
+      "container_selector": ".county-stat-panel p",
+      "paragraph_index": 62
+    },
+    {
+      "sentence": "Queen Anne's County—with 50,951 residents and the highest median household income regionally at $113,347—represents the high-wealth, low-dependency model of Maryland school funding.",
+      "container_selector": ".county-stat-panel p",
+      "paragraph_index": 63
+    },
+    {
+      "sentence": "The county funds 64.9% of its schools locally (second only to Kent's 61.4%), relying on state aid for just 34.2%.",
+      "container_selector": ".county-stat-panel p",
+      "paragraph_index": 63
+    },
+    {
+      "sentence": "This fiscal independence enables strong outcomes.",
+      "container_selector": ".county-stat-panel p",
+      "paragraph_index": 63
+    },
+    {
+      "sentence": "Academic performance is strong: all students showed mathematics improvement in 2024 testing.",
+      "container_selector": ".county-stat-panel p",
+      "paragraph_index": 63
+    },
+    {
+      "sentence": "But wealth creates its own accountability gaps.",
+      "container_selector": ".county-stat-panel p",
+      "paragraph_index": 64
+    },
+    {
+      "sentence": "Queen Anne's posts the highest discipline disparity among the five Eastern Shore counties: Black students comprise 12% of enrollment but 45.3% of suspensions—a 3.8x overrepresentation rate.",
+      "container_selector": ".county-stat-panel p",
+      "paragraph_index": 64
+    },
+    {
+      "sentence": "This exceeds Talbot's 3.0x rate and reveals that local control doesn't guarantee equity.",
+      "container_selector": ".county-stat-panel p",
+      "paragraph_index": 64
+    },
+    {
+      "sentence": "Wealthy districts have resources for restorative justice, counselors, and implicit bias training—yet Queen Anne's suspends Black students at nearly four times the rate of white students.",
+      "container_selector": ".county-stat-panel p",
+      "paragraph_index": 64
+    },
+    {
+      "sentence": "The per-pupil spending paradox is striking: at $17,662, Queen Anne's spends the least among the five counties yet achieves the best outcomes.",
+      "container_selector": ".county-stat-panel p",
+      "paragraph_index": 65
+    },
+    {
+      "sentence": "This demonstrates that wealth distribution—not school budgets alone—drives results.",
+      "container_selector": ".county-stat-panel p",
+      "paragraph_index": 65
+    },
+    {
+      "sentence": "Students benefit from educated parents (per capita income: $62,442), stable housing, and community resources poor counties cannot provide through education funding.",
+      "container_selector": ".county-stat-panel p",
+      "paragraph_index": 65
+    },
+    {
+      "sentence": "Education comprises 39.6% of the county budget, yet the smallest Blueprint increase (25.4%) reflects high local wealth.",
+      "container_selector": ".county-stat-panel p",
+      "paragraph_index": 65
+    },
+    {
+      "sentence": "Interim Superintendent Dr. Matthew Kibler, appointed June 2025, must sustain excellence while addressing discipline disparities that contradict the district's equity commitments.",
+      "container_selector": ".county-stat-panel p",
+      "paragraph_index": 65
+    },
+    {
+      "sentence": "Regular Meetings: 1st Wednesday, 6:00 PM Location: BOE Building, 115 Vincit St., Centreville",
+      "container_selector": ".county-stat-panel p",
+      "paragraph_index": 66
+    },
+    {
+      "sentence": "Agendas/Minutes: go.boarddocs.com/mabe/qacps/Board.nsf/Public",
+      "container_selector": ".county-stat-panel p",
+      "paragraph_index": 67
+    },
+    {
+      "sentence": "Talbot County—with 37,710 residents, median household income of $84,378, and the highest foreign-born population regionally at 8.51%—occupies the middle ground of Maryland's funding spectrum.",
+      "container_selector": ".county-stat-panel p",
+      "paragraph_index": 68
+    },
+    {
+      "sentence": "Neither fully Blueprint-dependent like Caroline (78.8% state) nor fully independent like Queen Anne's (64.9% local), Talbot's 55.6% state funding and 35.8% local share represent the hybrid model.",
+      "container_selector": ".county-stat-panel p",
+      "paragraph_index": 68
+    },
+    {
+      "sentence": "With a 15.2:1 student-teacher ratio (best among five counties), Talbot demonstrates operational efficiency.",
+      "container_selector": ".county-stat-panel p",
+      "paragraph_index": 68
+    },
+    {
+      "sentence": "But aggregate success masks deep within-district inequality.",
+      "container_selector": ".county-stat-panel p",
+      "paragraph_index": 69
+    },
+    {
+      "sentence": "Chapel District Elementary (77% white, 42% FARMS) posts 67.5% Grade 5 ELA proficiency.",
+      "container_selector": ".county-stat-panel p",
+      "paragraph_index": 69
+    },
+    {
+      "sentence": "Easton Elementary (27% white, 75% FARMS, 45% Hispanic) achieves just 19.8%—a 47.7-point gap within the same county.",
+      "container_selector": ".county-stat-panel p",
+      "paragraph_index": 69
+    },
+    {
+      "sentence": "At Easton High School (28.33% Hispanic, 58.4% FARMS, 13.7% multilingual learners), Algebra I proficiency stands at 5.0%.",
+      "container_selector": ".county-stat-panel p",
+      "paragraph_index": 69
+    },
+    {
+      "sentence": "This isn't curriculum failure—it's concentrated poverty.",
+      "container_selector": ".county-stat-panel p",
+      "paragraph_index": 69
+    },
+    {
+      "sentence": "Talbot's \"Align by 2029\" strategic plan launched in 2025 signals ambition, and progress is visible: all elementary schools except one improved on the 2024-25 Report Card, Easton Middle School advanced from 2 to 3 stars, and 100% of Talbot schools earned 3+ stars.",
+      "container_selector": ".county-stat-panel p",
+      "paragraph_index": 70
+    },
+    {
+      "sentence": "Yet alignment requires confronting residential segregation: Easton High serves the county's poorest, most diverse students while wealthier families cluster at schools like Chapel District.",
+      "container_selector": ".county-stat-panel p",
+      "paragraph_index": 70
+    },
+    {
+      "sentence": "The Blueprint funds Talbot equitably at $19,238 per pupil, but it cannot legislate away the housing patterns and wealth concentration that produce 47.7-point proficiency gaps between elementary schools eight miles apart.",
+      "container_selector": ".county-stat-panel p",
+      "paragraph_index": 70
+    },
+    {
+      "sentence": "Regular Meetings: Wednesdays, 7:00 PM Work Sessions: Mondays, 5:30 PM Location: Talbot County Education Center, 12 Magnolia St., Easton",
+      "container_selector": ".county-stat-panel p",
+      "paragraph_index": 71
+    },
+    {
+      "sentence": "Agendas/Minutes: tcpsk12.diligent.community/portal",
+      "container_selector": ".county-stat-panel p",
+      "paragraph_index": 72
+    }
+  ],
+  "paragraphs": {
+    "0": "The Eastern Shore education landscape encompasses five counties with dramatically different fiscal capacities, demographic profiles, and educational outcomes. This region of 24,000 students serves as a microcosm of Maryland's broader educational equity challenges, where local wealth directly determines educational opportunity despite state equalization efforts.",
+    "1": "The wealth divide is stark: Queen Anne's County operates with the highest median household income in the region ($108,000) and directs 39.6% of its county budget—nearly 40 cents of every local tax dollar—to education. This enables per-pupil local spending of $10,498, robust staffing (20.4:1 student-teacher ratio), and comprehensive programming. Meanwhile, Dorchester County, with a median income of just $57,000 (nearly half of Queen Anne's), allocates 28.6% of a much smaller county budget to schools. The result: Dorchester can provide only $5,544 per pupil from local sources and must rely on state funding for 73.6% of all education costs.",
+    "2": "Blueprint for Maryland's Future was designed to close these gaps, delivering massive increases ranging from 25.4% (Queen Anne's) to 49% (Talbot). Yet the five key issues documented below reveal that money alone hasn't solved systemic problems: algebra instruction fails uniformly across wealth levels, discipline disparities persist regardless of resources, and achievement gaps mirror income divides. These findings suggest that how money is spent, the efficiency of small districts, local fiscal capacity, and deeply rooted instructional practices matter more than total funding levels.",
+    "3": "Critical Finding: Algebra failure is uniform across all five counties—proficiency rates between 5.0% and 6.1%—despite vastly different wealth levels and per-pupil spending. This isn't a funding problem; it's a systemic instructional crisis affecting how Maryland teaches mathematics from elementary school through high school.",
+    "4": "Critical Finding: Blueprint state aid increases range from 2% real growth (Queen Anne's) to 49% (Talbot), yet outcomes don't correlate with funding growth. How money is spent, local fiscal capacity, district efficiency, and political will matter more than total per-pupil spending levels.",
+    "5": "Critical Finding: Achievement gaps and discipline disparities compound to create systemic racial inequality. Black and Hispanic students score 20-37 points lower than white peers in reading and math, then face suspension at 2-4x their enrollment rates. This double disadvantage—failing academically while being removed from learning environments—ensures persistent inequality regardless of county wealth or spending.",
+    "6": "Critical Finding: Student-teacher ratios vary wildly across region despite similar spending levels. Small district size creates inefficiency that no amount of funding can overcome. All counties face chronic turnover regardless of resources. Blueprint's salary mandate will strain budgets differently across districts but won't solve underlying retention challenges.",
+    "7": "Credential Inflation Exposed: Wealthy Eastern Shore counties graduate economically disadvantaged students at 91-95% rates while only 33-39% read proficiently—creating 53-61 point gaps between diplomas and actual competency. This isn't educational success—it's systematic deception. Poor students receive credentials without skills, entering adulthood unprepared for college or careers while wealthy districts maintain high graduation statistics. Caroline County shows the opposite pattern: lowest graduation rate (83.86%) but highest achievement (40.7%) for poor students—honesty instead of inflation.",
+    "8": "The algebra crisis reveals Maryland's most urgent instructional failure. Across the Eastern Shore, high school students fail Algebra I at nearly identical rates regardless of their county's wealth, per-pupil spending, or elementary school performance. Whether students attend schools in Queen Anne's County (median income $113,347, strong elementary scores) or Dorchester County (median income $60,495, struggling elementary performance), algebra proficiency collapses to 5-6%. This uniformity is the crisis: the problem isn't individual districts' failures but a systemic breakdown in how Maryland prepares students for abstract mathematical thinking.",
+    "9": "Elementary achievement shows dramatic variation—yet high school outcomes converge on failure. Queen Anne's fifth graders score 45.8% proficient in ELA and 38.4% in math, well above state averages. Dorchester's fifth graders score just 38.0% in ELA and 18.2% in math, among the state's lowest. Yet by high school, these vastly different starting points lead to the same destination: Queen Anne's algebra proficiency drops to 5.7%, Dorchester to 5.0%. The pipeline breaks somewhere between elementary computational skills and high school abstract reasoning—likely during middle school—and no county has solved this instructional challenge regardless of resources available.",
+    "10": "Within-school achievement gaps compound the regional crisis. The most disturbing pattern isn't between counties but within individual schools. At high-performing elementary schools in affluent neighborhoods, white students thrive while Black and Hispanic students in the same classrooms score 30-50 percentage points lower on identical state assessments. These disparities persist even in well-funded districts, proving that resource equity doesn't guarantee outcome equity. The combination of uniform cross-county algebra failure and stark within-school racial gaps reveals both systemic instructional collapse and deep-seated inequities that funding alone cannot address.",
+    "11": "The Blueprint for Maryland's Future represents the state's largest education investment in decades —mandating $60,000 minimum teacher salaries by July 2026, universal pre-K, expanded special education, career pathways, and instructional reforms. But counties face these mandates with profoundly unequal fiscal capacity. Caroline's school operating budget ($100.4M) exceeds the county's entire general fund ($79.2M), creating complete dependence on state decisions made in Annapolis. Dorchester faces an immediate $5.5M deficit forcing program cuts even as Blueprint requires expansion. Kent's small size (1,800 students) means every mandate costs proportionally more when spread across a tiny enrollment. Queen Anne's has wealth ($113,347 median income) but voters resist tax increases even as Blueprint requirements grow. The Blueprint assumed state funding could equalize opportunity, but it's layering new requirements onto fundamentally unequal fiscal foundations.",
+    "12": "Structural challenges compound disparities in ways funding formulas don't address. Small districts spread unavoidable fixed costs—transportation networks, building operations, administrative compliance, special education mandates—across too few students, driving per-pupil spending higher without improving outcomes. Poor rural counties make extraordinary sacrifices to fund education, yet still provide fractions of what wealthy communities contribute almost effortlessly. Districts facing immediate fiscal crises cannot implement Blueprint improvements while simultaneously eliminating positions to balance budgets. The result: identical Blueprint mandates produce vastly different outcomes depending on local context that state formulas inadequately address.",
+    "13": "Long-term sustainability remains uncertain across the region. Blueprint mandates create permanent obligations—salary floors maintained annually, expanded programs requiring ongoing funding, facility modernization needing decades of capital investment—yet Maryland faces projected multi-billion dollar budget shortfalls. For counties dependent on state funding for 70-80% of operations, any state reduction triggers immediate crisis. For wealthy counties resisting local tax increases, Blueprint mandates become political conflicts over whether communities adequately fund education or rely on state intervention. The question isn't whether counties received large Blueprint increases—it's whether those increases created sustainable systems or temporary expansions that will collapse when state priorities shift.",
+    "14": "Racial inequality operates through two mutually reinforcing mechanisms: academic failure and systematic exclusion. Across all five counties, Black and Hispanic students dramatically underperform white peers on state assessments—gaps ranging from 20 to 37 percentage points in ELA, 13 to 24 points in math. Then, these same students who are already struggling academically face suspension at rates multiple times higher than their enrollment share. The cruelest pattern: students who most need instructional time are systematically removed from classrooms, deepening academic gaps that justify further exclusion. This isn't two separate problems—it's one interconnected system of racial inequality.",
+    "15": "The compound disadvantage is starkest in Dorchester County, where Black students face Maryland's worst outcomes. Black students average just 25% proficient in ELA and 5.1% in math—meaning three out of four Black students cannot read at grade level and 95% cannot do grade-level math. Then, these academically struggling students represent 74.3% of all suspensions despite being just 26.8% of enrollment. Black students in Dorchester are simultaneously failing academically and being removed from the limited instruction they receive. In Talbot, Hispanic students show the region's widest achievement gaps (37.5 points below white peers in ELA) while also facing elevated suspension rates. In Queen Anne's, wealth doesn't eliminate these patterns—despite the county's affluence, significant achievement gaps persist alongside discipline disparities.",
+    "16": "These patterns exist independent of overall school quality or county resources. Kent County, with the region's highest per-pupil spending ($21,188) and strong local funding, shows 31.5-point white-Black ELA gap and 29.8-point white-Hispanic gap. Talbot, with excellent overall performance and Blueprint's largest funding increase (49%), maintains 36.8-point white-Black ELA gap and 37.5-point white-Hispanic gap. Even Queen Anne's, with median income of $113,347 and strong elementary performance (45.8% proficient in 5th grade ELA), shows 26.3-point white-Black ELA gap and 24.7-point white-Hispanic gap. Money, resources, and overall school quality don't eliminate racial inequality—they exist alongside it, revealing that these gaps reflect systematic differences in how schools perceive, teach, support, and discipline students of different races.",
+    "17": "Teacher staffing challenges reveal how district size and structure matter as much as funding. Some counties achieve favorable student-teacher ratios through scale and efficiency—large enough to spread fixed costs but small enough to maintain coherence. Others face structural disadvantages where high per-pupil spending yields poor ratios because fixed costs consume resources before reaching classrooms. Small districts cannot offer career ladders, department structures, peer collaboration, or professional community—making recruitment of specialized teachers nearly impossible regardless of salary competitiveness. Meanwhile, large districts face internal migration where teachers transfer from high-need schools to affluent campuses, concentrating novice educators at schools serving most vulnerable students.",
+    "18": "Chronic turnover affects all counties despite different resource levels. Every district in region hires new teachers at rates exceeding 10% annually—meaning one in ten teachers is brand new to school system. This perpetual cycle creates instability: curriculum continuity breaks, relationships with families dissolve, institutional knowledge disappears, students cycle through rotating instructors who lack context about their academic histories or family circumstances. Turnover hits multilingual learners especially hard, as ESL-certified teachers are scarce regionally and high turnover means students repeatedly start over with instructors lacking cultural competency or language acquisition training. For schools serving high-poverty communities, teacher churn compounds every other challenge.",
+    "19": "Blueprint's $60,000 minimum salary requirement arrives into this fragile context. For poor districts already struggling with deficits and program cuts, salary floor consumes scarce resources without solving retention problems—teachers leave not just for money but for manageable working conditions, supportive leadership, schools where students arrive ready to learn. For small districts, every salary increase affects higher percentage of total budget when spread across tiny workforces. For wealthy districts, mandate becomes political flashpoint as communities debate whether to exceed minimum to maintain competitive advantage. Across all contexts, salary floor addresses real teacher compensation needs but cannot solve structural challenges—district size inefficiencies, within-district inequities, chronic instability, working conditions—that actually drive educators away.",
+    "20": "Wealthy districts inflate graduation rates to mask achievement failures among economically disadvantaged students. Kent, Queen Anne's, and Talbot counties graduate 91-95% of their economically disadvantaged students—rates that would suggest educational success. But proficiency data reveals the truth: just 33-39% of these students read proficiently. These counties award diplomas to students who cannot read at grade level, creating 53-61 point gaps between credential and competency. This pattern appears only in wealthy counties—not in poor ones—suggesting that local affluence enables grade inflation, credit recovery programs, and alternative pathways that prioritize graduation statistics over actual learning.",
+    "21": "The poorest county demonstrates the highest academic integrity through lower but honest graduation rates. Caroline County—with the region's second-lowest median income ($66,368) and highest state dependency (78.8%)—graduates just 83.86% of economically disadvantaged students, the lowest rate regionally. But Caroline's economically disadvantaged students achieve 40.7% ELA proficiency, the highest among the five counties. Caroline's 43.0-point credential gap (graduation rate minus proficiency) is 10-18 points smaller than wealthy counties' gaps, revealing a hard truth: poor counties lack resources to inflate credentials through credit recovery, online courses, alternative assessments, and administrative pressure to boost statistics. Caroline's low graduation rate reflects honest evaluation rather than systemic failure.",
+    "22": "Credential inflation perpetuates inequality by hiding the wealth-achievement correlation. When wealthy counties report 95% graduation rates alongside 33% proficiency, they obscure the actual educational crisis: most economically disadvantaged students graduate unprepared for college or careers. This deception serves multiple constituencies: politicians cite high graduation rates as policy success, administrators avoid state intervention that low graduation rates would trigger, colleges maintain enrollment by accepting underprepared students into remedial programs, and wealthy families preserve their advantage because poor students with inflated credentials compete unsuccessfully against wealthy students with actual skills. The result: generational poverty persists because poor students receive diplomas that don't represent competency, entering adulthood with credentials employers and colleges don't value.",
+    "23": "Caroline County: At North Caroline High School, only 5.1% of students pass Algebra I. This isn't about individual student ability—it's about a pipeline that breaks long before high school. At Greensboro Elementary, where 50% of students are Hispanic and 87.7% qualify for free meals, just 25.7% meet 5th grade ELA standards. These students—many from Caroline's growing immigrant population (6.8% foreign-born, up from 6.29% in 2022; 8.77% Hispanic)—enter school facing language barriers and leave elementary school without literacy foundations that make algebra possible four years later. The county's heavy state funding dependency (78.8% state-funded, receiving $14,630 per pupil in state aid) means Caroline cannot afford intensive middle school math intervention programs that might bridge the gap. When students fail algebra, they lose access to advanced coursework, STEM pathways, and four-year college admission. For families in Caroline's high-poverty communities (12.4% poverty rate, median income $66,368), algebra failure locks another generation into limited economic opportunity.",
+    "24": "Dorchester County: Cambridge-South Dorchester High's 5.0% algebra proficiency is predetermined by elementary school failures. At Choptank Elementary, where 90.5% of students qualify for free meals and 72% are Black, just 7.4% meet 5th grade math standards. These aren't just statistics—they represent Dorchester's 8,250 Black residents (25.3% of population, Maryland's highest rural Black percentage) watching their children fall behind year after year. Despite receiving among Maryland's highest per-pupil funding ($21,000 total, with state providing 74%), the county's $5.5M deficit forced summer school cancellations that eliminated intervention opportunities. With median income of $60,495 (lowest in region), families cannot purchase private tutoring to fill gaps. For Dorchester's 1,300 foreign-born residents and growing Hispanic population, algebra failure means the American Dream ends in high school, despite living in a state investing heavily in education reform.",
+    "25": "Kent County: Kent County High School's 6.1% algebra proficiency represents catastrophic failure despite $21,188 per-pupil spending (sixth highest statewide) and strong local funding (60% local share, $11,912 per pupil). The county's small size creates the crisis: with only 1,800 students across five schools and 66 teachers, Kent cannot offer differentiated math instruction, intervention courses, or specialized support programs that larger districts provide. The 27.1:1 student-teacher ratio (worst in region) means teachers cannot provide individualized attention despite knowing every student personally. At H.H. Mosley Elementary, just 36.7% of 5th graders meet ELA standards and 19.8% meet math—these students never build foundations algebra requires. Kent's wealth (median income $74,402, property taxes generate $11,912 per pupil locally) creates false confidence that resources guarantee outcomes, but small district limitations prevent the programming diversity that money enables elsewhere. Kent students who fail algebra face limited local employment options and lack credentials to compete regionally.",
+    "26": "Queen Anne's County: Queen Anne's paradox exposes that the algebra crisis isn't about resources. Fifth graders score 45.8% proficient in ELA and 38.4% in math—well above state averages and the region's strongest elementary performance. Yet algebra proficiency collapses to 5.7%, identical to far poorer counties. This reveals an instructional crisis, not a funding problem. With median income of $113,347 (highest in region), the county generates $9,714 per pupil locally and could easily afford enhanced math programs—yet chooses not to implement them effectively. High-performing elementary schools build computational skills but fail to develop algebraic thinking. Middle school math instruction doesn't bridge concrete arithmetic to abstract reasoning. By high school, even students from the county's most affluent families cannot solve basic algebra despite attending well-resourced schools. For Queen Anne's 2,680 Hispanic residents (5.26%, growing from 4.19% foreign-born in 2022 to 5.04% in 2023) and multilingual learner concentrations, inadequate support persists despite abundant local capacity.",
+    "27": "Talbot County: Easton High School serves 1,179 students: 28.33% Hispanic, 17.64% Black, 58.4% eligible for free meals, 13.7% multilingual learners. Only 5.0% pass Algebra I. Yet Talbot posts a 95% graduation rate (tied for top four statewide) and received the state's largest Blueprint increase (49% from FY2019-2024, state aid growing from $4,579 to $5,883 per pupil). This contradiction exposes hollow graduation statistics when students leave without mathematical competency. Within-district gaps are stark: at Chapel District Elementary (77% white, 42% FARMS), 67.5% of 5th graders meet ELA standards. At Easton Elementary (27% white, 75% FARMS, 45% Hispanic), just 19.8% meet standards—a 47.7-point gap predicting algebra failure. Talbot's median income ($84,378) and strong local funding ($12,047 per pupil in FY2024) create a two-tier system where zip code determines whether students receive strong K-5 math foundations or enter middle school years behind. For the county's 3,430 Hispanic residents (9.1%, highest in region) and 3,210 foreign-born residents (8.51%, highest in region), algebra failure eliminates pathways to four-year colleges despite living in one of Maryland's wealthiest counties.",
+    "28": "Caroline County: Caroline's fiscal crisis is unprecedented: the school operating budget ($100.4M) exceeds the county government's entire general fund ($79.2M). The school system is literally larger than the government funding it. Caroline provides only 20.2% of education costs ($3,760 per pupil locally, increasing from $2,760 in FY2020 to just $3,002 in FY2024) while the state covers 78.8% ($14,630 per pupil, up from $12,432 in FY2020—a 40% increase, fifth-largest in Maryland). By FY2025, state funding reached $15,287 per pupil. This heavy state dependency reflects Blueprint's equity goals but creates vulnerability: every dollar comes from Annapolis decisions beyond local control. The county's median income ($66,368, second-lowest) and 12.4% poverty rate prevent tax revenue growth. As Blueprint mandates arrive—$60,000 minimum teacher salaries (July 2026 requiring ~$1.45M for 289 teachers), pre-K expansion, special education increases—Caroline has zero fiscal cushion. One delayed state payment triggers catastrophe: school closures, mass layoffs, program eliminations. For Caroline's 2,930 Hispanic residents and 2,271 foreign-born residents, Blueprint-funded multilingual services could vanish overnight if state priorities shift. Caroline's future depends entirely on legislators who don't represent the county.",
+    "29": "Dorchester County: Dorchester's $5.5M deficit (reduced from $10M through cuts) forced summer school cancellations and eliminated 36 teaching positions in 2024-2025. Despite receiving Maryland's largest Blueprint-driven funding increases—state aid grew 37% from $11,996 per pupil (FY2020) to $14,405 (FY2024), reaching 74% of total funding—the county cannot sustain Blueprint obligations. Local funding increased from $4,432 to $5,698 per pupil but represents extraordinary sacrifice from Maryland's poorest community (median income $60,495, lowest in region, 25.3% Black population). Total per-pupil spending reached ~$21,000, yet the district faces collapse. Superintendent Dr. Jymil Thompson (appointed July 2024) inherited a system one quarter from fiscal catastrophe. The $60,000 minimum teacher salary costs ~$1.4M annually for 233 teachers in a district already eliminating positions. Mace's Lane Middle School ranks 4th percentile statewide (33/100 points, Maryland's lowest-ranked middle school) despite third-highest regional per-pupil spending—proving money alone doesn't determine success. For Dorchester's 1,300 foreign-born residents and 8,250 Black residents, budget failures mean overcrowded classrooms, eliminated ESL programs, cancelled interventions—systematic disinvestment despite Blueprint's equity intentions.",
+    "30": "Kent County: Kent appears fiscally strong: $21,188 per-pupil spending (sixth highest statewide), 60% local funding ($11,912 per pupil in FY2024, up from $10,058 in FY2020), low state dependency (40%). But small scale creates crisis. With only 1,800 students and 66 teachers, every cost hits proportionally harder. The $60,000 minimum salary mandate costs $396,000 annually in a district where each teacher represents 1.5% of total workforce. Blueprint state aid grew 33.8% ($6,666 to $7,957 per pupil, FY2020-2024), but growth went to fixed costs: health insurance, pensions, facility maintenance for buildings serving declining enrollment. The district initially proposed eliminating 44 positions; county commissioners intervened with $300,000, reducing cuts to 18 positions scheduled by 2026. Kent officials estimate Blueprint obligations will cost $8M through 2030—a massive burden for a small tax base. The 27.1:1 student-teacher ratio (worst in region) reflects efficiency paradox: Kent can't achieve economies of scale regardless of per-pupil spending. In a 66-teacher district, one retirement eliminates courses; one resignation ends programs. For Kent's 855 foreign-born residents and 1,070 Hispanic residents, small scale means zero bilingual staff, no dedicated ESL teachers, complete dependence on regional cooperatives for services the district structurally cannot provide.",
+    "31": "Queen Anne's County: Queen Anne's received the region's smallest Blueprint increase—state aid grew just 2% in real terms from FY2019-2024, the lowest statewide growth, rising from $5,844 to $6,926 per pupil (FY2020-2024). Because state formulas assume local wealth enables self-funding, the county spends just $17,662 per pupil (23rd of 24 Maryland counties, second-lowest statewide) despite median income of $113,347 (highest in region). This contradiction reflects political dysfunction: capacity exists but political will doesn't. Local funding increased 29% over three years ($7,934 to $9,714 per pupil, FY2020-2024), now covering 60% of school costs, but growth required staff furloughs that saved $1.4M. Education represents 39.6% of county budget, yet expansion is politically impossible. The county commissioned independent budget reviews (FY2023-2025) signaling fiscal tension. Interim Superintendent Dr. Matthew Kibler (appointed June 2025) inherits capacity without support. The $60,000 minimum teacher salary costs just $784,000 (392 teachers × ~$2,000)—easily affordable but likely triggering demands for tax cuts rather than program expansion. For Queen Anne's 2,680 Hispanic residents (5.26%, growing from 4.19% foreign-born in 2022) and 2,570 foreign-born residents, this creates unique crisis: living in Maryland's wealthiest county yet attending schools operating on artificial scarcity created by political choice, not economic necessity.",
+    "32": "Talbot County: Talbot's Blueprint increase—49% state aid growth from FY2019-2024 (largest percentage increase statewide), rising from $4,579 to $5,883 per pupil—pushed total per-pupil spending from ~$14,000 (FY2020) to $19,238 (FY2025). The county now receives 33% from state (lowest in Maryland), 67% locally ($12,047 per pupil in FY2024, up from $9,568 in FY2020). Despite this growth, within-district inequity deepens. At Easton High School (28.33% Hispanic, 58.4% FARMS, 13.7% multilingual learners), only 5.0% pass algebra. At St. Michaels Middle/High (11.14% Hispanic, 46.4% FARMS), outcomes are dramatically better. Blueprint funding flows equally to all schools, but need concentrates in specific buildings, widening rather than closing gaps. The county's \"Align by 2029\" strategic plan acknowledges this but offers no redistribution mechanism. With median income of $84,378 and property values of $398,300, Talbot has capacity but faces political deadlock: wealthy waterfront communities resist tax increases to fund high-poverty schools in Easton. The 3,430 Hispanic residents (9.1%, highest) and 3,210 foreign-born residents (8.51%, highest) concentrate in Easton, creating two-tier system. Blueprint increases were supposed to close gaps but instead exposed the political impossibility of equitable distribution in a divided county.",
+    "33": "Caroline County: Caroline's racial inequality manifests as parallel failures: Black students score 27.5 points below white peers in ELA (30.8% vs. 58.3%) and 19.6 points below in math (9.1% vs. 28.7%), then face suspension at 28.8% of total suspensions. Hispanic students show similar patterns—21.5-point ELA gap, 13.5-point math gap—but face far less disciplinary targeting (4.8% of suspensions despite being 8.77% of population). At Federalsburg Elementary (38.55% Black, 35.66% white), the achievement gap begins early and discipline disparities compound it throughout schooling. For Caroline's 4,420 Black residents (13.2% of population), this creates a devastating pipeline: enter elementary school already facing disadvantage, fall further behind as white peers receive more effective instruction, exhibit frustration that gets labeled as misbehavior, lose additional instructional time to suspensions, fail to catch up, and graduate (if at all) without college-ready skills. The county's 78.8% state funding dependency means it cannot afford intensive interventions, culturally responsive teaching training, or restorative justice programs that might interrupt this cycle. Caroline's 2,930 Hispanic students face the academic gaps without equivalent discipline targeting, suggesting different mechanisms of exclusion—likely language barriers and inadequate ESL support rather than behavioral removal. The result: racial inequality operates through different pathways but produces similarly harmful outcomes.",
+    "34": "Dorchester County: Dorchester shows Maryland's most extreme compound racial disadvantage. Black students score 33.2 points below white peers in ELA (25.0% vs. 58.2%)—meaning three out of four Black students cannot read at grade level compared to two out of five white students. Math gaps are even worse: 23.5 points (5.1% vs. 28.6%), meaning 95% of Black students fail grade-level math. Then these academically struggling students face suspension at 74.3% of all disciplinary actions despite representing just 26.8% of enrollment—a 2.8x disparity. At Choptank Elementary (72% Black, 90.5% FARMS), 92.6% of students fail 5th grade math, creating a cohort of students who are both academically unprepared and subject to elevated discipline. For Dorchester's 8,250 Black residents (25.3% of population, Maryland's highest rural Black percentage), this represents systematic exclusion disguised as education. The county's $5.5M deficit forced elimination of counselors and behavioral specialists, leaving suspension as the only available response to student misconduct—but suspension removes already-struggling students from the limited instruction they receive, guaranteeing continued failure. Hispanic students show moderate achievement gaps (23.4-point ELA gap) but minimal discipline targeting (3.7% of suspensions), suggesting that Dorchester's primary racial inequality mechanism is anti-Black bias in both instruction and discipline. With median income of $60,495 (lowest in region) and 74% state funding dependency, Dorchester lacks resources to implement evidence-based interventions like culturally responsive teaching, trauma-informed discipline, or intensive tutoring that might close gaps. The result: Black students experience compounding disadvantage where each system failure reinforces the next.",
+    "35": "Kent County: Kent's racial inequality exists despite highest regional per-pupil spending ($21,188) and strong local funding (60%, $11,912 per pupil), proving that money alone doesn't eliminate systematic racial gaps. Black students score 31.5 points below white peers in ELA (22.1% vs. 53.6%) and 17.4 points below in math (7.3% vs. 24.7%), then face suspension at 44.8% of total suspensions despite representing just 18.9% of enrollment—a 2.4x disparity. Hispanic students show nearly identical achievement patterns (29.8-point ELA gap, 23.8% proficient) but face less extreme discipline targeting (9.5% of suspensions). In a district of only 1,800 students and 66 teachers, these gaps reflect individual-level failures: every teacher knows every student personally, yet Black and Hispanic students receive dramatically different outcomes. The 27.1:1 student-teacher ratio (worst in region) means teachers lack capacity for individualized instruction or differentiated support, defaulting to one-size-fits-all teaching that serves white students while leaving Black and Hispanic students behind. For Kent's 2,740 Black residents (14.2%) and 1,070 Hispanic residents (5.57%, up from 3.99% foreign-born in 2022), small district size creates unique vulnerability: no critical mass enables culturally responsive programming, no bilingual staff exists to support language needs, no peer community exists for students of color. Kent's wealth enables high spending but cannot overcome structural limitations of size—the district is too small to provide specialized racial equity interventions that might close gaps.",
+    "36": "Queen Anne's County: Queen Anne's proves that wealth doesn't eliminate racial inequality—it just makes it more politically contentious. Despite median income of $113,347 (highest in region) and strong local funding ($9,714 per pupil), Black students score 26.3 points below white peers in ELA (37.2% vs. 63.5%) and 24.4 points below in math (11.7% vs. 36.1%). Hispanic students show similar gaps: 24.7-point ELA gap, 15.4-point math gap. Suspension disparities are more moderate than other counties (Black students 16.8% of suspensions vs. 12.0% enrollment, Hispanic 8.6% vs. 5.26% population) but still reflect systematic bias. What makes Queen Anne's distinct is that these gaps exist in a county that could afford to eliminate them—the county simply chooses not to. With strong elementary performance overall (45.8% proficient 5th grade ELA) and 95% graduation rate, Queen Anne's shows that excellence for white students coexists with persistent underperformance for students of color. The county's 3,040 Black residents (5.97%) and 2,680 Hispanic residents (5.26%, growing from 4.19% foreign-born in 2022) experience racial inequality in an affluent community that markets itself as high-performing. Parents pay high property taxes expecting excellent schools and receive them—if they're white. The achievement gaps suggest that teaching practices, curricular choices, and support systems are optimized for white students while inadequately serving students of color. Unlike poor counties that can blame resource constraints, Queen Anne's gaps reflect political choices about whether racial equity is a priority worth investing in.",
+    "37": "Talbot County: Talbot maintains the region's widest racial achievement gaps despite receiving Blueprint's largest funding increase (49% state aid growth, $4,579 to $5,883 per pupil FY2019-2024) and posting 95% graduation rate across all races. Black students score 36.8 points below white peers in ELA (25.7% vs. 62.5%)—the largest gap in the region. Hispanic students fare even worse: 37.5-point ELA gap (25.0% proficient) and 22.5-point math gap (7.8% proficient), making them the region's lowest-performing group. Then these academically struggling students face elevated suspension rates: Black students represent 36.4% of suspensions, Hispanic students 6.7%, compared to white students' 21.6%. The within-district segregation drives these patterns: at Chapel District Elementary (77% white, 42% FARMS), white students score 67.5% proficient in 5th grade ELA while at Easton Elementary (27% white, 75% FARMS, 45% Hispanic), students score 19.8%—a 47.7-point gap. These elementary gaps persist and widen through secondary school, yet both groups graduate at 95% rates, proving that Talbot grants diplomas regardless of competency. For Talbot's 4,520 Black residents (12.0%) and 3,430 Hispanic residents (9.1%, highest in region), this represents the cruelest form of inequality: the illusion of equity through equal graduation rates that masks profound and growing academic gaps. Wealthy families in waterfront communities supplement public schools with private tutoring, test prep, summer enrichment—investments that compound advantages while families in Easton depend entirely on schools that systematically underserve their children. Blueprint funding was supposed to close these gaps but instead flows equally to all schools, widening disparities when need concentrates in specific buildings.",
+    "38": "Caroline County: Caroline employs 289 teachers serving 5,400 students (18.7:1 ratio, second-worst in region). District hired 34 new teachers in 2023-2024 (11.8% turnover), signaling chronic workforce instability. With median income $66,368 and 78.8% state funding dependency, Caroline can't compete on salary with Anne Arundel, Talbot, or Kent. Starting teachers earn approximately $48,000—barely above poverty level for a family—while neighboring counties offer $55,000+. Blueprint's $60,000 minimum (July 2026) will cost $1.45M annually if current average salary is $55,000, consuming scarce local resources county doesn't have. Budget narrative acknowledges \"special education and utilities rising steeply\"—code for saying there's no money for retention bonuses, salary steps, or competitive compensation. For Caroline's 2,930 Hispanic residents (8.77%) and 2,271 foreign-born residents (6.8%), teacher turnover is catastrophic: ESL-certified teachers are scarce regionally, and high turnover means multilingual students cycle through instructors lacking cultural competency or language acquisition training. County's +2.1% teacher growth masks deeper crisis: for every teacher hired to meet Blueprint mandates, an experienced teacher leaves for better pay elsewhere—creating perpetually novice workforce teaching region's most vulnerable students.",
+    "39": "Dorchester County: Dorchester employs 233 teachers serving 4,500 students (19.3:1 ratio, tied for worst in region). District hired 28 new teachers (12.0% turnover) but experienced -1.7% year-over-year decline—meaning Dorchester is shrinking its workforce while replacing departures. The $5.5M deficit forced elimination of 36 positions, signaling staffing crisis that will worsen. With median income $60,495 (lowest in region), Dorchester offers starting salaries around $46,000—uncompetitive with any neighboring system. County's 69.0% state dependency means every dollar for salary increases comes at expense of textbooks, technology, or building maintenance. Superintendent Dr. Jymil Thompson (appointed July 2024) inherited district where fiscal collapse threatens mass teacher layoffs at any moment. Blueprint's $60,000 minimum costs $1.4M annually (233 teachers × $6,000)—impossible in district already eliminating positions. For Dorchester's 8,250 Black residents (25.3%) and 1,300 foreign-born residents (3.98%), teacher shortages mean larger classes (19.3:1 worst in region), less individual attention, more behavioral removals as overwhelmed teachers can't manage large groups, and rotating substitute coverage that eliminates instructional continuity. County's 12.0% new hire rate paired with declining total staff proves Dorchester is bleeding experienced teachers it cannot afford to replace.",
+    "40": "Kent County: Kent employs just 66 teachers serving 1,800 students—region's smallest workforce creates extraordinary vulnerability. The 27.1:1 student-teacher ratio (worst in region) exists despite $21,188 per-pupil spending (highest) because small scale prevents efficiency. District hired 8 new teachers (12.1% turnover) with +1.5% growth—seemingly modest numbers that represent massive percentage shifts in 66-person workforce. In this tiny system, every resignation is catastrophic: sole AP Calculus teacher leaving eliminates course; only Spanish teacher retiring ends program; single school counselor resigning leaves 1,800 students without mental health support. Blueprint's $60,000 minimum costs $396,000 annually (66 teachers × $6,000)—easily affordable with 61.4% local funding, but real crisis is recruitment. Kent can't attract specialized teachers (AP instructors, world languages, STEM) because 66-teacher district offers no career ladder, no peer support, no department colleagues, no professional community. For Kent's 1,070 Hispanic residents (5.57%) and 855 foreign-born residents (4.44%), small scale means zero bilingual staff, no dedicated ESL teachers, complete dependence on regional cooperatives for services district structurally cannot provide independently.",
+    "41": "Queen Anne's County: Queen Anne's employs 392 teachers serving 8,000 students (20.4:1 ratio, regional middle). District hired 47 new teachers (12.0% turnover) with +3.2% year-over-year growth—region's strongest teacher workforce expansion. Yet this barely keeps pace with enrollment growth: 256 new students in 2023-2024 versus 12 new teachers, worsening student-teacher ratio. With median income $113,347 (highest in region), Queen Anne's can afford competitive salaries—current starting salary approximately $54,000 with potential to offer retention bonuses and rapid advancement—but county's conservative fiscal culture resists above-minimum investments. Blueprint's $60,000 minimum costs just $784,000 (392 teachers × $2,000)—easily affordable with $10,498 per-pupil local funding, yet likely to trigger taxpayer demands for cost control rather than enhanced recruitment. Interim Superintendent Dr. Matthew Kibler (appointed June 2025) signals leadership instability that compounds staffing challenges: teachers prefer stable administrative leadership, and high superintendency turnover (three leaders in four years) creates uncertainty. For Queen Anne's 2,680 Hispanic residents (5.26%, growing from 4.19% foreign-born in 2022) and 2,570 foreign-born residents (5.04%), 12.0% new hire rate creates recruitment opportunities for bilingual teachers and culturally responsive educators—if county chooses to prioritize diversity over just filling positions with whoever applies.",
+    "42": "Talbot County: Talbot employs 283 teachers serving 4,300 students (15.2:1 ratio, best in region). District hired 35 new teachers (12.4% turnover, highest percentage) with +2.8% year-over-year growth. This strong staffing position—best student-teacher ratio, competitive pay, stable enrollment—should yield teacher retention, yet 12.4% new hire rate proves even Talbot can't retain teachers better than poorer counties. Why? Within-district inequality creates teacher migration: educators hired at Easton High School (28.33% Hispanic, 58.4% FARMS, 13.7% multilingual learners, 5.0% algebra proficiency) transfer to St. Michaels Middle/High (11.14% Hispanic, 46.4% FARMS, better outcomes) as soon as positions open. County's median income $84,378 and property values $398,300 enable competitive starting salaries around $52,000 with strong benefits, but challenging school assignments drive turnover. Blueprint's $60,000 minimum costs $1.7M annually (283 teachers × $6,000)—easily affordable but likely to trigger community pressure for above-minimum increases to maintain regional advantage, potentially creating new compensation competitions with Anne Arundel and Queen Anne's. For Talbot's 3,430 Hispanic residents (9.1%, highest in region) and 3,210 foreign-born residents (8.51%, highest in region), this internal transfer pattern means schools serving most vulnerable students—those requiring ESL instruction, trauma-informed teaching, culturally responsive pedagogy—get least experienced teachers, while affluent schools accumulate veteran educators, compounding within-district inequity.",
+    "43": "Caroline County: Caroline's 83.86% graduation rate for economically disadvantaged students ranks lowest regionally—but this reflects educational honesty, not failure. With 40.7% ELA proficiency among economically disadvantaged students (highest in the region), Caroline maintains a 43.0-point credential gap, the smallest among all five counties. This means Caroline graduates students who demonstrate actual competency more often than wealthy counties do. At Greensboro Elementary (50% Hispanic, 87.7% FARMS), students who don't meet proficiency standards repeat grades or receive intensive remediation rather than social promotion. This approach prioritizes real learning over graduation statistics, even though it makes Caroline appear less successful in state accountability metrics that reward graduation rates over proficiency rates. Caroline's median income ($66,368, second-lowest) and 78.8% state funding dependency limit resources for the credit recovery programs, online alternative courses, and administrative pressure that enable credential inflation in wealthier counties. The result: Caroline's low graduation rate signals integrity—students earn diplomas by demonstrating competency, not by aging out of the system. For Caroline's 2,930 Hispanic residents (8.77%) and families at schools like Greensboro Elementary, this creates a painful trade-off: honest assessment means lower graduation rates and potential shame, but inflated credentials would send students into adulthood unprepared for college or careers. Caroline chose honesty—and state accountability systems punish this choice by ranking counties on graduation rates rather than the relationship between credentials and competency.",
+    "44": "Dorchester County: Dorchester's 79.32% graduation rate for economically disadvantaged students is the region's lowest—a direct result of the county's median income ($60,495, lowest regionally) and inability to fund the grade inflation infrastructure that wealthy counties deploy. With 35.4% ELA proficiency and a 43.9-point credential gap, Dorchester sits between Caroline's honest assessment (43.0-point gap) and wealthy counties' extreme inflation (53-61 points). At Choptank Elementary (90.5% FARMS, 72% Black), students who fall behind lack access to credit recovery programs, online course options, alternative assessment pathways, and administrative pressure to inflate grades that wealthier districts provide. Dorchester's $5.59M budget deficit in 2024-25 forced elimination of 36 teaching positions and cancellation of summer school—removing the very interventions that could either improve actual achievement or enable credential inflation. The county cannot afford to do either. Dorchester's low graduation rate thus reflects dual disadvantage: students don't learn at grade level due to concentrated poverty (90.5% FARMS at Choptank Elementary), and the district lacks resources to inflate credentials to match wealthier counties. For Dorchester's 8,250 Black residents (25.3%) and families in Cambridge's poorest neighborhoods, this creates generational poverty traps: students graduate without skills and without inflated credentials that might temporarily mask deficiencies, entering adulthood doubly unprepared. Dorchester's honest but low graduation rates trigger state intervention and public criticism, while Kent's dishonest but high graduation rates (91.46% grad, 32.3% proficient, 59.2-point gap) receive acclaim—proof that accountability systems reward credential inflation over educational integrity.",
+    "45": "Kent County: Kent's 91.46% graduation rate for economically disadvantaged students combined with just 32.3% ELA proficiency creates a 59.2-point credential gap—the second-highest regional inflation rate. This means Kent awards diplomas to 59% more economically disadvantaged students than demonstrate grade-level reading competency. With median income of $74,402 and 61.4% local funding (highest regionally), Kent has resources to operate comprehensive credit recovery programs, online alternative courses, and flexible assessment pathways that allow students to graduate without demonstrating proficiency. Kent's small scale (1,800 students, 5 schools) actually enables this inflation: administrators know every student personally and face intense community pressure to graduate all seniors regardless of academic readiness. Wealthy families demand high graduation statistics even as they purchase private tutoring, test prep, and college counseling that their children need precisely because public school diplomas don't represent actual learning. For Kent's 1,070 Hispanic residents (5.57%) and economically disadvantaged students, this creates false hope: they receive diplomas that suggest college readiness, enroll in community colleges or four-year universities, then fail remedial courses because high school graduation didn't require actual competency. Kent's credential inflation serves wealthy families (high graduation rates suggest excellent schools) while harming poor students (diplomas without skills lead to failed college enrollment, low-wage jobs, continued poverty). Kent spends $21,188 per pupil—the highest regionally—yet produces the region's second-lowest actual achievement for poor students (32.3% proficient), proving that wealth enables credential manipulation rather than educational excellence when accountability systems reward graduation rates over learning.",
+    "46": "Queen Anne's County: Queen Anne's 91.97% graduation rate for economically disadvantaged students paired with 38.6% ELA proficiency yields a 53.4-point credential gap—the third-highest inflation rate despite being the region's wealthiest county ($113,347 median income). This suggests Queen Anne's has sufficient resources to improve actual achievement but chooses credential inflation instead. At $17,662 total per-pupil spending (lowest regionally), Queen Anne's operates lean public schools while wealthy families purchase private educational advantages: $3,000-6,000 annually on tutoring, $1,500-3,000 on summer programs, $2,000-5,000 on college counseling. Public schools serve primarily as credentialing institutions—awarding diplomas that unlock college applications—while real education happens through private purchases. For economically disadvantaged students, this creates devastating deception: they graduate at 91.97% rates (suggesting success), receive diplomas (suggesting college readiness), but only 38.6% read proficiently (revealing actual unpreparedness). When these students enroll in college, they discover their diplomas are hollow—they need remedial reading courses, cannot handle college-level coursework, drop out with debt but no degree. Queen Anne's credential inflation serves multiple interests: politicians cite 91.97% graduation rates as evidence of educational success, administrators avoid state intervention that low graduation rates would trigger, colleges maintain enrollment by accepting underprepared students into remedial programs, and wealthy families preserve their children's competitive advantage because poor students with inflated credentials compete unsuccessfully against wealthy students with actual skills. For Queen Anne's 2,680 Hispanic residents (5.26%) and economically disadvantaged families, this system perpetuates generational inequality: diplomas promise opportunity but deliver only continued poverty because credentials without competency don't enable upward mobility.",
+    "47": "Talbot County: Talbot's ≥95% graduation rate for economically disadvantaged students combined with just 33.9% ELA proficiency creates the region's largest credential gap—at least 61 points. This means Talbot graduates virtually all economically disadvantaged students regardless of whether they can read at grade level, awarding diplomas that represent seat time rather than competency. With median income of $84,378 and $7,600 local per-pupil funding, Talbot operates sophisticated credit recovery programs, alternative assessment pathways, and administrative systems designed to maximize graduation statistics. At Easton High School (28.33% Hispanic, 58.4% FARMS, 13.7% multilingual learners), economically disadvantaged students graduate at 95%+ rates—but only 33.9% read proficiently. This 61+ point gap isn't accidental—it's systematic. Talbot's \"Align by 2029\" strategic plan emphasizes college and career readiness, yet the credential gap proves the opposite: diplomas don't represent readiness. For Talbot's 3,430 Hispanic residents (9.1%, highest regionally) and 3,210 foreign-born residents (8.51%, highest regionally), this deception is particularly cruel. Immigrant families view high school graduation as proof their children achieved the American Dream—but when 95% graduate yet only 34% read proficiently, the diploma becomes a false promise. These students enter adulthood with credentials that employers and colleges don't value: they cannot pass workplace literacy tests, cannot handle college reading assignments, cannot compete for jobs requiring actual competency. Talbot's extreme credential inflation enables the district to report stellar graduation statistics (≥95%) while masking educational failure (66% cannot read proficiently), creating a system where wealthy students' parents purchase real education privately while poor students receive diplomas without skills—perpetuating the generational inequality that Talbot's strategic plan claims to address.",
+    "48": "Caroline County exemplifies Maryland's Blueprint funding paradox. With a population of 33,406 and median household income of just $66,368—the second-lowest among Eastern Shore counties—Caroline receives the highest state aid dependency at 78.8%. The school operating budget ($100.4M) exceeds the entire county general fund ($79.2M), creating what amounts to fiscal impossibility: the county cannot sustain its schools without the state.",
+    "49": "This isn't a funding success story—it's evidence of structural inequality. At Greensboro Elementary, 50% of students are Hispanic and 87.7% qualify for free/reduced meals, the second-highest poverty concentration in the region. Federalsburg Elementary posts 38.55% Black enrollment with concentrated poverty. Yet 100% of Caroline schools earned 3+ stars on the 2024-25 Report Card—proof that Blueprint funding works when properly funded.",
+    "50": "But the dependency creates vulnerability. Caroline's per-pupil spending ($19,796) ranks third among the five counties, with just $3,760 per student from local sources versus $14,630 from the state. If state aid dropped to the regional average of 54%, Caroline would lose $28.4M annually—equivalent to eliminating 315 teaching positions. The Blueprint sustains Caroline, but it doesn't fix the underlying wealth gap that necessitates 78.8% state dependency in the first place.",
+    "51": "Regular Meetings: 1st Tuesday, 6:00 PM Work Sessions: 3rd Tuesday, 9:30 AM Location: Central Office, 204 Franklin St., Denton",
+    "52": "Agendas/Minutes: go.boarddocs.com/mabe/carps/Board.nsf/Public",
+    "53": "Dorchester County faces the starkest equity challenges on the Eastern Shore. With a population of 32,616, the lowest median household income in the region at $60,495, and 25.3% Black population, Dorchester's schools serve communities dealing with generational poverty and structural disinvestment. Despite the second-highest per-pupil spending ($21,009) among the five counties, outcomes reflect deep structural challenges—evidence that funding alone cannot overcome concentrated poverty.",
+    "54": "The fiscal crisis is acute. In 2024-25, Dorchester canceled summer school and eliminated 36 teaching positions to close a $5.59M budget deficit—removing critical remediation for students at Choptank Elementary (90.5% FARMS, 72% Black) and other high-poverty schools. More troubling: Mace's Lane Middle School ranks as Maryland's lowest-performing middle school (4th percentile, 33/100 points), yet all academic indicators showed improvement, suggesting the problem isn't effort but systemic inequality.",
+    "55": "Superintendent Dr. Jymil Thompson, appointed in July 2024, inherited these structural contradictions. Dorchester's \"23 No More\" absenteeism initiative and improved Report Card scores (82% of schools at 3+ stars, with Cambridge-South Dorchester, Vienna Elementary, and Sandy Hill Elementary each advancing one star) show progress. But until Maryland addresses the economic conditions producing 90.5% poverty rates at individual schools, Blueprint funding sustains the system without transforming it.",
+    "56": "Regular Meetings: 3rd Thursday, 6:00 PM Work Sessions: Same day, 4:30 PM Location: Dorchester Career & Tech Center, 700 Glasgow St., Cambridge",
+    "57": "Agendas/Minutes: go.boarddocs.com/mabe/dcps/Board.nsf/Public",
+    "58": "Kent County—Maryland's smallest county at 19,265 residents and 24th of 24 in population—operates the state's smallest school district. With 5,082 students across 5 schools, Kent spends $21,188 per pupil (highest among Eastern Shore counties) yet achieves a student-teacher ratio of 27.1:1, the worst in the region. This isn't administrative failure—it's mathematical inevitability. Small scale creates unavoidable inefficiencies that high per-pupil spending cannot overcome.",
+    "59": "The district's fiscal profile is unique: 61.4% local funding (highest regionally) and just 33.5% state dependency (lowest regionally), with median household income of $74,402. Kent has wealth but lacks population. Just 66 teachers serve the entire system, limiting Advanced Placement offerings, multilingual learner services, and specialized programming—not from budget constraints but from insufficient enrollment to justify dedicated staff positions.",
+    "60": "Yet Kent achieves strong outcomes, demonstrating consistent excellence. This success validates a hard truth: wealth compensates for structural disadvantage. Kent County's poverty rate is just 6.2% of families versus Dorchester's concentrated 90.5% FARMS schools. The Blueprint cannot fix geography—small, wealthy districts will always spend more per pupil than larger systems, and Maryland's county-based structure makes consolidation politically impossible.",
+    "61": "Regular Meetings: 2nd Monday, 5:30 PM Location: KCPS Admin Building, 5608 Boundary Ave., Rock Hall",
+    "62": "Agendas/Minutes: go.boarddocs.com/mabe/kcps/Board.nsf/Public",
+    "63": "Queen Anne's County—with 50,951 residents and the highest median household income regionally at $113,347—represents the high-wealth, low-dependency model of Maryland school funding. The county funds 64.9% of its schools locally (second only to Kent's 61.4%), relying on state aid for just 34.2%. This fiscal independence enables strong outcomes. Academic performance is strong: all students showed mathematics improvement in 2024 testing.",
+    "64": "But wealth creates its own accountability gaps. Queen Anne's posts the highest discipline disparity among the five Eastern Shore counties: Black students comprise 12% of enrollment but 45.3% of suspensions—a 3.8x overrepresentation rate. This exceeds Talbot's 3.0x rate and reveals that local control doesn't guarantee equity. Wealthy districts have resources for restorative justice, counselors, and implicit bias training—yet Queen Anne's suspends Black students at nearly four times the rate of white students.",
+    "65": "The per-pupil spending paradox is striking: at $17,662, Queen Anne's spends the least among the five counties yet achieves the best outcomes. This demonstrates that wealth distribution—not school budgets alone—drives results. Students benefit from educated parents (per capita income: $62,442), stable housing, and community resources poor counties cannot provide through education funding. Education comprises 39.6% of the county budget, yet the smallest Blueprint increase (25.4%) reflects high local wealth. Interim Superintendent Dr. Matthew Kibler, appointed June 2025, must sustain excellence while addressing discipline disparities that contradict the district's equity commitments.",
+    "66": "Regular Meetings: 1st Wednesday, 6:00 PM Location: BOE Building, 115 Vincit St., Centreville",
+    "67": "Agendas/Minutes: go.boarddocs.com/mabe/qacps/Board.nsf/Public",
+    "68": "Talbot County—with 37,710 residents, median household income of $84,378, and the highest foreign-born population regionally at 8.51%—occupies the middle ground of Maryland's funding spectrum. Neither fully Blueprint-dependent like Caroline (78.8% state) nor fully independent like Queen Anne's (64.9% local), Talbot's 55.6% state funding and 35.8% local share represent the hybrid model. With a 15.2:1 student-teacher ratio (best among five counties), Talbot demonstrates operational efficiency.",
+    "69": "But aggregate success masks deep within-district inequality. Chapel District Elementary (77% white, 42% FARMS) posts 67.5% Grade 5 ELA proficiency. Easton Elementary (27% white, 75% FARMS, 45% Hispanic) achieves just 19.8%—a 47.7-point gap within the same county. At Easton High School (28.33% Hispanic, 58.4% FARMS, 13.7% multilingual learners), Algebra I proficiency stands at 5.0%. This isn't curriculum failure—it's concentrated poverty.",
+    "70": "Talbot's \"Align by 2029\" strategic plan launched in 2025 signals ambition, and progress is visible: all elementary schools except one improved on the 2024-25 Report Card, Easton Middle School advanced from 2 to 3 stars, and 100% of Talbot schools earned 3+ stars. Yet alignment requires confronting residential segregation: Easton High serves the county's poorest, most diverse students while wealthier families cluster at schools like Chapel District. The Blueprint funds Talbot equitably at $19,238 per pupil, but it cannot legislate away the housing patterns and wealth concentration that produce 47.7-point proficiency gaps between elementary schools eight miles apart.",
+    "71": "Regular Meetings: Wednesdays, 7:00 PM Work Sessions: Mondays, 5:30 PM Location: Talbot County Education Center, 12 Magnolia St., Easton",
+    "72": "Agendas/Minutes: tcpsk12.diligent.community/portal"
+  }
+}
