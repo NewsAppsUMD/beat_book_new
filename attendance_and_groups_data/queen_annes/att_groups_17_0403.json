@@ -1,0 +1,89 @@
+{
+  "school_name": "Bayside Elementary School",
+  "school_code": "0403",
+  "county_code": "17",
+  "attendance_data": [
+    {
+      "Year": "2025",
+      "Race/Ethnicity": "African Am.",
+      "Attendance Rate (%) (All Students)": "*",
+      "Days Attended/Days Members (All Students)": "*/*"
+    },
+    {
+      "Year": "2025",
+      "Race/Ethnicity": "White",
+      "Attendance Rate (%) (All Students)": "93.6",
+      "Days Attended/Days Members (All Students)": "47513.5/50764.0"
+    },
+    {
+      "Year": "2025",
+      "Race/Ethnicity": "2+",
+      "Attendance Rate (%) (All Students)": "92.5",
+      "Days Attended/Days Members (All Students)": "3896.5/4211.0"
+    },
+    {
+      "Year": "2025",
+      "Race/Ethnicity": "Hispanic",
+      "Attendance Rate (%) (All Students)": "91.2",
+      "Days Attended/Days Members (All Students)": "7610.5/8342.0"
+    },
+    {
+      "Year": "2025",
+      "Race/Ethnicity": "Asian",
+      "Attendance Rate (%) (All Students)": "94.2",
+      "Days Attended/Days Members (All Students)": "2373.5/2520.0"
+    }
+  ],
+  "student_groups_data": [
+    {
+      "Year": "2025",
+      "Student Group": "ADA 504",
+      "Result (%) (All Students)": "\u2264 5.0",
+      "Count": "*",
+      "Total": "373"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "Eco Disadv",
+      "Result (%) (All Students)": "22.0",
+      "Count": "82",
+      "Total": "373"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "FARMS",
+      "Result (%) (All Students)": "30.3",
+      "Count": "113",
+      "Total": "373"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "ML",
+      "Result (%) (All Students)": "5.6",
+      "Count": "21",
+      "Total": "373"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "SWD",
+      "Result (%) (All Students)": "12.6",
+      "Count": "47",
+      "Total": "373"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "Homeless",
+      "Result (%) (All Students)": "*",
+      "Count": "*",
+      "Total": "373"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "Military",
+      "Result (%) (All Students)": "\u2264 5.0",
+      "Count": "*",
+      "Total": "373"
+    }
+  ],
+  "county_name": "Queen Anne's County"
+}

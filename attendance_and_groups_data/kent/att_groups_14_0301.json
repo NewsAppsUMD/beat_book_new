@@ -1,0 +1,95 @@
+{
+  "school_name": "Kent County High",
+  "school_code": "0301",
+  "county_code": "14",
+  "attendance_data": [
+    {
+      "Year": "2025",
+      "Race/Ethnicity": "African Am.",
+      "Attendance Rate (%) (All Students)": "83.2",
+      "Days Attended/Days Members (All Students)": "18341.0/22055.0"
+    },
+    {
+      "Year": "2025",
+      "Race/Ethnicity": "White",
+      "Attendance Rate (%) (All Students)": "87.6",
+      "Days Attended/Days Members (All Students)": "43854.0/50049.0"
+    },
+    {
+      "Year": "2025",
+      "Race/Ethnicity": "2+",
+      "Attendance Rate (%) (All Students)": "84.4",
+      "Days Attended/Days Members (All Students)": "5294.5/6270.0"
+    },
+    {
+      "Year": "2025",
+      "Race/Ethnicity": "Hispanic",
+      "Attendance Rate (%) (All Students)": "88.4",
+      "Days Attended/Days Members (All Students)": "10288.5/11636.0"
+    },
+    {
+      "Year": "2025",
+      "Race/Ethnicity": "Am.Ind/AK",
+      "Attendance Rate (%) (All Students)": "*",
+      "Days Attended/Days Members (All Students)": "*/*"
+    },
+    {
+      "Year": "2025",
+      "Race/Ethnicity": "Asian",
+      "Attendance Rate (%) (All Students)": "*",
+      "Days Attended/Days Members (All Students)": "*/*"
+    }
+  ],
+  "student_groups_data": [
+    {
+      "Year": "2025",
+      "Student Group": "ADA 504",
+      "Result (%) (All Students)": "11.3",
+      "Count": "57",
+      "Total": "505"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "Eco Disadv",
+      "Result (%) (All Students)": "59.4",
+      "Count": "300",
+      "Total": "505"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "FARMS",
+      "Result (%) (All Students)": "62.0",
+      "Count": "313",
+      "Total": "505"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "ML",
+      "Result (%) (All Students)": "\u2264 5.0",
+      "Count": "*",
+      "Total": "505"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "Migrant",
+      "Result (%) (All Students)": "*",
+      "Count": "*",
+      "Total": "505"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "SWD",
+      "Result (%) (All Students)": "13.5",
+      "Count": "68",
+      "Total": "505"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "Homeless",
+      "Result (%) (All Students)": "\u2264 5.0",
+      "Count": "*",
+      "Total": "505"
+    }
+  ],
+  "county_name": "Kent County"
+}

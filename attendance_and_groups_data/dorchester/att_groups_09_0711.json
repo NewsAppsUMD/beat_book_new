@@ -1,0 +1,95 @@
+{
+  "school_name": "Maple Elementary School",
+  "school_code": "0711",
+  "county_code": "09",
+  "attendance_data": [
+    {
+      "Year": "2025",
+      "Race/Ethnicity": "African Am.",
+      "Attendance Rate (%) (All Students)": "93.0",
+      "Days Attended/Days Members (All Students)": "20570.5/22122.0"
+    },
+    {
+      "Year": "2025",
+      "Race/Ethnicity": "White",
+      "Attendance Rate (%) (All Students)": "91.5",
+      "Days Attended/Days Members (All Students)": "10836.5/11845.0"
+    },
+    {
+      "Year": "2025",
+      "Race/Ethnicity": "2+",
+      "Attendance Rate (%) (All Students)": "91.3",
+      "Days Attended/Days Members (All Students)": "3977.5/4358.0"
+    },
+    {
+      "Year": "2025",
+      "Race/Ethnicity": "Hispanic",
+      "Attendance Rate (%) (All Students)": "94.6",
+      "Days Attended/Days Members (All Students)": "20465.0/21625.0"
+    },
+    {
+      "Year": "2025",
+      "Race/Ethnicity": "Am.Ind/AK",
+      "Attendance Rate (%) (All Students)": "*",
+      "Days Attended/Days Members (All Students)": "*/*"
+    },
+    {
+      "Year": "2025",
+      "Race/Ethnicity": "Asian",
+      "Attendance Rate (%) (All Students)": "*",
+      "Days Attended/Days Members (All Students)": "*/*"
+    }
+  ],
+  "student_groups_data": [
+    {
+      "Year": "2025",
+      "Student Group": "ADA 504",
+      "Result (%) (All Students)": "*",
+      "Count": "*",
+      "Total": "484"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "Eco Disadv",
+      "Result (%) (All Students)": "80.0",
+      "Count": "387",
+      "Total": "484"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "FARMS",
+      "Result (%) (All Students)": "83.1",
+      "Count": "402",
+      "Total": "484"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "ML",
+      "Result (%) (All Students)": "19.4",
+      "Count": "94",
+      "Total": "484"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "SWD",
+      "Result (%) (All Students)": "8.5",
+      "Count": "41",
+      "Total": "484"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "Title 1",
+      "Result (%) (All Students)": "\u2265 95.0",
+      "Count": "*",
+      "Total": "484"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "Homeless",
+      "Result (%) (All Students)": "\u2264 5.0",
+      "Count": "*",
+      "Total": "484"
+    }
+  ],
+  "county_name": "Dorchester County"
+}

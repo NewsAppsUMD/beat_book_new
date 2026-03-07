@@ -1,0 +1,89 @@
+{
+  "school_name": "Sudlersville Middle School",
+  "school_code": "0101",
+  "county_code": "17",
+  "attendance_data": [
+    {
+      "Year": "2025",
+      "Race/Ethnicity": "African Am.",
+      "Attendance Rate (%) (All Students)": "90.0",
+      "Days Attended/Days Members (All Students)": "4658.0/5173.0"
+    },
+    {
+      "Year": "2025",
+      "Race/Ethnicity": "White",
+      "Attendance Rate (%) (All Students)": "93.4",
+      "Days Attended/Days Members (All Students)": "44768.5/47942.0"
+    },
+    {
+      "Year": "2025",
+      "Race/Ethnicity": "2+",
+      "Attendance Rate (%) (All Students)": "88.6",
+      "Days Attended/Days Members (All Students)": "5227.5/5900.0"
+    },
+    {
+      "Year": "2025",
+      "Race/Ethnicity": "Hispanic",
+      "Attendance Rate (%) (All Students)": "93.0",
+      "Days Attended/Days Members (All Students)": "18587.5/19981.0"
+    },
+    {
+      "Year": "2025",
+      "Race/Ethnicity": "Am.Ind/AK",
+      "Attendance Rate (%) (All Students)": "*",
+      "Days Attended/Days Members (All Students)": "*/*"
+    }
+  ],
+  "student_groups_data": [
+    {
+      "Year": "2025",
+      "Student Group": "ADA 504",
+      "Result (%) (All Students)": "9.8",
+      "Count": "43",
+      "Total": "439"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "Eco Disadv",
+      "Result (%) (All Students)": "39.4",
+      "Count": "173",
+      "Total": "439"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "FARMS",
+      "Result (%) (All Students)": "57.6",
+      "Count": "253",
+      "Total": "439"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "ML",
+      "Result (%) (All Students)": "12.1",
+      "Count": "53",
+      "Total": "439"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "Migrant",
+      "Result (%) (All Students)": "*",
+      "Count": "*",
+      "Total": "439"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "SWD",
+      "Result (%) (All Students)": "16.2",
+      "Count": "71",
+      "Total": "439"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "Title 1",
+      "Result (%) (All Students)": "\u2265 95.0",
+      "Count": "*",
+      "Total": "439"
+    }
+  ],
+  "county_name": "Queen Anne's County"
+}

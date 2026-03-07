@@ -1,0 +1,89 @@
+{
+  "school_name": "Sandy Hill Elementary School",
+  "school_code": "0710",
+  "county_code": "09",
+  "attendance_data": [
+    {
+      "Year": "2025",
+      "Race/Ethnicity": "African Am.",
+      "Attendance Rate (%) (All Students)": "88.1",
+      "Days Attended/Days Members (All Students)": "24119.0/27370.0"
+    },
+    {
+      "Year": "2025",
+      "Race/Ethnicity": "White",
+      "Attendance Rate (%) (All Students)": "92.2",
+      "Days Attended/Days Members (All Students)": "7819.5/8478.0"
+    },
+    {
+      "Year": "2025",
+      "Race/Ethnicity": "2+",
+      "Attendance Rate (%) (All Students)": "91.5",
+      "Days Attended/Days Members (All Students)": "3293.0/3597.0"
+    },
+    {
+      "Year": "2025",
+      "Race/Ethnicity": "Hispanic",
+      "Attendance Rate (%) (All Students)": "86.4",
+      "Days Attended/Days Members (All Students)": "5400.0/6249.0"
+    },
+    {
+      "Year": "2025",
+      "Race/Ethnicity": "Asian",
+      "Attendance Rate (%) (All Students)": "*",
+      "Days Attended/Days Members (All Students)": "*/*"
+    }
+  ],
+  "student_groups_data": [
+    {
+      "Year": "2025",
+      "Student Group": "ADA 504",
+      "Result (%) (All Students)": "*",
+      "Count": "*",
+      "Total": "393"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "Eco Disadv",
+      "Result (%) (All Students)": "82.2",
+      "Count": "323",
+      "Total": "393"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "FARMS",
+      "Result (%) (All Students)": "83.7",
+      "Count": "329",
+      "Total": "393"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "ML",
+      "Result (%) (All Students)": "5.9",
+      "Count": "23",
+      "Total": "393"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "Migrant",
+      "Result (%) (All Students)": "*",
+      "Count": "*",
+      "Total": "393"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "SWD",
+      "Result (%) (All Students)": "9.2",
+      "Count": "36",
+      "Total": "393"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "Title 1",
+      "Result (%) (All Students)": "\u2265 95.0",
+      "Count": "*",
+      "Total": "393"
+    }
+  ],
+  "county_name": "Dorchester County"
+}

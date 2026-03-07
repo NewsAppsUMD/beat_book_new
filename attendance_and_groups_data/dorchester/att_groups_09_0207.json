@@ -1,0 +1,95 @@
+{
+  "school_name": "North Dorchester High School",
+  "school_code": "0207",
+  "county_code": "09",
+  "attendance_data": [
+    {
+      "Year": "2025",
+      "Race/Ethnicity": "African Am.",
+      "Attendance Rate (%) (All Students)": "89.7",
+      "Days Attended/Days Members (All Students)": "19784.5/22054.0"
+    },
+    {
+      "Year": "2025",
+      "Race/Ethnicity": "White",
+      "Attendance Rate (%) (All Students)": "90.2",
+      "Days Attended/Days Members (All Students)": "46506.5/51559.0"
+    },
+    {
+      "Year": "2025",
+      "Race/Ethnicity": "2+",
+      "Attendance Rate (%) (All Students)": "87.5",
+      "Days Attended/Days Members (All Students)": "5917.5/6764.0"
+    },
+    {
+      "Year": "2025",
+      "Race/Ethnicity": "Hispanic",
+      "Attendance Rate (%) (All Students)": "90.6",
+      "Days Attended/Days Members (All Students)": "10083.5/11129.0"
+    },
+    {
+      "Year": "2025",
+      "Race/Ethnicity": "Am.Ind/AK",
+      "Attendance Rate (%) (All Students)": "*",
+      "Days Attended/Days Members (All Students)": "*/*"
+    },
+    {
+      "Year": "2025",
+      "Race/Ethnicity": "Asian",
+      "Attendance Rate (%) (All Students)": "*",
+      "Days Attended/Days Members (All Students)": "*/*"
+    }
+  ],
+  "student_groups_data": [
+    {
+      "Year": "2025",
+      "Student Group": "ADA 504",
+      "Result (%) (All Students)": "9.1",
+      "Count": "47",
+      "Total": "515"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "Eco Disadv",
+      "Result (%) (All Students)": "54.2",
+      "Count": "279",
+      "Total": "515"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "FARMS",
+      "Result (%) (All Students)": "56.3",
+      "Count": "290",
+      "Total": "515"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "ML",
+      "Result (%) (All Students)": "\u2264 5.0",
+      "Count": "*",
+      "Total": "515"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "SWD",
+      "Result (%) (All Students)": "5.8",
+      "Count": "30",
+      "Total": "515"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "Homeless",
+      "Result (%) (All Students)": "*",
+      "Count": "*",
+      "Total": "515"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "Foster Care",
+      "Result (%) (All Students)": "*",
+      "Count": "*",
+      "Total": "515"
+    }
+  ],
+  "county_name": "Dorchester County"
+}

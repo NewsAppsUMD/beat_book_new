@@ -1,0 +1,89 @@
+{
+  "school_name": "St. Michaels Middle/High School",
+  "school_code": "0202",
+  "county_code": "20",
+  "attendance_data": [
+    {
+      "Year": "2025",
+      "Race/Ethnicity": "African Am.",
+      "Attendance Rate (%) (All Students)": "89.5",
+      "Days Attended/Days Members (All Students)": "8306.0/9280.0"
+    },
+    {
+      "Year": "2025",
+      "Race/Ethnicity": "White",
+      "Attendance Rate (%) (All Students)": "92.0",
+      "Days Attended/Days Members (All Students)": "50555.0/54948.0"
+    },
+    {
+      "Year": "2025",
+      "Race/Ethnicity": "2+",
+      "Attendance Rate (%) (All Students)": "92.2",
+      "Days Attended/Days Members (All Students)": "5171.0/5607.0"
+    },
+    {
+      "Year": "2025",
+      "Race/Ethnicity": "Hispanic",
+      "Attendance Rate (%) (All Students)": "90.3",
+      "Days Attended/Days Members (All Students)": "7984.0/8846.0"
+    },
+    {
+      "Year": "2025",
+      "Race/Ethnicity": "Asian",
+      "Attendance Rate (%) (All Students)": "*",
+      "Days Attended/Days Members (All Students)": "*/*"
+    }
+  ],
+  "student_groups_data": [
+    {
+      "Year": "2025",
+      "Student Group": "ADA 504",
+      "Result (%) (All Students)": "12.7",
+      "Count": "56",
+      "Total": "440"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "Eco Disadv",
+      "Result (%) (All Students)": "41.6",
+      "Count": "183",
+      "Total": "440"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "FARMS",
+      "Result (%) (All Students)": "46.4",
+      "Count": "204",
+      "Total": "440"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "ML",
+      "Result (%) (All Students)": "\u2264 5.0",
+      "Count": "*",
+      "Total": "440"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "SWD",
+      "Result (%) (All Students)": "10.2",
+      "Count": "45",
+      "Total": "440"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "Homeless",
+      "Result (%) (All Students)": "*",
+      "Count": "*",
+      "Total": "440"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "Military",
+      "Result (%) (All Students)": "*",
+      "Count": "*",
+      "Total": "440"
+    }
+  ],
+  "county_name": "Talbot County"
+}

@@ -1,0 +1,89 @@
+{
+  "school_name": "Mace's Lane Middle School",
+  "school_code": "0707",
+  "county_code": "09",
+  "attendance_data": [
+    {
+      "Year": "2025",
+      "Race/Ethnicity": "African Am.",
+      "Attendance Rate (%) (All Students)": "85.2",
+      "Days Attended/Days Members (All Students)": "42776.5/50203.0"
+    },
+    {
+      "Year": "2025",
+      "Race/Ethnicity": "White",
+      "Attendance Rate (%) (All Students)": "89.7",
+      "Days Attended/Days Members (All Students)": "9206.5/10265.0"
+    },
+    {
+      "Year": "2025",
+      "Race/Ethnicity": "2+",
+      "Attendance Rate (%) (All Students)": "84.9",
+      "Days Attended/Days Members (All Students)": "6843.0/8063.0"
+    },
+    {
+      "Year": "2025",
+      "Race/Ethnicity": "Hispanic",
+      "Attendance Rate (%) (All Students)": "89.3",
+      "Days Attended/Days Members (All Students)": "14204.5/15910.0"
+    },
+    {
+      "Year": "2025",
+      "Race/Ethnicity": "Asian",
+      "Attendance Rate (%) (All Students)": "*",
+      "Days Attended/Days Members (All Students)": "*/*"
+    }
+  ],
+  "student_groups_data": [
+    {
+      "Year": "2025",
+      "Student Group": "ADA 504",
+      "Result (%) (All Students)": "\u2264 5.0",
+      "Count": "*",
+      "Total": "465"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "Eco Disadv",
+      "Result (%) (All Students)": "82.6",
+      "Count": "384",
+      "Total": "465"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "FARMS",
+      "Result (%) (All Students)": "84.7",
+      "Count": "394",
+      "Total": "465"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "ML",
+      "Result (%) (All Students)": "9.2",
+      "Count": "43",
+      "Total": "465"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "Migrant",
+      "Result (%) (All Students)": "*",
+      "Count": "*",
+      "Total": "465"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "SWD",
+      "Result (%) (All Students)": "9.9",
+      "Count": "46",
+      "Total": "465"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "Homeless",
+      "Result (%) (All Students)": "\u2264 5.0",
+      "Count": "*",
+      "Total": "465"
+    }
+  ],
+  "county_name": "Dorchester County"
+}

@@ -1,0 +1,4317 @@
+[
+  {
+    "school_name": "Denton Elementary School",
+    "school_code": "0301",
+    "county_code": "05",
+    "attendance_data": [
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "African Am.",
+        "Attendance Rate (%) (All Students)": "93.5",
+        "Days Attended/Days Members (All Students)": "12396.0/13264.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "HI/Pac.Isl.",
+        "Attendance Rate (%) (All Students)": "*",
+        "Days Attended/Days Members (All Students)": "*/*"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "White",
+        "Attendance Rate (%) (All Students)": "93.0",
+        "Days Attended/Days Members (All Students)": "45109.0/48508.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "2+",
+        "Attendance Rate (%) (All Students)": "91.2",
+        "Days Attended/Days Members (All Students)": "9822.5/10771.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Hispanic",
+        "Attendance Rate (%) (All Students)": "92.2",
+        "Days Attended/Days Members (All Students)": "6944.0/7528.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Am.Ind/AK",
+        "Attendance Rate (%) (All Students)": "*",
+        "Days Attended/Days Members (All Students)": "*/*"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Asian",
+        "Attendance Rate (%) (All Students)": "94.8",
+        "Days Attended/Days Members (All Students)": "2016.5/2127.0"
+      }
+    ],
+    "student_groups_data": [
+      {
+        "Year": "2025",
+        "Student Group": "ADA 504",
+        "Result (%) (All Students)": "\u2264 5.0",
+        "Count": "*",
+        "Total": "594"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Eco Disadv",
+        "Result (%) (All Students)": "56.2",
+        "Count": "334",
+        "Total": "594"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "FARMS",
+        "Result (%) (All Students)": "58.8",
+        "Count": "349",
+        "Total": "594"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "ML",
+        "Result (%) (All Students)": "\u2264 5.0",
+        "Count": "*",
+        "Total": "594"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "SWD",
+        "Result (%) (All Students)": "13.6",
+        "Count": "81",
+        "Total": "594"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Title 1",
+        "Result (%) (All Students)": "\u2265 95.0",
+        "Count": "*",
+        "Total": "594"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Homeless",
+        "Result (%) (All Students)": "*",
+        "Count": "*",
+        "Total": "594"
+      }
+    ],
+    "county_name": "Caroline County"
+  },
+  {
+    "school_name": "Federalsburg Elementary School",
+    "school_code": "0501",
+    "county_code": "05",
+    "attendance_data": [
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "African Am.",
+        "Attendance Rate (%) (All Students)": "94.4",
+        "Days Attended/Days Members (All Students)": "18317.0/19403.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "White",
+        "Attendance Rate (%) (All Students)": "91.4",
+        "Days Attended/Days Members (All Students)": "16523.0/18075.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "2+",
+        "Attendance Rate (%) (All Students)": "90.7",
+        "Days Attended/Days Members (All Students)": "8132.0/8970.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Hispanic",
+        "Attendance Rate (%) (All Students)": "93.9",
+        "Days Attended/Days Members (All Students)": "3281.0/3494.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Asian",
+        "Attendance Rate (%) (All Students)": "*",
+        "Days Attended/Days Members (All Students)": "*/*"
+      }
+    ],
+    "student_groups_data": [
+      {
+        "Year": "2025",
+        "Student Group": "ADA 504",
+        "Result (%) (All Students)": "\u2264 5.0",
+        "Count": "*",
+        "Total": "418"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Eco Disadv",
+        "Result (%) (All Students)": "78.2",
+        "Count": "327",
+        "Total": "418"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "FARMS",
+        "Result (%) (All Students)": "81.3",
+        "Count": "340",
+        "Total": "418"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "ML",
+        "Result (%) (All Students)": "9.3",
+        "Count": "39",
+        "Total": "418"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "SWD",
+        "Result (%) (All Students)": "12.7",
+        "Count": "53",
+        "Total": "418"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Title 1",
+        "Result (%) (All Students)": "\u2265 95.0",
+        "Count": "*",
+        "Total": "418"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Homeless",
+        "Result (%) (All Students)": "\u2264 5.0",
+        "Count": "*",
+        "Total": "418"
+      }
+    ],
+    "county_name": "Caroline County"
+  },
+  {
+    "school_name": "Greensboro Elementary School",
+    "school_code": "0201",
+    "county_code": "05",
+    "attendance_data": [
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "African Am.",
+        "Attendance Rate (%) (All Students)": "93.9",
+        "Days Attended/Days Members (All Students)": "3488.0/3714.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "White",
+        "Attendance Rate (%) (All Students)": "92.8",
+        "Days Attended/Days Members (All Students)": "42355.0/45644.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "2+",
+        "Attendance Rate (%) (All Students)": "93.2",
+        "Days Attended/Days Members (All Students)": "6408.5/6873.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Hispanic",
+        "Attendance Rate (%) (All Students)": "94.2",
+        "Days Attended/Days Members (All Students)": "48934.0/51943.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Asian",
+        "Attendance Rate (%) (All Students)": "*",
+        "Days Attended/Days Members (All Students)": "*/*"
+      }
+    ],
+    "student_groups_data": [
+      {
+        "Year": "2025",
+        "Student Group": "ADA 504",
+        "Result (%) (All Students)": "\u2264 5.0",
+        "Count": "*",
+        "Total": "852"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Eco Disadv",
+        "Result (%) (All Students)": "71.6",
+        "Count": "610",
+        "Total": "852"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "FARMS",
+        "Result (%) (All Students)": "76.9",
+        "Count": "655",
+        "Total": "852"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "ML",
+        "Result (%) (All Students)": "26.9",
+        "Count": "229",
+        "Total": "852"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Migrant",
+        "Result (%) (All Students)": "*",
+        "Count": "*",
+        "Total": "852"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "SWD",
+        "Result (%) (All Students)": "9.9",
+        "Count": "84",
+        "Total": "852"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Title 1",
+        "Result (%) (All Students)": "\u2265 95.0",
+        "Count": "*",
+        "Total": "852"
+      }
+    ],
+    "county_name": "Caroline County"
+  },
+  {
+    "school_name": "Preston Elementary School",
+    "school_code": "0401",
+    "county_code": "05",
+    "attendance_data": [
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "African Am.",
+        "Attendance Rate (%) (All Students)": "94.4",
+        "Days Attended/Days Members (All Students)": "3890.5/4120.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "White",
+        "Attendance Rate (%) (All Students)": "93.7",
+        "Days Attended/Days Members (All Students)": "34660.0/36990.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "2+",
+        "Attendance Rate (%) (All Students)": "92.0",
+        "Days Attended/Days Members (All Students)": "3356.5/3648.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Hispanic",
+        "Attendance Rate (%) (All Students)": "92.5",
+        "Days Attended/Days Members (All Students)": "5259.5/5685.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Am.Ind/AK",
+        "Attendance Rate (%) (All Students)": "*",
+        "Days Attended/Days Members (All Students)": "*/*"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Asian",
+        "Attendance Rate (%) (All Students)": "*",
+        "Days Attended/Days Members (All Students)": "*/*"
+      }
+    ],
+    "student_groups_data": [
+      {
+        "Year": "2025",
+        "Student Group": "ADA 504",
+        "Result (%) (All Students)": "\u2264 5.0",
+        "Count": "*",
+        "Total": "382"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Eco Disadv",
+        "Result (%) (All Students)": "54.5",
+        "Count": "208",
+        "Total": "382"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "FARMS",
+        "Result (%) (All Students)": "58.6",
+        "Count": "224",
+        "Total": "382"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "ML",
+        "Result (%) (All Students)": "\u2264 5.0",
+        "Count": "*",
+        "Total": "382"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "SWD",
+        "Result (%) (All Students)": "10.5",
+        "Count": "40",
+        "Total": "382"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Title 1",
+        "Result (%) (All Students)": "\u2265 95.0",
+        "Count": "*",
+        "Total": "382"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Homeless",
+        "Result (%) (All Students)": "*",
+        "Count": "*",
+        "Total": "382"
+      }
+    ],
+    "county_name": "Caroline County"
+  },
+  {
+    "school_name": "Ridgely Elementary School",
+    "school_code": "0701",
+    "county_code": "05",
+    "attendance_data": [
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "African Am.",
+        "Attendance Rate (%) (All Students)": "91.6",
+        "Days Attended/Days Members (All Students)": "6114.0/6674.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "White",
+        "Attendance Rate (%) (All Students)": "92.7",
+        "Days Attended/Days Members (All Students)": "37986.5/40972.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "2+",
+        "Attendance Rate (%) (All Students)": "88.4",
+        "Days Attended/Days Members (All Students)": "2580.5/2918.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Hispanic",
+        "Attendance Rate (%) (All Students)": "93.2",
+        "Days Attended/Days Members (All Students)": "6113.5/6557.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Asian",
+        "Attendance Rate (%) (All Students)": "*",
+        "Days Attended/Days Members (All Students)": "*/*"
+      }
+    ],
+    "student_groups_data": [
+      {
+        "Year": "2025",
+        "Student Group": "ADA 504",
+        "Result (%) (All Students)": "\u2264 5.0",
+        "Count": "*",
+        "Total": "435"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Eco Disadv",
+        "Result (%) (All Students)": "54.7",
+        "Count": "238",
+        "Total": "435"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "FARMS",
+        "Result (%) (All Students)": "55.6",
+        "Count": "242",
+        "Total": "435"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "ML",
+        "Result (%) (All Students)": "\u2264 5.0",
+        "Count": "*",
+        "Total": "435"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Migrant",
+        "Result (%) (All Students)": "*",
+        "Count": "*",
+        "Total": "435"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "SWD",
+        "Result (%) (All Students)": "12.4",
+        "Count": "54",
+        "Total": "435"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Title 1",
+        "Result (%) (All Students)": "\u2265 95.0",
+        "Count": "*",
+        "Total": "435"
+      }
+    ],
+    "county_name": "Caroline County"
+  },
+  {
+    "school_name": "Colonel Richardson Middle School",
+    "school_code": "0802",
+    "county_code": "05",
+    "attendance_data": [
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "African Am.",
+        "Attendance Rate (%) (All Students)": "92.5",
+        "Days Attended/Days Members (All Students)": "14119.0/15267.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "White",
+        "Attendance Rate (%) (All Students)": "92.0",
+        "Days Attended/Days Members (All Students)": "36231.5/39396.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "2+",
+        "Attendance Rate (%) (All Students)": "88.8",
+        "Days Attended/Days Members (All Students)": "6592.5/7424.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Hispanic",
+        "Attendance Rate (%) (All Students)": "91.6",
+        "Days Attended/Days Members (All Students)": "5976.5/6523.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Am.Ind/AK",
+        "Attendance Rate (%) (All Students)": "*",
+        "Days Attended/Days Members (All Students)": "*/*"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Asian",
+        "Attendance Rate (%) (All Students)": "*",
+        "Days Attended/Days Members (All Students)": "*/*"
+      }
+    ],
+    "student_groups_data": [
+      {
+        "Year": "2025",
+        "Student Group": "ADA 504",
+        "Result (%) (All Students)": "\u2264 5.0",
+        "Count": "*",
+        "Total": "385"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Eco Disadv",
+        "Result (%) (All Students)": "63.6",
+        "Count": "245",
+        "Total": "385"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "FARMS",
+        "Result (%) (All Students)": "68.6",
+        "Count": "264",
+        "Total": "385"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "ML",
+        "Result (%) (All Students)": "\u2264 5.0",
+        "Count": "*",
+        "Total": "385"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "SWD",
+        "Result (%) (All Students)": "7.3",
+        "Count": "28",
+        "Total": "385"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Homeless",
+        "Result (%) (All Students)": "*",
+        "Count": "*",
+        "Total": "385"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Military",
+        "Result (%) (All Students)": "*",
+        "Count": "*",
+        "Total": "385"
+      }
+    ],
+    "county_name": "Caroline County"
+  },
+  {
+    "school_name": "Lockerman Middle School",
+    "school_code": "0302",
+    "county_code": "05",
+    "attendance_data": [
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "African Am.",
+        "Attendance Rate (%) (All Students)": "90.6",
+        "Days Attended/Days Members (All Students)": "14568.0/16085.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "White",
+        "Attendance Rate (%) (All Students)": "90.9",
+        "Days Attended/Days Members (All Students)": "74404.0/81870.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "2+",
+        "Attendance Rate (%) (All Students)": "89.9",
+        "Days Attended/Days Members (All Students)": "10744.0/11948.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Hispanic",
+        "Attendance Rate (%) (All Students)": "91.6",
+        "Days Attended/Days Members (All Students)": "33788.5/36869.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Am.Ind/AK",
+        "Attendance Rate (%) (All Students)": "*",
+        "Days Attended/Days Members (All Students)": "*/*"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Asian",
+        "Attendance Rate (%) (All Students)": "\u2265 95.0",
+        "Days Attended/Days Members (All Students)": "*/*"
+      }
+    ],
+    "student_groups_data": [
+      {
+        "Year": "2025",
+        "Student Group": "ADA 504",
+        "Result (%) (All Students)": "\u2264 5.0",
+        "Count": "*",
+        "Total": "828"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Eco Disadv",
+        "Result (%) (All Students)": "55.3",
+        "Count": "458",
+        "Total": "828"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "FARMS",
+        "Result (%) (All Students)": "56.8",
+        "Count": "470",
+        "Total": "828"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "ML",
+        "Result (%) (All Students)": "9.8",
+        "Count": "81",
+        "Total": "828"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Migrant",
+        "Result (%) (All Students)": "*",
+        "Count": "*",
+        "Total": "828"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "SWD",
+        "Result (%) (All Students)": "10.6",
+        "Count": "88",
+        "Total": "828"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Homeless",
+        "Result (%) (All Students)": "\u2264 5.0",
+        "Count": "*",
+        "Total": "828"
+      }
+    ],
+    "county_name": "Caroline County"
+  },
+  {
+    "school_name": "Colonel Richardson High School",
+    "school_code": "0801",
+    "county_code": "05",
+    "attendance_data": [
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "African Am.",
+        "Attendance Rate (%) (All Students)": "92.2",
+        "Days Attended/Days Members (All Students)": "21064.0/22855.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "White",
+        "Attendance Rate (%) (All Students)": "91.7",
+        "Days Attended/Days Members (All Students)": "46909.5/51166.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "2+",
+        "Attendance Rate (%) (All Students)": "89.1",
+        "Days Attended/Days Members (All Students)": "6843.0/7684.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Hispanic",
+        "Attendance Rate (%) (All Students)": "88.8",
+        "Days Attended/Days Members (All Students)": "7903.5/8903.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Am.Ind/AK",
+        "Attendance Rate (%) (All Students)": "*",
+        "Days Attended/Days Members (All Students)": "*/*"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Asian",
+        "Attendance Rate (%) (All Students)": "94.7",
+        "Days Attended/Days Members (All Students)": "2199.0/2321.0"
+      }
+    ],
+    "student_groups_data": [
+      {
+        "Year": "2025",
+        "Student Group": "ADA 504",
+        "Result (%) (All Students)": "5.3",
+        "Count": "27",
+        "Total": "514"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Eco Disadv",
+        "Result (%) (All Students)": "59.5",
+        "Count": "306",
+        "Total": "514"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "FARMS",
+        "Result (%) (All Students)": "64.8",
+        "Count": "333",
+        "Total": "514"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "ML",
+        "Result (%) (All Students)": "6.0",
+        "Count": "31",
+        "Total": "514"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "SWD",
+        "Result (%) (All Students)": "5.8",
+        "Count": "30",
+        "Total": "514"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Homeless",
+        "Result (%) (All Students)": "*",
+        "Count": "*",
+        "Total": "514"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Foster Care",
+        "Result (%) (All Students)": "*",
+        "Count": "*",
+        "Total": "514"
+      }
+    ],
+    "county_name": "Caroline County"
+  },
+  {
+    "school_name": "North Caroline High School",
+    "school_code": "0703",
+    "county_code": "05",
+    "attendance_data": [
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "African Am.",
+        "Attendance Rate (%) (All Students)": "90.4",
+        "Days Attended/Days Members (All Students)": "22096.5/24435.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "White",
+        "Attendance Rate (%) (All Students)": "90.7",
+        "Days Attended/Days Members (All Students)": "110725.0/122091.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "2+",
+        "Attendance Rate (%) (All Students)": "88.9",
+        "Days Attended/Days Members (All Students)": "14725.5/16570.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Hispanic",
+        "Attendance Rate (%) (All Students)": "90.1",
+        "Days Attended/Days Members (All Students)": "49682.0/55118.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Am.Ind/AK",
+        "Attendance Rate (%) (All Students)": "*",
+        "Days Attended/Days Members (All Students)": "*/*"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Asian",
+        "Attendance Rate (%) (All Students)": "92.3",
+        "Days Attended/Days Members (All Students)": "2681.0/2904.0"
+      }
+    ],
+    "student_groups_data": [
+      {
+        "Year": "2025",
+        "Student Group": "ADA 504",
+        "Result (%) (All Students)": "5.8",
+        "Count": "72",
+        "Total": "1233"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Eco Disadv",
+        "Result (%) (All Students)": "53.9",
+        "Count": "664",
+        "Total": "1233"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "FARMS",
+        "Result (%) (All Students)": "56.2",
+        "Count": "693",
+        "Total": "1233"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "ML",
+        "Result (%) (All Students)": "10.1",
+        "Count": "125",
+        "Total": "1233"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Migrant",
+        "Result (%) (All Students)": "*",
+        "Count": "*",
+        "Total": "1233"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "SWD",
+        "Result (%) (All Students)": "7.9",
+        "Count": "97",
+        "Total": "1233"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Homeless",
+        "Result (%) (All Students)": "\u2264 5.0",
+        "Count": "*",
+        "Total": "1233"
+      }
+    ],
+    "county_name": "Caroline County"
+  },
+  {
+    "school_name": "Caroline Career & Technology Center",
+    "school_code": "0704",
+    "county_code": "05",
+    "attendance_data": [],
+    "student_groups_data": [],
+    "county_name": "Caroline County"
+  },
+  {
+    "school_name": "Choptank Elementary School",
+    "school_code": "0716",
+    "county_code": "09",
+    "attendance_data": [
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "African Am.",
+        "Attendance Rate (%) (All Students)": "87.6",
+        "Days Attended/Days Members (All Students)": "28419.5/32441.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "White",
+        "Attendance Rate (%) (All Students)": "92.6",
+        "Days Attended/Days Members (All Students)": "2260.5/2441.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "2+",
+        "Attendance Rate (%) (All Students)": "87.3",
+        "Days Attended/Days Members (All Students)": "2762.5/3166.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Hispanic",
+        "Attendance Rate (%) (All Students)": "89.3",
+        "Days Attended/Days Members (All Students)": "6425.0/7191.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Am.Ind/AK",
+        "Attendance Rate (%) (All Students)": "*",
+        "Days Attended/Days Members (All Students)": "*/*"
+      }
+    ],
+    "student_groups_data": [
+      {
+        "Year": "2025",
+        "Student Group": "ADA 504",
+        "Result (%) (All Students)": "*",
+        "Count": "*",
+        "Total": "326"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Eco Disadv",
+        "Result (%) (All Students)": "89.9",
+        "Count": "293",
+        "Total": "326"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "FARMS",
+        "Result (%) (All Students)": "90.5",
+        "Count": "295",
+        "Total": "326"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "ML",
+        "Result (%) (All Students)": "5.5",
+        "Count": "18",
+        "Total": "326"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Migrant",
+        "Result (%) (All Students)": "*",
+        "Count": "*",
+        "Total": "326"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "SWD",
+        "Result (%) (All Students)": "11.0",
+        "Count": "36",
+        "Total": "326"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Title 1",
+        "Result (%) (All Students)": "\u2265 95.0",
+        "Count": "*",
+        "Total": "326"
+      }
+    ],
+    "county_name": "Dorchester County"
+  },
+  {
+    "school_name": "Hurlock Elementary School",
+    "school_code": "1503",
+    "county_code": "09",
+    "attendance_data": [
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "African Am.",
+        "Attendance Rate (%) (All Students)": "92.1",
+        "Days Attended/Days Members (All Students)": "17045.0/18514.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "HI/Pac.Isl.",
+        "Attendance Rate (%) (All Students)": "*",
+        "Days Attended/Days Members (All Students)": "*/*"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "White",
+        "Attendance Rate (%) (All Students)": "91.9",
+        "Days Attended/Days Members (All Students)": "18215.5/19823.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "2+",
+        "Attendance Rate (%) (All Students)": "89.5",
+        "Days Attended/Days Members (All Students)": "4291.5/4794.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Hispanic",
+        "Attendance Rate (%) (All Students)": "93.2",
+        "Days Attended/Days Members (All Students)": "5367.5/5760.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Asian",
+        "Attendance Rate (%) (All Students)": "*",
+        "Days Attended/Days Members (All Students)": "*/*"
+      }
+    ],
+    "student_groups_data": [
+      {
+        "Year": "2025",
+        "Student Group": "ADA 504",
+        "Result (%) (All Students)": "*",
+        "Count": "*",
+        "Total": "381"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Eco Disadv",
+        "Result (%) (All Students)": "74.8",
+        "Count": "285",
+        "Total": "381"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "FARMS",
+        "Result (%) (All Students)": "75.9",
+        "Count": "289",
+        "Total": "381"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "ML",
+        "Result (%) (All Students)": "7.6",
+        "Count": "29",
+        "Total": "381"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "SWD",
+        "Result (%) (All Students)": "11.8",
+        "Count": "45",
+        "Total": "381"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Title 1",
+        "Result (%) (All Students)": "\u2265 95.0",
+        "Count": "*",
+        "Total": "381"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Homeless",
+        "Result (%) (All Students)": "*",
+        "Count": "*",
+        "Total": "381"
+      }
+    ],
+    "county_name": "Dorchester County"
+  },
+  {
+    "school_name": "Maple Elementary School",
+    "school_code": "0711",
+    "county_code": "09",
+    "attendance_data": [
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "African Am.",
+        "Attendance Rate (%) (All Students)": "93.0",
+        "Days Attended/Days Members (All Students)": "20570.5/22122.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "White",
+        "Attendance Rate (%) (All Students)": "91.5",
+        "Days Attended/Days Members (All Students)": "10836.5/11845.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "2+",
+        "Attendance Rate (%) (All Students)": "91.3",
+        "Days Attended/Days Members (All Students)": "3977.5/4358.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Hispanic",
+        "Attendance Rate (%) (All Students)": "94.6",
+        "Days Attended/Days Members (All Students)": "20465.0/21625.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Am.Ind/AK",
+        "Attendance Rate (%) (All Students)": "*",
+        "Days Attended/Days Members (All Students)": "*/*"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Asian",
+        "Attendance Rate (%) (All Students)": "*",
+        "Days Attended/Days Members (All Students)": "*/*"
+      }
+    ],
+    "student_groups_data": [
+      {
+        "Year": "2025",
+        "Student Group": "ADA 504",
+        "Result (%) (All Students)": "*",
+        "Count": "*",
+        "Total": "484"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Eco Disadv",
+        "Result (%) (All Students)": "80.0",
+        "Count": "387",
+        "Total": "484"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "FARMS",
+        "Result (%) (All Students)": "83.1",
+        "Count": "402",
+        "Total": "484"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "ML",
+        "Result (%) (All Students)": "19.4",
+        "Count": "94",
+        "Total": "484"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "SWD",
+        "Result (%) (All Students)": "8.5",
+        "Count": "41",
+        "Total": "484"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Title 1",
+        "Result (%) (All Students)": "\u2265 95.0",
+        "Count": "*",
+        "Total": "484"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Homeless",
+        "Result (%) (All Students)": "\u2264 5.0",
+        "Count": "*",
+        "Total": "484"
+      }
+    ],
+    "county_name": "Dorchester County"
+  },
+  {
+    "school_name": "Sandy Hill Elementary School",
+    "school_code": "0710",
+    "county_code": "09",
+    "attendance_data": [
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "African Am.",
+        "Attendance Rate (%) (All Students)": "88.1",
+        "Days Attended/Days Members (All Students)": "24119.0/27370.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "White",
+        "Attendance Rate (%) (All Students)": "92.2",
+        "Days Attended/Days Members (All Students)": "7819.5/8478.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "2+",
+        "Attendance Rate (%) (All Students)": "91.5",
+        "Days Attended/Days Members (All Students)": "3293.0/3597.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Hispanic",
+        "Attendance Rate (%) (All Students)": "86.4",
+        "Days Attended/Days Members (All Students)": "5400.0/6249.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Asian",
+        "Attendance Rate (%) (All Students)": "*",
+        "Days Attended/Days Members (All Students)": "*/*"
+      }
+    ],
+    "student_groups_data": [
+      {
+        "Year": "2025",
+        "Student Group": "ADA 504",
+        "Result (%) (All Students)": "*",
+        "Count": "*",
+        "Total": "393"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Eco Disadv",
+        "Result (%) (All Students)": "82.2",
+        "Count": "323",
+        "Total": "393"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "FARMS",
+        "Result (%) (All Students)": "83.7",
+        "Count": "329",
+        "Total": "393"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "ML",
+        "Result (%) (All Students)": "5.9",
+        "Count": "23",
+        "Total": "393"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Migrant",
+        "Result (%) (All Students)": "*",
+        "Count": "*",
+        "Total": "393"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "SWD",
+        "Result (%) (All Students)": "9.2",
+        "Count": "36",
+        "Total": "393"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Title 1",
+        "Result (%) (All Students)": "\u2265 95.0",
+        "Count": "*",
+        "Total": "393"
+      }
+    ],
+    "county_name": "Dorchester County"
+  },
+  {
+    "school_name": "Vienna Elementary School",
+    "school_code": "0302",
+    "county_code": "09",
+    "attendance_data": [
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "African Am.",
+        "Attendance Rate (%) (All Students)": "93.6",
+        "Days Attended/Days Members (All Students)": "2354.0/2516.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "White",
+        "Attendance Rate (%) (All Students)": "93.3",
+        "Days Attended/Days Members (All Students)": "15755.5/16889.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "2+",
+        "Attendance Rate (%) (All Students)": "92.3",
+        "Days Attended/Days Members (All Students)": "2094.0/2269.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Hispanic",
+        "Attendance Rate (%) (All Students)": "94.8",
+        "Days Attended/Days Members (All Students)": "2316.0/2443.0"
+      }
+    ],
+    "student_groups_data": [
+      {
+        "Year": "2025",
+        "Student Group": "ADA 504",
+        "Result (%) (All Students)": "*",
+        "Count": "*",
+        "Total": "186"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Eco Disadv",
+        "Result (%) (All Students)": "56.5",
+        "Count": "105",
+        "Total": "186"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "FARMS",
+        "Result (%) (All Students)": "59.7",
+        "Count": "111",
+        "Total": "186"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "ML",
+        "Result (%) (All Students)": "5.9",
+        "Count": "11",
+        "Total": "186"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "SWD",
+        "Result (%) (All Students)": "5.4",
+        "Count": "10",
+        "Total": "186"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Homeless",
+        "Result (%) (All Students)": "*",
+        "Count": "*",
+        "Total": "186"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Military",
+        "Result (%) (All Students)": "*",
+        "Count": "*",
+        "Total": "186"
+      }
+    ],
+    "county_name": "Dorchester County"
+  },
+  {
+    "school_name": "Warwick Elementary School",
+    "school_code": "0205",
+    "county_code": "09",
+    "attendance_data": [
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "African Am.",
+        "Attendance Rate (%) (All Students)": "93.6",
+        "Days Attended/Days Members (All Students)": "2863.0/3060.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "White",
+        "Attendance Rate (%) (All Students)": "93.6",
+        "Days Attended/Days Members (All Students)": "37708.0/40293.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "2+",
+        "Attendance Rate (%) (All Students)": "92.8",
+        "Days Attended/Days Members (All Students)": "2248.5/2422.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Hispanic",
+        "Attendance Rate (%) (All Students)": "93.5",
+        "Days Attended/Days Members (All Students)": "1683.5/1800.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Asian",
+        "Attendance Rate (%) (All Students)": "*",
+        "Days Attended/Days Members (All Students)": "*/*"
+      }
+    ],
+    "student_groups_data": [
+      {
+        "Year": "2025",
+        "Student Group": "ADA 504",
+        "Result (%) (All Students)": "*",
+        "Count": "*",
+        "Total": "347"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Eco Disadv",
+        "Result (%) (All Students)": "44.4",
+        "Count": "154",
+        "Total": "347"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "FARMS",
+        "Result (%) (All Students)": "47.3",
+        "Count": "164",
+        "Total": "347"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "ML",
+        "Result (%) (All Students)": "*",
+        "Count": "*",
+        "Total": "347"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "SWD",
+        "Result (%) (All Students)": "7.8",
+        "Count": "27",
+        "Total": "347"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Homeless",
+        "Result (%) (All Students)": "*",
+        "Count": "*",
+        "Total": "347"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Foster Care",
+        "Result (%) (All Students)": "*",
+        "Count": "*",
+        "Total": "347"
+      }
+    ],
+    "county_name": "Dorchester County"
+  },
+  {
+    "school_name": "South Dorchester School",
+    "school_code": "0508",
+    "county_code": "09",
+    "attendance_data": [
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "African Am.",
+        "Attendance Rate (%) (All Students)": "*",
+        "Days Attended/Days Members (All Students)": "*/*"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "White",
+        "Attendance Rate (%) (All Students)": "93.3",
+        "Days Attended/Days Members (All Students)": "27133.5/29076.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "2+",
+        "Attendance Rate (%) (All Students)": "93.4",
+        "Days Attended/Days Members (All Students)": "1682.0/1800.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Hispanic",
+        "Attendance Rate (%) (All Students)": "*",
+        "Days Attended/Days Members (All Students)": "*/*"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Asian",
+        "Attendance Rate (%) (All Students)": "*",
+        "Days Attended/Days Members (All Students)": "*/*"
+      }
+    ],
+    "student_groups_data": [
+      {
+        "Year": "2025",
+        "Student Group": "ADA 504",
+        "Result (%) (All Students)": "\u2264 5.0",
+        "Count": "*",
+        "Total": "234"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Eco Disadv",
+        "Result (%) (All Students)": "43.6",
+        "Count": "102",
+        "Total": "234"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "FARMS",
+        "Result (%) (All Students)": "44.4",
+        "Count": "104",
+        "Total": "234"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "ML",
+        "Result (%) (All Students)": "*",
+        "Count": "*",
+        "Total": "234"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "SWD",
+        "Result (%) (All Students)": "9.4",
+        "Count": "22",
+        "Total": "234"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Homeless",
+        "Result (%) (All Students)": "*",
+        "Count": "*",
+        "Total": "234"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Military",
+        "Result (%) (All Students)": "*",
+        "Count": "*",
+        "Total": "234"
+      }
+    ],
+    "county_name": "Dorchester County"
+  },
+  {
+    "school_name": "Mace's Lane Middle School",
+    "school_code": "0707",
+    "county_code": "09",
+    "attendance_data": [
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "African Am.",
+        "Attendance Rate (%) (All Students)": "85.2",
+        "Days Attended/Days Members (All Students)": "42776.5/50203.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "White",
+        "Attendance Rate (%) (All Students)": "89.7",
+        "Days Attended/Days Members (All Students)": "9206.5/10265.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "2+",
+        "Attendance Rate (%) (All Students)": "84.9",
+        "Days Attended/Days Members (All Students)": "6843.0/8063.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Hispanic",
+        "Attendance Rate (%) (All Students)": "89.3",
+        "Days Attended/Days Members (All Students)": "14204.5/15910.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Asian",
+        "Attendance Rate (%) (All Students)": "*",
+        "Days Attended/Days Members (All Students)": "*/*"
+      }
+    ],
+    "student_groups_data": [
+      {
+        "Year": "2025",
+        "Student Group": "ADA 504",
+        "Result (%) (All Students)": "\u2264 5.0",
+        "Count": "*",
+        "Total": "465"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Eco Disadv",
+        "Result (%) (All Students)": "82.6",
+        "Count": "384",
+        "Total": "465"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "FARMS",
+        "Result (%) (All Students)": "84.7",
+        "Count": "394",
+        "Total": "465"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "ML",
+        "Result (%) (All Students)": "9.2",
+        "Count": "43",
+        "Total": "465"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Migrant",
+        "Result (%) (All Students)": "*",
+        "Count": "*",
+        "Total": "465"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "SWD",
+        "Result (%) (All Students)": "9.9",
+        "Count": "46",
+        "Total": "465"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Homeless",
+        "Result (%) (All Students)": "\u2264 5.0",
+        "Count": "*",
+        "Total": "465"
+      }
+    ],
+    "county_name": "Dorchester County"
+  },
+  {
+    "school_name": "North Dorchester Middle School",
+    "school_code": "0208",
+    "county_code": "09",
+    "attendance_data": [
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "African Am.",
+        "Attendance Rate (%) (All Students)": "90.9",
+        "Days Attended/Days Members (All Students)": "13097.0/14405.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "White",
+        "Attendance Rate (%) (All Students)": "93.0",
+        "Days Attended/Days Members (All Students)": "42471.0/45672.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "2+",
+        "Attendance Rate (%) (All Students)": "91.3",
+        "Days Attended/Days Members (All Students)": "4563.0/5000.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Hispanic",
+        "Attendance Rate (%) (All Students)": "93.4",
+        "Days Attended/Days Members (All Students)": "7367.5/7892.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Asian",
+        "Attendance Rate (%) (All Students)": "*",
+        "Days Attended/Days Members (All Students)": "*/*"
+      }
+    ],
+    "student_groups_data": [
+      {
+        "Year": "2025",
+        "Student Group": "ADA 504",
+        "Result (%) (All Students)": "5.4",
+        "Count": "22",
+        "Total": "411"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Eco Disadv",
+        "Result (%) (All Students)": "58.2",
+        "Count": "239",
+        "Total": "411"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "FARMS",
+        "Result (%) (All Students)": "59.4",
+        "Count": "244",
+        "Total": "411"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "ML",
+        "Result (%) (All Students)": "\u2264 5.0",
+        "Count": "*",
+        "Total": "411"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "SWD",
+        "Result (%) (All Students)": "10.9",
+        "Count": "45",
+        "Total": "411"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Homeless",
+        "Result (%) (All Students)": "*",
+        "Count": "*",
+        "Total": "411"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Military",
+        "Result (%) (All Students)": "*",
+        "Count": "*",
+        "Total": "411"
+      }
+    ],
+    "county_name": "Dorchester County"
+  },
+  {
+    "school_name": "Cambridge-South Dorchester High School",
+    "school_code": "0713",
+    "county_code": "09",
+    "attendance_data": [
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "African Am.",
+        "Attendance Rate (%) (All Students)": "80.2",
+        "Days Attended/Days Members (All Students)": "63552.5/79249.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "HI/Pac.Isl.",
+        "Attendance Rate (%) (All Students)": "*",
+        "Days Attended/Days Members (All Students)": "*/*"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "White",
+        "Attendance Rate (%) (All Students)": "86.9",
+        "Days Attended/Days Members (All Students)": "30701.0/35347.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "2+",
+        "Attendance Rate (%) (All Students)": "79.7",
+        "Days Attended/Days Members (All Students)": "6483.5/8131.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Hispanic",
+        "Attendance Rate (%) (All Students)": "86.2",
+        "Days Attended/Days Members (All Students)": "14437.5/16741.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Asian",
+        "Attendance Rate (%) (All Students)": "*",
+        "Days Attended/Days Members (All Students)": "*/*"
+      }
+    ],
+    "student_groups_data": [
+      {
+        "Year": "2025",
+        "Student Group": "ADA 504",
+        "Result (%) (All Students)": "5.5",
+        "Count": "43",
+        "Total": "788"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Eco Disadv",
+        "Result (%) (All Students)": "73.5",
+        "Count": "579",
+        "Total": "788"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "FARMS",
+        "Result (%) (All Students)": "75.5",
+        "Count": "595",
+        "Total": "788"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "ML",
+        "Result (%) (All Students)": "6.0",
+        "Count": "47",
+        "Total": "788"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Migrant",
+        "Result (%) (All Students)": "*",
+        "Count": "*",
+        "Total": "788"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "SWD",
+        "Result (%) (All Students)": "8.8",
+        "Count": "69",
+        "Total": "788"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Homeless",
+        "Result (%) (All Students)": "\u2264 5.0",
+        "Count": "*",
+        "Total": "788"
+      }
+    ],
+    "county_name": "Dorchester County"
+  },
+  {
+    "school_name": "North Dorchester High School",
+    "school_code": "0207",
+    "county_code": "09",
+    "attendance_data": [
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "African Am.",
+        "Attendance Rate (%) (All Students)": "89.7",
+        "Days Attended/Days Members (All Students)": "19784.5/22054.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "White",
+        "Attendance Rate (%) (All Students)": "90.2",
+        "Days Attended/Days Members (All Students)": "46506.5/51559.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "2+",
+        "Attendance Rate (%) (All Students)": "87.5",
+        "Days Attended/Days Members (All Students)": "5917.5/6764.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Hispanic",
+        "Attendance Rate (%) (All Students)": "90.6",
+        "Days Attended/Days Members (All Students)": "10083.5/11129.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Am.Ind/AK",
+        "Attendance Rate (%) (All Students)": "*",
+        "Days Attended/Days Members (All Students)": "*/*"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Asian",
+        "Attendance Rate (%) (All Students)": "*",
+        "Days Attended/Days Members (All Students)": "*/*"
+      }
+    ],
+    "student_groups_data": [
+      {
+        "Year": "2025",
+        "Student Group": "ADA 504",
+        "Result (%) (All Students)": "9.1",
+        "Count": "47",
+        "Total": "515"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Eco Disadv",
+        "Result (%) (All Students)": "54.2",
+        "Count": "279",
+        "Total": "515"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "FARMS",
+        "Result (%) (All Students)": "56.3",
+        "Count": "290",
+        "Total": "515"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "ML",
+        "Result (%) (All Students)": "\u2264 5.0",
+        "Count": "*",
+        "Total": "515"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "SWD",
+        "Result (%) (All Students)": "5.8",
+        "Count": "30",
+        "Total": "515"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Homeless",
+        "Result (%) (All Students)": "*",
+        "Count": "*",
+        "Total": "515"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Foster Care",
+        "Result (%) (All Students)": "*",
+        "Count": "*",
+        "Total": "515"
+      }
+    ],
+    "county_name": "Dorchester County"
+  },
+  {
+    "school_name": "Dorchester County Career and Technology Center",
+    "school_code": "0714",
+    "county_code": "09",
+    "attendance_data": [],
+    "student_groups_data": [],
+    "county_name": "Dorchester County"
+  },
+  {
+    "school_name": "Judith P. Hoyer Early Childhood Center",
+    "school_code": "0709",
+    "county_code": "09",
+    "attendance_data": [],
+    "student_groups_data": [],
+    "county_name": "Dorchester County"
+  },
+  {
+    "school_name": "Galena Elementary School",
+    "school_code": "0105",
+    "county_code": "14",
+    "attendance_data": [
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "African Am.",
+        "Attendance Rate (%) (All Students)": "\u2265 95.0",
+        "Days Attended/Days Members (All Students)": "*/*"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "White",
+        "Attendance Rate (%) (All Students)": "92.9",
+        "Days Attended/Days Members (All Students)": "23318.5/25109.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "2+",
+        "Attendance Rate (%) (All Students)": "90.0",
+        "Days Attended/Days Members (All Students)": "2892.0/3212.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Hispanic",
+        "Attendance Rate (%) (All Students)": "92.3",
+        "Days Attended/Days Members (All Students)": "7207.5/7805.0"
+      }
+    ],
+    "student_groups_data": [
+      {
+        "Year": "2025",
+        "Student Group": "ADA 504",
+        "Result (%) (All Students)": "\u2264 5.0",
+        "Count": "*",
+        "Total": "314"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Eco Disadv",
+        "Result (%) (All Students)": "49.4",
+        "Count": "155",
+        "Total": "314"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "FARMS",
+        "Result (%) (All Students)": "57.6",
+        "Count": "181",
+        "Total": "314"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "ML",
+        "Result (%) (All Students)": "8.0",
+        "Count": "25",
+        "Total": "314"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Migrant",
+        "Result (%) (All Students)": "*",
+        "Count": "*",
+        "Total": "314"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "SWD",
+        "Result (%) (All Students)": "11.5",
+        "Count": "36",
+        "Total": "314"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Title 1",
+        "Result (%) (All Students)": "\u2265 95.0",
+        "Count": "*",
+        "Total": "314"
+      }
+    ],
+    "county_name": "Kent County"
+  },
+  {
+    "school_name": "H. H. Garnett Elementary",
+    "school_code": "0403",
+    "county_code": "14",
+    "attendance_data": [
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "African Am.",
+        "Attendance Rate (%) (All Students)": "92.8",
+        "Days Attended/Days Members (All Students)": "12247.5/13198.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "White",
+        "Attendance Rate (%) (All Students)": "93.3",
+        "Days Attended/Days Members (All Students)": "16592.5/17778.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "2+",
+        "Attendance Rate (%) (All Students)": "92.3",
+        "Days Attended/Days Members (All Students)": "4632.0/5016.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Hispanic",
+        "Attendance Rate (%) (All Students)": "92.8",
+        "Days Attended/Days Members (All Students)": "5235.0/5643.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Asian",
+        "Attendance Rate (%) (All Students)": "*",
+        "Days Attended/Days Members (All Students)": "*/*"
+      }
+    ],
+    "student_groups_data": [
+      {
+        "Year": "2025",
+        "Student Group": "ADA 504",
+        "Result (%) (All Students)": "\u2264 5.0",
+        "Count": "*",
+        "Total": "327"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Eco Disadv",
+        "Result (%) (All Students)": "66.7",
+        "Count": "218",
+        "Total": "327"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "FARMS",
+        "Result (%) (All Students)": "73.1",
+        "Count": "239",
+        "Total": "327"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "ML",
+        "Result (%) (All Students)": "9.5",
+        "Count": "31",
+        "Total": "327"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "SWD",
+        "Result (%) (All Students)": "10.7",
+        "Count": "35",
+        "Total": "327"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Title 1",
+        "Result (%) (All Students)": "\u2265 95.0",
+        "Count": "*",
+        "Total": "327"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Homeless",
+        "Result (%) (All Students)": "\u2264 5.0",
+        "Count": "*",
+        "Total": "327"
+      }
+    ],
+    "county_name": "Kent County"
+  },
+  {
+    "school_name": "Rock Hall Elementary",
+    "school_code": "0504",
+    "county_code": "14",
+    "attendance_data": [
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "African Am.",
+        "Attendance Rate (%) (All Students)": "93.2",
+        "Days Attended/Days Members (All Students)": "5858.0/6284.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "White",
+        "Attendance Rate (%) (All Students)": "92.8",
+        "Days Attended/Days Members (All Students)": "14533.0/15656.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "2+",
+        "Attendance Rate (%) (All Students)": "94.2",
+        "Days Attended/Days Members (All Students)": "2698.5/2866.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Hispanic",
+        "Attendance Rate (%) (All Students)": "*",
+        "Days Attended/Days Members (All Students)": "*/*"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Am.Ind/AK",
+        "Attendance Rate (%) (All Students)": "*",
+        "Days Attended/Days Members (All Students)": "*/*"
+      }
+    ],
+    "student_groups_data": [
+      {
+        "Year": "2025",
+        "Student Group": "ADA 504",
+        "Result (%) (All Students)": "*",
+        "Count": "*",
+        "Total": "194"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Eco Disadv",
+        "Result (%) (All Students)": "67.5",
+        "Count": "131",
+        "Total": "194"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "FARMS",
+        "Result (%) (All Students)": "75.8",
+        "Count": "147",
+        "Total": "194"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "ML",
+        "Result (%) (All Students)": "*",
+        "Count": "*",
+        "Total": "194"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "SWD",
+        "Result (%) (All Students)": "16.0",
+        "Count": "31",
+        "Total": "194"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Title 1",
+        "Result (%) (All Students)": "\u2265 95.0",
+        "Count": "*",
+        "Total": "194"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Homeless",
+        "Result (%) (All Students)": "7.7",
+        "Count": "15",
+        "Total": "194"
+      }
+    ],
+    "county_name": "Kent County"
+  },
+  {
+    "school_name": "Kent County Middle School",
+    "school_code": "0402",
+    "county_code": "14",
+    "attendance_data": [
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "African Am.",
+        "Attendance Rate (%) (All Students)": "90.8",
+        "Days Attended/Days Members (All Students)": "14513.0/15991.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "White",
+        "Attendance Rate (%) (All Students)": "92.7",
+        "Days Attended/Days Members (All Students)": "29227.0/31520.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "2+",
+        "Attendance Rate (%) (All Students)": "92.0",
+        "Days Attended/Days Members (All Students)": "5676.5/6173.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Hispanic",
+        "Attendance Rate (%) (All Students)": "93.1",
+        "Days Attended/Days Members (All Students)": "9326.5/10014.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Am.Ind/AK",
+        "Attendance Rate (%) (All Students)": "*",
+        "Days Attended/Days Members (All Students)": "*/*"
+      }
+    ],
+    "student_groups_data": [
+      {
+        "Year": "2025",
+        "Student Group": "ADA 504",
+        "Result (%) (All Students)": "8.8",
+        "Count": "32",
+        "Total": "362"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Eco Disadv",
+        "Result (%) (All Students)": "68.2",
+        "Count": "247",
+        "Total": "362"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "FARMS",
+        "Result (%) (All Students)": "74.6",
+        "Count": "270",
+        "Total": "362"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "ML",
+        "Result (%) (All Students)": "7.7",
+        "Count": "28",
+        "Total": "362"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Migrant",
+        "Result (%) (All Students)": "*",
+        "Count": "*",
+        "Total": "362"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "SWD",
+        "Result (%) (All Students)": "14.1",
+        "Count": "51",
+        "Total": "362"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Title 1",
+        "Result (%) (All Students)": "\u2265 95.0",
+        "Count": "*",
+        "Total": "362"
+      }
+    ],
+    "county_name": "Kent County"
+  },
+  {
+    "school_name": "Kent County High",
+    "school_code": "0301",
+    "county_code": "14",
+    "attendance_data": [
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "African Am.",
+        "Attendance Rate (%) (All Students)": "83.2",
+        "Days Attended/Days Members (All Students)": "18341.0/22055.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "White",
+        "Attendance Rate (%) (All Students)": "87.6",
+        "Days Attended/Days Members (All Students)": "43854.0/50049.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "2+",
+        "Attendance Rate (%) (All Students)": "84.4",
+        "Days Attended/Days Members (All Students)": "5294.5/6270.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Hispanic",
+        "Attendance Rate (%) (All Students)": "88.4",
+        "Days Attended/Days Members (All Students)": "10288.5/11636.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Am.Ind/AK",
+        "Attendance Rate (%) (All Students)": "*",
+        "Days Attended/Days Members (All Students)": "*/*"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Asian",
+        "Attendance Rate (%) (All Students)": "*",
+        "Days Attended/Days Members (All Students)": "*/*"
+      }
+    ],
+    "student_groups_data": [
+      {
+        "Year": "2025",
+        "Student Group": "ADA 504",
+        "Result (%) (All Students)": "11.3",
+        "Count": "57",
+        "Total": "505"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Eco Disadv",
+        "Result (%) (All Students)": "59.4",
+        "Count": "300",
+        "Total": "505"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "FARMS",
+        "Result (%) (All Students)": "62.0",
+        "Count": "313",
+        "Total": "505"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "ML",
+        "Result (%) (All Students)": "\u2264 5.0",
+        "Count": "*",
+        "Total": "505"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Migrant",
+        "Result (%) (All Students)": "*",
+        "Count": "*",
+        "Total": "505"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "SWD",
+        "Result (%) (All Students)": "13.5",
+        "Count": "68",
+        "Total": "505"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Homeless",
+        "Result (%) (All Students)": "\u2264 5.0",
+        "Count": "*",
+        "Total": "505"
+      }
+    ],
+    "county_name": "Kent County"
+  },
+  {
+    "school_name": "Bayside Elementary School",
+    "school_code": "0403",
+    "county_code": "17",
+    "attendance_data": [
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "African Am.",
+        "Attendance Rate (%) (All Students)": "*",
+        "Days Attended/Days Members (All Students)": "*/*"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "White",
+        "Attendance Rate (%) (All Students)": "93.6",
+        "Days Attended/Days Members (All Students)": "47513.5/50764.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "2+",
+        "Attendance Rate (%) (All Students)": "92.5",
+        "Days Attended/Days Members (All Students)": "3896.5/4211.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Hispanic",
+        "Attendance Rate (%) (All Students)": "91.2",
+        "Days Attended/Days Members (All Students)": "7610.5/8342.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Asian",
+        "Attendance Rate (%) (All Students)": "94.2",
+        "Days Attended/Days Members (All Students)": "2373.5/2520.0"
+      }
+    ],
+    "student_groups_data": [
+      {
+        "Year": "2025",
+        "Student Group": "ADA 504",
+        "Result (%) (All Students)": "\u2264 5.0",
+        "Count": "*",
+        "Total": "373"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Eco Disadv",
+        "Result (%) (All Students)": "22.0",
+        "Count": "82",
+        "Total": "373"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "FARMS",
+        "Result (%) (All Students)": "30.3",
+        "Count": "113",
+        "Total": "373"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "ML",
+        "Result (%) (All Students)": "5.6",
+        "Count": "21",
+        "Total": "373"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "SWD",
+        "Result (%) (All Students)": "12.6",
+        "Count": "47",
+        "Total": "373"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Homeless",
+        "Result (%) (All Students)": "*",
+        "Count": "*",
+        "Total": "373"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Military",
+        "Result (%) (All Students)": "\u2264 5.0",
+        "Count": "*",
+        "Total": "373"
+      }
+    ],
+    "county_name": "Queen Anne's County"
+  },
+  {
+    "school_name": "Centreville Elementary School",
+    "school_code": "0308",
+    "county_code": "17",
+    "attendance_data": [
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "African Am.",
+        "Attendance Rate (%) (All Students)": "89.2",
+        "Days Attended/Days Members (All Students)": "1894.5/2123.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "White",
+        "Attendance Rate (%) (All Students)": "93.3",
+        "Days Attended/Days Members (All Students)": "38522.5/41293.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "2+",
+        "Attendance Rate (%) (All Students)": "91.2",
+        "Days Attended/Days Members (All Students)": "2794.0/3064.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Hispanic",
+        "Attendance Rate (%) (All Students)": "90.7",
+        "Days Attended/Days Members (All Students)": "6260.0/6900.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Asian",
+        "Attendance Rate (%) (All Students)": "*",
+        "Days Attended/Days Members (All Students)": "*/*"
+      }
+    ],
+    "student_groups_data": [
+      {
+        "Year": "2025",
+        "Student Group": "ADA 504",
+        "Result (%) (All Students)": "*",
+        "Count": "*",
+        "Total": "540"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Eco Disadv",
+        "Result (%) (All Students)": "26.9",
+        "Count": "145",
+        "Total": "540"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "FARMS",
+        "Result (%) (All Students)": "34.6",
+        "Count": "187",
+        "Total": "540"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "ML",
+        "Result (%) (All Students)": "\u2264 5.0",
+        "Count": "*",
+        "Total": "540"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "SWD",
+        "Result (%) (All Students)": "15.7",
+        "Count": "85",
+        "Total": "540"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Homeless",
+        "Result (%) (All Students)": "\u2264 5.0",
+        "Count": "*",
+        "Total": "540"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Foster Care",
+        "Result (%) (All Students)": "*",
+        "Count": "*",
+        "Total": "540"
+      }
+    ],
+    "county_name": "Queen Anne's County"
+  },
+  {
+    "school_name": "Church Hill Elementary School",
+    "school_code": "0202",
+    "county_code": "17",
+    "attendance_data": [
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "African Am.",
+        "Attendance Rate (%) (All Students)": "93.6",
+        "Days Attended/Days Members (All Students)": "2003.0/2141.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "White",
+        "Attendance Rate (%) (All Students)": "93.5",
+        "Days Attended/Days Members (All Students)": "26795.5/28664.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "2+",
+        "Attendance Rate (%) (All Students)": "92.3",
+        "Days Attended/Days Members (All Students)": "2726.0/2954.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Hispanic",
+        "Attendance Rate (%) (All Students)": "92.4",
+        "Days Attended/Days Members (All Students)": "5076.5/5492.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Am.Ind/AK",
+        "Attendance Rate (%) (All Students)": "*",
+        "Days Attended/Days Members (All Students)": "*/*"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Asian",
+        "Attendance Rate (%) (All Students)": "*",
+        "Days Attended/Days Members (All Students)": "*/*"
+      }
+    ],
+    "student_groups_data": [
+      {
+        "Year": "2025",
+        "Student Group": "ADA 504",
+        "Result (%) (All Students)": "\u2264 5.0",
+        "Count": "*",
+        "Total": "338"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Eco Disadv",
+        "Result (%) (All Students)": "34.3",
+        "Count": "116",
+        "Total": "338"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "FARMS",
+        "Result (%) (All Students)": "46.4",
+        "Count": "157",
+        "Total": "338"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "ML",
+        "Result (%) (All Students)": "5.9",
+        "Count": "20",
+        "Total": "338"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "SWD",
+        "Result (%) (All Students)": "13.3",
+        "Count": "45",
+        "Total": "338"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Title 1",
+        "Result (%) (All Students)": "\u2265 95.0",
+        "Count": "*",
+        "Total": "338"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Homeless",
+        "Result (%) (All Students)": "\u2264 5.0",
+        "Count": "*",
+        "Total": "338"
+      }
+    ],
+    "county_name": "Queen Anne's County"
+  },
+  {
+    "school_name": "Grasonville Elementary School",
+    "school_code": "0503",
+    "county_code": "17",
+    "attendance_data": [
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "African Am.",
+        "Attendance Rate (%) (All Students)": "90.5",
+        "Days Attended/Days Members (All Students)": "7224.0/7981.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "HI/Pac.Isl.",
+        "Attendance Rate (%) (All Students)": "*",
+        "Days Attended/Days Members (All Students)": "*/*"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "White",
+        "Attendance Rate (%) (All Students)": "93.7",
+        "Days Attended/Days Members (All Students)": "39318.5/41956.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "2+",
+        "Attendance Rate (%) (All Students)": "91.9",
+        "Days Attended/Days Members (All Students)": "5760.0/6270.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Hispanic",
+        "Attendance Rate (%) (All Students)": "93.3",
+        "Days Attended/Days Members (All Students)": "10583.5/11348.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Asian",
+        "Attendance Rate (%) (All Students)": "*",
+        "Days Attended/Days Members (All Students)": "*/*"
+      }
+    ],
+    "student_groups_data": [
+      {
+        "Year": "2025",
+        "Student Group": "ADA 504",
+        "Result (%) (All Students)": "\u2264 5.0",
+        "Count": "*",
+        "Total": "489"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Eco Disadv",
+        "Result (%) (All Students)": "34.4",
+        "Count": "168",
+        "Total": "489"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "FARMS",
+        "Result (%) (All Students)": "47.9",
+        "Count": "234",
+        "Total": "489"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "ML",
+        "Result (%) (All Students)": "10.2",
+        "Count": "50",
+        "Total": "489"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "SWD",
+        "Result (%) (All Students)": "10.4",
+        "Count": "51",
+        "Total": "489"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Title 1",
+        "Result (%) (All Students)": "\u2265 95.0",
+        "Count": "*",
+        "Total": "489"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Homeless",
+        "Result (%) (All Students)": "\u2264 5.0",
+        "Count": "*",
+        "Total": "489"
+      }
+    ],
+    "county_name": "Queen Anne's County"
+  },
+  {
+    "school_name": "Kennard Elementary School",
+    "school_code": "0302",
+    "county_code": "17",
+    "attendance_data": [
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "African Am.",
+        "Attendance Rate (%) (All Students)": "92.9",
+        "Days Attended/Days Members (All Students)": "6104.5/6572.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "White",
+        "Attendance Rate (%) (All Students)": "93.4",
+        "Days Attended/Days Members (All Students)": "59485.5/63703.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "2+",
+        "Attendance Rate (%) (All Students)": "92.5",
+        "Days Attended/Days Members (All Students)": "5752.5/6219.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Hispanic",
+        "Attendance Rate (%) (All Students)": "92.9",
+        "Days Attended/Days Members (All Students)": "6868.5/7390.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Am.Ind/AK",
+        "Attendance Rate (%) (All Students)": "*",
+        "Days Attended/Days Members (All Students)": "*/*"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Asian",
+        "Attendance Rate (%) (All Students)": "*",
+        "Days Attended/Days Members (All Students)": "*/*"
+      }
+    ],
+    "student_groups_data": [
+      {
+        "Year": "2025",
+        "Student Group": "ADA 504",
+        "Result (%) (All Students)": "5.3",
+        "Count": "25",
+        "Total": "470"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Eco Disadv",
+        "Result (%) (All Students)": "27.4",
+        "Count": "129",
+        "Total": "470"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "FARMS",
+        "Result (%) (All Students)": "35.1",
+        "Count": "165",
+        "Total": "470"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "ML",
+        "Result (%) (All Students)": "\u2264 5.0",
+        "Count": "*",
+        "Total": "470"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Migrant",
+        "Result (%) (All Students)": "*",
+        "Count": "*",
+        "Total": "470"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "SWD",
+        "Result (%) (All Students)": "11.3",
+        "Count": "53",
+        "Total": "470"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Homeless",
+        "Result (%) (All Students)": "*",
+        "Count": "*",
+        "Total": "470"
+      }
+    ],
+    "county_name": "Queen Anne's County"
+  },
+  {
+    "school_name": "Kent Island Elementary School",
+    "school_code": "0402",
+    "county_code": "17",
+    "attendance_data": [
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "African Am.",
+        "Attendance Rate (%) (All Students)": "94.6",
+        "Days Attended/Days Members (All Students)": "1873.0/1980.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "White",
+        "Attendance Rate (%) (All Students)": "93.9",
+        "Days Attended/Days Members (All Students)": "31615.0/33663.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "2+",
+        "Attendance Rate (%) (All Students)": "92.2",
+        "Days Attended/Days Members (All Students)": "2820.5/3060.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Hispanic",
+        "Attendance Rate (%) (All Students)": "91.8",
+        "Days Attended/Days Members (All Students)": "5801.5/6319.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Am.Ind/AK",
+        "Attendance Rate (%) (All Students)": "*",
+        "Days Attended/Days Members (All Students)": "*/*"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Asian",
+        "Attendance Rate (%) (All Students)": "*",
+        "Days Attended/Days Members (All Students)": "*/*"
+      }
+    ],
+    "student_groups_data": [
+      {
+        "Year": "2025",
+        "Student Group": "ADA 504",
+        "Result (%) (All Students)": "\u2264 5.0",
+        "Count": "*",
+        "Total": "462"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Eco Disadv",
+        "Result (%) (All Students)": "28.6",
+        "Count": "132",
+        "Total": "462"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "FARMS",
+        "Result (%) (All Students)": "35.3",
+        "Count": "163",
+        "Total": "462"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "ML",
+        "Result (%) (All Students)": "\u2264 5.0",
+        "Count": "*",
+        "Total": "462"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "SWD",
+        "Result (%) (All Students)": "15.2",
+        "Count": "70",
+        "Total": "462"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Homeless",
+        "Result (%) (All Students)": "\u2264 5.0",
+        "Count": "*",
+        "Total": "462"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Military",
+        "Result (%) (All Students)": "5.6",
+        "Count": "26",
+        "Total": "462"
+      }
+    ],
+    "county_name": "Queen Anne's County"
+  },
+  {
+    "school_name": "Matapeake Elementary School",
+    "school_code": "0406",
+    "county_code": "17",
+    "attendance_data": [
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "African Am.",
+        "Attendance Rate (%) (All Students)": "*",
+        "Days Attended/Days Members (All Students)": "*/*"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "White",
+        "Attendance Rate (%) (All Students)": "94.3",
+        "Days Attended/Days Members (All Students)": "51141.0/54226.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "2+",
+        "Attendance Rate (%) (All Students)": "94.1",
+        "Days Attended/Days Members (All Students)": "4359.0/4632.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Hispanic",
+        "Attendance Rate (%) (All Students)": "94.7",
+        "Days Attended/Days Members (All Students)": "4461.0/4712.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Am.Ind/AK",
+        "Attendance Rate (%) (All Students)": "*",
+        "Days Attended/Days Members (All Students)": "*/*"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Asian",
+        "Attendance Rate (%) (All Students)": "*",
+        "Days Attended/Days Members (All Students)": "*/*"
+      }
+    ],
+    "student_groups_data": [
+      {
+        "Year": "2025",
+        "Student Group": "ADA 504",
+        "Result (%) (All Students)": "\u2264 5.0",
+        "Count": "*",
+        "Total": "472"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Eco Disadv",
+        "Result (%) (All Students)": "21.6",
+        "Count": "102",
+        "Total": "472"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "FARMS",
+        "Result (%) (All Students)": "25.4",
+        "Count": "120",
+        "Total": "472"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "ML",
+        "Result (%) (All Students)": "*",
+        "Count": "*",
+        "Total": "472"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "SWD",
+        "Result (%) (All Students)": "9.7",
+        "Count": "46",
+        "Total": "472"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Homeless",
+        "Result (%) (All Students)": "*",
+        "Count": "*",
+        "Total": "472"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Military",
+        "Result (%) (All Students)": "\u2264 5.0",
+        "Count": "*",
+        "Total": "472"
+      }
+    ],
+    "county_name": "Queen Anne's County"
+  },
+  {
+    "school_name": "Sudlersville Elementary School",
+    "school_code": "0106",
+    "county_code": "17",
+    "attendance_data": [
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "African Am.",
+        "Attendance Rate (%) (All Students)": "88.6",
+        "Days Attended/Days Members (All Students)": "2125.0/2399.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "White",
+        "Attendance Rate (%) (All Students)": "93.7",
+        "Days Attended/Days Members (All Students)": "18634.0/19878.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "2+",
+        "Attendance Rate (%) (All Students)": "94.1",
+        "Days Attended/Days Members (All Students)": "2039.5/2168.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Hispanic",
+        "Attendance Rate (%) (All Students)": "93.4",
+        "Days Attended/Days Members (All Students)": "13650.0/14612.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Am.Ind/AK",
+        "Attendance Rate (%) (All Students)": "*",
+        "Days Attended/Days Members (All Students)": "*/*"
+      }
+    ],
+    "student_groups_data": [
+      {
+        "Year": "2025",
+        "Student Group": "ADA 504",
+        "Result (%) (All Students)": "\u2264 5.0",
+        "Count": "*",
+        "Total": "309"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Eco Disadv",
+        "Result (%) (All Students)": "45.3",
+        "Count": "140",
+        "Total": "309"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "FARMS",
+        "Result (%) (All Students)": "68.0",
+        "Count": "210",
+        "Total": "309"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "ML",
+        "Result (%) (All Students)": "26.2",
+        "Count": "81",
+        "Total": "309"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Migrant",
+        "Result (%) (All Students)": "\u2264 5.0",
+        "Count": "*",
+        "Total": "309"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "SWD",
+        "Result (%) (All Students)": "13.6",
+        "Count": "42",
+        "Total": "309"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Title 1",
+        "Result (%) (All Students)": "\u2265 95.0",
+        "Count": "*",
+        "Total": "309"
+      }
+    ],
+    "county_name": "Queen Anne's County"
+  },
+  {
+    "school_name": "Sudlersville Middle School",
+    "school_code": "0101",
+    "county_code": "17",
+    "attendance_data": [
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "African Am.",
+        "Attendance Rate (%) (All Students)": "90.0",
+        "Days Attended/Days Members (All Students)": "4658.0/5173.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "White",
+        "Attendance Rate (%) (All Students)": "93.4",
+        "Days Attended/Days Members (All Students)": "44768.5/47942.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "2+",
+        "Attendance Rate (%) (All Students)": "88.6",
+        "Days Attended/Days Members (All Students)": "5227.5/5900.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Hispanic",
+        "Attendance Rate (%) (All Students)": "93.0",
+        "Days Attended/Days Members (All Students)": "18587.5/19981.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Am.Ind/AK",
+        "Attendance Rate (%) (All Students)": "*",
+        "Days Attended/Days Members (All Students)": "*/*"
+      }
+    ],
+    "student_groups_data": [
+      {
+        "Year": "2025",
+        "Student Group": "ADA 504",
+        "Result (%) (All Students)": "9.8",
+        "Count": "43",
+        "Total": "439"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Eco Disadv",
+        "Result (%) (All Students)": "39.4",
+        "Count": "173",
+        "Total": "439"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "FARMS",
+        "Result (%) (All Students)": "57.6",
+        "Count": "253",
+        "Total": "439"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "ML",
+        "Result (%) (All Students)": "12.1",
+        "Count": "53",
+        "Total": "439"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Migrant",
+        "Result (%) (All Students)": "*",
+        "Count": "*",
+        "Total": "439"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "SWD",
+        "Result (%) (All Students)": "16.2",
+        "Count": "71",
+        "Total": "439"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Title 1",
+        "Result (%) (All Students)": "\u2265 95.0",
+        "Count": "*",
+        "Total": "439"
+      }
+    ],
+    "county_name": "Queen Anne's County"
+  },
+  {
+    "school_name": "Centreville Middle School",
+    "school_code": "0303",
+    "county_code": "17",
+    "attendance_data": [
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "African Am.",
+        "Attendance Rate (%) (All Students)": "90.6",
+        "Days Attended/Days Members (All Students)": "6330.0/6983.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "White",
+        "Attendance Rate (%) (All Students)": "93.4",
+        "Days Attended/Days Members (All Students)": "65006.5/69624.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "2+",
+        "Attendance Rate (%) (All Students)": "92.9",
+        "Days Attended/Days Members (All Students)": "5518.5/5940.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Hispanic",
+        "Attendance Rate (%) (All Students)": "94.1",
+        "Days Attended/Days Members (All Students)": "7014.5/7458.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Asian",
+        "Attendance Rate (%) (All Students)": "*",
+        "Days Attended/Days Members (All Students)": "*/*"
+      }
+    ],
+    "student_groups_data": [
+      {
+        "Year": "2025",
+        "Student Group": "ADA 504",
+        "Result (%) (All Students)": "8.3",
+        "Count": "42",
+        "Total": "507"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Eco Disadv",
+        "Result (%) (All Students)": "25.0",
+        "Count": "127",
+        "Total": "507"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "FARMS",
+        "Result (%) (All Students)": "34.3",
+        "Count": "174",
+        "Total": "507"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "ML",
+        "Result (%) (All Students)": "\u2264 5.0",
+        "Count": "*",
+        "Total": "507"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "SWD",
+        "Result (%) (All Students)": "9.5",
+        "Count": "48",
+        "Total": "507"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Homeless",
+        "Result (%) (All Students)": "\u2264 5.0",
+        "Count": "*",
+        "Total": "507"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Foster Care",
+        "Result (%) (All Students)": "*",
+        "Count": "*",
+        "Total": "507"
+      }
+    ],
+    "county_name": "Queen Anne's County"
+  },
+  {
+    "school_name": "Matapeake Middle School",
+    "school_code": "0407",
+    "county_code": "17",
+    "attendance_data": [
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "African Am.",
+        "Attendance Rate (%) (All Students)": "90.3",
+        "Days Attended/Days Members (All Students)": "1951.0/2160.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "White",
+        "Attendance Rate (%) (All Students)": "93.4",
+        "Days Attended/Days Members (All Students)": "47429.0/50784.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "2+",
+        "Attendance Rate (%) (All Students)": "86.8",
+        "Days Attended/Days Members (All Students)": "3308.5/3810.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Hispanic",
+        "Attendance Rate (%) (All Students)": "91.8",
+        "Days Attended/Days Members (All Students)": "6300.0/6860.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Am.Ind/AK",
+        "Attendance Rate (%) (All Students)": "*",
+        "Days Attended/Days Members (All Students)": "*/*"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Asian",
+        "Attendance Rate (%) (All Students)": "*",
+        "Days Attended/Days Members (All Students)": "*/*"
+      }
+    ],
+    "student_groups_data": [
+      {
+        "Year": "2025",
+        "Student Group": "ADA 504",
+        "Result (%) (All Students)": "12.9",
+        "Count": "46",
+        "Total": "356"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Eco Disadv",
+        "Result (%) (All Students)": "25.3",
+        "Count": "90",
+        "Total": "356"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "FARMS",
+        "Result (%) (All Students)": "31.2",
+        "Count": "111",
+        "Total": "356"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "ML",
+        "Result (%) (All Students)": "*",
+        "Count": "*",
+        "Total": "356"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "SWD",
+        "Result (%) (All Students)": "8.7",
+        "Count": "31",
+        "Total": "356"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Homeless",
+        "Result (%) (All Students)": "*",
+        "Count": "*",
+        "Total": "356"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Military",
+        "Result (%) (All Students)": "\u2264 5.0",
+        "Count": "*",
+        "Total": "356"
+      }
+    ],
+    "county_name": "Queen Anne's County"
+  },
+  {
+    "school_name": "Stevensville Middle School",
+    "school_code": "0404",
+    "county_code": "17",
+    "attendance_data": [
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "African Am.",
+        "Attendance Rate (%) (All Students)": "90.9",
+        "Days Attended/Days Members (All Students)": "5083.5/5594.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "White",
+        "Attendance Rate (%) (All Students)": "92.6",
+        "Days Attended/Days Members (All Students)": "55220.0/59619.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "2+",
+        "Attendance Rate (%) (All Students)": "89.4",
+        "Days Attended/Days Members (All Students)": "4764.0/5329.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Hispanic",
+        "Attendance Rate (%) (All Students)": "90.4",
+        "Days Attended/Days Members (All Students)": "9831.0/10881.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Asian",
+        "Attendance Rate (%) (All Students)": "*",
+        "Days Attended/Days Members (All Students)": "*/*"
+      }
+    ],
+    "student_groups_data": [
+      {
+        "Year": "2025",
+        "Student Group": "ADA 504",
+        "Result (%) (All Students)": "11.1",
+        "Count": "51",
+        "Total": "460"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Eco Disadv",
+        "Result (%) (All Students)": "27.2",
+        "Count": "125",
+        "Total": "460"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "FARMS",
+        "Result (%) (All Students)": "38.5",
+        "Count": "177",
+        "Total": "460"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "ML",
+        "Result (%) (All Students)": "6.5",
+        "Count": "30",
+        "Total": "460"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "SWD",
+        "Result (%) (All Students)": "10.9",
+        "Count": "50",
+        "Total": "460"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Homeless",
+        "Result (%) (All Students)": "\u2264 5.0",
+        "Count": "*",
+        "Total": "460"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Military",
+        "Result (%) (All Students)": "\u2264 5.0",
+        "Count": "*",
+        "Total": "460"
+      }
+    ],
+    "county_name": "Queen Anne's County"
+  },
+  {
+    "school_name": "Kent Island High School",
+    "school_code": "0405",
+    "county_code": "17",
+    "attendance_data": [
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "African Am.",
+        "Attendance Rate (%) (All Students)": "90.8",
+        "Days Attended/Days Members (All Students)": "9877.5/10875.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "HI/Pac.Isl.",
+        "Attendance Rate (%) (All Students)": "*",
+        "Days Attended/Days Members (All Students)": "*/*"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "White",
+        "Attendance Rate (%) (All Students)": "92.8",
+        "Days Attended/Days Members (All Students)": "147943.0/159348.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "2+",
+        "Attendance Rate (%) (All Students)": "89.2",
+        "Days Attended/Days Members (All Students)": "10024.5/11234.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Hispanic",
+        "Attendance Rate (%) (All Students)": "90.7",
+        "Days Attended/Days Members (All Students)": "19760.5/21793.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Am.Ind/AK",
+        "Attendance Rate (%) (All Students)": "*",
+        "Days Attended/Days Members (All Students)": "*/*"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Asian",
+        "Attendance Rate (%) (All Students)": "\u2265 95.0",
+        "Days Attended/Days Members (All Students)": "*/*"
+      }
+    ],
+    "student_groups_data": [
+      {
+        "Year": "2025",
+        "Student Group": "ADA 504",
+        "Result (%) (All Students)": "13.5",
+        "Count": "156",
+        "Total": "1152"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Eco Disadv",
+        "Result (%) (All Students)": "24.1",
+        "Count": "278",
+        "Total": "1152"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "FARMS",
+        "Result (%) (All Students)": "30.8",
+        "Count": "355",
+        "Total": "1152"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "ML",
+        "Result (%) (All Students)": "\u2264 5.0",
+        "Count": "*",
+        "Total": "1152"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "SWD",
+        "Result (%) (All Students)": "7.5",
+        "Count": "86",
+        "Total": "1152"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Homeless",
+        "Result (%) (All Students)": "\u2264 5.0",
+        "Count": "*",
+        "Total": "1152"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Foster Care",
+        "Result (%) (All Students)": "*",
+        "Count": "*",
+        "Total": "1152"
+      }
+    ],
+    "county_name": "Queen Anne's County"
+  },
+  {
+    "school_name": "Queen Anne's County High School",
+    "school_code": "0301",
+    "county_code": "17",
+    "attendance_data": [
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "African Am.",
+        "Attendance Rate (%) (All Students)": "88.1",
+        "Days Attended/Days Members (All Students)": "14690.5/16666.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "White",
+        "Attendance Rate (%) (All Students)": "91.9",
+        "Days Attended/Days Members (All Students)": "135773.5/147798.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "2+",
+        "Attendance Rate (%) (All Students)": "88.4",
+        "Days Attended/Days Members (All Students)": "8972.0/10153.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Hispanic",
+        "Attendance Rate (%) (All Students)": "89.2",
+        "Days Attended/Days Members (All Students)": "24827.5/27849.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Am.Ind/AK",
+        "Attendance Rate (%) (All Students)": "*",
+        "Days Attended/Days Members (All Students)": "*/*"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Asian",
+        "Attendance Rate (%) (All Students)": "90.0",
+        "Days Attended/Days Members (All Students)": "1620.5/1800.0"
+      }
+    ],
+    "student_groups_data": [
+      {
+        "Year": "2025",
+        "Student Group": "ADA 504",
+        "Result (%) (All Students)": "7.4",
+        "Count": "84",
+        "Total": "1138"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Eco Disadv",
+        "Result (%) (All Students)": "30.5",
+        "Count": "347",
+        "Total": "1138"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "FARMS",
+        "Result (%) (All Students)": "40.2",
+        "Count": "458",
+        "Total": "1138"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "ML",
+        "Result (%) (All Students)": "\u2264 5.0",
+        "Count": "*",
+        "Total": "1138"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Migrant",
+        "Result (%) (All Students)": "*",
+        "Count": "*",
+        "Total": "1138"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "SWD",
+        "Result (%) (All Students)": "9.5",
+        "Count": "108",
+        "Total": "1138"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Homeless",
+        "Result (%) (All Students)": "\u2264 5.0",
+        "Count": "*",
+        "Total": "1138"
+      }
+    ],
+    "county_name": "Queen Anne's County"
+  },
+  {
+    "school_name": "Chapel District Elementary",
+    "school_code": "0401",
+    "county_code": "20",
+    "attendance_data": [
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "African Am.",
+        "Attendance Rate (%) (All Students)": "*",
+        "Days Attended/Days Members (All Students)": "*/*"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "White",
+        "Attendance Rate (%) (All Students)": "93.8",
+        "Days Attended/Days Members (All Students)": "33300.0/35505.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "2+",
+        "Attendance Rate (%) (All Students)": "\u2265 95.0",
+        "Days Attended/Days Members (All Students)": "*/*"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Hispanic",
+        "Attendance Rate (%) (All Students)": "92.8",
+        "Days Attended/Days Members (All Students)": "5155.0/5556.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Asian",
+        "Attendance Rate (%) (All Students)": "*",
+        "Days Attended/Days Members (All Students)": "*/*"
+      }
+    ],
+    "student_groups_data": [
+      {
+        "Year": "2025",
+        "Student Group": "ADA 504",
+        "Result (%) (All Students)": "5.2",
+        "Count": "19",
+        "Total": "367"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Eco Disadv",
+        "Result (%) (All Students)": "35.7",
+        "Count": "131",
+        "Total": "367"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "FARMS",
+        "Result (%) (All Students)": "42.0",
+        "Count": "154",
+        "Total": "367"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "ML",
+        "Result (%) (All Students)": "6.0",
+        "Count": "22",
+        "Total": "367"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Migrant",
+        "Result (%) (All Students)": "*",
+        "Count": "*",
+        "Total": "367"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "SWD",
+        "Result (%) (All Students)": "12.3",
+        "Count": "45",
+        "Total": "367"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Title 1",
+        "Result (%) (All Students)": "22.6",
+        "Count": "83",
+        "Total": "367"
+      }
+    ],
+    "county_name": "Talbot County"
+  },
+  {
+    "school_name": "Easton Elementary",
+    "school_code": "0104",
+    "county_code": "20",
+    "attendance_data": [
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "African Am.",
+        "Attendance Rate (%) (All Students)": "92.8",
+        "Days Attended/Days Members (All Students)": "24580.0/26488.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "White",
+        "Attendance Rate (%) (All Students)": "93.3",
+        "Days Attended/Days Members (All Students)": "32780.5/35133.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "2+",
+        "Attendance Rate (%) (All Students)": "90.4",
+        "Days Attended/Days Members (All Students)": "7124.0/7883.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Hispanic",
+        "Attendance Rate (%) (All Students)": "93.6",
+        "Days Attended/Days Members (All Students)": "60349.5/64484.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Asian",
+        "Attendance Rate (%) (All Students)": "\u2265 95.0",
+        "Days Attended/Days Members (All Students)": "*/*"
+      }
+    ],
+    "student_groups_data": [
+      {
+        "Year": "2025",
+        "Student Group": "ADA 504",
+        "Result (%) (All Students)": "\u2264 5.0",
+        "Count": "*",
+        "Total": "1085"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Eco Disadv",
+        "Result (%) (All Students)": "60.8",
+        "Count": "660",
+        "Total": "1085"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "FARMS",
+        "Result (%) (All Students)": "74.9",
+        "Count": "813",
+        "Total": "1085"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "ML",
+        "Result (%) (All Students)": "30.1",
+        "Count": "327",
+        "Total": "1085"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "SWD",
+        "Result (%) (All Students)": "13.1",
+        "Count": "142",
+        "Total": "1085"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Title 1",
+        "Result (%) (All Students)": "\u2265 95.0",
+        "Count": "*",
+        "Total": "1085"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Homeless",
+        "Result (%) (All Students)": "7.2",
+        "Count": "78",
+        "Total": "1085"
+      }
+    ],
+    "county_name": "Talbot County"
+  },
+  {
+    "school_name": "St. Michaels Elementary",
+    "school_code": "0204",
+    "county_code": "20",
+    "attendance_data": [
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "African Am.",
+        "Attendance Rate (%) (All Students)": "94.0",
+        "Days Attended/Days Members (All Students)": "5548.5/5902.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "White",
+        "Attendance Rate (%) (All Students)": "94.7",
+        "Days Attended/Days Members (All Students)": "29359.0/31018.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "2+",
+        "Attendance Rate (%) (All Students)": "94.7",
+        "Days Attended/Days Members (All Students)": "1704.0/1800.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Hispanic",
+        "Attendance Rate (%) (All Students)": "93.2",
+        "Days Attended/Days Members (All Students)": "4749.0/5098.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Asian",
+        "Attendance Rate (%) (All Students)": "*",
+        "Days Attended/Days Members (All Students)": "*/*"
+      }
+    ],
+    "student_groups_data": [
+      {
+        "Year": "2025",
+        "Student Group": "ADA 504",
+        "Result (%) (All Students)": "8.9",
+        "Count": "29",
+        "Total": "327"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Eco Disadv",
+        "Result (%) (All Students)": "43.4",
+        "Count": "142",
+        "Total": "327"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "FARMS",
+        "Result (%) (All Students)": "48.0",
+        "Count": "157",
+        "Total": "327"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "ML",
+        "Result (%) (All Students)": "\u2264 5.0",
+        "Count": "*",
+        "Total": "327"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "SWD",
+        "Result (%) (All Students)": "16.5",
+        "Count": "54",
+        "Total": "327"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Title 1",
+        "Result (%) (All Students)": "\u2265 95.0",
+        "Count": "*",
+        "Total": "327"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Homeless",
+        "Result (%) (All Students)": "*",
+        "Count": "*",
+        "Total": "327"
+      }
+    ],
+    "county_name": "Talbot County"
+  },
+  {
+    "school_name": "Tilghman Elementary",
+    "school_code": "0501",
+    "county_code": "20",
+    "attendance_data": [
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "African Am.",
+        "Attendance Rate (%) (All Students)": "*",
+        "Days Attended/Days Members (All Students)": "*/*"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "White",
+        "Attendance Rate (%) (All Students)": "91.6",
+        "Days Attended/Days Members (All Students)": "11088.0/12105.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "2+",
+        "Attendance Rate (%) (All Students)": "*",
+        "Days Attended/Days Members (All Students)": "*/*"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Hispanic",
+        "Attendance Rate (%) (All Students)": "*",
+        "Days Attended/Days Members (All Students)": "*/*"
+      }
+    ],
+    "student_groups_data": [
+      {
+        "Year": "2025",
+        "Student Group": "ADA 504",
+        "Result (%) (All Students)": "*",
+        "Count": "*",
+        "Total": "101"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Eco Disadv",
+        "Result (%) (All Students)": "58.4",
+        "Count": "59",
+        "Total": "101"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "FARMS",
+        "Result (%) (All Students)": "63.4",
+        "Count": "64",
+        "Total": "101"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "ML",
+        "Result (%) (All Students)": "*",
+        "Count": "*",
+        "Total": "101"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "SWD",
+        "Result (%) (All Students)": "13.9",
+        "Count": "14",
+        "Total": "101"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Title 1",
+        "Result (%) (All Students)": "27.7",
+        "Count": "28",
+        "Total": "101"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Homeless",
+        "Result (%) (All Students)": "*",
+        "Count": "*",
+        "Total": "101"
+      }
+    ],
+    "county_name": "Talbot County"
+  },
+  {
+    "school_name": "White Marsh Elementary",
+    "school_code": "0302",
+    "county_code": "20",
+    "attendance_data": [
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "African Am.",
+        "Attendance Rate (%) (All Students)": "93.8",
+        "Days Attended/Days Members (All Students)": "3715.0/3960.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "White",
+        "Attendance Rate (%) (All Students)": "94.1",
+        "Days Attended/Days Members (All Students)": "23946.0/25450.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "2+",
+        "Attendance Rate (%) (All Students)": "94.8",
+        "Days Attended/Days Members (All Students)": "1877.5/1980.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Hispanic",
+        "Attendance Rate (%) (All Students)": "93.0",
+        "Days Attended/Days Members (All Students)": "6197.0/6667.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Asian",
+        "Attendance Rate (%) (All Students)": "*",
+        "Days Attended/Days Members (All Students)": "*/*"
+      }
+    ],
+    "student_groups_data": [
+      {
+        "Year": "2025",
+        "Student Group": "ADA 504",
+        "Result (%) (All Students)": "\u2264 5.0",
+        "Count": "*",
+        "Total": "285"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Eco Disadv",
+        "Result (%) (All Students)": "46.3",
+        "Count": "132",
+        "Total": "285"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "FARMS",
+        "Result (%) (All Students)": "56.1",
+        "Count": "160",
+        "Total": "285"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "ML",
+        "Result (%) (All Students)": "11.6",
+        "Count": "33",
+        "Total": "285"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "SWD",
+        "Result (%) (All Students)": "7.7",
+        "Count": "22",
+        "Total": "285"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Title 1",
+        "Result (%) (All Students)": "\u2265 95.0",
+        "Count": "*",
+        "Total": "285"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Homeless",
+        "Result (%) (All Students)": "5.3",
+        "Count": "15",
+        "Total": "285"
+      }
+    ],
+    "county_name": "Talbot County"
+  },
+  {
+    "school_name": "Easton Middle",
+    "school_code": "0106",
+    "county_code": "20",
+    "attendance_data": [
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "African Am.",
+        "Attendance Rate (%) (All Students)": "92.4",
+        "Days Attended/Days Members (All Students)": "21332.0/23085.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "White",
+        "Attendance Rate (%) (All Students)": "92.6",
+        "Days Attended/Days Members (All Students)": "44320.0/47870.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "2+",
+        "Attendance Rate (%) (All Students)": "91.7",
+        "Days Attended/Days Members (All Students)": "10717.5/11686.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Hispanic",
+        "Attendance Rate (%) (All Students)": "92.5",
+        "Days Attended/Days Members (All Students)": "38239.0/41357.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Asian",
+        "Attendance Rate (%) (All Students)": "*",
+        "Days Attended/Days Members (All Students)": "*/*"
+      }
+    ],
+    "student_groups_data": [
+      {
+        "Year": "2025",
+        "Student Group": "ADA 504",
+        "Result (%) (All Students)": "8.0",
+        "Count": "56",
+        "Total": "698"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Eco Disadv",
+        "Result (%) (All Students)": "54.7",
+        "Count": "382",
+        "Total": "698"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "FARMS",
+        "Result (%) (All Students)": "67.8",
+        "Count": "473",
+        "Total": "698"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "ML",
+        "Result (%) (All Students)": "15.8",
+        "Count": "110",
+        "Total": "698"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "SWD",
+        "Result (%) (All Students)": "13.3",
+        "Count": "93",
+        "Total": "698"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Homeless",
+        "Result (%) (All Students)": "5.6",
+        "Count": "39",
+        "Total": "698"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Foster Care",
+        "Result (%) (All Students)": "*",
+        "Count": "*",
+        "Total": "698"
+      }
+    ],
+    "county_name": "Talbot County"
+  },
+  {
+    "school_name": "St. Michaels Middle/High School",
+    "school_code": "0202",
+    "county_code": "20",
+    "attendance_data": [
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "African Am.",
+        "Attendance Rate (%) (All Students)": "89.5",
+        "Days Attended/Days Members (All Students)": "8306.0/9280.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "White",
+        "Attendance Rate (%) (All Students)": "92.0",
+        "Days Attended/Days Members (All Students)": "50555.0/54948.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "2+",
+        "Attendance Rate (%) (All Students)": "92.2",
+        "Days Attended/Days Members (All Students)": "5171.0/5607.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Hispanic",
+        "Attendance Rate (%) (All Students)": "90.3",
+        "Days Attended/Days Members (All Students)": "7984.0/8846.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Asian",
+        "Attendance Rate (%) (All Students)": "*",
+        "Days Attended/Days Members (All Students)": "*/*"
+      }
+    ],
+    "student_groups_data": [
+      {
+        "Year": "2025",
+        "Student Group": "ADA 504",
+        "Result (%) (All Students)": "12.7",
+        "Count": "56",
+        "Total": "440"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Eco Disadv",
+        "Result (%) (All Students)": "41.6",
+        "Count": "183",
+        "Total": "440"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "FARMS",
+        "Result (%) (All Students)": "46.4",
+        "Count": "204",
+        "Total": "440"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "ML",
+        "Result (%) (All Students)": "\u2264 5.0",
+        "Count": "*",
+        "Total": "440"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "SWD",
+        "Result (%) (All Students)": "10.2",
+        "Count": "45",
+        "Total": "440"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Homeless",
+        "Result (%) (All Students)": "*",
+        "Count": "*",
+        "Total": "440"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Military",
+        "Result (%) (All Students)": "*",
+        "Count": "*",
+        "Total": "440"
+      }
+    ],
+    "county_name": "Talbot County"
+  },
+  {
+    "school_name": "Easton High",
+    "school_code": "0101",
+    "county_code": "20",
+    "attendance_data": [
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "African Am.",
+        "Attendance Rate (%) (All Students)": "88.8",
+        "Days Attended/Days Members (All Students)": "32544.5/36662.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "White",
+        "Attendance Rate (%) (All Students)": "91.7",
+        "Days Attended/Days Members (All Students)": "91976.5/100271.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "2+",
+        "Attendance Rate (%) (All Students)": "90.8",
+        "Days Attended/Days Members (All Students)": "8753.5/9640.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Hispanic",
+        "Attendance Rate (%) (All Students)": "88.6",
+        "Days Attended/Days Members (All Students)": "53492.5/60374.0"
+      },
+      {
+        "Year": "2025",
+        "Race/Ethnicity": "Asian",
+        "Attendance Rate (%) (All Students)": "93.8",
+        "Days Attended/Days Members (All Students)": "3884.5/4140.0"
+      }
+    ],
+    "student_groups_data": [
+      {
+        "Year": "2025",
+        "Student Group": "ADA 504",
+        "Result (%) (All Students)": "8.7",
+        "Count": "102",
+        "Total": "1171"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Eco Disadv",
+        "Result (%) (All Students)": "47.6",
+        "Count": "557",
+        "Total": "1171"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "FARMS",
+        "Result (%) (All Students)": "58.4",
+        "Count": "684",
+        "Total": "1171"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "ML",
+        "Result (%) (All Students)": "13.7",
+        "Count": "161",
+        "Total": "1171"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "SWD",
+        "Result (%) (All Students)": "8.8",
+        "Count": "103",
+        "Total": "1171"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Homeless",
+        "Result (%) (All Students)": "6.7",
+        "Count": "78",
+        "Total": "1171"
+      },
+      {
+        "Year": "2025",
+        "Student Group": "Foster Care",
+        "Result (%) (All Students)": "*",
+        "Count": "*",
+        "Total": "1171"
+      }
+    ],
+    "county_name": "Talbot County"
+  }
+]

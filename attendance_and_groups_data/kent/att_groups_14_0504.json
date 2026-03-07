@@ -1,0 +1,89 @@
+{
+  "school_name": "Rock Hall Elementary",
+  "school_code": "0504",
+  "county_code": "14",
+  "attendance_data": [
+    {
+      "Year": "2025",
+      "Race/Ethnicity": "African Am.",
+      "Attendance Rate (%) (All Students)": "93.2",
+      "Days Attended/Days Members (All Students)": "5858.0/6284.0"
+    },
+    {
+      "Year": "2025",
+      "Race/Ethnicity": "White",
+      "Attendance Rate (%) (All Students)": "92.8",
+      "Days Attended/Days Members (All Students)": "14533.0/15656.0"
+    },
+    {
+      "Year": "2025",
+      "Race/Ethnicity": "2+",
+      "Attendance Rate (%) (All Students)": "94.2",
+      "Days Attended/Days Members (All Students)": "2698.5/2866.0"
+    },
+    {
+      "Year": "2025",
+      "Race/Ethnicity": "Hispanic",
+      "Attendance Rate (%) (All Students)": "*",
+      "Days Attended/Days Members (All Students)": "*/*"
+    },
+    {
+      "Year": "2025",
+      "Race/Ethnicity": "Am.Ind/AK",
+      "Attendance Rate (%) (All Students)": "*",
+      "Days Attended/Days Members (All Students)": "*/*"
+    }
+  ],
+  "student_groups_data": [
+    {
+      "Year": "2025",
+      "Student Group": "ADA 504",
+      "Result (%) (All Students)": "*",
+      "Count": "*",
+      "Total": "194"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "Eco Disadv",
+      "Result (%) (All Students)": "67.5",
+      "Count": "131",
+      "Total": "194"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "FARMS",
+      "Result (%) (All Students)": "75.8",
+      "Count": "147",
+      "Total": "194"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "ML",
+      "Result (%) (All Students)": "*",
+      "Count": "*",
+      "Total": "194"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "SWD",
+      "Result (%) (All Students)": "16.0",
+      "Count": "31",
+      "Total": "194"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "Title 1",
+      "Result (%) (All Students)": "\u2265 95.0",
+      "Count": "*",
+      "Total": "194"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "Homeless",
+      "Result (%) (All Students)": "7.7",
+      "Count": "15",
+      "Total": "194"
+    }
+  ],
+  "county_name": "Kent County"
+}

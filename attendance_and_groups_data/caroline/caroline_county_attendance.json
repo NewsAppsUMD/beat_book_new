@@ -1,0 +1,522 @@
+[
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "African Am.",
+    "Attendance Rate (%) (All Students)": "93.5",
+    "Days Attended/Days Members (All Students)": "12396.0/13264.0",
+    "county_name": "Caroline County",
+    "county_code": "05",
+    "school_name": "Denton Elementary School",
+    "school_code": "0301"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "HI/Pac.Isl.",
+    "Attendance Rate (%) (All Students)": "*",
+    "Days Attended/Days Members (All Students)": "*/*",
+    "county_name": "Caroline County",
+    "county_code": "05",
+    "school_name": "Denton Elementary School",
+    "school_code": "0301"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "White",
+    "Attendance Rate (%) (All Students)": "93.0",
+    "Days Attended/Days Members (All Students)": "45109.0/48508.0",
+    "county_name": "Caroline County",
+    "county_code": "05",
+    "school_name": "Denton Elementary School",
+    "school_code": "0301"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "2+",
+    "Attendance Rate (%) (All Students)": "91.2",
+    "Days Attended/Days Members (All Students)": "9822.5/10771.0",
+    "county_name": "Caroline County",
+    "county_code": "05",
+    "school_name": "Denton Elementary School",
+    "school_code": "0301"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "Hispanic",
+    "Attendance Rate (%) (All Students)": "92.2",
+    "Days Attended/Days Members (All Students)": "6944.0/7528.0",
+    "county_name": "Caroline County",
+    "county_code": "05",
+    "school_name": "Denton Elementary School",
+    "school_code": "0301"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "Am.Ind/AK",
+    "Attendance Rate (%) (All Students)": "*",
+    "Days Attended/Days Members (All Students)": "*/*",
+    "county_name": "Caroline County",
+    "county_code": "05",
+    "school_name": "Denton Elementary School",
+    "school_code": "0301"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "Asian",
+    "Attendance Rate (%) (All Students)": "94.8",
+    "Days Attended/Days Members (All Students)": "2016.5/2127.0",
+    "county_name": "Caroline County",
+    "county_code": "05",
+    "school_name": "Denton Elementary School",
+    "school_code": "0301"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "African Am.",
+    "Attendance Rate (%) (All Students)": "94.4",
+    "Days Attended/Days Members (All Students)": "18317.0/19403.0",
+    "county_name": "Caroline County",
+    "county_code": "05",
+    "school_name": "Federalsburg Elementary School",
+    "school_code": "0501"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "White",
+    "Attendance Rate (%) (All Students)": "91.4",
+    "Days Attended/Days Members (All Students)": "16523.0/18075.0",
+    "county_name": "Caroline County",
+    "county_code": "05",
+    "school_name": "Federalsburg Elementary School",
+    "school_code": "0501"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "2+",
+    "Attendance Rate (%) (All Students)": "90.7",
+    "Days Attended/Days Members (All Students)": "8132.0/8970.0",
+    "county_name": "Caroline County",
+    "county_code": "05",
+    "school_name": "Federalsburg Elementary School",
+    "school_code": "0501"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "Hispanic",
+    "Attendance Rate (%) (All Students)": "93.9",
+    "Days Attended/Days Members (All Students)": "3281.0/3494.0",
+    "county_name": "Caroline County",
+    "county_code": "05",
+    "school_name": "Federalsburg Elementary School",
+    "school_code": "0501"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "Asian",
+    "Attendance Rate (%) (All Students)": "*",
+    "Days Attended/Days Members (All Students)": "*/*",
+    "county_name": "Caroline County",
+    "county_code": "05",
+    "school_name": "Federalsburg Elementary School",
+    "school_code": "0501"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "African Am.",
+    "Attendance Rate (%) (All Students)": "93.9",
+    "Days Attended/Days Members (All Students)": "3488.0/3714.0",
+    "county_name": "Caroline County",
+    "county_code": "05",
+    "school_name": "Greensboro Elementary School",
+    "school_code": "0201"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "White",
+    "Attendance Rate (%) (All Students)": "92.8",
+    "Days Attended/Days Members (All Students)": "42355.0/45644.0",
+    "county_name": "Caroline County",
+    "county_code": "05",
+    "school_name": "Greensboro Elementary School",
+    "school_code": "0201"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "2+",
+    "Attendance Rate (%) (All Students)": "93.2",
+    "Days Attended/Days Members (All Students)": "6408.5/6873.0",
+    "county_name": "Caroline County",
+    "county_code": "05",
+    "school_name": "Greensboro Elementary School",
+    "school_code": "0201"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "Hispanic",
+    "Attendance Rate (%) (All Students)": "94.2",
+    "Days Attended/Days Members (All Students)": "48934.0/51943.0",
+    "county_name": "Caroline County",
+    "county_code": "05",
+    "school_name": "Greensboro Elementary School",
+    "school_code": "0201"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "Asian",
+    "Attendance Rate (%) (All Students)": "*",
+    "Days Attended/Days Members (All Students)": "*/*",
+    "county_name": "Caroline County",
+    "county_code": "05",
+    "school_name": "Greensboro Elementary School",
+    "school_code": "0201"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "African Am.",
+    "Attendance Rate (%) (All Students)": "94.4",
+    "Days Attended/Days Members (All Students)": "3890.5/4120.0",
+    "county_name": "Caroline County",
+    "county_code": "05",
+    "school_name": "Preston Elementary School",
+    "school_code": "0401"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "White",
+    "Attendance Rate (%) (All Students)": "93.7",
+    "Days Attended/Days Members (All Students)": "34660.0/36990.0",
+    "county_name": "Caroline County",
+    "county_code": "05",
+    "school_name": "Preston Elementary School",
+    "school_code": "0401"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "2+",
+    "Attendance Rate (%) (All Students)": "92.0",
+    "Days Attended/Days Members (All Students)": "3356.5/3648.0",
+    "county_name": "Caroline County",
+    "county_code": "05",
+    "school_name": "Preston Elementary School",
+    "school_code": "0401"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "Hispanic",
+    "Attendance Rate (%) (All Students)": "92.5",
+    "Days Attended/Days Members (All Students)": "5259.5/5685.0",
+    "county_name": "Caroline County",
+    "county_code": "05",
+    "school_name": "Preston Elementary School",
+    "school_code": "0401"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "Am.Ind/AK",
+    "Attendance Rate (%) (All Students)": "*",
+    "Days Attended/Days Members (All Students)": "*/*",
+    "county_name": "Caroline County",
+    "county_code": "05",
+    "school_name": "Preston Elementary School",
+    "school_code": "0401"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "Asian",
+    "Attendance Rate (%) (All Students)": "*",
+    "Days Attended/Days Members (All Students)": "*/*",
+    "county_name": "Caroline County",
+    "county_code": "05",
+    "school_name": "Preston Elementary School",
+    "school_code": "0401"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "African Am.",
+    "Attendance Rate (%) (All Students)": "91.6",
+    "Days Attended/Days Members (All Students)": "6114.0/6674.0",
+    "county_name": "Caroline County",
+    "county_code": "05",
+    "school_name": "Ridgely Elementary School",
+    "school_code": "0701"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "White",
+    "Attendance Rate (%) (All Students)": "92.7",
+    "Days Attended/Days Members (All Students)": "37986.5/40972.0",
+    "county_name": "Caroline County",
+    "county_code": "05",
+    "school_name": "Ridgely Elementary School",
+    "school_code": "0701"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "2+",
+    "Attendance Rate (%) (All Students)": "88.4",
+    "Days Attended/Days Members (All Students)": "2580.5/2918.0",
+    "county_name": "Caroline County",
+    "county_code": "05",
+    "school_name": "Ridgely Elementary School",
+    "school_code": "0701"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "Hispanic",
+    "Attendance Rate (%) (All Students)": "93.2",
+    "Days Attended/Days Members (All Students)": "6113.5/6557.0",
+    "county_name": "Caroline County",
+    "county_code": "05",
+    "school_name": "Ridgely Elementary School",
+    "school_code": "0701"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "Asian",
+    "Attendance Rate (%) (All Students)": "*",
+    "Days Attended/Days Members (All Students)": "*/*",
+    "county_name": "Caroline County",
+    "county_code": "05",
+    "school_name": "Ridgely Elementary School",
+    "school_code": "0701"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "African Am.",
+    "Attendance Rate (%) (All Students)": "92.5",
+    "Days Attended/Days Members (All Students)": "14119.0/15267.0",
+    "county_name": "Caroline County",
+    "county_code": "05",
+    "school_name": "Colonel Richardson Middle School",
+    "school_code": "0802"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "White",
+    "Attendance Rate (%) (All Students)": "92.0",
+    "Days Attended/Days Members (All Students)": "36231.5/39396.0",
+    "county_name": "Caroline County",
+    "county_code": "05",
+    "school_name": "Colonel Richardson Middle School",
+    "school_code": "0802"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "2+",
+    "Attendance Rate (%) (All Students)": "88.8",
+    "Days Attended/Days Members (All Students)": "6592.5/7424.0",
+    "county_name": "Caroline County",
+    "county_code": "05",
+    "school_name": "Colonel Richardson Middle School",
+    "school_code": "0802"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "Hispanic",
+    "Attendance Rate (%) (All Students)": "91.6",
+    "Days Attended/Days Members (All Students)": "5976.5/6523.0",
+    "county_name": "Caroline County",
+    "county_code": "05",
+    "school_name": "Colonel Richardson Middle School",
+    "school_code": "0802"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "Am.Ind/AK",
+    "Attendance Rate (%) (All Students)": "*",
+    "Days Attended/Days Members (All Students)": "*/*",
+    "county_name": "Caroline County",
+    "county_code": "05",
+    "school_name": "Colonel Richardson Middle School",
+    "school_code": "0802"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "Asian",
+    "Attendance Rate (%) (All Students)": "*",
+    "Days Attended/Days Members (All Students)": "*/*",
+    "county_name": "Caroline County",
+    "county_code": "05",
+    "school_name": "Colonel Richardson Middle School",
+    "school_code": "0802"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "African Am.",
+    "Attendance Rate (%) (All Students)": "90.6",
+    "Days Attended/Days Members (All Students)": "14568.0/16085.0",
+    "county_name": "Caroline County",
+    "county_code": "05",
+    "school_name": "Lockerman Middle School",
+    "school_code": "0302"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "White",
+    "Attendance Rate (%) (All Students)": "90.9",
+    "Days Attended/Days Members (All Students)": "74404.0/81870.0",
+    "county_name": "Caroline County",
+    "county_code": "05",
+    "school_name": "Lockerman Middle School",
+    "school_code": "0302"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "2+",
+    "Attendance Rate (%) (All Students)": "89.9",
+    "Days Attended/Days Members (All Students)": "10744.0/11948.0",
+    "county_name": "Caroline County",
+    "county_code": "05",
+    "school_name": "Lockerman Middle School",
+    "school_code": "0302"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "Hispanic",
+    "Attendance Rate (%) (All Students)": "91.6",
+    "Days Attended/Days Members (All Students)": "33788.5/36869.0",
+    "county_name": "Caroline County",
+    "county_code": "05",
+    "school_name": "Lockerman Middle School",
+    "school_code": "0302"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "Am.Ind/AK",
+    "Attendance Rate (%) (All Students)": "*",
+    "Days Attended/Days Members (All Students)": "*/*",
+    "county_name": "Caroline County",
+    "county_code": "05",
+    "school_name": "Lockerman Middle School",
+    "school_code": "0302"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "Asian",
+    "Attendance Rate (%) (All Students)": "\u2265 95.0",
+    "Days Attended/Days Members (All Students)": "*/*",
+    "county_name": "Caroline County",
+    "county_code": "05",
+    "school_name": "Lockerman Middle School",
+    "school_code": "0302"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "African Am.",
+    "Attendance Rate (%) (All Students)": "92.2",
+    "Days Attended/Days Members (All Students)": "21064.0/22855.0",
+    "county_name": "Caroline County",
+    "county_code": "05",
+    "school_name": "Colonel Richardson High School",
+    "school_code": "0801"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "White",
+    "Attendance Rate (%) (All Students)": "91.7",
+    "Days Attended/Days Members (All Students)": "46909.5/51166.0",
+    "county_name": "Caroline County",
+    "county_code": "05",
+    "school_name": "Colonel Richardson High School",
+    "school_code": "0801"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "2+",
+    "Attendance Rate (%) (All Students)": "89.1",
+    "Days Attended/Days Members (All Students)": "6843.0/7684.0",
+    "county_name": "Caroline County",
+    "county_code": "05",
+    "school_name": "Colonel Richardson High School",
+    "school_code": "0801"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "Hispanic",
+    "Attendance Rate (%) (All Students)": "88.8",
+    "Days Attended/Days Members (All Students)": "7903.5/8903.0",
+    "county_name": "Caroline County",
+    "county_code": "05",
+    "school_name": "Colonel Richardson High School",
+    "school_code": "0801"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "Am.Ind/AK",
+    "Attendance Rate (%) (All Students)": "*",
+    "Days Attended/Days Members (All Students)": "*/*",
+    "county_name": "Caroline County",
+    "county_code": "05",
+    "school_name": "Colonel Richardson High School",
+    "school_code": "0801"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "Asian",
+    "Attendance Rate (%) (All Students)": "94.7",
+    "Days Attended/Days Members (All Students)": "2199.0/2321.0",
+    "county_name": "Caroline County",
+    "county_code": "05",
+    "school_name": "Colonel Richardson High School",
+    "school_code": "0801"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "African Am.",
+    "Attendance Rate (%) (All Students)": "90.4",
+    "Days Attended/Days Members (All Students)": "22096.5/24435.0",
+    "county_name": "Caroline County",
+    "county_code": "05",
+    "school_name": "North Caroline High School",
+    "school_code": "0703"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "White",
+    "Attendance Rate (%) (All Students)": "90.7",
+    "Days Attended/Days Members (All Students)": "110725.0/122091.0",
+    "county_name": "Caroline County",
+    "county_code": "05",
+    "school_name": "North Caroline High School",
+    "school_code": "0703"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "2+",
+    "Attendance Rate (%) (All Students)": "88.9",
+    "Days Attended/Days Members (All Students)": "14725.5/16570.0",
+    "county_name": "Caroline County",
+    "county_code": "05",
+    "school_name": "North Caroline High School",
+    "school_code": "0703"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "Hispanic",
+    "Attendance Rate (%) (All Students)": "90.1",
+    "Days Attended/Days Members (All Students)": "49682.0/55118.0",
+    "county_name": "Caroline County",
+    "county_code": "05",
+    "school_name": "North Caroline High School",
+    "school_code": "0703"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "Am.Ind/AK",
+    "Attendance Rate (%) (All Students)": "*",
+    "Days Attended/Days Members (All Students)": "*/*",
+    "county_name": "Caroline County",
+    "county_code": "05",
+    "school_name": "North Caroline High School",
+    "school_code": "0703"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "Asian",
+    "Attendance Rate (%) (All Students)": "92.3",
+    "Days Attended/Days Members (All Students)": "2681.0/2904.0",
+    "county_name": "Caroline County",
+    "county_code": "05",
+    "school_name": "North Caroline High School",
+    "school_code": "0703"
+  }
+]

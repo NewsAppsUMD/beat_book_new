@@ -1,0 +1,95 @@
+{
+  "school_name": "Church Hill Elementary School",
+  "school_code": "0202",
+  "county_code": "17",
+  "attendance_data": [
+    {
+      "Year": "2025",
+      "Race/Ethnicity": "African Am.",
+      "Attendance Rate (%) (All Students)": "93.6",
+      "Days Attended/Days Members (All Students)": "2003.0/2141.0"
+    },
+    {
+      "Year": "2025",
+      "Race/Ethnicity": "White",
+      "Attendance Rate (%) (All Students)": "93.5",
+      "Days Attended/Days Members (All Students)": "26795.5/28664.0"
+    },
+    {
+      "Year": "2025",
+      "Race/Ethnicity": "2+",
+      "Attendance Rate (%) (All Students)": "92.3",
+      "Days Attended/Days Members (All Students)": "2726.0/2954.0"
+    },
+    {
+      "Year": "2025",
+      "Race/Ethnicity": "Hispanic",
+      "Attendance Rate (%) (All Students)": "92.4",
+      "Days Attended/Days Members (All Students)": "5076.5/5492.0"
+    },
+    {
+      "Year": "2025",
+      "Race/Ethnicity": "Am.Ind/AK",
+      "Attendance Rate (%) (All Students)": "*",
+      "Days Attended/Days Members (All Students)": "*/*"
+    },
+    {
+      "Year": "2025",
+      "Race/Ethnicity": "Asian",
+      "Attendance Rate (%) (All Students)": "*",
+      "Days Attended/Days Members (All Students)": "*/*"
+    }
+  ],
+  "student_groups_data": [
+    {
+      "Year": "2025",
+      "Student Group": "ADA 504",
+      "Result (%) (All Students)": "\u2264 5.0",
+      "Count": "*",
+      "Total": "338"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "Eco Disadv",
+      "Result (%) (All Students)": "34.3",
+      "Count": "116",
+      "Total": "338"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "FARMS",
+      "Result (%) (All Students)": "46.4",
+      "Count": "157",
+      "Total": "338"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "ML",
+      "Result (%) (All Students)": "5.9",
+      "Count": "20",
+      "Total": "338"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "SWD",
+      "Result (%) (All Students)": "13.3",
+      "Count": "45",
+      "Total": "338"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "Title 1",
+      "Result (%) (All Students)": "\u2265 95.0",
+      "Count": "*",
+      "Total": "338"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "Homeless",
+      "Result (%) (All Students)": "\u2264 5.0",
+      "Count": "*",
+      "Total": "338"
+    }
+  ],
+  "county_name": "Queen Anne's County"
+}

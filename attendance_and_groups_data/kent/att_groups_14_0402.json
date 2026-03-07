@@ -1,0 +1,89 @@
+{
+  "school_name": "Kent County Middle School",
+  "school_code": "0402",
+  "county_code": "14",
+  "attendance_data": [
+    {
+      "Year": "2025",
+      "Race/Ethnicity": "African Am.",
+      "Attendance Rate (%) (All Students)": "90.8",
+      "Days Attended/Days Members (All Students)": "14513.0/15991.0"
+    },
+    {
+      "Year": "2025",
+      "Race/Ethnicity": "White",
+      "Attendance Rate (%) (All Students)": "92.7",
+      "Days Attended/Days Members (All Students)": "29227.0/31520.0"
+    },
+    {
+      "Year": "2025",
+      "Race/Ethnicity": "2+",
+      "Attendance Rate (%) (All Students)": "92.0",
+      "Days Attended/Days Members (All Students)": "5676.5/6173.0"
+    },
+    {
+      "Year": "2025",
+      "Race/Ethnicity": "Hispanic",
+      "Attendance Rate (%) (All Students)": "93.1",
+      "Days Attended/Days Members (All Students)": "9326.5/10014.0"
+    },
+    {
+      "Year": "2025",
+      "Race/Ethnicity": "Am.Ind/AK",
+      "Attendance Rate (%) (All Students)": "*",
+      "Days Attended/Days Members (All Students)": "*/*"
+    }
+  ],
+  "student_groups_data": [
+    {
+      "Year": "2025",
+      "Student Group": "ADA 504",
+      "Result (%) (All Students)": "8.8",
+      "Count": "32",
+      "Total": "362"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "Eco Disadv",
+      "Result (%) (All Students)": "68.2",
+      "Count": "247",
+      "Total": "362"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "FARMS",
+      "Result (%) (All Students)": "74.6",
+      "Count": "270",
+      "Total": "362"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "ML",
+      "Result (%) (All Students)": "7.7",
+      "Count": "28",
+      "Total": "362"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "Migrant",
+      "Result (%) (All Students)": "*",
+      "Count": "*",
+      "Total": "362"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "SWD",
+      "Result (%) (All Students)": "14.1",
+      "Count": "51",
+      "Total": "362"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "Title 1",
+      "Result (%) (All Students)": "\u2265 95.0",
+      "Count": "*",
+      "Total": "362"
+    }
+  ],
+  "county_name": "Kent County"
+}

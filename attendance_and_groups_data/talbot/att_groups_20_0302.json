@@ -1,0 +1,89 @@
+{
+  "school_name": "White Marsh Elementary",
+  "school_code": "0302",
+  "county_code": "20",
+  "attendance_data": [
+    {
+      "Year": "2025",
+      "Race/Ethnicity": "African Am.",
+      "Attendance Rate (%) (All Students)": "93.8",
+      "Days Attended/Days Members (All Students)": "3715.0/3960.0"
+    },
+    {
+      "Year": "2025",
+      "Race/Ethnicity": "White",
+      "Attendance Rate (%) (All Students)": "94.1",
+      "Days Attended/Days Members (All Students)": "23946.0/25450.0"
+    },
+    {
+      "Year": "2025",
+      "Race/Ethnicity": "2+",
+      "Attendance Rate (%) (All Students)": "94.8",
+      "Days Attended/Days Members (All Students)": "1877.5/1980.0"
+    },
+    {
+      "Year": "2025",
+      "Race/Ethnicity": "Hispanic",
+      "Attendance Rate (%) (All Students)": "93.0",
+      "Days Attended/Days Members (All Students)": "6197.0/6667.0"
+    },
+    {
+      "Year": "2025",
+      "Race/Ethnicity": "Asian",
+      "Attendance Rate (%) (All Students)": "*",
+      "Days Attended/Days Members (All Students)": "*/*"
+    }
+  ],
+  "student_groups_data": [
+    {
+      "Year": "2025",
+      "Student Group": "ADA 504",
+      "Result (%) (All Students)": "\u2264 5.0",
+      "Count": "*",
+      "Total": "285"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "Eco Disadv",
+      "Result (%) (All Students)": "46.3",
+      "Count": "132",
+      "Total": "285"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "FARMS",
+      "Result (%) (All Students)": "56.1",
+      "Count": "160",
+      "Total": "285"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "ML",
+      "Result (%) (All Students)": "11.6",
+      "Count": "33",
+      "Total": "285"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "SWD",
+      "Result (%) (All Students)": "7.7",
+      "Count": "22",
+      "Total": "285"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "Title 1",
+      "Result (%) (All Students)": "\u2265 95.0",
+      "Count": "*",
+      "Total": "285"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "Homeless",
+      "Result (%) (All Students)": "5.3",
+      "Count": "15",
+      "Total": "285"
+    }
+  ],
+  "county_name": "Talbot County"
+}

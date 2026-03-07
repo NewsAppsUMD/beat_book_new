@@ -1,0 +1,582 @@
+[
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "African Am.",
+    "Attendance Rate (%) (All Students)": "87.6",
+    "Days Attended/Days Members (All Students)": "28419.5/32441.0",
+    "county_name": "Dorchester County",
+    "county_code": "09",
+    "school_name": "Choptank Elementary School",
+    "school_code": "0716"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "White",
+    "Attendance Rate (%) (All Students)": "92.6",
+    "Days Attended/Days Members (All Students)": "2260.5/2441.0",
+    "county_name": "Dorchester County",
+    "county_code": "09",
+    "school_name": "Choptank Elementary School",
+    "school_code": "0716"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "2+",
+    "Attendance Rate (%) (All Students)": "87.3",
+    "Days Attended/Days Members (All Students)": "2762.5/3166.0",
+    "county_name": "Dorchester County",
+    "county_code": "09",
+    "school_name": "Choptank Elementary School",
+    "school_code": "0716"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "Hispanic",
+    "Attendance Rate (%) (All Students)": "89.3",
+    "Days Attended/Days Members (All Students)": "6425.0/7191.0",
+    "county_name": "Dorchester County",
+    "county_code": "09",
+    "school_name": "Choptank Elementary School",
+    "school_code": "0716"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "Am.Ind/AK",
+    "Attendance Rate (%) (All Students)": "*",
+    "Days Attended/Days Members (All Students)": "*/*",
+    "county_name": "Dorchester County",
+    "county_code": "09",
+    "school_name": "Choptank Elementary School",
+    "school_code": "0716"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "African Am.",
+    "Attendance Rate (%) (All Students)": "92.1",
+    "Days Attended/Days Members (All Students)": "17045.0/18514.0",
+    "county_name": "Dorchester County",
+    "county_code": "09",
+    "school_name": "Hurlock Elementary School",
+    "school_code": "1503"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "HI/Pac.Isl.",
+    "Attendance Rate (%) (All Students)": "*",
+    "Days Attended/Days Members (All Students)": "*/*",
+    "county_name": "Dorchester County",
+    "county_code": "09",
+    "school_name": "Hurlock Elementary School",
+    "school_code": "1503"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "White",
+    "Attendance Rate (%) (All Students)": "91.9",
+    "Days Attended/Days Members (All Students)": "18215.5/19823.0",
+    "county_name": "Dorchester County",
+    "county_code": "09",
+    "school_name": "Hurlock Elementary School",
+    "school_code": "1503"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "2+",
+    "Attendance Rate (%) (All Students)": "89.5",
+    "Days Attended/Days Members (All Students)": "4291.5/4794.0",
+    "county_name": "Dorchester County",
+    "county_code": "09",
+    "school_name": "Hurlock Elementary School",
+    "school_code": "1503"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "Hispanic",
+    "Attendance Rate (%) (All Students)": "93.2",
+    "Days Attended/Days Members (All Students)": "5367.5/5760.0",
+    "county_name": "Dorchester County",
+    "county_code": "09",
+    "school_name": "Hurlock Elementary School",
+    "school_code": "1503"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "Asian",
+    "Attendance Rate (%) (All Students)": "*",
+    "Days Attended/Days Members (All Students)": "*/*",
+    "county_name": "Dorchester County",
+    "county_code": "09",
+    "school_name": "Hurlock Elementary School",
+    "school_code": "1503"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "African Am.",
+    "Attendance Rate (%) (All Students)": "93.0",
+    "Days Attended/Days Members (All Students)": "20570.5/22122.0",
+    "county_name": "Dorchester County",
+    "county_code": "09",
+    "school_name": "Maple Elementary School",
+    "school_code": "0711"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "White",
+    "Attendance Rate (%) (All Students)": "91.5",
+    "Days Attended/Days Members (All Students)": "10836.5/11845.0",
+    "county_name": "Dorchester County",
+    "county_code": "09",
+    "school_name": "Maple Elementary School",
+    "school_code": "0711"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "2+",
+    "Attendance Rate (%) (All Students)": "91.3",
+    "Days Attended/Days Members (All Students)": "3977.5/4358.0",
+    "county_name": "Dorchester County",
+    "county_code": "09",
+    "school_name": "Maple Elementary School",
+    "school_code": "0711"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "Hispanic",
+    "Attendance Rate (%) (All Students)": "94.6",
+    "Days Attended/Days Members (All Students)": "20465.0/21625.0",
+    "county_name": "Dorchester County",
+    "county_code": "09",
+    "school_name": "Maple Elementary School",
+    "school_code": "0711"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "Am.Ind/AK",
+    "Attendance Rate (%) (All Students)": "*",
+    "Days Attended/Days Members (All Students)": "*/*",
+    "county_name": "Dorchester County",
+    "county_code": "09",
+    "school_name": "Maple Elementary School",
+    "school_code": "0711"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "Asian",
+    "Attendance Rate (%) (All Students)": "*",
+    "Days Attended/Days Members (All Students)": "*/*",
+    "county_name": "Dorchester County",
+    "county_code": "09",
+    "school_name": "Maple Elementary School",
+    "school_code": "0711"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "African Am.",
+    "Attendance Rate (%) (All Students)": "88.1",
+    "Days Attended/Days Members (All Students)": "24119.0/27370.0",
+    "county_name": "Dorchester County",
+    "county_code": "09",
+    "school_name": "Sandy Hill Elementary School",
+    "school_code": "0710"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "White",
+    "Attendance Rate (%) (All Students)": "92.2",
+    "Days Attended/Days Members (All Students)": "7819.5/8478.0",
+    "county_name": "Dorchester County",
+    "county_code": "09",
+    "school_name": "Sandy Hill Elementary School",
+    "school_code": "0710"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "2+",
+    "Attendance Rate (%) (All Students)": "91.5",
+    "Days Attended/Days Members (All Students)": "3293.0/3597.0",
+    "county_name": "Dorchester County",
+    "county_code": "09",
+    "school_name": "Sandy Hill Elementary School",
+    "school_code": "0710"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "Hispanic",
+    "Attendance Rate (%) (All Students)": "86.4",
+    "Days Attended/Days Members (All Students)": "5400.0/6249.0",
+    "county_name": "Dorchester County",
+    "county_code": "09",
+    "school_name": "Sandy Hill Elementary School",
+    "school_code": "0710"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "Asian",
+    "Attendance Rate (%) (All Students)": "*",
+    "Days Attended/Days Members (All Students)": "*/*",
+    "county_name": "Dorchester County",
+    "county_code": "09",
+    "school_name": "Sandy Hill Elementary School",
+    "school_code": "0710"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "African Am.",
+    "Attendance Rate (%) (All Students)": "93.6",
+    "Days Attended/Days Members (All Students)": "2354.0/2516.0",
+    "county_name": "Dorchester County",
+    "county_code": "09",
+    "school_name": "Vienna Elementary School",
+    "school_code": "0302"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "White",
+    "Attendance Rate (%) (All Students)": "93.3",
+    "Days Attended/Days Members (All Students)": "15755.5/16889.0",
+    "county_name": "Dorchester County",
+    "county_code": "09",
+    "school_name": "Vienna Elementary School",
+    "school_code": "0302"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "2+",
+    "Attendance Rate (%) (All Students)": "92.3",
+    "Days Attended/Days Members (All Students)": "2094.0/2269.0",
+    "county_name": "Dorchester County",
+    "county_code": "09",
+    "school_name": "Vienna Elementary School",
+    "school_code": "0302"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "Hispanic",
+    "Attendance Rate (%) (All Students)": "94.8",
+    "Days Attended/Days Members (All Students)": "2316.0/2443.0",
+    "county_name": "Dorchester County",
+    "county_code": "09",
+    "school_name": "Vienna Elementary School",
+    "school_code": "0302"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "African Am.",
+    "Attendance Rate (%) (All Students)": "93.6",
+    "Days Attended/Days Members (All Students)": "2863.0/3060.0",
+    "county_name": "Dorchester County",
+    "county_code": "09",
+    "school_name": "Warwick Elementary School",
+    "school_code": "0205"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "White",
+    "Attendance Rate (%) (All Students)": "93.6",
+    "Days Attended/Days Members (All Students)": "37708.0/40293.0",
+    "county_name": "Dorchester County",
+    "county_code": "09",
+    "school_name": "Warwick Elementary School",
+    "school_code": "0205"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "2+",
+    "Attendance Rate (%) (All Students)": "92.8",
+    "Days Attended/Days Members (All Students)": "2248.5/2422.0",
+    "county_name": "Dorchester County",
+    "county_code": "09",
+    "school_name": "Warwick Elementary School",
+    "school_code": "0205"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "Hispanic",
+    "Attendance Rate (%) (All Students)": "93.5",
+    "Days Attended/Days Members (All Students)": "1683.5/1800.0",
+    "county_name": "Dorchester County",
+    "county_code": "09",
+    "school_name": "Warwick Elementary School",
+    "school_code": "0205"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "Asian",
+    "Attendance Rate (%) (All Students)": "*",
+    "Days Attended/Days Members (All Students)": "*/*",
+    "county_name": "Dorchester County",
+    "county_code": "09",
+    "school_name": "Warwick Elementary School",
+    "school_code": "0205"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "African Am.",
+    "Attendance Rate (%) (All Students)": "*",
+    "Days Attended/Days Members (All Students)": "*/*",
+    "county_name": "Dorchester County",
+    "county_code": "09",
+    "school_name": "South Dorchester School",
+    "school_code": "0508"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "White",
+    "Attendance Rate (%) (All Students)": "93.3",
+    "Days Attended/Days Members (All Students)": "27133.5/29076.0",
+    "county_name": "Dorchester County",
+    "county_code": "09",
+    "school_name": "South Dorchester School",
+    "school_code": "0508"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "2+",
+    "Attendance Rate (%) (All Students)": "93.4",
+    "Days Attended/Days Members (All Students)": "1682.0/1800.0",
+    "county_name": "Dorchester County",
+    "county_code": "09",
+    "school_name": "South Dorchester School",
+    "school_code": "0508"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "Hispanic",
+    "Attendance Rate (%) (All Students)": "*",
+    "Days Attended/Days Members (All Students)": "*/*",
+    "county_name": "Dorchester County",
+    "county_code": "09",
+    "school_name": "South Dorchester School",
+    "school_code": "0508"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "Asian",
+    "Attendance Rate (%) (All Students)": "*",
+    "Days Attended/Days Members (All Students)": "*/*",
+    "county_name": "Dorchester County",
+    "county_code": "09",
+    "school_name": "South Dorchester School",
+    "school_code": "0508"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "African Am.",
+    "Attendance Rate (%) (All Students)": "85.2",
+    "Days Attended/Days Members (All Students)": "42776.5/50203.0",
+    "county_name": "Dorchester County",
+    "county_code": "09",
+    "school_name": "Mace's Lane Middle School",
+    "school_code": "0707"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "White",
+    "Attendance Rate (%) (All Students)": "89.7",
+    "Days Attended/Days Members (All Students)": "9206.5/10265.0",
+    "county_name": "Dorchester County",
+    "county_code": "09",
+    "school_name": "Mace's Lane Middle School",
+    "school_code": "0707"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "2+",
+    "Attendance Rate (%) (All Students)": "84.9",
+    "Days Attended/Days Members (All Students)": "6843.0/8063.0",
+    "county_name": "Dorchester County",
+    "county_code": "09",
+    "school_name": "Mace's Lane Middle School",
+    "school_code": "0707"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "Hispanic",
+    "Attendance Rate (%) (All Students)": "89.3",
+    "Days Attended/Days Members (All Students)": "14204.5/15910.0",
+    "county_name": "Dorchester County",
+    "county_code": "09",
+    "school_name": "Mace's Lane Middle School",
+    "school_code": "0707"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "Asian",
+    "Attendance Rate (%) (All Students)": "*",
+    "Days Attended/Days Members (All Students)": "*/*",
+    "county_name": "Dorchester County",
+    "county_code": "09",
+    "school_name": "Mace's Lane Middle School",
+    "school_code": "0707"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "African Am.",
+    "Attendance Rate (%) (All Students)": "90.9",
+    "Days Attended/Days Members (All Students)": "13097.0/14405.0",
+    "county_name": "Dorchester County",
+    "county_code": "09",
+    "school_name": "North Dorchester Middle School",
+    "school_code": "0208"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "White",
+    "Attendance Rate (%) (All Students)": "93.0",
+    "Days Attended/Days Members (All Students)": "42471.0/45672.0",
+    "county_name": "Dorchester County",
+    "county_code": "09",
+    "school_name": "North Dorchester Middle School",
+    "school_code": "0208"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "2+",
+    "Attendance Rate (%) (All Students)": "91.3",
+    "Days Attended/Days Members (All Students)": "4563.0/5000.0",
+    "county_name": "Dorchester County",
+    "county_code": "09",
+    "school_name": "North Dorchester Middle School",
+    "school_code": "0208"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "Hispanic",
+    "Attendance Rate (%) (All Students)": "93.4",
+    "Days Attended/Days Members (All Students)": "7367.5/7892.0",
+    "county_name": "Dorchester County",
+    "county_code": "09",
+    "school_name": "North Dorchester Middle School",
+    "school_code": "0208"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "Asian",
+    "Attendance Rate (%) (All Students)": "*",
+    "Days Attended/Days Members (All Students)": "*/*",
+    "county_name": "Dorchester County",
+    "county_code": "09",
+    "school_name": "North Dorchester Middle School",
+    "school_code": "0208"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "African Am.",
+    "Attendance Rate (%) (All Students)": "80.2",
+    "Days Attended/Days Members (All Students)": "63552.5/79249.0",
+    "county_name": "Dorchester County",
+    "county_code": "09",
+    "school_name": "Cambridge-South Dorchester High School",
+    "school_code": "0713"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "HI/Pac.Isl.",
+    "Attendance Rate (%) (All Students)": "*",
+    "Days Attended/Days Members (All Students)": "*/*",
+    "county_name": "Dorchester County",
+    "county_code": "09",
+    "school_name": "Cambridge-South Dorchester High School",
+    "school_code": "0713"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "White",
+    "Attendance Rate (%) (All Students)": "86.9",
+    "Days Attended/Days Members (All Students)": "30701.0/35347.0",
+    "county_name": "Dorchester County",
+    "county_code": "09",
+    "school_name": "Cambridge-South Dorchester High School",
+    "school_code": "0713"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "2+",
+    "Attendance Rate (%) (All Students)": "79.7",
+    "Days Attended/Days Members (All Students)": "6483.5/8131.0",
+    "county_name": "Dorchester County",
+    "county_code": "09",
+    "school_name": "Cambridge-South Dorchester High School",
+    "school_code": "0713"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "Hispanic",
+    "Attendance Rate (%) (All Students)": "86.2",
+    "Days Attended/Days Members (All Students)": "14437.5/16741.0",
+    "county_name": "Dorchester County",
+    "county_code": "09",
+    "school_name": "Cambridge-South Dorchester High School",
+    "school_code": "0713"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "Asian",
+    "Attendance Rate (%) (All Students)": "*",
+    "Days Attended/Days Members (All Students)": "*/*",
+    "county_name": "Dorchester County",
+    "county_code": "09",
+    "school_name": "Cambridge-South Dorchester High School",
+    "school_code": "0713"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "African Am.",
+    "Attendance Rate (%) (All Students)": "89.7",
+    "Days Attended/Days Members (All Students)": "19784.5/22054.0",
+    "county_name": "Dorchester County",
+    "county_code": "09",
+    "school_name": "North Dorchester High School",
+    "school_code": "0207"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "White",
+    "Attendance Rate (%) (All Students)": "90.2",
+    "Days Attended/Days Members (All Students)": "46506.5/51559.0",
+    "county_name": "Dorchester County",
+    "county_code": "09",
+    "school_name": "North Dorchester High School",
+    "school_code": "0207"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "2+",
+    "Attendance Rate (%) (All Students)": "87.5",
+    "Days Attended/Days Members (All Students)": "5917.5/6764.0",
+    "county_name": "Dorchester County",
+    "county_code": "09",
+    "school_name": "North Dorchester High School",
+    "school_code": "0207"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "Hispanic",
+    "Attendance Rate (%) (All Students)": "90.6",
+    "Days Attended/Days Members (All Students)": "10083.5/11129.0",
+    "county_name": "Dorchester County",
+    "county_code": "09",
+    "school_name": "North Dorchester High School",
+    "school_code": "0207"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "Am.Ind/AK",
+    "Attendance Rate (%) (All Students)": "*",
+    "Days Attended/Days Members (All Students)": "*/*",
+    "county_name": "Dorchester County",
+    "county_code": "09",
+    "school_name": "North Dorchester High School",
+    "school_code": "0207"
+  },
+  {
+    "Year": "2025",
+    "Race/Ethnicity": "Asian",
+    "Attendance Rate (%) (All Students)": "*",
+    "Days Attended/Days Members (All Students)": "*/*",
+    "county_name": "Dorchester County",
+    "county_code": "09",
+    "school_name": "North Dorchester High School",
+    "school_code": "0207"
+  }
+]

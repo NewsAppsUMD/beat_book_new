@@ -1,0 +1,89 @@
+{
+  "school_name": "Easton Middle",
+  "school_code": "0106",
+  "county_code": "20",
+  "attendance_data": [
+    {
+      "Year": "2025",
+      "Race/Ethnicity": "African Am.",
+      "Attendance Rate (%) (All Students)": "92.4",
+      "Days Attended/Days Members (All Students)": "21332.0/23085.0"
+    },
+    {
+      "Year": "2025",
+      "Race/Ethnicity": "White",
+      "Attendance Rate (%) (All Students)": "92.6",
+      "Days Attended/Days Members (All Students)": "44320.0/47870.0"
+    },
+    {
+      "Year": "2025",
+      "Race/Ethnicity": "2+",
+      "Attendance Rate (%) (All Students)": "91.7",
+      "Days Attended/Days Members (All Students)": "10717.5/11686.0"
+    },
+    {
+      "Year": "2025",
+      "Race/Ethnicity": "Hispanic",
+      "Attendance Rate (%) (All Students)": "92.5",
+      "Days Attended/Days Members (All Students)": "38239.0/41357.0"
+    },
+    {
+      "Year": "2025",
+      "Race/Ethnicity": "Asian",
+      "Attendance Rate (%) (All Students)": "*",
+      "Days Attended/Days Members (All Students)": "*/*"
+    }
+  ],
+  "student_groups_data": [
+    {
+      "Year": "2025",
+      "Student Group": "ADA 504",
+      "Result (%) (All Students)": "8.0",
+      "Count": "56",
+      "Total": "698"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "Eco Disadv",
+      "Result (%) (All Students)": "54.7",
+      "Count": "382",
+      "Total": "698"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "FARMS",
+      "Result (%) (All Students)": "67.8",
+      "Count": "473",
+      "Total": "698"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "ML",
+      "Result (%) (All Students)": "15.8",
+      "Count": "110",
+      "Total": "698"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "SWD",
+      "Result (%) (All Students)": "13.3",
+      "Count": "93",
+      "Total": "698"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "Homeless",
+      "Result (%) (All Students)": "5.6",
+      "Count": "39",
+      "Total": "698"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "Foster Care",
+      "Result (%) (All Students)": "*",
+      "Count": "*",
+      "Total": "698"
+    }
+  ],
+  "county_name": "Talbot County"
+}

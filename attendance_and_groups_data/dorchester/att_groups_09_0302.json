@@ -1,0 +1,83 @@
+{
+  "school_name": "Vienna Elementary School",
+  "school_code": "0302",
+  "county_code": "09",
+  "attendance_data": [
+    {
+      "Year": "2025",
+      "Race/Ethnicity": "African Am.",
+      "Attendance Rate (%) (All Students)": "93.6",
+      "Days Attended/Days Members (All Students)": "2354.0/2516.0"
+    },
+    {
+      "Year": "2025",
+      "Race/Ethnicity": "White",
+      "Attendance Rate (%) (All Students)": "93.3",
+      "Days Attended/Days Members (All Students)": "15755.5/16889.0"
+    },
+    {
+      "Year": "2025",
+      "Race/Ethnicity": "2+",
+      "Attendance Rate (%) (All Students)": "92.3",
+      "Days Attended/Days Members (All Students)": "2094.0/2269.0"
+    },
+    {
+      "Year": "2025",
+      "Race/Ethnicity": "Hispanic",
+      "Attendance Rate (%) (All Students)": "94.8",
+      "Days Attended/Days Members (All Students)": "2316.0/2443.0"
+    }
+  ],
+  "student_groups_data": [
+    {
+      "Year": "2025",
+      "Student Group": "ADA 504",
+      "Result (%) (All Students)": "*",
+      "Count": "*",
+      "Total": "186"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "Eco Disadv",
+      "Result (%) (All Students)": "56.5",
+      "Count": "105",
+      "Total": "186"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "FARMS",
+      "Result (%) (All Students)": "59.7",
+      "Count": "111",
+      "Total": "186"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "ML",
+      "Result (%) (All Students)": "5.9",
+      "Count": "11",
+      "Total": "186"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "SWD",
+      "Result (%) (All Students)": "5.4",
+      "Count": "10",
+      "Total": "186"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "Homeless",
+      "Result (%) (All Students)": "*",
+      "Count": "*",
+      "Total": "186"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "Military",
+      "Result (%) (All Students)": "*",
+      "Count": "*",
+      "Total": "186"
+    }
+  ],
+  "county_name": "Dorchester County"
+}

@@ -1,0 +1,89 @@
+{
+  "school_name": "Centreville Middle School",
+  "school_code": "0303",
+  "county_code": "17",
+  "attendance_data": [
+    {
+      "Year": "2025",
+      "Race/Ethnicity": "African Am.",
+      "Attendance Rate (%) (All Students)": "90.6",
+      "Days Attended/Days Members (All Students)": "6330.0/6983.0"
+    },
+    {
+      "Year": "2025",
+      "Race/Ethnicity": "White",
+      "Attendance Rate (%) (All Students)": "93.4",
+      "Days Attended/Days Members (All Students)": "65006.5/69624.0"
+    },
+    {
+      "Year": "2025",
+      "Race/Ethnicity": "2+",
+      "Attendance Rate (%) (All Students)": "92.9",
+      "Days Attended/Days Members (All Students)": "5518.5/5940.0"
+    },
+    {
+      "Year": "2025",
+      "Race/Ethnicity": "Hispanic",
+      "Attendance Rate (%) (All Students)": "94.1",
+      "Days Attended/Days Members (All Students)": "7014.5/7458.0"
+    },
+    {
+      "Year": "2025",
+      "Race/Ethnicity": "Asian",
+      "Attendance Rate (%) (All Students)": "*",
+      "Days Attended/Days Members (All Students)": "*/*"
+    }
+  ],
+  "student_groups_data": [
+    {
+      "Year": "2025",
+      "Student Group": "ADA 504",
+      "Result (%) (All Students)": "8.3",
+      "Count": "42",
+      "Total": "507"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "Eco Disadv",
+      "Result (%) (All Students)": "25.0",
+      "Count": "127",
+      "Total": "507"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "FARMS",
+      "Result (%) (All Students)": "34.3",
+      "Count": "174",
+      "Total": "507"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "ML",
+      "Result (%) (All Students)": "\u2264 5.0",
+      "Count": "*",
+      "Total": "507"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "SWD",
+      "Result (%) (All Students)": "9.5",
+      "Count": "48",
+      "Total": "507"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "Homeless",
+      "Result (%) (All Students)": "\u2264 5.0",
+      "Count": "*",
+      "Total": "507"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "Foster Care",
+      "Result (%) (All Students)": "*",
+      "Count": "*",
+      "Total": "507"
+    }
+  ],
+  "county_name": "Queen Anne's County"
+}

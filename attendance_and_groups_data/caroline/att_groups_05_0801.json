@@ -1,0 +1,95 @@
+{
+  "school_name": "Colonel Richardson High School",
+  "school_code": "0801",
+  "county_code": "05",
+  "attendance_data": [
+    {
+      "Year": "2025",
+      "Race/Ethnicity": "African Am.",
+      "Attendance Rate (%) (All Students)": "92.2",
+      "Days Attended/Days Members (All Students)": "21064.0/22855.0"
+    },
+    {
+      "Year": "2025",
+      "Race/Ethnicity": "White",
+      "Attendance Rate (%) (All Students)": "91.7",
+      "Days Attended/Days Members (All Students)": "46909.5/51166.0"
+    },
+    {
+      "Year": "2025",
+      "Race/Ethnicity": "2+",
+      "Attendance Rate (%) (All Students)": "89.1",
+      "Days Attended/Days Members (All Students)": "6843.0/7684.0"
+    },
+    {
+      "Year": "2025",
+      "Race/Ethnicity": "Hispanic",
+      "Attendance Rate (%) (All Students)": "88.8",
+      "Days Attended/Days Members (All Students)": "7903.5/8903.0"
+    },
+    {
+      "Year": "2025",
+      "Race/Ethnicity": "Am.Ind/AK",
+      "Attendance Rate (%) (All Students)": "*",
+      "Days Attended/Days Members (All Students)": "*/*"
+    },
+    {
+      "Year": "2025",
+      "Race/Ethnicity": "Asian",
+      "Attendance Rate (%) (All Students)": "94.7",
+      "Days Attended/Days Members (All Students)": "2199.0/2321.0"
+    }
+  ],
+  "student_groups_data": [
+    {
+      "Year": "2025",
+      "Student Group": "ADA 504",
+      "Result (%) (All Students)": "5.3",
+      "Count": "27",
+      "Total": "514"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "Eco Disadv",
+      "Result (%) (All Students)": "59.5",
+      "Count": "306",
+      "Total": "514"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "FARMS",
+      "Result (%) (All Students)": "64.8",
+      "Count": "333",
+      "Total": "514"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "ML",
+      "Result (%) (All Students)": "6.0",
+      "Count": "31",
+      "Total": "514"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "SWD",
+      "Result (%) (All Students)": "5.8",
+      "Count": "30",
+      "Total": "514"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "Homeless",
+      "Result (%) (All Students)": "*",
+      "Count": "*",
+      "Total": "514"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "Foster Care",
+      "Result (%) (All Students)": "*",
+      "Count": "*",
+      "Total": "514"
+    }
+  ],
+  "county_name": "Caroline County"
+}

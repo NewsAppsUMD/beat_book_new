@@ -1,0 +1,89 @@
+{
+  "school_name": "Stevensville Middle School",
+  "school_code": "0404",
+  "county_code": "17",
+  "attendance_data": [
+    {
+      "Year": "2025",
+      "Race/Ethnicity": "African Am.",
+      "Attendance Rate (%) (All Students)": "90.9",
+      "Days Attended/Days Members (All Students)": "5083.5/5594.0"
+    },
+    {
+      "Year": "2025",
+      "Race/Ethnicity": "White",
+      "Attendance Rate (%) (All Students)": "92.6",
+      "Days Attended/Days Members (All Students)": "55220.0/59619.0"
+    },
+    {
+      "Year": "2025",
+      "Race/Ethnicity": "2+",
+      "Attendance Rate (%) (All Students)": "89.4",
+      "Days Attended/Days Members (All Students)": "4764.0/5329.0"
+    },
+    {
+      "Year": "2025",
+      "Race/Ethnicity": "Hispanic",
+      "Attendance Rate (%) (All Students)": "90.4",
+      "Days Attended/Days Members (All Students)": "9831.0/10881.0"
+    },
+    {
+      "Year": "2025",
+      "Race/Ethnicity": "Asian",
+      "Attendance Rate (%) (All Students)": "*",
+      "Days Attended/Days Members (All Students)": "*/*"
+    }
+  ],
+  "student_groups_data": [
+    {
+      "Year": "2025",
+      "Student Group": "ADA 504",
+      "Result (%) (All Students)": "11.1",
+      "Count": "51",
+      "Total": "460"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "Eco Disadv",
+      "Result (%) (All Students)": "27.2",
+      "Count": "125",
+      "Total": "460"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "FARMS",
+      "Result (%) (All Students)": "38.5",
+      "Count": "177",
+      "Total": "460"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "ML",
+      "Result (%) (All Students)": "6.5",
+      "Count": "30",
+      "Total": "460"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "SWD",
+      "Result (%) (All Students)": "10.9",
+      "Count": "50",
+      "Total": "460"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "Homeless",
+      "Result (%) (All Students)": "\u2264 5.0",
+      "Count": "*",
+      "Total": "460"
+    },
+    {
+      "Year": "2025",
+      "Student Group": "Military",
+      "Result (%) (All Students)": "\u2264 5.0",
+      "Count": "*",
+      "Total": "460"
+    }
+  ],
+  "county_name": "Queen Anne's County"
+}
