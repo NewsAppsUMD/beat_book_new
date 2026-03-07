@@ -1,0 +1,62 @@
+[
+  {
+    "county": "Queen Anne's",
+    "superintendent": "Dr. Matthew Kibler (Interim)",
+    "website": "https://www.qacps.org/",
+    "board_url": "https://www.qacps.org/board-of-education/",
+    "leadership": [
+      {
+        "name": "Dr. Matthew Kibler",
+        "position": "Interim Superintendent"
+      },
+      {
+        "name": "Dr. Jennifer Schrecongost",
+        "position": "Interim Assistant Superintendent"
+      },
+      {
+        "name": "Sid Pinder, Jr.",
+        "position": "Chief Operating Officer"
+      },
+      {
+        "name": "Dr. Michael Noel",
+        "position": "Director of Human Resources"
+      },
+      {
+        "name": "Rob Watkins",
+        "position": "Interim Chief Financial Officer"
+      }
+    ],
+    "board_members": [
+      {
+        "name": "Shannon Bent",
+        "position": "Board President",
+        "district": "District 1",
+        "term": "2022-2026"
+      },
+      {
+        "name": "Alexis Capes",
+        "position": "Board Vice President",
+        "district": null,
+        "term": "2022-2026"
+      },
+      {
+        "name": "Mathew Drayer",
+        "position": "Board Member",
+        "district": "District 2",
+        "term": "2024-2028"
+      },
+      {
+        "name": "Carrie Sutherland",
+        "position": "Board Member",
+        "district": "District 3",
+        "term": "2024-2028"
+      },
+      {
+        "name": "Kendra Eichler",
+        "position": "Board Member",
+        "district": "District 4",
+        "term": "2024-2028"
+      }
+    ]
+  }
+]

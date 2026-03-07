@@ -1,0 +1,9 @@
+county,suspension_type,total_suspensions,asian,asian_pct,black,black_pct,hispanic,hispanic_pct,white,white_pct,two_or_more,two_or_more_pct
+Caroline,in_school,371,0,0.0,128,34.5,30,8.1,141,38.0,29,7.8
+Caroline,out_of_school,566,0,0.0,142,25.1,15,2.7,182,32.2,37,6.5
+Dorchester,out_of_school,1547,0,0.0,1149,74.3,58,3.7,195,12.6,136,8.8
+Kent,in_school,284,0,0.0,124,43.7,30,10.6,83,29.2,46,16.2
+Kent,out_of_school,234,0,0.0,108,46.2,19,8.1,64,27.4,41,17.5
+Queen Anne's,in_school,124,0,0.0,20,16.1,11,8.9,78,62.9,15,12.1
+Queen Anne's,out_of_school,340,1,0.3,58,17.1,29,8.5,143,42.1,34,10.0
+Talbot,out_of_school,357,1,0.3,130,36.4,24,6.7,77,21.6,31,8.7

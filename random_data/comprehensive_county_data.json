@@ -1,0 +1,6577 @@
+{
+  "caroline": {
+    "county_name": "Caroline",
+    "county_key": "caroline",
+    "budget_finances": {
+      "county": "Caroline County",
+      "core_fiscal": {
+        "county_operating_budget": 79208471,
+        "ccps_total_operating_budget": 100373108,
+        "county_local_appropriation": 20301228,
+        "state_aid": 79028144,
+        "other_revenue": 1043736,
+        "pct_county_budget_to_schools": 25.6,
+        "local_share_pct": 20.2,
+        "state_share_pct": 78.8
+      },
+      "enrollment_per_pupil": {
+        "enrollment": 5400,
+        "total_per_pupil": 19796,
+        "local_per_pupil": 3760,
+        "state_per_pupil": 14630
+      },
+      "blueprint_drivers": {
+        "compensatory_education": "Major driver; high-poverty formula",
+        "concentration_of_poverty": "Multiple CEP schools",
+        "special_education": "Rising costs, placements",
+        "pre_k_expansion": "Creates staffing and space pressures"
+      },
+      "capital_outlook": {
+        "short_term_1_3_years": "HVAC, safety, modernization planning",
+        "long_term_5_10_years": "Major school replacements likely"
+      },
+      "emerging_issues": [
+        "Heavy Blueprint dependency",
+        "Special education and utilities rising steeply",
+        "Local revenue capacity limited"
+      ],
+      "narrative": "Caroline County exemplifies the Blueprint-dependent, low-wealth school system. CCPS\u2019s operating budget exceeds the county\u2019s entire general fund, reflecting deep reliance on the state. Poverty-based Blueprint formulas provide essential funding but leave little flexibility for enhanced investments. Rising special education costs, health premiums, and utilities stress operations. A new facilities cycle is emerging, with likely elementary school replacements."
+    },
+    "district_officials": [
+      {
+        "county": "Caroline",
+        "superintendent": "Derek L. Simmons",
+        "website": "https://www.carolineschools.org/",
+        "board_url": "https://www.carolineschools.org/o/ccps/page/board#members",
+        "board_members": [
+          {
+            "name": "Arevia Michele Wayman",
+            "position": "President",
+            "type": "Appointed",
+            "appointed": "2021, reappointed 2022",
+            "term": "Ends 2026"
+          },
+          {
+            "name": "Mark R. Jones",
+            "position": "Vice President",
+            "type": "Appointed",
+            "appointed": "2020, reappointed 2024",
+            "term": "Ends 2028"
+          },
+          {
+            "name": "Chrissy Bartz",
+            "position": "Member",
+            "type": "Elected",
+            "appointed": "July 2024",
+            "elected": "November 2024",
+            "term": "Ends 2028"
+          },
+          {
+            "name": "Stefanie Johnson",
+            "position": "Member",
+            "type": "Elected",
+            "district": "District 2",
+            "elected": "November 2024",
+            "term": "Ends 2028"
+          },
+          {
+            "name": "P. Troy Plutschak",
+            "position": "Member",
+            "type": "Elected",
+            "elected": "2022",
+            "term": "Ends 2026"
+          }
+        ],
+        "note": "Board has 3 elected members (one from each district), 2 appointed by governor, and 2 non-voting student members (one from each high school). All serve 4-year terms except students who serve 1 year."
+      }
+    ],
+    "schools": [
+      {
+        "name": "Denton Elementary School",
+        "code": "0301",
+        "type": "Elementary",
+        "enrollment": {
+          "total": 596,
+          "by_race": {
+            "Asian": {
+              "count": 17,
+              "percentage": 2.85
+            },
+            "African Am.": {
+              "count": 91,
+              "percentage": 15.27
+            },
+            "Hispanic": {
+              "count": 58,
+              "percentage": 9.73
+            },
+            "White": {
+              "count": 351,
+              "percentage": 58.89
+            },
+            "Am.Ind/AK": {
+              "count": "*",
+              "percentage": "*"
+            },
+            "HI/Pac.Isl.": {
+              "count": "*",
+              "percentage": "*"
+            },
+            "2+": {
+              "count": 77,
+              "percentage": 12.92
+            }
+          },
+          "by_gender": {
+            "Male": {
+              "count": 309,
+              "percentage": 51.85
+            },
+            "Female": {
+              "count": 287,
+              "percentage": 48.15
+            }
+          }
+        },
+        "mcap_scores": [
+          {
+            "grade": 5,
+            "subject": "ELA",
+            "proficiency_rate": 36.0
+          },
+          {
+            "grade": 5,
+            "subject": "Math",
+            "proficiency_rate": 25.8
+          },
+          {
+            "grade": 5,
+            "subject": "Science",
+            "proficiency_rate": 17.8
+          }
+        ],
+        "attendance": [
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "African Am.",
+            "Attendance Rate (%) (All Students)": "88.1",
+            "Days Attended/Days Members (All Students)": "14690.5/16666.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "White",
+            "Attendance Rate (%) (All Students)": "91.9",
+            "Days Attended/Days Members (All Students)": "135773.5/147798.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "2+",
+            "Attendance Rate (%) (All Students)": "88.4",
+            "Days Attended/Days Members (All Students)": "8972.0/10153.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Hispanic",
+            "Attendance Rate (%) (All Students)": "89.2",
+            "Days Attended/Days Members (All Students)": "24827.5/27849.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Am.Ind/AK",
+            "Attendance Rate (%) (All Students)": "*",
+            "Days Attended/Days Members (All Students)": "*/*"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Asian",
+            "Attendance Rate (%) (All Students)": "90.0",
+            "Days Attended/Days Members (All Students)": "1620.5/1800.0"
+          }
+        ],
+        "student_groups": {
+          "ADA 504": {
+            "percentage": "7.4",
+            "count": "84",
+            "total": "1138"
+          },
+          "Eco Disadv": {
+            "percentage": "30.5",
+            "count": "347",
+            "total": "1138"
+          },
+          "FARMS": {
+            "percentage": "40.2",
+            "count": "458",
+            "total": "1138"
+          },
+          "ML": {
+            "percentage": "\u2264 5.0",
+            "count": "*",
+            "total": "1138"
+          },
+          "SWD": {
+            "percentage": "9.5",
+            "count": "108",
+            "total": "1138"
+          },
+          "Title 1": {
+            "percentage": "\u2265 95.0",
+            "count": "*",
+            "total": "594"
+          },
+          "Homeless": {
+            "percentage": "\u2264 5.0",
+            "count": "*",
+            "total": "1138"
+          },
+          "Migrant": {
+            "percentage": "*",
+            "count": "*",
+            "total": "1138"
+          }
+        }
+      },
+      {
+        "name": "Federalsburg Elementary School",
+        "code": "0501",
+        "type": "Elementary",
+        "enrollment": {
+          "total": 415,
+          "by_race": {
+            "Asian": {
+              "count": 11,
+              "percentage": 2.65
+            },
+            "African Am.": {
+              "count": 160,
+              "percentage": 38.55
+            },
+            "Hispanic": {
+              "count": 29,
+              "percentage": 6.99
+            },
+            "White": {
+              "count": 148,
+              "percentage": 35.66
+            },
+            "2+": {
+              "count": 67,
+              "percentage": 16.14
+            }
+          },
+          "by_gender": {
+            "Male": {
+              "count": 215,
+              "percentage": 51.81
+            },
+            "Female": {
+              "count": 200,
+              "percentage": 48.19
+            }
+          }
+        },
+        "mcap_scores": [
+          {
+            "grade": 5,
+            "subject": "ELA",
+            "proficiency_rate": 26.5
+          },
+          {
+            "grade": 5,
+            "subject": "Math",
+            "proficiency_rate": 16.7
+          },
+          {
+            "grade": 5,
+            "subject": "Science",
+            "proficiency_rate": 8.0
+          }
+        ],
+        "attendance": [
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "African Am.",
+            "Attendance Rate (%) (All Students)": "*",
+            "Days Attended/Days Members (All Students)": "*/*"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "White",
+            "Attendance Rate (%) (All Students)": "91.6",
+            "Days Attended/Days Members (All Students)": "11088.0/12105.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "2+",
+            "Attendance Rate (%) (All Students)": "*",
+            "Days Attended/Days Members (All Students)": "*/*"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Hispanic",
+            "Attendance Rate (%) (All Students)": "*",
+            "Days Attended/Days Members (All Students)": "*/*"
+          }
+        ],
+        "student_groups": {
+          "ADA 504": {
+            "percentage": "*",
+            "count": "*",
+            "total": "101"
+          },
+          "Eco Disadv": {
+            "percentage": "58.4",
+            "count": "59",
+            "total": "101"
+          },
+          "FARMS": {
+            "percentage": "63.4",
+            "count": "64",
+            "total": "101"
+          },
+          "ML": {
+            "percentage": "*",
+            "count": "*",
+            "total": "101"
+          },
+          "SWD": {
+            "percentage": "13.9",
+            "count": "14",
+            "total": "101"
+          },
+          "Title 1": {
+            "percentage": "27.7",
+            "count": "28",
+            "total": "101"
+          },
+          "Homeless": {
+            "percentage": "*",
+            "count": "*",
+            "total": "101"
+          }
+        }
+      },
+      {
+        "name": "Greensboro Elementary School",
+        "code": "0201",
+        "type": "Elementary",
+        "enrollment": {
+          "total": 840,
+          "by_race": {
+            "Asian": {
+              "count": "*",
+              "percentage": "*"
+            },
+            "African Am.": {
+              "count": 31,
+              "percentage": 3.69
+            },
+            "Hispanic": {
+              "count": 421,
+              "percentage": 50.12
+            },
+            "White": {
+              "count": 335,
+              "percentage": 39.88
+            },
+            "2+": {
+              "count": 51,
+              "percentage": 6.07
+            }
+          },
+          "by_gender": {
+            "Male": {
+              "count": 423,
+              "percentage": 50.36
+            },
+            "Female": {
+              "count": 417,
+              "percentage": 49.64
+            }
+          }
+        },
+        "mcap_scores": [
+          {
+            "grade": 5,
+            "subject": "ELA",
+            "proficiency_rate": 42.5
+          },
+          {
+            "grade": 5,
+            "subject": "Math",
+            "proficiency_rate": 26.5
+          },
+          {
+            "grade": 5,
+            "subject": "Science",
+            "proficiency_rate": 26.1
+          }
+        ],
+        "attendance": [
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "African Am.",
+            "Attendance Rate (%) (All Students)": "93.9",
+            "Days Attended/Days Members (All Students)": "3488.0/3714.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "White",
+            "Attendance Rate (%) (All Students)": "92.8",
+            "Days Attended/Days Members (All Students)": "42355.0/45644.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "2+",
+            "Attendance Rate (%) (All Students)": "93.2",
+            "Days Attended/Days Members (All Students)": "6408.5/6873.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Hispanic",
+            "Attendance Rate (%) (All Students)": "94.2",
+            "Days Attended/Days Members (All Students)": "48934.0/51943.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Asian",
+            "Attendance Rate (%) (All Students)": "*",
+            "Days Attended/Days Members (All Students)": "*/*"
+          }
+        ],
+        "student_groups": {
+          "ADA 504": {
+            "percentage": "\u2264 5.0",
+            "count": "*",
+            "total": "852"
+          },
+          "Eco Disadv": {
+            "percentage": "71.6",
+            "count": "610",
+            "total": "852"
+          },
+          "FARMS": {
+            "percentage": "76.9",
+            "count": "655",
+            "total": "852"
+          },
+          "ML": {
+            "percentage": "26.9",
+            "count": "229",
+            "total": "852"
+          },
+          "Migrant": {
+            "percentage": "*",
+            "count": "*",
+            "total": "852"
+          },
+          "SWD": {
+            "percentage": "9.9",
+            "count": "84",
+            "total": "852"
+          },
+          "Title 1": {
+            "percentage": "\u2265 95.0",
+            "count": "*",
+            "total": "852"
+          }
+        }
+      },
+      {
+        "name": "Preston Elementary School",
+        "code": "0401",
+        "type": "Elementary",
+        "enrollment": {
+          "total": 381,
+          "by_race": {
+            "Asian": {
+              "count": "*",
+              "percentage": "*"
+            },
+            "African Am.": {
+              "count": 32,
+              "percentage": 8.4
+            },
+            "Hispanic": {
+              "count": 46,
+              "percentage": 12.07
+            },
+            "White": {
+              "count": 271,
+              "percentage": 71.13
+            },
+            "Am.Ind/AK": {
+              "count": "*",
+              "percentage": "*"
+            },
+            "2+": {
+              "count": 28,
+              "percentage": 7.35
+            }
+          },
+          "by_gender": {
+            "Male": {
+              "count": 202,
+              "percentage": 53.02
+            },
+            "Female": {
+              "count": 179,
+              "percentage": 46.98
+            }
+          }
+        },
+        "mcap_scores": [
+          {
+            "grade": 5,
+            "subject": "ELA",
+            "proficiency_rate": 47.3
+          },
+          {
+            "grade": 5,
+            "subject": "Math",
+            "proficiency_rate": 38.2
+          },
+          {
+            "grade": 5,
+            "subject": "Science",
+            "proficiency_rate": 21.4
+          }
+        ],
+        "attendance": [
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "African Am.",
+            "Attendance Rate (%) (All Students)": "*",
+            "Days Attended/Days Members (All Students)": "*/*"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "White",
+            "Attendance Rate (%) (All Students)": "93.8",
+            "Days Attended/Days Members (All Students)": "33300.0/35505.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "2+",
+            "Attendance Rate (%) (All Students)": "\u2265 95.0",
+            "Days Attended/Days Members (All Students)": "*/*"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Hispanic",
+            "Attendance Rate (%) (All Students)": "92.8",
+            "Days Attended/Days Members (All Students)": "5155.0/5556.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Asian",
+            "Attendance Rate (%) (All Students)": "*",
+            "Days Attended/Days Members (All Students)": "*/*"
+          }
+        ],
+        "student_groups": {
+          "ADA 504": {
+            "percentage": "5.2",
+            "count": "19",
+            "total": "367"
+          },
+          "Eco Disadv": {
+            "percentage": "35.7",
+            "count": "131",
+            "total": "367"
+          },
+          "FARMS": {
+            "percentage": "42.0",
+            "count": "154",
+            "total": "367"
+          },
+          "ML": {
+            "percentage": "6.0",
+            "count": "22",
+            "total": "367"
+          },
+          "SWD": {
+            "percentage": "12.3",
+            "count": "45",
+            "total": "367"
+          },
+          "Title 1": {
+            "percentage": "22.6",
+            "count": "83",
+            "total": "367"
+          },
+          "Homeless": {
+            "percentage": "*",
+            "count": "*",
+            "total": "382"
+          },
+          "Migrant": {
+            "percentage": "*",
+            "count": "*",
+            "total": "367"
+          }
+        }
+      },
+      {
+        "name": "Ridgely Elementary School",
+        "code": "0701",
+        "type": "Elementary",
+        "enrollment": {
+          "total": 433,
+          "by_race": {
+            "Asian": {
+              "count": "*",
+              "percentage": "*"
+            },
+            "African Am.": {
+              "count": 48,
+              "percentage": 11.09
+            },
+            "Hispanic": {
+              "count": 54,
+              "percentage": 12.47
+            },
+            "White": {
+              "count": 298,
+              "percentage": 68.82
+            },
+            "2+": {
+              "count": 31,
+              "percentage": 7.16
+            }
+          },
+          "by_gender": {
+            "Male": {
+              "count": 209,
+              "percentage": 48.27
+            },
+            "Female": {
+              "count": 224,
+              "percentage": 51.73
+            }
+          }
+        },
+        "mcap_scores": [
+          {
+            "grade": 5,
+            "subject": "ELA",
+            "proficiency_rate": 36.1
+          },
+          {
+            "grade": 5,
+            "subject": "Math",
+            "proficiency_rate": 26.4
+          },
+          {
+            "grade": 5,
+            "subject": "Science",
+            "proficiency_rate": 15.3
+          }
+        ],
+        "attendance": [
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "African Am.",
+            "Attendance Rate (%) (All Students)": "91.6",
+            "Days Attended/Days Members (All Students)": "6114.0/6674.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "White",
+            "Attendance Rate (%) (All Students)": "92.7",
+            "Days Attended/Days Members (All Students)": "37986.5/40972.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "2+",
+            "Attendance Rate (%) (All Students)": "88.4",
+            "Days Attended/Days Members (All Students)": "2580.5/2918.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Hispanic",
+            "Attendance Rate (%) (All Students)": "93.2",
+            "Days Attended/Days Members (All Students)": "6113.5/6557.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Asian",
+            "Attendance Rate (%) (All Students)": "*",
+            "Days Attended/Days Members (All Students)": "*/*"
+          }
+        ],
+        "student_groups": {
+          "ADA 504": {
+            "percentage": "\u2264 5.0",
+            "count": "*",
+            "total": "435"
+          },
+          "Eco Disadv": {
+            "percentage": "54.7",
+            "count": "238",
+            "total": "435"
+          },
+          "FARMS": {
+            "percentage": "55.6",
+            "count": "242",
+            "total": "435"
+          },
+          "ML": {
+            "percentage": "\u2264 5.0",
+            "count": "*",
+            "total": "435"
+          },
+          "Migrant": {
+            "percentage": "*",
+            "count": "*",
+            "total": "435"
+          },
+          "SWD": {
+            "percentage": "12.4",
+            "count": "54",
+            "total": "435"
+          },
+          "Title 1": {
+            "percentage": "\u2265 95.0",
+            "count": "*",
+            "total": "435"
+          }
+        }
+      },
+      {
+        "name": "Colonel Richardson Middle School",
+        "code": "0802",
+        "type": "Middle",
+        "enrollment": {
+          "total": 390,
+          "by_race": {
+            "Asian": {
+              "count": "*",
+              "percentage": "*"
+            },
+            "African Am.": {
+              "count": 84,
+              "percentage": 21.54
+            },
+            "Hispanic": {
+              "count": 37,
+              "percentage": 9.49
+            },
+            "White": {
+              "count": 220,
+              "percentage": 56.41
+            },
+            "Am.Ind/AK": {
+              "count": "*",
+              "percentage": "*"
+            },
+            "2+": {
+              "count": 44,
+              "percentage": 11.28
+            }
+          },
+          "by_gender": {
+            "Male": {
+              "count": 189,
+              "percentage": 48.46
+            },
+            "Female": {
+              "count": 201,
+              "percentage": 51.54
+            }
+          }
+        },
+        "mcap_scores": [
+          {
+            "grade": 8,
+            "subject": "ELA",
+            "proficiency_rate": 60.0
+          },
+          {
+            "grade": 8,
+            "subject": "Math",
+            "proficiency_rate": 5.9
+          },
+          {
+            "grade": 8,
+            "subject": "Science",
+            "proficiency_rate": 27.8
+          }
+        ],
+        "attendance": [
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "African Am.",
+            "Attendance Rate (%) (All Students)": "92.5",
+            "Days Attended/Days Members (All Students)": "14119.0/15267.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "White",
+            "Attendance Rate (%) (All Students)": "92.0",
+            "Days Attended/Days Members (All Students)": "36231.5/39396.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "2+",
+            "Attendance Rate (%) (All Students)": "88.8",
+            "Days Attended/Days Members (All Students)": "6592.5/7424.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Hispanic",
+            "Attendance Rate (%) (All Students)": "91.6",
+            "Days Attended/Days Members (All Students)": "5976.5/6523.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Am.Ind/AK",
+            "Attendance Rate (%) (All Students)": "*",
+            "Days Attended/Days Members (All Students)": "*/*"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Asian",
+            "Attendance Rate (%) (All Students)": "*",
+            "Days Attended/Days Members (All Students)": "*/*"
+          }
+        ],
+        "student_groups": {
+          "ADA 504": {
+            "percentage": "\u2264 5.0",
+            "count": "*",
+            "total": "385"
+          },
+          "Eco Disadv": {
+            "percentage": "63.6",
+            "count": "245",
+            "total": "385"
+          },
+          "FARMS": {
+            "percentage": "68.6",
+            "count": "264",
+            "total": "385"
+          },
+          "ML": {
+            "percentage": "\u2264 5.0",
+            "count": "*",
+            "total": "385"
+          },
+          "SWD": {
+            "percentage": "7.3",
+            "count": "28",
+            "total": "385"
+          },
+          "Homeless": {
+            "percentage": "*",
+            "count": "*",
+            "total": "385"
+          },
+          "Military": {
+            "percentage": "*",
+            "count": "*",
+            "total": "385"
+          }
+        }
+      },
+      {
+        "name": "Lockerman Middle School",
+        "code": "0302",
+        "type": "Middle",
+        "enrollment": {
+          "total": 827,
+          "by_race": {
+            "Asian": {
+              "count": 10,
+              "percentage": 1.21
+            },
+            "African Am.": {
+              "count": 87,
+              "percentage": 10.52
+            },
+            "Hispanic": {
+              "count": 203,
+              "percentage": 24.55
+            },
+            "White": {
+              "count": 458,
+              "percentage": 55.38
+            },
+            "2+": {
+              "count": 69,
+              "percentage": 8.34
+            }
+          },
+          "by_gender": {
+            "Male": {
+              "count": 411,
+              "percentage": 49.7
+            },
+            "Female": {
+              "count": 416,
+              "percentage": 50.3
+            }
+          }
+        },
+        "mcap_scores": [
+          {
+            "grade": 8,
+            "subject": "ELA",
+            "proficiency_rate": 45.0
+          },
+          {
+            "grade": 8,
+            "subject": "Math",
+            "proficiency_rate": 5.0
+          },
+          {
+            "grade": 8,
+            "subject": "Science",
+            "proficiency_rate": 22.0
+          }
+        ],
+        "attendance": [
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "African Am.",
+            "Attendance Rate (%) (All Students)": "93.8",
+            "Days Attended/Days Members (All Students)": "3715.0/3960.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "White",
+            "Attendance Rate (%) (All Students)": "94.1",
+            "Days Attended/Days Members (All Students)": "23946.0/25450.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "2+",
+            "Attendance Rate (%) (All Students)": "94.8",
+            "Days Attended/Days Members (All Students)": "1877.5/1980.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Hispanic",
+            "Attendance Rate (%) (All Students)": "93.0",
+            "Days Attended/Days Members (All Students)": "6197.0/6667.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Asian",
+            "Attendance Rate (%) (All Students)": "*",
+            "Days Attended/Days Members (All Students)": "*/*"
+          }
+        ],
+        "student_groups": {
+          "ADA 504": {
+            "percentage": "\u2264 5.0",
+            "count": "*",
+            "total": "285"
+          },
+          "Eco Disadv": {
+            "percentage": "46.3",
+            "count": "132",
+            "total": "285"
+          },
+          "FARMS": {
+            "percentage": "56.1",
+            "count": "160",
+            "total": "285"
+          },
+          "ML": {
+            "percentage": "11.6",
+            "count": "33",
+            "total": "285"
+          },
+          "Migrant": {
+            "percentage": "*",
+            "count": "*",
+            "total": "470"
+          },
+          "SWD": {
+            "percentage": "7.7",
+            "count": "22",
+            "total": "285"
+          },
+          "Homeless": {
+            "percentage": "5.3",
+            "count": "15",
+            "total": "285"
+          },
+          "Military": {
+            "percentage": "*",
+            "count": "*",
+            "total": "186"
+          },
+          "Title 1": {
+            "percentage": "\u2265 95.0",
+            "count": "*",
+            "total": "285"
+          }
+        }
+      },
+      {
+        "name": "Colonel Richardson High School",
+        "code": "0801",
+        "type": "High",
+        "enrollment": {
+          "total": 528,
+          "by_race": {
+            "Asian": {
+              "count": 13,
+              "percentage": 2.46
+            },
+            "African Am.": {
+              "count": 128,
+              "percentage": 24.24
+            },
+            "Hispanic": {
+              "count": 50,
+              "percentage": 9.47
+            },
+            "White": {
+              "count": 291,
+              "percentage": 55.11
+            },
+            "Am.Ind/AK": {
+              "count": "*",
+              "percentage": "*"
+            },
+            "2+": {
+              "count": 45,
+              "percentage": 8.52
+            }
+          },
+          "by_gender": {
+            "Male": {
+              "count": 253,
+              "percentage": 47.92
+            },
+            "Female": {
+              "count": 275,
+              "percentage": 52.08
+            }
+          }
+        },
+        "mcap_scores": [
+          {
+            "grade": "High School",
+            "subject": "ELA",
+            "proficiency_rate": 63.5
+          },
+          {
+            "grade": "High School",
+            "subject": "Math (Algebra 1)",
+            "proficiency_rate": 5.0
+          },
+          {
+            "grade": "High School",
+            "subject": "Science",
+            "proficiency_rate": 28.3
+          }
+        ],
+        "attendance": [
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "African Am.",
+            "Attendance Rate (%) (All Students)": "92.2",
+            "Days Attended/Days Members (All Students)": "21064.0/22855.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "White",
+            "Attendance Rate (%) (All Students)": "91.7",
+            "Days Attended/Days Members (All Students)": "46909.5/51166.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "2+",
+            "Attendance Rate (%) (All Students)": "89.1",
+            "Days Attended/Days Members (All Students)": "6843.0/7684.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Hispanic",
+            "Attendance Rate (%) (All Students)": "88.8",
+            "Days Attended/Days Members (All Students)": "7903.5/8903.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Am.Ind/AK",
+            "Attendance Rate (%) (All Students)": "*",
+            "Days Attended/Days Members (All Students)": "*/*"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Asian",
+            "Attendance Rate (%) (All Students)": "94.7",
+            "Days Attended/Days Members (All Students)": "2199.0/2321.0"
+          }
+        ],
+        "student_groups": {
+          "ADA 504": {
+            "percentage": "5.3",
+            "count": "27",
+            "total": "514"
+          },
+          "Eco Disadv": {
+            "percentage": "59.5",
+            "count": "306",
+            "total": "514"
+          },
+          "FARMS": {
+            "percentage": "64.8",
+            "count": "333",
+            "total": "514"
+          },
+          "ML": {
+            "percentage": "6.0",
+            "count": "31",
+            "total": "514"
+          },
+          "SWD": {
+            "percentage": "5.8",
+            "count": "30",
+            "total": "514"
+          },
+          "Homeless": {
+            "percentage": "*",
+            "count": "*",
+            "total": "514"
+          },
+          "Foster Care": {
+            "percentage": "*",
+            "count": "*",
+            "total": "514"
+          }
+        }
+      },
+      {
+        "name": "North Caroline High School",
+        "code": "0703",
+        "type": "High",
+        "enrollment": {
+          "total": 1238,
+          "by_race": {
+            "Asian": {
+              "count": 16,
+              "percentage": 1.29
+            },
+            "African Am.": {
+              "count": 137,
+              "percentage": 11.07
+            },
+            "Hispanic": {
+              "count": 307,
+              "percentage": 24.8
+            },
+            "White": {
+              "count": 686,
+              "percentage": 55.41
+            },
+            "Am.Ind/AK": {
+              "count": "*",
+              "percentage": "*"
+            },
+            "2+": {
+              "count": 91,
+              "percentage": 7.35
+            }
+          },
+          "by_gender": {
+            "Male": {
+              "count": 633,
+              "percentage": 51.13
+            },
+            "Female": {
+              "count": 605,
+              "percentage": 48.87
+            }
+          }
+        },
+        "mcap_scores": [
+          {
+            "grade": "High School",
+            "subject": "ELA",
+            "proficiency_rate": 63.4
+          },
+          {
+            "grade": "High School",
+            "subject": "Math (Algebra 1)",
+            "proficiency_rate": 5.2
+          },
+          {
+            "grade": "High School",
+            "subject": "Science",
+            "proficiency_rate": 49.4
+          }
+        ],
+        "attendance": [
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "African Am.",
+            "Attendance Rate (%) (All Students)": "90.4",
+            "Days Attended/Days Members (All Students)": "22096.5/24435.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "White",
+            "Attendance Rate (%) (All Students)": "90.7",
+            "Days Attended/Days Members (All Students)": "110725.0/122091.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "2+",
+            "Attendance Rate (%) (All Students)": "88.9",
+            "Days Attended/Days Members (All Students)": "14725.5/16570.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Hispanic",
+            "Attendance Rate (%) (All Students)": "90.1",
+            "Days Attended/Days Members (All Students)": "49682.0/55118.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Am.Ind/AK",
+            "Attendance Rate (%) (All Students)": "*",
+            "Days Attended/Days Members (All Students)": "*/*"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Asian",
+            "Attendance Rate (%) (All Students)": "92.3",
+            "Days Attended/Days Members (All Students)": "2681.0/2904.0"
+          }
+        ],
+        "student_groups": {
+          "ADA 504": {
+            "percentage": "5.8",
+            "count": "72",
+            "total": "1233"
+          },
+          "Eco Disadv": {
+            "percentage": "53.9",
+            "count": "664",
+            "total": "1233"
+          },
+          "FARMS": {
+            "percentage": "56.2",
+            "count": "693",
+            "total": "1233"
+          },
+          "ML": {
+            "percentage": "10.1",
+            "count": "125",
+            "total": "1233"
+          },
+          "Migrant": {
+            "percentage": "*",
+            "count": "*",
+            "total": "1233"
+          },
+          "SWD": {
+            "percentage": "7.9",
+            "count": "97",
+            "total": "1233"
+          },
+          "Homeless": {
+            "percentage": "\u2264 5.0",
+            "count": "*",
+            "total": "1233"
+          }
+        }
+      }
+    ],
+    "county_summary": {
+      "total_enrollment": 16944,
+      "total_schools": 9,
+      "schools_by_type": {
+        "Elementary": 5,
+        "Middle": 2,
+        "High": 2
+      },
+      "demographics_total": {}
+    }
+  },
+  "dorchester": {
+    "county_name": "Dorchester",
+    "county_key": "dorchester",
+    "budget_finances": {
+      "county": "Dorchester County",
+      "core_fiscal": {
+        "county_operating_budget": 91963965,
+        "dcps_total_operating_budget": 87624755,
+        "county_local_appropriation": 26316174,
+        "state_aid": 60438581,
+        "other_revenue": 870000,
+        "pct_county_budget_to_schools": 28.6,
+        "local_share_pct": 30.0,
+        "state_share_pct": 69.0
+      },
+      "enrollment_per_pupil": {
+        "enrollment": 4500,
+        "total_per_pupil": 21009,
+        "local_per_pupil": 5850,
+        "state_per_pupil": 13430
+      },
+      "blueprint_drivers": {
+        "compensatory_education": "Very large allocation",
+        "concentration_of_poverty": "Multiple CEP schools",
+        "special_education": "High and rising",
+        "pre_k": "Expansion pressure across buildings"
+      },
+      "capital_outlook": {
+        "short_term_1_3_years": "HVAC, roofs \u2192 state-funded",
+        "long_term_5_10_years": "High obsolescence risk"
+      },
+      "emerging_issues": [
+        "School budget nearly equals county general fund",
+        "Heavy reliance on state capital",
+        "Staffing and fixed costs limit flexibility"
+      ],
+      "narrative": "Dorchester is one of Maryland\u2019s most state-dependent districts. Local capacity is extremely limited, and DCPS leans heavily on Blueprint aid. High-poverty formulas drive revenue, but reflect deep need. Capital needs\u2014HVAC, roofs, mechanical systems\u2014are significant, with nearly all major projects dependent on state support. Operational costs such as transportation and special education continue to rise."
+    },
+    "district_officials": [
+      {
+        "county": "Dorchester",
+        "superintendent": "Dr. Jymil Thompson",
+        "website": "https://www.dcpsmd.org/",
+        "board_url": "https://go.boarddocs.com/mabe/dcps/Board.nsf/Public",
+        "board_members": [],
+        "note": "Five member elected board serving four-year terms. Board member names available in BoardDocs meeting minutes but not listed on main board page. Two non-voting student representatives also serve. Executive Assistant: Chris Dayton (daytonc@dcpsmd.org)"
+      }
+    ],
+    "schools": [
+      {
+        "name": "Choptank Elementary School",
+        "code": "0716",
+        "type": "Elementary",
+        "enrollment": {
+          "total": 319,
+          "by_race": {
+            "African Am.": {
+              "count": 230,
+              "percentage": 72.1
+            },
+            "Hispanic": {
+              "count": 46,
+              "percentage": 14.42
+            },
+            "White": {
+              "count": 16,
+              "percentage": 5.02
+            },
+            "Am.Ind/AK": {
+              "count": "*",
+              "percentage": "*"
+            },
+            "2+": {
+              "count": 25,
+              "percentage": 7.84
+            }
+          },
+          "by_gender": {
+            "Male": {
+              "count": 159,
+              "percentage": 49.84
+            },
+            "Female": {
+              "count": 160,
+              "percentage": 50.16
+            }
+          }
+        },
+        "mcap_scores": [
+          {
+            "grade": 5,
+            "subject": "ELA",
+            "proficiency_rate": 21.2
+          },
+          {
+            "grade": 5,
+            "subject": "Math",
+            "proficiency_rate": 5.0
+          },
+          {
+            "grade": 5,
+            "subject": "Science",
+            "proficiency_rate": 8.9
+          }
+        ],
+        "attendance": [
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "African Am.",
+            "Attendance Rate (%) (All Students)": "87.6",
+            "Days Attended/Days Members (All Students)": "28419.5/32441.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "White",
+            "Attendance Rate (%) (All Students)": "92.6",
+            "Days Attended/Days Members (All Students)": "2260.5/2441.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "2+",
+            "Attendance Rate (%) (All Students)": "87.3",
+            "Days Attended/Days Members (All Students)": "2762.5/3166.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Hispanic",
+            "Attendance Rate (%) (All Students)": "89.3",
+            "Days Attended/Days Members (All Students)": "6425.0/7191.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Am.Ind/AK",
+            "Attendance Rate (%) (All Students)": "*",
+            "Days Attended/Days Members (All Students)": "*/*"
+          }
+        ],
+        "student_groups": {
+          "ADA 504": {
+            "percentage": "*",
+            "count": "*",
+            "total": "326"
+          },
+          "Eco Disadv": {
+            "percentage": "89.9",
+            "count": "293",
+            "total": "326"
+          },
+          "FARMS": {
+            "percentage": "90.5",
+            "count": "295",
+            "total": "326"
+          },
+          "ML": {
+            "percentage": "5.5",
+            "count": "18",
+            "total": "326"
+          },
+          "Migrant": {
+            "percentage": "*",
+            "count": "*",
+            "total": "326"
+          },
+          "SWD": {
+            "percentage": "11.0",
+            "count": "36",
+            "total": "326"
+          },
+          "Title 1": {
+            "percentage": "\u2265 95.0",
+            "count": "*",
+            "total": "326"
+          }
+        }
+      },
+      {
+        "name": "Hurlock Elementary School",
+        "code": "1503",
+        "type": "Elementary",
+        "enrollment": {
+          "total": 391,
+          "by_race": {
+            "Asian": {
+              "count": "*",
+              "percentage": "*"
+            },
+            "African Am.": {
+              "count": 145,
+              "percentage": 37.08
+            },
+            "Hispanic": {
+              "count": 48,
+              "percentage": 12.28
+            },
+            "White": {
+              "count": 149,
+              "percentage": 38.11
+            },
+            "HI/Pac.Isl.": {
+              "count": "*",
+              "percentage": "*"
+            },
+            "2+": {
+              "count": 45,
+              "percentage": 11.51
+            }
+          },
+          "by_gender": {
+            "Male": {
+              "count": 205,
+              "percentage": 52.43
+            },
+            "Female": {
+              "count": 186,
+              "percentage": 47.57
+            }
+          }
+        },
+        "mcap_scores": [
+          {
+            "grade": 5,
+            "subject": "ELA",
+            "proficiency_rate": 43.3
+          },
+          {
+            "grade": 5,
+            "subject": "Math",
+            "proficiency_rate": 23.8
+          },
+          {
+            "grade": 5,
+            "subject": "Science",
+            "proficiency_rate": 21.3
+          }
+        ],
+        "attendance": [
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "African Am.",
+            "Attendance Rate (%) (All Students)": "92.1",
+            "Days Attended/Days Members (All Students)": "17045.0/18514.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "HI/Pac.Isl.",
+            "Attendance Rate (%) (All Students)": "*",
+            "Days Attended/Days Members (All Students)": "*/*"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "White",
+            "Attendance Rate (%) (All Students)": "91.9",
+            "Days Attended/Days Members (All Students)": "18215.5/19823.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "2+",
+            "Attendance Rate (%) (All Students)": "89.5",
+            "Days Attended/Days Members (All Students)": "4291.5/4794.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Hispanic",
+            "Attendance Rate (%) (All Students)": "93.2",
+            "Days Attended/Days Members (All Students)": "5367.5/5760.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Asian",
+            "Attendance Rate (%) (All Students)": "*",
+            "Days Attended/Days Members (All Students)": "*/*"
+          }
+        ],
+        "student_groups": {
+          "ADA 504": {
+            "percentage": "*",
+            "count": "*",
+            "total": "381"
+          },
+          "Eco Disadv": {
+            "percentage": "74.8",
+            "count": "285",
+            "total": "381"
+          },
+          "FARMS": {
+            "percentage": "75.9",
+            "count": "289",
+            "total": "381"
+          },
+          "ML": {
+            "percentage": "7.6",
+            "count": "29",
+            "total": "381"
+          },
+          "SWD": {
+            "percentage": "11.8",
+            "count": "45",
+            "total": "381"
+          },
+          "Title 1": {
+            "percentage": "\u2265 95.0",
+            "count": "*",
+            "total": "381"
+          },
+          "Homeless": {
+            "percentage": "*",
+            "count": "*",
+            "total": "381"
+          }
+        }
+      },
+      {
+        "name": "Maple Elementary School",
+        "code": "0711",
+        "type": "Elementary",
+        "enrollment": {
+          "total": 483,
+          "by_race": {
+            "Asian": {
+              "count": "*",
+              "percentage": "*"
+            },
+            "African Am.": {
+              "count": 183,
+              "percentage": 37.89
+            },
+            "Hispanic": {
+              "count": 160,
+              "percentage": 33.13
+            },
+            "White": {
+              "count": 97,
+              "percentage": 20.08
+            },
+            "Am.Ind/AK": {
+              "count": "*",
+              "percentage": "*"
+            },
+            "HI/Pac.Isl.": {
+              "count": "*",
+              "percentage": "*"
+            },
+            "2+": {
+              "count": 38,
+              "percentage": 7.87
+            }
+          },
+          "by_gender": {
+            "Male": {
+              "count": 242,
+              "percentage": 50.1
+            },
+            "Female": {
+              "count": 241,
+              "percentage": 49.9
+            }
+          }
+        },
+        "mcap_scores": [
+          {
+            "grade": 5,
+            "subject": "ELA",
+            "proficiency_rate": 32.1
+          },
+          {
+            "grade": 5,
+            "subject": "Math",
+            "proficiency_rate": 5.1
+          },
+          {
+            "grade": 5,
+            "subject": "Science",
+            "proficiency_rate": 5.0
+          }
+        ],
+        "attendance": [
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "African Am.",
+            "Attendance Rate (%) (All Students)": "93.0",
+            "Days Attended/Days Members (All Students)": "20570.5/22122.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "White",
+            "Attendance Rate (%) (All Students)": "91.5",
+            "Days Attended/Days Members (All Students)": "10836.5/11845.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "2+",
+            "Attendance Rate (%) (All Students)": "91.3",
+            "Days Attended/Days Members (All Students)": "3977.5/4358.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Hispanic",
+            "Attendance Rate (%) (All Students)": "94.6",
+            "Days Attended/Days Members (All Students)": "20465.0/21625.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Am.Ind/AK",
+            "Attendance Rate (%) (All Students)": "*",
+            "Days Attended/Days Members (All Students)": "*/*"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Asian",
+            "Attendance Rate (%) (All Students)": "*",
+            "Days Attended/Days Members (All Students)": "*/*"
+          }
+        ],
+        "student_groups": {
+          "ADA 504": {
+            "percentage": "*",
+            "count": "*",
+            "total": "484"
+          },
+          "Eco Disadv": {
+            "percentage": "80.0",
+            "count": "387",
+            "total": "484"
+          },
+          "FARMS": {
+            "percentage": "83.1",
+            "count": "402",
+            "total": "484"
+          },
+          "ML": {
+            "percentage": "19.4",
+            "count": "94",
+            "total": "484"
+          },
+          "SWD": {
+            "percentage": "8.5",
+            "count": "41",
+            "total": "484"
+          },
+          "Title 1": {
+            "percentage": "\u2265 95.0",
+            "count": "*",
+            "total": "484"
+          },
+          "Homeless": {
+            "percentage": "\u2264 5.0",
+            "count": "*",
+            "total": "484"
+          }
+        }
+      },
+      {
+        "name": "Sandy Hill Elementary School",
+        "code": "0710",
+        "type": "Elementary",
+        "enrollment": {
+          "total": 393,
+          "by_race": {
+            "Asian": {
+              "count": "*",
+              "percentage": "*"
+            },
+            "African Am.": {
+              "count": 234,
+              "percentage": 59.54
+            },
+            "Hispanic": {
+              "count": 50,
+              "percentage": 12.72
+            },
+            "White": {
+              "count": 74,
+              "percentage": 18.83
+            },
+            "2+": {
+              "count": 33,
+              "percentage": 8.4
+            }
+          },
+          "by_gender": {
+            "Male": {
+              "count": 184,
+              "percentage": 46.82
+            },
+            "Female": {
+              "count": 209,
+              "percentage": 53.18
+            }
+          }
+        },
+        "mcap_scores": [
+          {
+            "grade": 5,
+            "subject": "ELA",
+            "proficiency_rate": 20.9
+          },
+          {
+            "grade": 5,
+            "subject": "Math",
+            "proficiency_rate": 9.3
+          },
+          {
+            "grade": 5,
+            "subject": "Science",
+            "proficiency_rate": 9.1
+          }
+        ],
+        "attendance": [
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "African Am.",
+            "Attendance Rate (%) (All Students)": "88.1",
+            "Days Attended/Days Members (All Students)": "24119.0/27370.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "White",
+            "Attendance Rate (%) (All Students)": "92.2",
+            "Days Attended/Days Members (All Students)": "7819.5/8478.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "2+",
+            "Attendance Rate (%) (All Students)": "91.5",
+            "Days Attended/Days Members (All Students)": "3293.0/3597.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Hispanic",
+            "Attendance Rate (%) (All Students)": "86.4",
+            "Days Attended/Days Members (All Students)": "5400.0/6249.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Asian",
+            "Attendance Rate (%) (All Students)": "*",
+            "Days Attended/Days Members (All Students)": "*/*"
+          }
+        ],
+        "student_groups": {
+          "ADA 504": {
+            "percentage": "*",
+            "count": "*",
+            "total": "393"
+          },
+          "Eco Disadv": {
+            "percentage": "82.2",
+            "count": "323",
+            "total": "393"
+          },
+          "FARMS": {
+            "percentage": "83.7",
+            "count": "329",
+            "total": "393"
+          },
+          "ML": {
+            "percentage": "5.9",
+            "count": "23",
+            "total": "393"
+          },
+          "Migrant": {
+            "percentage": "*",
+            "count": "*",
+            "total": "393"
+          },
+          "SWD": {
+            "percentage": "9.2",
+            "count": "36",
+            "total": "393"
+          },
+          "Title 1": {
+            "percentage": "\u2265 95.0",
+            "count": "*",
+            "total": "393"
+          }
+        }
+      },
+      {
+        "name": "Vienna Elementary School",
+        "code": "0302",
+        "type": "Elementary",
+        "enrollment": {
+          "total": 183,
+          "by_race": {
+            "African Am.": {
+              "count": 20,
+              "percentage": 10.93
+            },
+            "Hispanic": {
+              "count": 17,
+              "percentage": 9.29
+            },
+            "White": {
+              "count": 127,
+              "percentage": 69.4
+            },
+            "Am.Ind/AK": {
+              "count": "*",
+              "percentage": "*"
+            },
+            "2+": {
+              "count": 18,
+              "percentage": 9.84
+            }
+          },
+          "by_gender": {
+            "Male": {
+              "count": 94,
+              "percentage": 51.37
+            },
+            "Female": {
+              "count": 89,
+              "percentage": 48.63
+            }
+          }
+        },
+        "mcap_scores": [
+          {
+            "grade": 5,
+            "subject": "ELA",
+            "proficiency_rate": 59.3
+          },
+          {
+            "grade": 5,
+            "subject": "Math",
+            "proficiency_rate": 25.9
+          },
+          {
+            "grade": 5,
+            "subject": "Science",
+            "proficiency_rate": 18.5
+          }
+        ],
+        "attendance": [
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "African Am.",
+            "Attendance Rate (%) (All Students)": "93.8",
+            "Days Attended/Days Members (All Students)": "3715.0/3960.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "White",
+            "Attendance Rate (%) (All Students)": "94.1",
+            "Days Attended/Days Members (All Students)": "23946.0/25450.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "2+",
+            "Attendance Rate (%) (All Students)": "94.8",
+            "Days Attended/Days Members (All Students)": "1877.5/1980.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Hispanic",
+            "Attendance Rate (%) (All Students)": "93.0",
+            "Days Attended/Days Members (All Students)": "6197.0/6667.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Asian",
+            "Attendance Rate (%) (All Students)": "*",
+            "Days Attended/Days Members (All Students)": "*/*"
+          }
+        ],
+        "student_groups": {
+          "ADA 504": {
+            "percentage": "\u2264 5.0",
+            "count": "*",
+            "total": "285"
+          },
+          "Eco Disadv": {
+            "percentage": "46.3",
+            "count": "132",
+            "total": "285"
+          },
+          "FARMS": {
+            "percentage": "56.1",
+            "count": "160",
+            "total": "285"
+          },
+          "ML": {
+            "percentage": "11.6",
+            "count": "33",
+            "total": "285"
+          },
+          "Migrant": {
+            "percentage": "*",
+            "count": "*",
+            "total": "470"
+          },
+          "SWD": {
+            "percentage": "7.7",
+            "count": "22",
+            "total": "285"
+          },
+          "Homeless": {
+            "percentage": "5.3",
+            "count": "15",
+            "total": "285"
+          },
+          "Military": {
+            "percentage": "*",
+            "count": "*",
+            "total": "186"
+          },
+          "Title 1": {
+            "percentage": "\u2265 95.0",
+            "count": "*",
+            "total": "285"
+          }
+        }
+      },
+      {
+        "name": "Warwick Elementary School",
+        "code": "0205",
+        "type": "Elementary",
+        "enrollment": {
+          "total": 346,
+          "by_race": {
+            "Asian": {
+              "count": "*",
+              "percentage": "*"
+            },
+            "African Am.": {
+              "count": 23,
+              "percentage": 6.65
+            },
+            "Hispanic": {
+              "count": 17,
+              "percentage": 4.91
+            },
+            "White": {
+              "count": 283,
+              "percentage": 81.79
+            },
+            "2+": {
+              "count": 22,
+              "percentage": 6.36
+            }
+          },
+          "by_gender": {
+            "Male": {
+              "count": 185,
+              "percentage": 53.47
+            },
+            "Female": {
+              "count": 161,
+              "percentage": 46.53
+            }
+          }
+        },
+        "mcap_scores": [
+          {
+            "grade": 5,
+            "subject": "ELA",
+            "proficiency_rate": 51.1
+          },
+          {
+            "grade": 5,
+            "subject": "Math",
+            "proficiency_rate": 40.4
+          },
+          {
+            "grade": 5,
+            "subject": "Science",
+            "proficiency_rate": 34.0
+          }
+        ],
+        "attendance": [
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "African Am.",
+            "Attendance Rate (%) (All Students)": "93.6",
+            "Days Attended/Days Members (All Students)": "2863.0/3060.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "White",
+            "Attendance Rate (%) (All Students)": "93.6",
+            "Days Attended/Days Members (All Students)": "37708.0/40293.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "2+",
+            "Attendance Rate (%) (All Students)": "92.8",
+            "Days Attended/Days Members (All Students)": "2248.5/2422.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Hispanic",
+            "Attendance Rate (%) (All Students)": "93.5",
+            "Days Attended/Days Members (All Students)": "1683.5/1800.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Asian",
+            "Attendance Rate (%) (All Students)": "*",
+            "Days Attended/Days Members (All Students)": "*/*"
+          }
+        ],
+        "student_groups": {
+          "ADA 504": {
+            "percentage": "*",
+            "count": "*",
+            "total": "347"
+          },
+          "Eco Disadv": {
+            "percentage": "44.4",
+            "count": "154",
+            "total": "347"
+          },
+          "FARMS": {
+            "percentage": "47.3",
+            "count": "164",
+            "total": "347"
+          },
+          "ML": {
+            "percentage": "*",
+            "count": "*",
+            "total": "347"
+          },
+          "SWD": {
+            "percentage": "7.8",
+            "count": "27",
+            "total": "347"
+          },
+          "Homeless": {
+            "percentage": "*",
+            "count": "*",
+            "total": "347"
+          },
+          "Foster Care": {
+            "percentage": "*",
+            "count": "*",
+            "total": "347"
+          }
+        }
+      },
+      {
+        "name": "Mace's Lane Middle School",
+        "code": "0707",
+        "type": "Middle",
+        "enrollment": {
+          "total": 490,
+          "by_race": {
+            "Asian": {
+              "count": "*",
+              "percentage": "*"
+            },
+            "African Am.": {
+              "count": 287,
+              "percentage": 58.57
+            },
+            "Hispanic": {
+              "count": 89,
+              "percentage": 18.16
+            },
+            "White": {
+              "count": 62,
+              "percentage": 12.65
+            },
+            "2+": {
+              "count": 49,
+              "percentage": 10.0
+            }
+          },
+          "by_gender": {
+            "Male": {
+              "count": 269,
+              "percentage": 54.9
+            },
+            "Female": {
+              "count": 221,
+              "percentage": 45.1
+            }
+          }
+        },
+        "mcap_scores": [
+          {
+            "grade": 8,
+            "subject": "ELA",
+            "proficiency_rate": 27.5
+          },
+          {
+            "grade": 8,
+            "subject": "Math",
+            "proficiency_rate": 5.0
+          },
+          {
+            "grade": 8,
+            "subject": "Science",
+            "proficiency_rate": 6.5
+          }
+        ],
+        "attendance": [
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "African Am.",
+            "Attendance Rate (%) (All Students)": "85.2",
+            "Days Attended/Days Members (All Students)": "42776.5/50203.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "White",
+            "Attendance Rate (%) (All Students)": "89.7",
+            "Days Attended/Days Members (All Students)": "9206.5/10265.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "2+",
+            "Attendance Rate (%) (All Students)": "84.9",
+            "Days Attended/Days Members (All Students)": "6843.0/8063.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Hispanic",
+            "Attendance Rate (%) (All Students)": "89.3",
+            "Days Attended/Days Members (All Students)": "14204.5/15910.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Asian",
+            "Attendance Rate (%) (All Students)": "*",
+            "Days Attended/Days Members (All Students)": "*/*"
+          }
+        ],
+        "student_groups": {
+          "ADA 504": {
+            "percentage": "\u2264 5.0",
+            "count": "*",
+            "total": "465"
+          },
+          "Eco Disadv": {
+            "percentage": "82.6",
+            "count": "384",
+            "total": "465"
+          },
+          "FARMS": {
+            "percentage": "84.7",
+            "count": "394",
+            "total": "465"
+          },
+          "ML": {
+            "percentage": "9.2",
+            "count": "43",
+            "total": "465"
+          },
+          "Migrant": {
+            "percentage": "*",
+            "count": "*",
+            "total": "465"
+          },
+          "SWD": {
+            "percentage": "9.9",
+            "count": "46",
+            "total": "465"
+          },
+          "Homeless": {
+            "percentage": "\u2264 5.0",
+            "count": "*",
+            "total": "465"
+          }
+        }
+      },
+      {
+        "name": "North Dorchester Middle School",
+        "code": "0208",
+        "type": "Middle",
+        "enrollment": {
+          "total": 414,
+          "by_race": {
+            "Asian": {
+              "count": "*",
+              "percentage": "*"
+            },
+            "African Am.": {
+              "count": 81,
+              "percentage": 19.57
+            },
+            "Hispanic": {
+              "count": 43,
+              "percentage": 10.39
+            },
+            "White": {
+              "count": 253,
+              "percentage": 61.11
+            },
+            "2+": {
+              "count": 30,
+              "percentage": 7.25
+            }
+          },
+          "by_gender": {
+            "Male": {
+              "count": 206,
+              "percentage": 49.76
+            },
+            "Female": {
+              "count": 208,
+              "percentage": 50.24
+            }
+          }
+        },
+        "mcap_scores": [
+          {
+            "grade": 8,
+            "subject": "ELA",
+            "proficiency_rate": 52.7
+          },
+          {
+            "grade": 8,
+            "subject": "Math",
+            "proficiency_rate": 14.9
+          },
+          {
+            "grade": 8,
+            "subject": "Science",
+            "proficiency_rate": 24.6
+          }
+        ],
+        "attendance": [
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "African Am.",
+            "Attendance Rate (%) (All Students)": "90.9",
+            "Days Attended/Days Members (All Students)": "13097.0/14405.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "White",
+            "Attendance Rate (%) (All Students)": "93.0",
+            "Days Attended/Days Members (All Students)": "42471.0/45672.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "2+",
+            "Attendance Rate (%) (All Students)": "91.3",
+            "Days Attended/Days Members (All Students)": "4563.0/5000.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Hispanic",
+            "Attendance Rate (%) (All Students)": "93.4",
+            "Days Attended/Days Members (All Students)": "7367.5/7892.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Asian",
+            "Attendance Rate (%) (All Students)": "*",
+            "Days Attended/Days Members (All Students)": "*/*"
+          }
+        ],
+        "student_groups": {
+          "ADA 504": {
+            "percentage": "5.4",
+            "count": "22",
+            "total": "411"
+          },
+          "Eco Disadv": {
+            "percentage": "58.2",
+            "count": "239",
+            "total": "411"
+          },
+          "FARMS": {
+            "percentage": "59.4",
+            "count": "244",
+            "total": "411"
+          },
+          "ML": {
+            "percentage": "\u2264 5.0",
+            "count": "*",
+            "total": "411"
+          },
+          "SWD": {
+            "percentage": "10.9",
+            "count": "45",
+            "total": "411"
+          },
+          "Homeless": {
+            "percentage": "*",
+            "count": "*",
+            "total": "411"
+          },
+          "Military": {
+            "percentage": "*",
+            "count": "*",
+            "total": "411"
+          }
+        }
+      },
+      {
+        "name": "Cambridge-South Dorchester High School",
+        "code": "0713",
+        "type": "High",
+        "enrollment": {
+          "total": 811,
+          "by_race": {
+            "Asian": {
+              "count": "*",
+              "percentage": "*"
+            },
+            "African Am.": {
+              "count": 461,
+              "percentage": 56.84
+            },
+            "Hispanic": {
+              "count": 97,
+              "percentage": 11.96
+            },
+            "White": {
+              "count": 198,
+              "percentage": 24.41
+            },
+            "HI/Pac.Isl.": {
+              "count": "*",
+              "percentage": "*"
+            },
+            "2+": {
+              "count": 49,
+              "percentage": 6.04
+            }
+          },
+          "by_gender": {
+            "Male": {
+              "count": 424,
+              "percentage": 52.28
+            },
+            "Female": {
+              "count": 383,
+              "percentage": 47.23
+            }
+          }
+        },
+        "mcap_scores": [
+          {
+            "grade": "High School",
+            "subject": "ELA",
+            "proficiency_rate": 32.3
+          },
+          {
+            "grade": "High School",
+            "subject": "Math (Algebra 1)",
+            "proficiency_rate": 5.0
+          },
+          {
+            "grade": "High School",
+            "subject": "Science",
+            "proficiency_rate": 24.9
+          }
+        ],
+        "attendance": [
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "African Am.",
+            "Attendance Rate (%) (All Students)": "80.2",
+            "Days Attended/Days Members (All Students)": "63552.5/79249.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "HI/Pac.Isl.",
+            "Attendance Rate (%) (All Students)": "*",
+            "Days Attended/Days Members (All Students)": "*/*"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "White",
+            "Attendance Rate (%) (All Students)": "86.9",
+            "Days Attended/Days Members (All Students)": "30701.0/35347.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "2+",
+            "Attendance Rate (%) (All Students)": "79.7",
+            "Days Attended/Days Members (All Students)": "6483.5/8131.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Hispanic",
+            "Attendance Rate (%) (All Students)": "86.2",
+            "Days Attended/Days Members (All Students)": "14437.5/16741.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Asian",
+            "Attendance Rate (%) (All Students)": "*",
+            "Days Attended/Days Members (All Students)": "*/*"
+          }
+        ],
+        "student_groups": {
+          "ADA 504": {
+            "percentage": "5.5",
+            "count": "43",
+            "total": "788"
+          },
+          "Eco Disadv": {
+            "percentage": "73.5",
+            "count": "579",
+            "total": "788"
+          },
+          "FARMS": {
+            "percentage": "75.5",
+            "count": "595",
+            "total": "788"
+          },
+          "ML": {
+            "percentage": "6.0",
+            "count": "47",
+            "total": "788"
+          },
+          "Migrant": {
+            "percentage": "*",
+            "count": "*",
+            "total": "788"
+          },
+          "SWD": {
+            "percentage": "8.8",
+            "count": "69",
+            "total": "788"
+          },
+          "Homeless": {
+            "percentage": "\u2264 5.0",
+            "count": "*",
+            "total": "788"
+          }
+        }
+      },
+      {
+        "name": "North Dorchester High School",
+        "code": "0207",
+        "type": "High",
+        "enrollment": {
+          "total": 526,
+          "by_race": {
+            "Asian": {
+              "count": "*",
+              "percentage": "*"
+            },
+            "African Am.": {
+              "count": 121,
+              "percentage": 23.0
+            },
+            "Hispanic": {
+              "count": 60,
+              "percentage": 11.41
+            },
+            "White": {
+              "count": 299,
+              "percentage": 56.84
+            },
+            "Am.Ind/AK": {
+              "count": "*",
+              "percentage": "*"
+            },
+            "2+": {
+              "count": 38,
+              "percentage": 7.22
+            }
+          },
+          "by_gender": {
+            "Male": {
+              "count": 257,
+              "percentage": 48.86
+            },
+            "Female": {
+              "count": 269,
+              "percentage": 51.14
+            }
+          }
+        },
+        "mcap_scores": [
+          {
+            "grade": "High School",
+            "subject": "ELA",
+            "proficiency_rate": 39.1
+          },
+          {
+            "grade": "High School",
+            "subject": "Math (Algebra 1)",
+            "proficiency_rate": 5.0
+          },
+          {
+            "grade": "High School",
+            "subject": "Science",
+            "proficiency_rate": 38.6
+          }
+        ],
+        "attendance": [
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "African Am.",
+            "Attendance Rate (%) (All Students)": "89.7",
+            "Days Attended/Days Members (All Students)": "19784.5/22054.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "White",
+            "Attendance Rate (%) (All Students)": "90.2",
+            "Days Attended/Days Members (All Students)": "46506.5/51559.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "2+",
+            "Attendance Rate (%) (All Students)": "87.5",
+            "Days Attended/Days Members (All Students)": "5917.5/6764.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Hispanic",
+            "Attendance Rate (%) (All Students)": "90.6",
+            "Days Attended/Days Members (All Students)": "10083.5/11129.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Am.Ind/AK",
+            "Attendance Rate (%) (All Students)": "*",
+            "Days Attended/Days Members (All Students)": "*/*"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Asian",
+            "Attendance Rate (%) (All Students)": "*",
+            "Days Attended/Days Members (All Students)": "*/*"
+          }
+        ],
+        "student_groups": {
+          "ADA 504": {
+            "percentage": "9.1",
+            "count": "47",
+            "total": "515"
+          },
+          "Eco Disadv": {
+            "percentage": "54.2",
+            "count": "279",
+            "total": "515"
+          },
+          "FARMS": {
+            "percentage": "56.3",
+            "count": "290",
+            "total": "515"
+          },
+          "ML": {
+            "percentage": "\u2264 5.0",
+            "count": "*",
+            "total": "515"
+          },
+          "SWD": {
+            "percentage": "5.8",
+            "count": "30",
+            "total": "515"
+          },
+          "Homeless": {
+            "percentage": "*",
+            "count": "*",
+            "total": "515"
+          },
+          "Foster Care": {
+            "percentage": "*",
+            "count": "*",
+            "total": "515"
+          }
+        }
+      }
+    ],
+    "county_summary": {
+      "total_enrollment": 13068,
+      "total_schools": 10,
+      "schools_by_type": {
+        "Elementary": 6,
+        "Middle": 2,
+        "High": 2
+      },
+      "demographics_total": {}
+    }
+  },
+  "kent": {
+    "county_name": "Kent",
+    "county_key": "kent",
+    "budget_finances": {
+      "county": "Kent County",
+      "core_fiscal": {
+        "county_operating_budget": 85275779,
+        "kcps_total_operating_budget": 35021363,
+        "county_local_appropriation": 21499813,
+        "state_aid": 11721545,
+        "other_revenue": 1800005,
+        "pct_county_budget_to_schools": 25.2,
+        "local_share_pct": 61.4,
+        "state_share_pct": 33.5
+      },
+      "enrollment_per_pupil": {
+        "enrollment": 1800,
+        "total_per_pupil": 21188,
+        "local_per_pupil": 11940,
+        "state_per_pupil": 6510
+      },
+      "blueprint_drivers": {
+        "compensatory_ed": "Lower than neighbors",
+        "special_ed": "Very high per-pupil cost",
+        "ccr": "Modest expansion"
+      },
+      "capital_outlook": {
+        "short_term_1_3_years": "Routine maintenance only",
+        "long_term_5_10_years": "Deferred maintenance risks rising"
+      },
+      "emerging_issues": [
+        "Most locally dependent system in the region",
+        "Inefficient cost structure due to small size",
+        "Retention challenges vs. wealthier neighbors"
+      ],
+      "narrative": "Kent faces structural inefficiencies from being a very small school district. With ~1,800 students, fixed costs consume a large share of resources, and limited Blueprint funding leaves taxpayers bearing the burden. Staffing, programming options, and capital renewal all face challenges due to scale. Deferred maintenance is becoming a significant concern."
+    },
+    "district_officials": [
+      {
+        "county": "Kent",
+        "superintendent": "Dr. Mary McComas",
+        "website": "https://www.kent.k12.md.us/",
+        "board_url": "https://go.boarddocs.com/mabe/kcps/Board.nsf/Public",
+        "board_members": [
+          {
+            "name": "Laura McKenzie",
+            "position": "Board Member"
+          },
+          {
+            "name": "John Queen",
+            "position": "Board Member"
+          },
+          {
+            "name": "Aretha Dorsey",
+            "position": "Board Member"
+          },
+          {
+            "name": "Frank Rhodes",
+            "position": "Board Member"
+          },
+          {
+            "name": "Trish McGee",
+            "position": "Board Member"
+          }
+        ],
+        "note": "Five member elected board. Each member serves a four year term. Student member serves one year. Specific election dates not listed on board website."
+      }
+    ],
+    "schools": [
+      {
+        "name": "Galena Elementary School",
+        "code": "0105",
+        "type": "Elementary",
+        "enrollment": {
+          "total": 309,
+          "by_race": {
+            "African Am.": {
+              "count": 22,
+              "percentage": 7.12
+            },
+            "Hispanic": {
+              "count": 63,
+              "percentage": 20.39
+            },
+            "White": {
+              "count": 201,
+              "percentage": 65.05
+            },
+            "2+": {
+              "count": 23,
+              "percentage": 7.44
+            }
+          },
+          "by_gender": {
+            "Male": {
+              "count": 152,
+              "percentage": 49.19
+            },
+            "Female": {
+              "count": 157,
+              "percentage": 50.81
+            }
+          }
+        },
+        "mcap_scores": [
+          {
+            "grade": 5,
+            "subject": "ELA",
+            "proficiency_rate": 27.0
+          },
+          {
+            "grade": 5,
+            "subject": "Math",
+            "proficiency_rate": 8.3
+          },
+          {
+            "grade": 5,
+            "subject": "Science",
+            "proficiency_rate": 10.5
+          }
+        ],
+        "attendance": [
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "African Am.",
+            "Attendance Rate (%) (All Students)": "\u2265 95.0",
+            "Days Attended/Days Members (All Students)": "*/*"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "White",
+            "Attendance Rate (%) (All Students)": "92.9",
+            "Days Attended/Days Members (All Students)": "23318.5/25109.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "2+",
+            "Attendance Rate (%) (All Students)": "90.0",
+            "Days Attended/Days Members (All Students)": "2892.0/3212.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Hispanic",
+            "Attendance Rate (%) (All Students)": "92.3",
+            "Days Attended/Days Members (All Students)": "7207.5/7805.0"
+          }
+        ],
+        "student_groups": {
+          "ADA 504": {
+            "percentage": "\u2264 5.0",
+            "count": "*",
+            "total": "314"
+          },
+          "Eco Disadv": {
+            "percentage": "49.4",
+            "count": "155",
+            "total": "314"
+          },
+          "FARMS": {
+            "percentage": "57.6",
+            "count": "181",
+            "total": "314"
+          },
+          "ML": {
+            "percentage": "8.0",
+            "count": "25",
+            "total": "314"
+          },
+          "Migrant": {
+            "percentage": "*",
+            "count": "*",
+            "total": "314"
+          },
+          "SWD": {
+            "percentage": "11.5",
+            "count": "36",
+            "total": "314"
+          },
+          "Title 1": {
+            "percentage": "\u2265 95.0",
+            "count": "*",
+            "total": "314"
+          }
+        }
+      },
+      {
+        "name": "H. H. Garnett Elementary",
+        "code": "0403",
+        "type": "Elementary",
+        "enrollment": {
+          "total": 322,
+          "by_race": {
+            "Asian": {
+              "count": 10,
+              "percentage": 3.11
+            },
+            "African Am.": {
+              "count": 95,
+              "percentage": 29.5
+            },
+            "Hispanic": {
+              "count": 47,
+              "percentage": 14.6
+            },
+            "White": {
+              "count": 133,
+              "percentage": 41.3
+            },
+            "2+": {
+              "count": 37,
+              "percentage": 11.49
+            }
+          },
+          "by_gender": {
+            "Male": {
+              "count": 172,
+              "percentage": 53.42
+            },
+            "Female": {
+              "count": 150,
+              "percentage": 46.58
+            }
+          }
+        },
+        "mcap_scores": [
+          {
+            "grade": 5,
+            "subject": "ELA",
+            "proficiency_rate": 47.2
+          },
+          {
+            "grade": 5,
+            "subject": "Math",
+            "proficiency_rate": 15.1
+          },
+          {
+            "grade": 5,
+            "subject": "Science",
+            "proficiency_rate": 11.3
+          }
+        ],
+        "attendance": [
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "African Am.",
+            "Attendance Rate (%) (All Students)": "*",
+            "Days Attended/Days Members (All Students)": "*/*"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "White",
+            "Attendance Rate (%) (All Students)": "93.6",
+            "Days Attended/Days Members (All Students)": "47513.5/50764.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "2+",
+            "Attendance Rate (%) (All Students)": "92.5",
+            "Days Attended/Days Members (All Students)": "3896.5/4211.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Hispanic",
+            "Attendance Rate (%) (All Students)": "91.2",
+            "Days Attended/Days Members (All Students)": "7610.5/8342.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Asian",
+            "Attendance Rate (%) (All Students)": "94.2",
+            "Days Attended/Days Members (All Students)": "2373.5/2520.0"
+          }
+        ],
+        "student_groups": {
+          "ADA 504": {
+            "percentage": "\u2264 5.0",
+            "count": "*",
+            "total": "373"
+          },
+          "Eco Disadv": {
+            "percentage": "22.0",
+            "count": "82",
+            "total": "373"
+          },
+          "FARMS": {
+            "percentage": "30.3",
+            "count": "113",
+            "total": "373"
+          },
+          "ML": {
+            "percentage": "5.6",
+            "count": "21",
+            "total": "373"
+          },
+          "SWD": {
+            "percentage": "12.6",
+            "count": "47",
+            "total": "373"
+          },
+          "Title 1": {
+            "percentage": "\u2265 95.0",
+            "count": "*",
+            "total": "327"
+          },
+          "Homeless": {
+            "percentage": "*",
+            "count": "*",
+            "total": "373"
+          },
+          "Military": {
+            "percentage": "\u2264 5.0",
+            "count": "*",
+            "total": "373"
+          }
+        }
+      },
+      {
+        "name": "Rock Hall Elementary",
+        "code": "0504",
+        "type": "Elementary",
+        "enrollment": {
+          "total": 198,
+          "by_race": {
+            "African Am.": {
+              "count": 49,
+              "percentage": 24.75
+            },
+            "Hispanic": {
+              "count": "*",
+              "percentage": "*"
+            },
+            "White": {
+              "count": 116,
+              "percentage": 58.59
+            },
+            "Am.Ind/AK": {
+              "count": "*",
+              "percentage": "*"
+            },
+            "2+": {
+              "count": 23,
+              "percentage": 11.62
+            }
+          },
+          "by_gender": {
+            "Male": {
+              "count": 108,
+              "percentage": 54.55
+            },
+            "Female": {
+              "count": 90,
+              "percentage": 45.45
+            }
+          }
+        },
+        "mcap_scores": [
+          {
+            "grade": 5,
+            "subject": "ELA",
+            "proficiency_rate": 36.0
+          },
+          {
+            "grade": 5,
+            "subject": "Math",
+            "proficiency_rate": 36.0
+          },
+          {
+            "grade": 5,
+            "subject": "Science",
+            "proficiency_rate": 58.3
+          }
+        ],
+        "attendance": [
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "African Am.",
+            "Attendance Rate (%) (All Students)": "93.2",
+            "Days Attended/Days Members (All Students)": "5858.0/6284.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "White",
+            "Attendance Rate (%) (All Students)": "92.8",
+            "Days Attended/Days Members (All Students)": "14533.0/15656.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "2+",
+            "Attendance Rate (%) (All Students)": "94.2",
+            "Days Attended/Days Members (All Students)": "2698.5/2866.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Hispanic",
+            "Attendance Rate (%) (All Students)": "*",
+            "Days Attended/Days Members (All Students)": "*/*"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Am.Ind/AK",
+            "Attendance Rate (%) (All Students)": "*",
+            "Days Attended/Days Members (All Students)": "*/*"
+          }
+        ],
+        "student_groups": {
+          "ADA 504": {
+            "percentage": "*",
+            "count": "*",
+            "total": "194"
+          },
+          "Eco Disadv": {
+            "percentage": "67.5",
+            "count": "131",
+            "total": "194"
+          },
+          "FARMS": {
+            "percentage": "75.8",
+            "count": "147",
+            "total": "194"
+          },
+          "ML": {
+            "percentage": "*",
+            "count": "*",
+            "total": "194"
+          },
+          "SWD": {
+            "percentage": "16.0",
+            "count": "31",
+            "total": "194"
+          },
+          "Title 1": {
+            "percentage": "\u2265 95.0",
+            "count": "*",
+            "total": "194"
+          },
+          "Homeless": {
+            "percentage": "7.7",
+            "count": "15",
+            "total": "194"
+          }
+        }
+      },
+      {
+        "name": "Kent County Middle School",
+        "code": "0402",
+        "type": "Middle",
+        "enrollment": {
+          "total": 354,
+          "by_race": {
+            "African Am.": {
+              "count": 90,
+              "percentage": 25.42
+            },
+            "Hispanic": {
+              "count": 52,
+              "percentage": 14.69
+            },
+            "White": {
+              "count": 176,
+              "percentage": 49.72
+            },
+            "Am.Ind/AK": {
+              "count": "*",
+              "percentage": "*"
+            },
+            "2+": {
+              "count": 34,
+              "percentage": 9.6
+            }
+          },
+          "by_gender": {
+            "Male": {
+              "count": 179,
+              "percentage": 50.56
+            },
+            "Female": {
+              "count": 175,
+              "percentage": 49.44
+            }
+          }
+        },
+        "mcap_scores": [
+          {
+            "grade": 8,
+            "subject": "ELA",
+            "proficiency_rate": 25.0
+          },
+          {
+            "grade": 8,
+            "subject": "Math",
+            "proficiency_rate": 5.0
+          },
+          {
+            "grade": 8,
+            "subject": "Science",
+            "proficiency_rate": 16.8
+          }
+        ],
+        "attendance": [
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "African Am.",
+            "Attendance Rate (%) (All Students)": "94.6",
+            "Days Attended/Days Members (All Students)": "1873.0/1980.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "White",
+            "Attendance Rate (%) (All Students)": "93.9",
+            "Days Attended/Days Members (All Students)": "31615.0/33663.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "2+",
+            "Attendance Rate (%) (All Students)": "92.2",
+            "Days Attended/Days Members (All Students)": "2820.5/3060.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Hispanic",
+            "Attendance Rate (%) (All Students)": "91.8",
+            "Days Attended/Days Members (All Students)": "5801.5/6319.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Am.Ind/AK",
+            "Attendance Rate (%) (All Students)": "*",
+            "Days Attended/Days Members (All Students)": "*/*"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Asian",
+            "Attendance Rate (%) (All Students)": "*",
+            "Days Attended/Days Members (All Students)": "*/*"
+          }
+        ],
+        "student_groups": {
+          "ADA 504": {
+            "percentage": "\u2264 5.0",
+            "count": "*",
+            "total": "462"
+          },
+          "Eco Disadv": {
+            "percentage": "28.6",
+            "count": "132",
+            "total": "462"
+          },
+          "FARMS": {
+            "percentage": "35.3",
+            "count": "163",
+            "total": "462"
+          },
+          "ML": {
+            "percentage": "\u2264 5.0",
+            "count": "*",
+            "total": "462"
+          },
+          "Migrant": {
+            "percentage": "*",
+            "count": "*",
+            "total": "362"
+          },
+          "SWD": {
+            "percentage": "15.2",
+            "count": "70",
+            "total": "462"
+          },
+          "Title 1": {
+            "percentage": "\u2265 95.0",
+            "count": "*",
+            "total": "362"
+          },
+          "Homeless": {
+            "percentage": "\u2264 5.0",
+            "count": "*",
+            "total": "462"
+          },
+          "Military": {
+            "percentage": "5.6",
+            "count": "26",
+            "total": "462"
+          }
+        }
+      },
+      {
+        "name": "Kent County High",
+        "code": "0301",
+        "type": "High",
+        "enrollment": {
+          "total": 511,
+          "by_race": {
+            "Asian": {
+              "count": "*",
+              "percentage": "*"
+            },
+            "African Am.": {
+              "count": 128,
+              "percentage": 25.05
+            },
+            "Hispanic": {
+              "count": 64,
+              "percentage": 12.52
+            },
+            "White": {
+              "count": 279,
+              "percentage": 54.6
+            },
+            "Am.Ind/AK": {
+              "count": "*",
+              "percentage": "*"
+            },
+            "2+": {
+              "count": 35,
+              "percentage": 6.85
+            }
+          },
+          "by_gender": {
+            "Male": {
+              "count": 252,
+              "percentage": 49.32
+            },
+            "Female": {
+              "count": 259,
+              "percentage": 50.68
+            }
+          }
+        },
+        "mcap_scores": [
+          {
+            "grade": "High School",
+            "subject": "ELA",
+            "proficiency_rate": 53.5
+          },
+          {
+            "grade": "High School",
+            "subject": "Math (Algebra 1)",
+            "proficiency_rate": 6.1
+          },
+          {
+            "grade": "High School",
+            "subject": "Science",
+            "proficiency_rate": 27.7
+          }
+        ],
+        "attendance": [
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "African Am.",
+            "Attendance Rate (%) (All Students)": "88.1",
+            "Days Attended/Days Members (All Students)": "14690.5/16666.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "White",
+            "Attendance Rate (%) (All Students)": "91.9",
+            "Days Attended/Days Members (All Students)": "135773.5/147798.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "2+",
+            "Attendance Rate (%) (All Students)": "88.4",
+            "Days Attended/Days Members (All Students)": "8972.0/10153.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Hispanic",
+            "Attendance Rate (%) (All Students)": "89.2",
+            "Days Attended/Days Members (All Students)": "24827.5/27849.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Am.Ind/AK",
+            "Attendance Rate (%) (All Students)": "*",
+            "Days Attended/Days Members (All Students)": "*/*"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Asian",
+            "Attendance Rate (%) (All Students)": "90.0",
+            "Days Attended/Days Members (All Students)": "1620.5/1800.0"
+          }
+        ],
+        "student_groups": {
+          "ADA 504": {
+            "percentage": "7.4",
+            "count": "84",
+            "total": "1138"
+          },
+          "Eco Disadv": {
+            "percentage": "30.5",
+            "count": "347",
+            "total": "1138"
+          },
+          "FARMS": {
+            "percentage": "40.2",
+            "count": "458",
+            "total": "1138"
+          },
+          "ML": {
+            "percentage": "\u2264 5.0",
+            "count": "*",
+            "total": "1138"
+          },
+          "SWD": {
+            "percentage": "9.5",
+            "count": "108",
+            "total": "1138"
+          },
+          "Title 1": {
+            "percentage": "\u2265 95.0",
+            "count": "*",
+            "total": "594"
+          },
+          "Homeless": {
+            "percentage": "\u2264 5.0",
+            "count": "*",
+            "total": "1138"
+          },
+          "Migrant": {
+            "percentage": "*",
+            "count": "*",
+            "total": "1138"
+          }
+        }
+      }
+    ],
+    "county_summary": {
+      "total_enrollment": 5082,
+      "total_schools": 5,
+      "schools_by_type": {
+        "Elementary": 3,
+        "Middle": 1,
+        "High": 1
+      },
+      "demographics_total": {}
+    }
+  },
+  "queen_annes": {
+    "county_name": "Queen Annes",
+    "county_key": "queen_annes",
+    "budget_finances": {
+      "county": "Queen Anne's County",
+      "core_fiscal": {
+        "county_operating_budget": 209064803,
+        "qacps_total_operating_budget": 127507215,
+        "county_local_appropriation": 82729260,
+        "state_aid": 43557955,
+        "other_revenue": 1220000,
+        "pct_county_budget_to_schools": 39.6,
+        "local_share_pct": 64.9,
+        "state_share_pct": 34.2
+      },
+      "enrollment_per_pupil": {
+        "enrollment": 8000,
+        "total_per_pupil": 17662,
+        "local_per_pupil": 10340,
+        "state_per_pupil": 5440
+      },
+      "blueprint_drivers": {
+        "special_ed": "Major cost center",
+        "ccr": "Strong expansion",
+        "pre_k": "Increasing space pressures",
+        "cep": "Fewer CEP schools than lower-wealth counties"
+      },
+      "capital_outlook": {
+        "short_term_1_3_years": "Safety upgrades, fleet replacement",
+        "long_term_5_10_years": "Elementary modernization likely; growth pressures rising"
+      },
+      "emerging_issues": [
+        "Highest fiscal effort in the region",
+        "Transportation and plant operations cost growth",
+        "Enrollment growth will drive future capital needs"
+      ],
+      "narrative": "Queen Anne's is the region\u2019s highest-capacity local funder, directing nearly 40% of its general fund to education. Strong local revenue allows for robust staffing, CCR pathways, and program expansion. But rising enrollment, transportation costs, and future modernization projects will require sustained investment."
+    },
+    "district_officials": [
+      {
+        "county": "Queen Anne's",
+        "superintendent": "Dr. Matthew Kibler (Interim)",
+        "website": "https://www.qacps.org/",
+        "board_url": "https://www.qacps.org/board-of-education/",
+        "leadership": [
+          {
+            "name": "Dr. Matthew Kibler",
+            "position": "Interim Superintendent"
+          },
+          {
+            "name": "Dr. Jennifer Schrecongost",
+            "position": "Interim Assistant Superintendent"
+          },
+          {
+            "name": "Sid Pinder, Jr.",
+            "position": "Chief Operating Officer"
+          },
+          {
+            "name": "Dr. Michael Noel",
+            "position": "Director of Human Resources"
+          },
+          {
+            "name": "Rob Watkins",
+            "position": "Interim Chief Financial Officer"
+          }
+        ],
+        "board_members": [
+          {
+            "name": "Shannon Bent",
+            "position": "Board President",
+            "district": "District 1",
+            "term": "2022-2026"
+          },
+          {
+            "name": "Alexis Capes",
+            "position": "Board Vice President",
+            "district": null,
+            "term": "2022-2026"
+          },
+          {
+            "name": "Mathew Drayer",
+            "position": "Board Member",
+            "district": "District 2",
+            "term": "2024-2028"
+          },
+          {
+            "name": "Carrie Sutherland",
+            "position": "Board Member",
+            "district": "District 3",
+            "term": "2024-2028"
+          },
+          {
+            "name": "Kendra Eichler",
+            "position": "Board Member",
+            "district": "District 4",
+            "term": "2024-2028"
+          }
+        ]
+      }
+    ],
+    "schools": [
+      {
+        "name": "Bayside Elementary School",
+        "code": "0403",
+        "type": "Elementary",
+        "enrollment": {
+          "total": 368,
+          "by_race": {
+            "Asian": {
+              "count": 14,
+              "percentage": 3.8
+            },
+            "African Am.": {
+              "count": "*",
+              "percentage": "*"
+            },
+            "Hispanic": {
+              "count": 45,
+              "percentage": 12.23
+            },
+            "White": {
+              "count": 280,
+              "percentage": 76.09
+            },
+            "2+": {
+              "count": 23,
+              "percentage": 6.25
+            }
+          },
+          "by_gender": {
+            "Male": {
+              "count": 193,
+              "percentage": 52.45
+            },
+            "Female": {
+              "count": 175,
+              "percentage": 47.55
+            }
+          }
+        },
+        "mcap_scores": [
+          {
+            "grade": 5,
+            "subject": "ELA",
+            "proficiency_rate": 59.7
+          },
+          {
+            "grade": 5,
+            "subject": "Math",
+            "proficiency_rate": 50.0
+          },
+          {
+            "grade": 5,
+            "subject": "Science",
+            "proficiency_rate": 44.1
+          }
+        ],
+        "attendance": [
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "African Am.",
+            "Attendance Rate (%) (All Students)": "*",
+            "Days Attended/Days Members (All Students)": "*/*"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "White",
+            "Attendance Rate (%) (All Students)": "93.6",
+            "Days Attended/Days Members (All Students)": "47513.5/50764.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "2+",
+            "Attendance Rate (%) (All Students)": "92.5",
+            "Days Attended/Days Members (All Students)": "3896.5/4211.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Hispanic",
+            "Attendance Rate (%) (All Students)": "91.2",
+            "Days Attended/Days Members (All Students)": "7610.5/8342.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Asian",
+            "Attendance Rate (%) (All Students)": "94.2",
+            "Days Attended/Days Members (All Students)": "2373.5/2520.0"
+          }
+        ],
+        "student_groups": {
+          "ADA 504": {
+            "percentage": "\u2264 5.0",
+            "count": "*",
+            "total": "373"
+          },
+          "Eco Disadv": {
+            "percentage": "22.0",
+            "count": "82",
+            "total": "373"
+          },
+          "FARMS": {
+            "percentage": "30.3",
+            "count": "113",
+            "total": "373"
+          },
+          "ML": {
+            "percentage": "5.6",
+            "count": "21",
+            "total": "373"
+          },
+          "SWD": {
+            "percentage": "12.6",
+            "count": "47",
+            "total": "373"
+          },
+          "Title 1": {
+            "percentage": "\u2265 95.0",
+            "count": "*",
+            "total": "327"
+          },
+          "Homeless": {
+            "percentage": "*",
+            "count": "*",
+            "total": "373"
+          },
+          "Military": {
+            "percentage": "\u2264 5.0",
+            "count": "*",
+            "total": "373"
+          }
+        }
+      },
+      {
+        "name": "Centreville Elementary School",
+        "code": "0308",
+        "type": "Elementary",
+        "enrollment": {
+          "total": 535,
+          "by_race": {
+            "Asian": {
+              "count": "*",
+              "percentage": "*"
+            },
+            "African Am.": {
+              "count": 20,
+              "percentage": 3.74
+            },
+            "Hispanic": {
+              "count": 65,
+              "percentage": 12.15
+            },
+            "White": {
+              "count": 415,
+              "percentage": 77.57
+            },
+            "2+": {
+              "count": 32,
+              "percentage": 5.98
+            }
+          },
+          "by_gender": {
+            "Male": {
+              "count": 282,
+              "percentage": 52.71
+            },
+            "Female": {
+              "count": 253,
+              "percentage": 47.29
+            }
+          }
+        },
+        "mcap_scores": [
+          {
+            "grade": 5,
+            "subject": "ELA",
+            "proficiency_rate": null
+          },
+          {
+            "grade": 5,
+            "subject": "Math",
+            "proficiency_rate": null
+          },
+          {
+            "grade": 5,
+            "subject": "Science",
+            "proficiency_rate": null
+          }
+        ],
+        "attendance": [
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "African Am.",
+            "Attendance Rate (%) (All Students)": "89.2",
+            "Days Attended/Days Members (All Students)": "1894.5/2123.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "White",
+            "Attendance Rate (%) (All Students)": "93.3",
+            "Days Attended/Days Members (All Students)": "38522.5/41293.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "2+",
+            "Attendance Rate (%) (All Students)": "91.2",
+            "Days Attended/Days Members (All Students)": "2794.0/3064.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Hispanic",
+            "Attendance Rate (%) (All Students)": "90.7",
+            "Days Attended/Days Members (All Students)": "6260.0/6900.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Asian",
+            "Attendance Rate (%) (All Students)": "*",
+            "Days Attended/Days Members (All Students)": "*/*"
+          }
+        ],
+        "student_groups": {
+          "ADA 504": {
+            "percentage": "*",
+            "count": "*",
+            "total": "540"
+          },
+          "Eco Disadv": {
+            "percentage": "26.9",
+            "count": "145",
+            "total": "540"
+          },
+          "FARMS": {
+            "percentage": "34.6",
+            "count": "187",
+            "total": "540"
+          },
+          "ML": {
+            "percentage": "\u2264 5.0",
+            "count": "*",
+            "total": "540"
+          },
+          "SWD": {
+            "percentage": "15.7",
+            "count": "85",
+            "total": "540"
+          },
+          "Homeless": {
+            "percentage": "\u2264 5.0",
+            "count": "*",
+            "total": "540"
+          },
+          "Foster Care": {
+            "percentage": "*",
+            "count": "*",
+            "total": "540"
+          }
+        }
+      },
+      {
+        "name": "Church Hill Elementary School",
+        "code": "0202",
+        "type": "Elementary",
+        "enrollment": {
+          "total": 329,
+          "by_race": {
+            "Asian": {
+              "count": "*",
+              "percentage": "*"
+            },
+            "African Am.": {
+              "count": 20,
+              "percentage": 6.08
+            },
+            "Hispanic": {
+              "count": 53,
+              "percentage": 16.11
+            },
+            "White": {
+              "count": 225,
+              "percentage": 68.39
+            },
+            "Am.Ind/AK": {
+              "count": "*",
+              "percentage": "*"
+            },
+            "HI/Pac.Isl.": {
+              "count": "*",
+              "percentage": "*"
+            },
+            "2+": {
+              "count": 24,
+              "percentage": 7.29
+            }
+          },
+          "by_gender": {
+            "Male": {
+              "count": 163,
+              "percentage": 49.54
+            },
+            "Female": {
+              "count": 166,
+              "percentage": 50.46
+            }
+          }
+        },
+        "mcap_scores": [
+          {
+            "grade": 5,
+            "subject": "ELA",
+            "proficiency_rate": 45.3
+          },
+          {
+            "grade": 5,
+            "subject": "Math",
+            "proficiency_rate": 39.6
+          },
+          {
+            "grade": 5,
+            "subject": "Science",
+            "proficiency_rate": null
+          }
+        ],
+        "attendance": [
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "African Am.",
+            "Attendance Rate (%) (All Students)": "89.5",
+            "Days Attended/Days Members (All Students)": "8306.0/9280.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "White",
+            "Attendance Rate (%) (All Students)": "92.0",
+            "Days Attended/Days Members (All Students)": "50555.0/54948.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "2+",
+            "Attendance Rate (%) (All Students)": "92.2",
+            "Days Attended/Days Members (All Students)": "5171.0/5607.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Hispanic",
+            "Attendance Rate (%) (All Students)": "90.3",
+            "Days Attended/Days Members (All Students)": "7984.0/8846.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Asian",
+            "Attendance Rate (%) (All Students)": "*",
+            "Days Attended/Days Members (All Students)": "*/*"
+          }
+        ],
+        "student_groups": {
+          "ADA 504": {
+            "percentage": "12.7",
+            "count": "56",
+            "total": "440"
+          },
+          "Eco Disadv": {
+            "percentage": "41.6",
+            "count": "183",
+            "total": "440"
+          },
+          "FARMS": {
+            "percentage": "46.4",
+            "count": "204",
+            "total": "440"
+          },
+          "ML": {
+            "percentage": "\u2264 5.0",
+            "count": "*",
+            "total": "440"
+          },
+          "SWD": {
+            "percentage": "10.2",
+            "count": "45",
+            "total": "440"
+          },
+          "Title 1": {
+            "percentage": "\u2265 95.0",
+            "count": "*",
+            "total": "338"
+          },
+          "Homeless": {
+            "percentage": "*",
+            "count": "*",
+            "total": "440"
+          },
+          "Military": {
+            "percentage": "*",
+            "count": "*",
+            "total": "440"
+          }
+        }
+      },
+      {
+        "name": "Grasonville Elementary School",
+        "code": "0503",
+        "type": "Elementary",
+        "enrollment": {
+          "total": 472,
+          "by_race": {
+            "Asian": {
+              "count": "*",
+              "percentage": "*"
+            },
+            "African Am.": {
+              "count": 50,
+              "percentage": 10.59
+            },
+            "Hispanic": {
+              "count": 80,
+              "percentage": 16.95
+            },
+            "White": {
+              "count": 293,
+              "percentage": 62.08
+            },
+            "Am.Ind/AK": {
+              "count": "*",
+              "percentage": "*"
+            },
+            "HI/Pac.Isl.": {
+              "count": "*",
+              "percentage": "*"
+            },
+            "2+": {
+              "count": 39,
+              "percentage": 8.26
+            }
+          },
+          "by_gender": {
+            "Male": {
+              "count": 222,
+              "percentage": 47.03
+            },
+            "Female": {
+              "count": 250,
+              "percentage": 52.97
+            }
+          }
+        },
+        "mcap_scores": [
+          {
+            "grade": 5,
+            "subject": "ELA",
+            "proficiency_rate": 43.2
+          },
+          {
+            "grade": 5,
+            "subject": "Math",
+            "proficiency_rate": 40.9
+          },
+          {
+            "grade": 5,
+            "subject": "Science",
+            "proficiency_rate": 25.3
+          }
+        ],
+        "attendance": [
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "African Am.",
+            "Attendance Rate (%) (All Students)": "90.5",
+            "Days Attended/Days Members (All Students)": "7224.0/7981.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "HI/Pac.Isl.",
+            "Attendance Rate (%) (All Students)": "*",
+            "Days Attended/Days Members (All Students)": "*/*"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "White",
+            "Attendance Rate (%) (All Students)": "93.7",
+            "Days Attended/Days Members (All Students)": "39318.5/41956.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "2+",
+            "Attendance Rate (%) (All Students)": "91.9",
+            "Days Attended/Days Members (All Students)": "5760.0/6270.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Hispanic",
+            "Attendance Rate (%) (All Students)": "93.3",
+            "Days Attended/Days Members (All Students)": "10583.5/11348.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Asian",
+            "Attendance Rate (%) (All Students)": "*",
+            "Days Attended/Days Members (All Students)": "*/*"
+          }
+        ],
+        "student_groups": {
+          "ADA 504": {
+            "percentage": "\u2264 5.0",
+            "count": "*",
+            "total": "489"
+          },
+          "Eco Disadv": {
+            "percentage": "34.4",
+            "count": "168",
+            "total": "489"
+          },
+          "FARMS": {
+            "percentage": "47.9",
+            "count": "234",
+            "total": "489"
+          },
+          "ML": {
+            "percentage": "10.2",
+            "count": "50",
+            "total": "489"
+          },
+          "SWD": {
+            "percentage": "10.4",
+            "count": "51",
+            "total": "489"
+          },
+          "Title 1": {
+            "percentage": "\u2265 95.0",
+            "count": "*",
+            "total": "489"
+          },
+          "Homeless": {
+            "percentage": "\u2264 5.0",
+            "count": "*",
+            "total": "489"
+          }
+        }
+      },
+      {
+        "name": "Kennard Elementary School",
+        "code": "0302",
+        "type": "Elementary",
+        "enrollment": {
+          "total": 477,
+          "by_race": {
+            "Asian": {
+              "count": "*",
+              "percentage": "*"
+            },
+            "African Am.": {
+              "count": 38,
+              "percentage": 7.97
+            },
+            "Hispanic": {
+              "count": 43,
+              "percentage": 9.01
+            },
+            "White": {
+              "count": 355,
+              "percentage": 74.42
+            },
+            "Am.Ind/AK": {
+              "count": "*",
+              "percentage": "*"
+            },
+            "2+": {
+              "count": 35,
+              "percentage": 7.34
+            }
+          },
+          "by_gender": {
+            "Male": {
+              "count": 244,
+              "percentage": 51.15
+            },
+            "Female": {
+              "count": 233,
+              "percentage": 48.85
+            }
+          }
+        },
+        "mcap_scores": [
+          {
+            "grade": 5,
+            "subject": "ELA",
+            "proficiency_rate": 49.7
+          },
+          {
+            "grade": 5,
+            "subject": "Math",
+            "proficiency_rate": 36.7
+          },
+          {
+            "grade": 5,
+            "subject": "Science",
+            "proficiency_rate": 27.9
+          }
+        ],
+        "attendance": [
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "African Am.",
+            "Attendance Rate (%) (All Students)": "93.8",
+            "Days Attended/Days Members (All Students)": "3715.0/3960.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "White",
+            "Attendance Rate (%) (All Students)": "94.1",
+            "Days Attended/Days Members (All Students)": "23946.0/25450.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "2+",
+            "Attendance Rate (%) (All Students)": "94.8",
+            "Days Attended/Days Members (All Students)": "1877.5/1980.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Hispanic",
+            "Attendance Rate (%) (All Students)": "93.0",
+            "Days Attended/Days Members (All Students)": "6197.0/6667.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Asian",
+            "Attendance Rate (%) (All Students)": "*",
+            "Days Attended/Days Members (All Students)": "*/*"
+          }
+        ],
+        "student_groups": {
+          "ADA 504": {
+            "percentage": "\u2264 5.0",
+            "count": "*",
+            "total": "285"
+          },
+          "Eco Disadv": {
+            "percentage": "46.3",
+            "count": "132",
+            "total": "285"
+          },
+          "FARMS": {
+            "percentage": "56.1",
+            "count": "160",
+            "total": "285"
+          },
+          "ML": {
+            "percentage": "11.6",
+            "count": "33",
+            "total": "285"
+          },
+          "Migrant": {
+            "percentage": "*",
+            "count": "*",
+            "total": "470"
+          },
+          "SWD": {
+            "percentage": "7.7",
+            "count": "22",
+            "total": "285"
+          },
+          "Homeless": {
+            "percentage": "5.3",
+            "count": "15",
+            "total": "285"
+          },
+          "Military": {
+            "percentage": "*",
+            "count": "*",
+            "total": "186"
+          },
+          "Title 1": {
+            "percentage": "\u2265 95.0",
+            "count": "*",
+            "total": "285"
+          }
+        }
+      },
+      {
+        "name": "Kent Island Elementary School",
+        "code": "0402",
+        "type": "Elementary",
+        "enrollment": {
+          "total": 452,
+          "by_race": {
+            "Asian": {
+              "count": "*",
+              "percentage": "*"
+            },
+            "African Am.": {
+              "count": 18,
+              "percentage": 3.98
+            },
+            "Hispanic": {
+              "count": 66,
+              "percentage": 14.6
+            },
+            "White": {
+              "count": 324,
+              "percentage": 71.68
+            },
+            "Am.Ind/AK": {
+              "count": "*",
+              "percentage": "*"
+            },
+            "2+": {
+              "count": 39,
+              "percentage": 8.63
+            }
+          },
+          "by_gender": {
+            "Male": {
+              "count": 238,
+              "percentage": 52.65
+            },
+            "Female": {
+              "count": 214,
+              "percentage": 47.35
+            }
+          }
+        },
+        "mcap_scores": [
+          {
+            "grade": 5,
+            "subject": "ELA",
+            "proficiency_rate": null
+          },
+          {
+            "grade": 5,
+            "subject": "Math",
+            "proficiency_rate": null
+          },
+          {
+            "grade": 5,
+            "subject": "Science",
+            "proficiency_rate": null
+          }
+        ],
+        "attendance": [
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "African Am.",
+            "Attendance Rate (%) (All Students)": "94.6",
+            "Days Attended/Days Members (All Students)": "1873.0/1980.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "White",
+            "Attendance Rate (%) (All Students)": "93.9",
+            "Days Attended/Days Members (All Students)": "31615.0/33663.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "2+",
+            "Attendance Rate (%) (All Students)": "92.2",
+            "Days Attended/Days Members (All Students)": "2820.5/3060.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Hispanic",
+            "Attendance Rate (%) (All Students)": "91.8",
+            "Days Attended/Days Members (All Students)": "5801.5/6319.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Am.Ind/AK",
+            "Attendance Rate (%) (All Students)": "*",
+            "Days Attended/Days Members (All Students)": "*/*"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Asian",
+            "Attendance Rate (%) (All Students)": "*",
+            "Days Attended/Days Members (All Students)": "*/*"
+          }
+        ],
+        "student_groups": {
+          "ADA 504": {
+            "percentage": "\u2264 5.0",
+            "count": "*",
+            "total": "462"
+          },
+          "Eco Disadv": {
+            "percentage": "28.6",
+            "count": "132",
+            "total": "462"
+          },
+          "FARMS": {
+            "percentage": "35.3",
+            "count": "163",
+            "total": "462"
+          },
+          "ML": {
+            "percentage": "\u2264 5.0",
+            "count": "*",
+            "total": "462"
+          },
+          "Migrant": {
+            "percentage": "*",
+            "count": "*",
+            "total": "362"
+          },
+          "SWD": {
+            "percentage": "15.2",
+            "count": "70",
+            "total": "462"
+          },
+          "Title 1": {
+            "percentage": "\u2265 95.0",
+            "count": "*",
+            "total": "362"
+          },
+          "Homeless": {
+            "percentage": "\u2264 5.0",
+            "count": "*",
+            "total": "462"
+          },
+          "Military": {
+            "percentage": "5.6",
+            "count": "26",
+            "total": "462"
+          }
+        }
+      },
+      {
+        "name": "Matapeake Elementary School",
+        "code": "0406",
+        "type": "Elementary",
+        "enrollment": {
+          "total": 472,
+          "by_race": {
+            "Asian": {
+              "count": "*",
+              "percentage": "*"
+            },
+            "African Am.": {
+              "count": "*",
+              "percentage": "*"
+            },
+            "Hispanic": {
+              "count": 34,
+              "percentage": 7.2
+            },
+            "White": {
+              "count": 392,
+              "percentage": 83.05
+            },
+            "Am.Ind/AK": {
+              "count": "*",
+              "percentage": "*"
+            },
+            "2+": {
+              "count": 34,
+              "percentage": 7.2
+            }
+          },
+          "by_gender": {
+            "Male": {
+              "count": 229,
+              "percentage": 48.52
+            },
+            "Female": {
+              "count": 243,
+              "percentage": 51.48
+            }
+          }
+        },
+        "mcap_scores": [
+          {
+            "grade": 5,
+            "subject": "ELA",
+            "proficiency_rate": 58.6
+          },
+          {
+            "grade": 5,
+            "subject": "Math",
+            "proficiency_rate": 42.9
+          },
+          {
+            "grade": 5,
+            "subject": "Science",
+            "proficiency_rate": 31.4
+          }
+        ],
+        "attendance": [
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "African Am.",
+            "Attendance Rate (%) (All Students)": "*",
+            "Days Attended/Days Members (All Students)": "*/*"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "White",
+            "Attendance Rate (%) (All Students)": "94.3",
+            "Days Attended/Days Members (All Students)": "51141.0/54226.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "2+",
+            "Attendance Rate (%) (All Students)": "94.1",
+            "Days Attended/Days Members (All Students)": "4359.0/4632.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Hispanic",
+            "Attendance Rate (%) (All Students)": "94.7",
+            "Days Attended/Days Members (All Students)": "4461.0/4712.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Am.Ind/AK",
+            "Attendance Rate (%) (All Students)": "*",
+            "Days Attended/Days Members (All Students)": "*/*"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Asian",
+            "Attendance Rate (%) (All Students)": "*",
+            "Days Attended/Days Members (All Students)": "*/*"
+          }
+        ],
+        "student_groups": {
+          "ADA 504": {
+            "percentage": "\u2264 5.0",
+            "count": "*",
+            "total": "472"
+          },
+          "Eco Disadv": {
+            "percentage": "21.6",
+            "count": "102",
+            "total": "472"
+          },
+          "FARMS": {
+            "percentage": "25.4",
+            "count": "120",
+            "total": "472"
+          },
+          "ML": {
+            "percentage": "*",
+            "count": "*",
+            "total": "472"
+          },
+          "SWD": {
+            "percentage": "9.7",
+            "count": "46",
+            "total": "472"
+          },
+          "Homeless": {
+            "percentage": "*",
+            "count": "*",
+            "total": "472"
+          },
+          "Military": {
+            "percentage": "\u2264 5.0",
+            "count": "*",
+            "total": "472"
+          }
+        }
+      },
+      {
+        "name": "Sudlersville Elementary School",
+        "code": "0106",
+        "type": "Elementary",
+        "enrollment": {
+          "total": 315,
+          "by_race": {
+            "African Am.": {
+              "count": 20,
+              "percentage": 6.35
+            },
+            "Hispanic": {
+              "count": 115,
+              "percentage": 36.51
+            },
+            "White": {
+              "count": 164,
+              "percentage": 52.06
+            },
+            "Am.Ind/AK": {
+              "count": "*",
+              "percentage": "*"
+            },
+            "2+": {
+              "count": 15,
+              "percentage": 4.76
+            }
+          },
+          "by_gender": {
+            "Male": {
+              "count": 158,
+              "percentage": 50.16
+            },
+            "Female": {
+              "count": 157,
+              "percentage": 49.84
+            }
+          }
+        },
+        "mcap_scores": [
+          {
+            "grade": 5,
+            "subject": "ELA",
+            "proficiency_rate": 18.3
+          },
+          {
+            "grade": 5,
+            "subject": "Math",
+            "proficiency_rate": 20.0
+          },
+          {
+            "grade": 5,
+            "subject": "Science",
+            "proficiency_rate": null
+          }
+        ],
+        "attendance": [
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "African Am.",
+            "Attendance Rate (%) (All Students)": "92.4",
+            "Days Attended/Days Members (All Students)": "21332.0/23085.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "White",
+            "Attendance Rate (%) (All Students)": "92.6",
+            "Days Attended/Days Members (All Students)": "44320.0/47870.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "2+",
+            "Attendance Rate (%) (All Students)": "91.7",
+            "Days Attended/Days Members (All Students)": "10717.5/11686.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Hispanic",
+            "Attendance Rate (%) (All Students)": "92.5",
+            "Days Attended/Days Members (All Students)": "38239.0/41357.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Asian",
+            "Attendance Rate (%) (All Students)": "*",
+            "Days Attended/Days Members (All Students)": "*/*"
+          }
+        ],
+        "student_groups": {
+          "ADA 504": {
+            "percentage": "8.0",
+            "count": "56",
+            "total": "698"
+          },
+          "Eco Disadv": {
+            "percentage": "54.7",
+            "count": "382",
+            "total": "698"
+          },
+          "FARMS": {
+            "percentage": "67.8",
+            "count": "473",
+            "total": "698"
+          },
+          "ML": {
+            "percentage": "15.8",
+            "count": "110",
+            "total": "698"
+          },
+          "Migrant": {
+            "percentage": "\u2264 5.0",
+            "count": "*",
+            "total": "309"
+          },
+          "SWD": {
+            "percentage": "13.3",
+            "count": "93",
+            "total": "698"
+          },
+          "Title 1": {
+            "percentage": "\u2265 95.0",
+            "count": "*",
+            "total": "309"
+          },
+          "Homeless": {
+            "percentage": "5.6",
+            "count": "39",
+            "total": "698"
+          },
+          "Foster Care": {
+            "percentage": "*",
+            "count": "*",
+            "total": "698"
+          }
+        }
+      },
+      {
+        "name": "Sudlersville Middle School",
+        "code": "0101",
+        "type": "Middle",
+        "enrollment": {
+          "total": 447,
+          "by_race": {
+            "African Am.": {
+              "count": 28,
+              "percentage": 6.26
+            },
+            "Hispanic": {
+              "count": 115,
+              "percentage": 25.73
+            },
+            "White": {
+              "count": 272,
+              "percentage": 60.85
+            },
+            "2+": {
+              "count": 32,
+              "percentage": 7.16
+            }
+          },
+          "by_gender": {
+            "Male": {
+              "count": 256,
+              "percentage": 57.27
+            },
+            "Female": {
+              "count": 191,
+              "percentage": 42.73
+            }
+          }
+        },
+        "mcap_scores": [
+          {
+            "grade": 8,
+            "subject": "ELA",
+            "proficiency_rate": 46.2
+          },
+          {
+            "grade": 8,
+            "subject": "Math",
+            "proficiency_rate": 5.0
+          },
+          {
+            "grade": 8,
+            "subject": "Science",
+            "proficiency_rate": 16.8
+          }
+        ],
+        "attendance": [
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "African Am.",
+            "Attendance Rate (%) (All Students)": "88.8",
+            "Days Attended/Days Members (All Students)": "32544.5/36662.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "White",
+            "Attendance Rate (%) (All Students)": "91.7",
+            "Days Attended/Days Members (All Students)": "91976.5/100271.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "2+",
+            "Attendance Rate (%) (All Students)": "90.8",
+            "Days Attended/Days Members (All Students)": "8753.5/9640.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Hispanic",
+            "Attendance Rate (%) (All Students)": "88.6",
+            "Days Attended/Days Members (All Students)": "53492.5/60374.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Asian",
+            "Attendance Rate (%) (All Students)": "93.8",
+            "Days Attended/Days Members (All Students)": "3884.5/4140.0"
+          }
+        ],
+        "student_groups": {
+          "ADA 504": {
+            "percentage": "8.7",
+            "count": "102",
+            "total": "1171"
+          },
+          "Eco Disadv": {
+            "percentage": "47.6",
+            "count": "557",
+            "total": "1171"
+          },
+          "FARMS": {
+            "percentage": "58.4",
+            "count": "684",
+            "total": "1171"
+          },
+          "ML": {
+            "percentage": "13.7",
+            "count": "161",
+            "total": "1171"
+          },
+          "Migrant": {
+            "percentage": "*",
+            "count": "*",
+            "total": "439"
+          },
+          "SWD": {
+            "percentage": "8.8",
+            "count": "103",
+            "total": "1171"
+          },
+          "Title 1": {
+            "percentage": "\u2265 95.0",
+            "count": "*",
+            "total": "439"
+          },
+          "Homeless": {
+            "percentage": "6.7",
+            "count": "78",
+            "total": "1171"
+          },
+          "Foster Care": {
+            "percentage": "*",
+            "count": "*",
+            "total": "1171"
+          }
+        }
+      },
+      {
+        "name": "Centreville Middle School",
+        "code": "0303",
+        "type": "Middle",
+        "enrollment": {
+          "total": 501,
+          "by_race": {
+            "Asian": {
+              "count": "*",
+              "percentage": "*"
+            },
+            "African Am.": {
+              "count": 38,
+              "percentage": 7.58
+            },
+            "Hispanic": {
+              "count": 41,
+              "percentage": 8.18
+            },
+            "White": {
+              "count": 385,
+              "percentage": 76.85
+            },
+            "2+": {
+              "count": 33,
+              "percentage": 6.59
+            }
+          },
+          "by_gender": {
+            "Male": {
+              "count": 255,
+              "percentage": 50.9
+            },
+            "Female": {
+              "count": 245,
+              "percentage": 48.9
+            }
+          }
+        },
+        "mcap_scores": [
+          {
+            "grade": 8,
+            "subject": "ELA",
+            "proficiency_rate": 48.3
+          },
+          {
+            "grade": 8,
+            "subject": "Math",
+            "proficiency_rate": 6.6
+          },
+          {
+            "grade": 8,
+            "subject": "Science",
+            "proficiency_rate": 44.3
+          }
+        ],
+        "attendance": [
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "African Am.",
+            "Attendance Rate (%) (All Students)": "90.6",
+            "Days Attended/Days Members (All Students)": "6330.0/6983.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "White",
+            "Attendance Rate (%) (All Students)": "93.4",
+            "Days Attended/Days Members (All Students)": "65006.5/69624.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "2+",
+            "Attendance Rate (%) (All Students)": "92.9",
+            "Days Attended/Days Members (All Students)": "5518.5/5940.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Hispanic",
+            "Attendance Rate (%) (All Students)": "94.1",
+            "Days Attended/Days Members (All Students)": "7014.5/7458.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Asian",
+            "Attendance Rate (%) (All Students)": "*",
+            "Days Attended/Days Members (All Students)": "*/*"
+          }
+        ],
+        "student_groups": {
+          "ADA 504": {
+            "percentage": "8.3",
+            "count": "42",
+            "total": "507"
+          },
+          "Eco Disadv": {
+            "percentage": "25.0",
+            "count": "127",
+            "total": "507"
+          },
+          "FARMS": {
+            "percentage": "34.3",
+            "count": "174",
+            "total": "507"
+          },
+          "ML": {
+            "percentage": "\u2264 5.0",
+            "count": "*",
+            "total": "507"
+          },
+          "SWD": {
+            "percentage": "9.5",
+            "count": "48",
+            "total": "507"
+          },
+          "Homeless": {
+            "percentage": "\u2264 5.0",
+            "count": "*",
+            "total": "507"
+          },
+          "Foster Care": {
+            "percentage": "*",
+            "count": "*",
+            "total": "507"
+          }
+        }
+      },
+      {
+        "name": "Matapeake Middle School",
+        "code": "0407",
+        "type": "Middle",
+        "enrollment": {
+          "total": 360,
+          "by_race": {
+            "Asian": {
+              "count": "*",
+              "percentage": "*"
+            },
+            "African Am.": {
+              "count": 12,
+              "percentage": 3.33
+            },
+            "Hispanic": {
+              "count": 38,
+              "percentage": 10.56
+            },
+            "White": {
+              "count": 284,
+              "percentage": 78.89
+            },
+            "Am.Ind/AK": {
+              "count": "*",
+              "percentage": "*"
+            },
+            "2+": {
+              "count": 22,
+              "percentage": 6.11
+            }
+          },
+          "by_gender": {
+            "Male": {
+              "count": 205,
+              "percentage": 56.94
+            },
+            "Female": {
+              "count": 155,
+              "percentage": 43.06
+            }
+          }
+        },
+        "mcap_scores": [
+          {
+            "grade": 8,
+            "subject": "ELA",
+            "proficiency_rate": 73.6
+          },
+          {
+            "grade": 8,
+            "subject": "Math",
+            "proficiency_rate": 22.5
+          },
+          {
+            "grade": 8,
+            "subject": "Science",
+            "proficiency_rate": 52.5
+          }
+        ],
+        "attendance": [
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "African Am.",
+            "Attendance Rate (%) (All Students)": "90.3",
+            "Days Attended/Days Members (All Students)": "1951.0/2160.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "White",
+            "Attendance Rate (%) (All Students)": "93.4",
+            "Days Attended/Days Members (All Students)": "47429.0/50784.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "2+",
+            "Attendance Rate (%) (All Students)": "86.8",
+            "Days Attended/Days Members (All Students)": "3308.5/3810.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Hispanic",
+            "Attendance Rate (%) (All Students)": "91.8",
+            "Days Attended/Days Members (All Students)": "6300.0/6860.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Am.Ind/AK",
+            "Attendance Rate (%) (All Students)": "*",
+            "Days Attended/Days Members (All Students)": "*/*"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Asian",
+            "Attendance Rate (%) (All Students)": "*",
+            "Days Attended/Days Members (All Students)": "*/*"
+          }
+        ],
+        "student_groups": {
+          "ADA 504": {
+            "percentage": "12.9",
+            "count": "46",
+            "total": "356"
+          },
+          "Eco Disadv": {
+            "percentage": "25.3",
+            "count": "90",
+            "total": "356"
+          },
+          "FARMS": {
+            "percentage": "31.2",
+            "count": "111",
+            "total": "356"
+          },
+          "ML": {
+            "percentage": "*",
+            "count": "*",
+            "total": "356"
+          },
+          "SWD": {
+            "percentage": "8.7",
+            "count": "31",
+            "total": "356"
+          },
+          "Homeless": {
+            "percentage": "*",
+            "count": "*",
+            "total": "356"
+          },
+          "Military": {
+            "percentage": "\u2264 5.0",
+            "count": "*",
+            "total": "356"
+          }
+        }
+      },
+      {
+        "name": "Stevensville Middle School",
+        "code": "0404",
+        "type": "Middle",
+        "enrollment": {
+          "total": 452,
+          "by_race": {
+            "Asian": {
+              "count": "*",
+              "percentage": "*"
+            },
+            "African Am.": {
+              "count": 29,
+              "percentage": 6.42
+            },
+            "Hispanic": {
+              "count": 59,
+              "percentage": 13.05
+            },
+            "White": {
+              "count": 331,
+              "percentage": 73.23
+            },
+            "2+": {
+              "count": 29,
+              "percentage": 6.42
+            }
+          },
+          "by_gender": {
+            "Male": {
+              "count": 223,
+              "percentage": 49.34
+            },
+            "Female": {
+              "count": 228,
+              "percentage": 50.44
+            }
+          }
+        },
+        "mcap_scores": [
+          {
+            "grade": 8,
+            "subject": "ELA",
+            "proficiency_rate": 55.2
+          },
+          {
+            "grade": 8,
+            "subject": "Math",
+            "proficiency_rate": 18.5
+          },
+          {
+            "grade": 8,
+            "subject": "Science",
+            "proficiency_rate": 42.9
+          }
+        ],
+        "attendance": [
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "African Am.",
+            "Attendance Rate (%) (All Students)": "90.9",
+            "Days Attended/Days Members (All Students)": "5083.5/5594.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "White",
+            "Attendance Rate (%) (All Students)": "92.6",
+            "Days Attended/Days Members (All Students)": "55220.0/59619.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "2+",
+            "Attendance Rate (%) (All Students)": "89.4",
+            "Days Attended/Days Members (All Students)": "4764.0/5329.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Hispanic",
+            "Attendance Rate (%) (All Students)": "90.4",
+            "Days Attended/Days Members (All Students)": "9831.0/10881.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Asian",
+            "Attendance Rate (%) (All Students)": "*",
+            "Days Attended/Days Members (All Students)": "*/*"
+          }
+        ],
+        "student_groups": {
+          "ADA 504": {
+            "percentage": "11.1",
+            "count": "51",
+            "total": "460"
+          },
+          "Eco Disadv": {
+            "percentage": "27.2",
+            "count": "125",
+            "total": "460"
+          },
+          "FARMS": {
+            "percentage": "38.5",
+            "count": "177",
+            "total": "460"
+          },
+          "ML": {
+            "percentage": "6.5",
+            "count": "30",
+            "total": "460"
+          },
+          "SWD": {
+            "percentage": "10.9",
+            "count": "50",
+            "total": "460"
+          },
+          "Homeless": {
+            "percentage": "\u2264 5.0",
+            "count": "*",
+            "total": "460"
+          },
+          "Military": {
+            "percentage": "\u2264 5.0",
+            "count": "*",
+            "total": "460"
+          }
+        }
+      },
+      {
+        "name": "Kent Island High School",
+        "code": "0405",
+        "type": "High",
+        "enrollment": {
+          "total": 1153,
+          "by_race": {
+            "Asian": {
+              "count": 15,
+              "percentage": 1.3
+            },
+            "African Am.": {
+              "count": 61,
+              "percentage": 5.29
+            },
+            "Hispanic": {
+              "count": 122,
+              "percentage": 10.58
+            },
+            "White": {
+              "count": 888,
+              "percentage": 77.02
+            },
+            "Am.Ind/AK": {
+              "count": "*",
+              "percentage": "*"
+            },
+            "HI/Pac.Isl.": {
+              "count": "*",
+              "percentage": "*"
+            },
+            "2+": {
+              "count": 63,
+              "percentage": 5.46
+            }
+          },
+          "by_gender": {
+            "Male": {
+              "count": 609,
+              "percentage": 52.82
+            },
+            "Female": {
+              "count": 544,
+              "percentage": 47.18
+            }
+          }
+        },
+        "mcap_scores": [
+          {
+            "grade": "High School",
+            "subject": "ELA",
+            "proficiency_rate": 75.9
+          },
+          {
+            "grade": "High School",
+            "subject": "Math (Algebra 1)",
+            "proficiency_rate": 5.1
+          },
+          {
+            "grade": "High School",
+            "subject": "Science",
+            "proficiency_rate": 53.1
+          }
+        ],
+        "attendance": [
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "African Am.",
+            "Attendance Rate (%) (All Students)": "90.8",
+            "Days Attended/Days Members (All Students)": "9877.5/10875.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "HI/Pac.Isl.",
+            "Attendance Rate (%) (All Students)": "*",
+            "Days Attended/Days Members (All Students)": "*/*"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "White",
+            "Attendance Rate (%) (All Students)": "92.8",
+            "Days Attended/Days Members (All Students)": "147943.0/159348.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "2+",
+            "Attendance Rate (%) (All Students)": "89.2",
+            "Days Attended/Days Members (All Students)": "10024.5/11234.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Hispanic",
+            "Attendance Rate (%) (All Students)": "90.7",
+            "Days Attended/Days Members (All Students)": "19760.5/21793.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Am.Ind/AK",
+            "Attendance Rate (%) (All Students)": "*",
+            "Days Attended/Days Members (All Students)": "*/*"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Asian",
+            "Attendance Rate (%) (All Students)": "\u2265 95.0",
+            "Days Attended/Days Members (All Students)": "*/*"
+          }
+        ],
+        "student_groups": {
+          "ADA 504": {
+            "percentage": "13.5",
+            "count": "156",
+            "total": "1152"
+          },
+          "Eco Disadv": {
+            "percentage": "24.1",
+            "count": "278",
+            "total": "1152"
+          },
+          "FARMS": {
+            "percentage": "30.8",
+            "count": "355",
+            "total": "1152"
+          },
+          "ML": {
+            "percentage": "\u2264 5.0",
+            "count": "*",
+            "total": "1152"
+          },
+          "SWD": {
+            "percentage": "7.5",
+            "count": "86",
+            "total": "1152"
+          },
+          "Homeless": {
+            "percentage": "\u2264 5.0",
+            "count": "*",
+            "total": "1152"
+          },
+          "Foster Care": {
+            "percentage": "*",
+            "count": "*",
+            "total": "1152"
+          }
+        }
+      },
+      {
+        "name": "Queen Anne's County High School",
+        "code": "0301",
+        "type": "High",
+        "enrollment": {
+          "total": 1145,
+          "by_race": {
+            "Asian": {
+              "count": 10,
+              "percentage": 0.87
+            },
+            "African Am.": {
+              "count": 97,
+              "percentage": 8.47
+            },
+            "Hispanic": {
+              "count": 154,
+              "percentage": 13.45
+            },
+            "White": {
+              "count": 825,
+              "percentage": 72.05
+            },
+            "Am.Ind/AK": {
+              "count": "*",
+              "percentage": "*"
+            },
+            "2+": {
+              "count": 58,
+              "percentage": 5.07
+            }
+          },
+          "by_gender": {
+            "Male": {
+              "count": 558,
+              "percentage": 48.73
+            },
+            "Female": {
+              "count": 587,
+              "percentage": 51.27
+            }
+          }
+        },
+        "mcap_scores": [
+          {
+            "grade": "High School",
+            "subject": "ELA",
+            "proficiency_rate": 69.5
+          },
+          {
+            "grade": "High School",
+            "subject": "Math (Algebra 1)",
+            "proficiency_rate": 6.2
+          },
+          {
+            "grade": "High School",
+            "subject": "Science",
+            "proficiency_rate": 46.6
+          }
+        ],
+        "attendance": [
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "African Am.",
+            "Attendance Rate (%) (All Students)": "88.1",
+            "Days Attended/Days Members (All Students)": "14690.5/16666.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "White",
+            "Attendance Rate (%) (All Students)": "91.9",
+            "Days Attended/Days Members (All Students)": "135773.5/147798.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "2+",
+            "Attendance Rate (%) (All Students)": "88.4",
+            "Days Attended/Days Members (All Students)": "8972.0/10153.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Hispanic",
+            "Attendance Rate (%) (All Students)": "89.2",
+            "Days Attended/Days Members (All Students)": "24827.5/27849.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Am.Ind/AK",
+            "Attendance Rate (%) (All Students)": "*",
+            "Days Attended/Days Members (All Students)": "*/*"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Asian",
+            "Attendance Rate (%) (All Students)": "90.0",
+            "Days Attended/Days Members (All Students)": "1620.5/1800.0"
+          }
+        ],
+        "student_groups": {
+          "ADA 504": {
+            "percentage": "7.4",
+            "count": "84",
+            "total": "1138"
+          },
+          "Eco Disadv": {
+            "percentage": "30.5",
+            "count": "347",
+            "total": "1138"
+          },
+          "FARMS": {
+            "percentage": "40.2",
+            "count": "458",
+            "total": "1138"
+          },
+          "ML": {
+            "percentage": "\u2264 5.0",
+            "count": "*",
+            "total": "1138"
+          },
+          "SWD": {
+            "percentage": "9.5",
+            "count": "108",
+            "total": "1138"
+          },
+          "Title 1": {
+            "percentage": "\u2265 95.0",
+            "count": "*",
+            "total": "594"
+          },
+          "Homeless": {
+            "percentage": "\u2264 5.0",
+            "count": "*",
+            "total": "1138"
+          },
+          "Migrant": {
+            "percentage": "*",
+            "count": "*",
+            "total": "1138"
+          }
+        }
+      }
+    ],
+    "county_summary": {
+      "total_enrollment": 22434,
+      "total_schools": 14,
+      "schools_by_type": {
+        "Elementary": 8,
+        "Middle": 4,
+        "High": 2
+      },
+      "demographics_total": {}
+    }
+  },
+  "talbot": {
+    "county_name": "Talbot",
+    "county_key": "talbot",
+    "budget_finances": {
+      "county": "Talbot County",
+      "core_fiscal": {
+        "county_operating_budget": 161117000,
+        "tcps_total_operating_budget": 91370448,
+        "county_local_appropriation": 32697702,
+        "state_aid": 48069432,
+        "federal_other": 10603314,
+        "pct_county_budget_to_schools": 20.3,
+        "local_share_pct": 35.8,
+        "state_share_pct": 55.6
+      },
+      "enrollment_per_pupil": {
+        "enrollment": 4300,
+        "total_per_pupil": 19238,
+        "local_per_pupil": 7600,
+        "state_per_pupil": 11180
+      },
+      "blueprint_drivers": {
+        "ccr": "Expanding under Blueprint",
+        "special_ed": "Rising costs across grades",
+        "pre_k": "Space and staffing pressure",
+        "career_ladder": "Multi-year salary obligations"
+      },
+      "capital_outlook": {
+        "short_term_1_3_years": "Limited upgrades",
+        "long_term_5_10_years": "Major modernization cycle likely"
+      },
+      "emerging_issues": [
+        "Hybrid revenue model",
+        "Blueprint mandates increasing operational costs",
+        "Capital needs beginning to accumulate"
+      ],
+      "narrative": "Talbot sits between the region\u2019s higher-wealth and lower-wealth districts. TCPS relies on strong state support plus a county surtax. Blueprint requirements\u2014CCR, career ladder, pre-K\u2014are steadily increasing costs. Capital needs are accumulating, pointing toward an upcoming modernization cycle."
+    },
+    "district_officials": [
+      {
+        "county": "Talbot",
+        "superintendent": "Dr. Sharon Pepukayi",
+        "website": "https://www.tcps.k12.md.us/",
+        "board_url": "https://www.tcps.k12.md.us/page/board-of-education",
+        "board_members": [
+          {
+            "name": "Emily Jackson",
+            "position": "President",
+            "district": "District 4"
+          },
+          {
+            "name": "Amy Dodson",
+            "position": "Vice President",
+            "district": "District 3"
+          },
+          {
+            "name": "Dyshekia W. M. Strawberry",
+            "position": "Board Member",
+            "district": "District 1"
+          },
+          {
+            "name": "Ann O'Connor",
+            "position": "Board Member",
+            "district": "District 2"
+          },
+          {
+            "name": "Karla Wieland-Cherry",
+            "position": "Board Member",
+            "district": "District 5"
+          },
+          {
+            "name": "Cynthia M. Jurrius",
+            "position": "Board Member",
+            "district": "District 6"
+          },
+          {
+            "name": "Deborah Bridges",
+            "position": "Board Member",
+            "district": "District 7"
+          }
+        ],
+        "note": "Board members serve by district. Specific election/appointment dates not publicly listed on board website."
+      }
+    ],
+    "schools": [
+      {
+        "name": "Chapel District Elementary",
+        "code": "0401",
+        "type": "Elementary",
+        "enrollment": {
+          "total": 359,
+          "by_race": {
+            "Asian": {
+              "count": "*",
+              "percentage": "*"
+            },
+            "African Am.": {
+              "count": 11,
+              "percentage": 3.06
+            },
+            "Hispanic": {
+              "count": 42,
+              "percentage": 11.7
+            },
+            "White": {
+              "count": 278,
+              "percentage": 77.44
+            },
+            "2+": {
+              "count": 26,
+              "percentage": 7.24
+            }
+          },
+          "by_gender": {
+            "Male": {
+              "count": 175,
+              "percentage": 48.75
+            },
+            "Female": {
+              "count": 184,
+              "percentage": 51.25
+            }
+          }
+        },
+        "mcap_scores": [
+          {
+            "grade": 5,
+            "subject": "ELA",
+            "proficiency_rate": 67.5
+          },
+          {
+            "grade": 5,
+            "subject": "Math",
+            "proficiency_rate": 55.0
+          },
+          {
+            "grade": 5,
+            "subject": "Science",
+            "proficiency_rate": 45.0
+          }
+        ],
+        "attendance": [
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "African Am.",
+            "Attendance Rate (%) (All Students)": "*",
+            "Days Attended/Days Members (All Students)": "*/*"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "White",
+            "Attendance Rate (%) (All Students)": "93.8",
+            "Days Attended/Days Members (All Students)": "33300.0/35505.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "2+",
+            "Attendance Rate (%) (All Students)": "\u2265 95.0",
+            "Days Attended/Days Members (All Students)": "*/*"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Hispanic",
+            "Attendance Rate (%) (All Students)": "92.8",
+            "Days Attended/Days Members (All Students)": "5155.0/5556.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Asian",
+            "Attendance Rate (%) (All Students)": "*",
+            "Days Attended/Days Members (All Students)": "*/*"
+          }
+        ],
+        "student_groups": {
+          "ADA 504": {
+            "percentage": "5.2",
+            "count": "19",
+            "total": "367"
+          },
+          "Eco Disadv": {
+            "percentage": "35.7",
+            "count": "131",
+            "total": "367"
+          },
+          "FARMS": {
+            "percentage": "42.0",
+            "count": "154",
+            "total": "367"
+          },
+          "ML": {
+            "percentage": "6.0",
+            "count": "22",
+            "total": "367"
+          },
+          "SWD": {
+            "percentage": "12.3",
+            "count": "45",
+            "total": "367"
+          },
+          "Title 1": {
+            "percentage": "22.6",
+            "count": "83",
+            "total": "367"
+          },
+          "Homeless": {
+            "percentage": "*",
+            "count": "*",
+            "total": "382"
+          },
+          "Migrant": {
+            "percentage": "*",
+            "count": "*",
+            "total": "367"
+          }
+        }
+      },
+      {
+        "name": "Easton Elementary",
+        "code": "0104",
+        "type": "Elementary",
+        "enrollment": {
+          "total": 1075,
+          "by_race": {
+            "Asian": {
+              "count": 35,
+              "percentage": 3.26
+            },
+            "African Am.": {
+              "count": 192,
+              "percentage": 17.86
+            },
+            "Hispanic": {
+              "count": 486,
+              "percentage": 45.21
+            },
+            "White": {
+              "count": 294,
+              "percentage": 27.35
+            },
+            "2+": {
+              "count": 68,
+              "percentage": 6.33
+            }
+          },
+          "by_gender": {
+            "Male": {
+              "count": 560,
+              "percentage": 52.09
+            },
+            "Female": {
+              "count": 515,
+              "percentage": 47.91
+            }
+          }
+        },
+        "mcap_scores": [
+          {
+            "grade": 5,
+            "subject": "ELA",
+            "proficiency_rate": 19.8
+          },
+          {
+            "grade": 5,
+            "subject": "Math",
+            "proficiency_rate": 11.9
+          },
+          {
+            "grade": 5,
+            "subject": "Science",
+            "proficiency_rate": 11.9
+          }
+        ],
+        "attendance": [
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "African Am.",
+            "Attendance Rate (%) (All Students)": "92.8",
+            "Days Attended/Days Members (All Students)": "24580.0/26488.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "White",
+            "Attendance Rate (%) (All Students)": "93.3",
+            "Days Attended/Days Members (All Students)": "32780.5/35133.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "2+",
+            "Attendance Rate (%) (All Students)": "90.4",
+            "Days Attended/Days Members (All Students)": "7124.0/7883.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Hispanic",
+            "Attendance Rate (%) (All Students)": "93.6",
+            "Days Attended/Days Members (All Students)": "60349.5/64484.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Asian",
+            "Attendance Rate (%) (All Students)": "\u2265 95.0",
+            "Days Attended/Days Members (All Students)": "*/*"
+          }
+        ],
+        "student_groups": {
+          "ADA 504": {
+            "percentage": "\u2264 5.0",
+            "count": "*",
+            "total": "1085"
+          },
+          "Eco Disadv": {
+            "percentage": "60.8",
+            "count": "660",
+            "total": "1085"
+          },
+          "FARMS": {
+            "percentage": "74.9",
+            "count": "813",
+            "total": "1085"
+          },
+          "ML": {
+            "percentage": "30.1",
+            "count": "327",
+            "total": "1085"
+          },
+          "SWD": {
+            "percentage": "13.1",
+            "count": "142",
+            "total": "1085"
+          },
+          "Title 1": {
+            "percentage": "\u2265 95.0",
+            "count": "*",
+            "total": "1085"
+          },
+          "Homeless": {
+            "percentage": "7.2",
+            "count": "78",
+            "total": "1085"
+          }
+        }
+      },
+      {
+        "name": "St. Michaels Elementary",
+        "code": "0204",
+        "type": "Elementary",
+        "enrollment": {
+          "total": 332,
+          "by_race": {
+            "Asian": {
+              "count": "*",
+              "percentage": "*"
+            },
+            "African Am.": {
+              "count": 44,
+              "percentage": 13.25
+            },
+            "Hispanic": {
+              "count": 33,
+              "percentage": 9.94
+            },
+            "White": {
+              "count": 234,
+              "percentage": 70.48
+            },
+            "Am.Ind/AK": {
+              "count": "*",
+              "percentage": "*"
+            },
+            "2+": {
+              "count": 16,
+              "percentage": 4.82
+            }
+          },
+          "by_gender": {
+            "Male": {
+              "count": 163,
+              "percentage": 49.1
+            },
+            "Female": {
+              "count": 169,
+              "percentage": 50.9
+            }
+          }
+        },
+        "mcap_scores": [
+          {
+            "grade": 5,
+            "subject": "ELA",
+            "proficiency_rate": 38.0
+          },
+          {
+            "grade": 5,
+            "subject": "Math",
+            "proficiency_rate": 26.0
+          },
+          {
+            "grade": 5,
+            "subject": "Science",
+            "proficiency_rate": 30.0
+          }
+        ],
+        "attendance": [
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "African Am.",
+            "Attendance Rate (%) (All Students)": "94.0",
+            "Days Attended/Days Members (All Students)": "5548.5/5902.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "White",
+            "Attendance Rate (%) (All Students)": "94.7",
+            "Days Attended/Days Members (All Students)": "29359.0/31018.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "2+",
+            "Attendance Rate (%) (All Students)": "94.7",
+            "Days Attended/Days Members (All Students)": "1704.0/1800.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Hispanic",
+            "Attendance Rate (%) (All Students)": "93.2",
+            "Days Attended/Days Members (All Students)": "4749.0/5098.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Asian",
+            "Attendance Rate (%) (All Students)": "*",
+            "Days Attended/Days Members (All Students)": "*/*"
+          }
+        ],
+        "student_groups": {
+          "ADA 504": {
+            "percentage": "8.9",
+            "count": "29",
+            "total": "327"
+          },
+          "Eco Disadv": {
+            "percentage": "43.4",
+            "count": "142",
+            "total": "327"
+          },
+          "FARMS": {
+            "percentage": "48.0",
+            "count": "157",
+            "total": "327"
+          },
+          "ML": {
+            "percentage": "\u2264 5.0",
+            "count": "*",
+            "total": "327"
+          },
+          "SWD": {
+            "percentage": "16.5",
+            "count": "54",
+            "total": "327"
+          },
+          "Title 1": {
+            "percentage": "\u2265 95.0",
+            "count": "*",
+            "total": "327"
+          },
+          "Homeless": {
+            "percentage": "*",
+            "count": "*",
+            "total": "327"
+          }
+        }
+      },
+      {
+        "name": "Tilghman Elementary",
+        "code": "0501",
+        "type": "Elementary",
+        "enrollment": {
+          "total": 99,
+          "by_race": {
+            "African Am.": {
+              "count": "*",
+              "percentage": "*"
+            },
+            "Hispanic": {
+              "count": "*",
+              "percentage": "*"
+            },
+            "White": {
+              "count": 92,
+              "percentage": 92.93
+            },
+            "2+": {
+              "count": "*",
+              "percentage": "*"
+            }
+          },
+          "by_gender": {
+            "Male": {
+              "count": 51,
+              "percentage": 51.52
+            },
+            "Female": {
+              "count": 48,
+              "percentage": 48.48
+            }
+          }
+        },
+        "mcap_scores": [
+          {
+            "grade": 5,
+            "subject": "ELA",
+            "proficiency_rate": 29.4
+          },
+          {
+            "grade": 5,
+            "subject": "Math",
+            "proficiency_rate": 5.9
+          },
+          {
+            "grade": 5,
+            "subject": "Science",
+            "proficiency_rate": 17.6
+          }
+        ],
+        "attendance": [
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "African Am.",
+            "Attendance Rate (%) (All Students)": "*",
+            "Days Attended/Days Members (All Students)": "*/*"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "White",
+            "Attendance Rate (%) (All Students)": "91.6",
+            "Days Attended/Days Members (All Students)": "11088.0/12105.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "2+",
+            "Attendance Rate (%) (All Students)": "*",
+            "Days Attended/Days Members (All Students)": "*/*"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Hispanic",
+            "Attendance Rate (%) (All Students)": "*",
+            "Days Attended/Days Members (All Students)": "*/*"
+          }
+        ],
+        "student_groups": {
+          "ADA 504": {
+            "percentage": "*",
+            "count": "*",
+            "total": "101"
+          },
+          "Eco Disadv": {
+            "percentage": "58.4",
+            "count": "59",
+            "total": "101"
+          },
+          "FARMS": {
+            "percentage": "63.4",
+            "count": "64",
+            "total": "101"
+          },
+          "ML": {
+            "percentage": "*",
+            "count": "*",
+            "total": "101"
+          },
+          "SWD": {
+            "percentage": "13.9",
+            "count": "14",
+            "total": "101"
+          },
+          "Title 1": {
+            "percentage": "27.7",
+            "count": "28",
+            "total": "101"
+          },
+          "Homeless": {
+            "percentage": "*",
+            "count": "*",
+            "total": "101"
+          }
+        }
+      },
+      {
+        "name": "White Marsh Elementary",
+        "code": "0302",
+        "type": "Elementary",
+        "enrollment": {
+          "total": 289,
+          "by_race": {
+            "Asian": {
+              "count": "*",
+              "percentage": "*"
+            },
+            "African Am.": {
+              "count": 32,
+              "percentage": 11.07
+            },
+            "Hispanic": {
+              "count": 55,
+              "percentage": 19.03
+            },
+            "White": {
+              "count": 178,
+              "percentage": 61.59
+            },
+            "2+": {
+              "count": 16,
+              "percentage": 5.54
+            }
+          },
+          "by_gender": {
+            "Male": {
+              "count": 141,
+              "percentage": 48.79
+            },
+            "Female": {
+              "count": 148,
+              "percentage": 51.21
+            }
+          }
+        },
+        "mcap_scores": [
+          {
+            "grade": 5,
+            "subject": "ELA",
+            "proficiency_rate": 58.5
+          },
+          {
+            "grade": 5,
+            "subject": "Math",
+            "proficiency_rate": 39.0
+          },
+          {
+            "grade": 5,
+            "subject": "Science",
+            "proficiency_rate": 41.5
+          }
+        ],
+        "attendance": [
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "African Am.",
+            "Attendance Rate (%) (All Students)": "93.8",
+            "Days Attended/Days Members (All Students)": "3715.0/3960.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "White",
+            "Attendance Rate (%) (All Students)": "94.1",
+            "Days Attended/Days Members (All Students)": "23946.0/25450.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "2+",
+            "Attendance Rate (%) (All Students)": "94.8",
+            "Days Attended/Days Members (All Students)": "1877.5/1980.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Hispanic",
+            "Attendance Rate (%) (All Students)": "93.0",
+            "Days Attended/Days Members (All Students)": "6197.0/6667.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Asian",
+            "Attendance Rate (%) (All Students)": "*",
+            "Days Attended/Days Members (All Students)": "*/*"
+          }
+        ],
+        "student_groups": {
+          "ADA 504": {
+            "percentage": "\u2264 5.0",
+            "count": "*",
+            "total": "285"
+          },
+          "Eco Disadv": {
+            "percentage": "46.3",
+            "count": "132",
+            "total": "285"
+          },
+          "FARMS": {
+            "percentage": "56.1",
+            "count": "160",
+            "total": "285"
+          },
+          "ML": {
+            "percentage": "11.6",
+            "count": "33",
+            "total": "285"
+          },
+          "Migrant": {
+            "percentage": "*",
+            "count": "*",
+            "total": "470"
+          },
+          "SWD": {
+            "percentage": "7.7",
+            "count": "22",
+            "total": "285"
+          },
+          "Homeless": {
+            "percentage": "5.3",
+            "count": "15",
+            "total": "285"
+          },
+          "Military": {
+            "percentage": "*",
+            "count": "*",
+            "total": "186"
+          },
+          "Title 1": {
+            "percentage": "\u2265 95.0",
+            "count": "*",
+            "total": "285"
+          }
+        }
+      },
+      {
+        "name": "Easton Middle",
+        "code": "0106",
+        "type": "Middle",
+        "enrollment": {
+          "total": 703,
+          "by_race": {
+            "Asian": {
+              "count": 10,
+              "percentage": 1.42
+            },
+            "African Am.": {
+              "count": 128,
+              "percentage": 18.21
+            },
+            "Hispanic": {
+              "count": 232,
+              "percentage": 33.0
+            },
+            "White": {
+              "count": 270,
+              "percentage": 38.41
+            },
+            "2+": {
+              "count": 63,
+              "percentage": 8.96
+            }
+          },
+          "by_gender": {
+            "Male": {
+              "count": 365,
+              "percentage": 51.92
+            },
+            "Female": {
+              "count": 338,
+              "percentage": 48.08
+            }
+          }
+        },
+        "mcap_scores": [
+          {
+            "grade": 8,
+            "subject": "ELA",
+            "proficiency_rate": 33.2
+          },
+          {
+            "grade": 8,
+            "subject": "Math",
+            "proficiency_rate": 5.2
+          },
+          {
+            "grade": 8,
+            "subject": "Science",
+            "proficiency_rate": 18.1
+          }
+        ],
+        "attendance": [
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "African Am.",
+            "Attendance Rate (%) (All Students)": "92.4",
+            "Days Attended/Days Members (All Students)": "21332.0/23085.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "White",
+            "Attendance Rate (%) (All Students)": "92.6",
+            "Days Attended/Days Members (All Students)": "44320.0/47870.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "2+",
+            "Attendance Rate (%) (All Students)": "91.7",
+            "Days Attended/Days Members (All Students)": "10717.5/11686.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Hispanic",
+            "Attendance Rate (%) (All Students)": "92.5",
+            "Days Attended/Days Members (All Students)": "38239.0/41357.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Asian",
+            "Attendance Rate (%) (All Students)": "*",
+            "Days Attended/Days Members (All Students)": "*/*"
+          }
+        ],
+        "student_groups": {
+          "ADA 504": {
+            "percentage": "8.0",
+            "count": "56",
+            "total": "698"
+          },
+          "Eco Disadv": {
+            "percentage": "54.7",
+            "count": "382",
+            "total": "698"
+          },
+          "FARMS": {
+            "percentage": "67.8",
+            "count": "473",
+            "total": "698"
+          },
+          "ML": {
+            "percentage": "15.8",
+            "count": "110",
+            "total": "698"
+          },
+          "Migrant": {
+            "percentage": "\u2264 5.0",
+            "count": "*",
+            "total": "309"
+          },
+          "SWD": {
+            "percentage": "13.3",
+            "count": "93",
+            "total": "698"
+          },
+          "Title 1": {
+            "percentage": "\u2265 95.0",
+            "count": "*",
+            "total": "309"
+          },
+          "Homeless": {
+            "percentage": "5.6",
+            "count": "39",
+            "total": "698"
+          },
+          "Foster Care": {
+            "percentage": "*",
+            "count": "*",
+            "total": "698"
+          }
+        }
+      },
+      {
+        "name": "St. Michaels Middle/High School",
+        "code": "0202",
+        "type": "High",
+        "enrollment": {
+          "total": 449,
+          "by_race": {
+            "Asian": {
+              "count": "*",
+              "percentage": "*"
+            },
+            "African Am.": {
+              "count": 53,
+              "percentage": 11.8
+            },
+            "Hispanic": {
+              "count": 50,
+              "percentage": 11.14
+            },
+            "White": {
+              "count": 309,
+              "percentage": 68.82
+            },
+            "2+": {
+              "count": 31,
+              "percentage": 6.9
+            }
+          },
+          "by_gender": {
+            "Male": {
+              "count": 246,
+              "percentage": 54.79
+            },
+            "Female": {
+              "count": 203,
+              "percentage": 45.21
+            }
+          }
+        },
+        "mcap_scores": [
+          {
+            "grade": 8,
+            "subject": "ELA",
+            "proficiency_rate": 49.2
+          },
+          {
+            "grade": 8,
+            "subject": "Math",
+            "proficiency_rate": 5.0
+          },
+          {
+            "grade": 8,
+            "subject": "Science",
+            "proficiency_rate": 23.8
+          },
+          {
+            "grade": "High School",
+            "subject": "ELA",
+            "proficiency_rate": 76.7
+          },
+          {
+            "grade": "High School",
+            "subject": "Math (Algebra 1)",
+            "proficiency_rate": 7.2
+          },
+          {
+            "grade": "High School",
+            "subject": "Science",
+            "proficiency_rate": 42.9
+          }
+        ],
+        "attendance": [
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "African Am.",
+            "Attendance Rate (%) (All Students)": "89.5",
+            "Days Attended/Days Members (All Students)": "8306.0/9280.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "White",
+            "Attendance Rate (%) (All Students)": "92.0",
+            "Days Attended/Days Members (All Students)": "50555.0/54948.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "2+",
+            "Attendance Rate (%) (All Students)": "92.2",
+            "Days Attended/Days Members (All Students)": "5171.0/5607.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Hispanic",
+            "Attendance Rate (%) (All Students)": "90.3",
+            "Days Attended/Days Members (All Students)": "7984.0/8846.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Asian",
+            "Attendance Rate (%) (All Students)": "*",
+            "Days Attended/Days Members (All Students)": "*/*"
+          }
+        ],
+        "student_groups": {
+          "ADA 504": {
+            "percentage": "12.7",
+            "count": "56",
+            "total": "440"
+          },
+          "Eco Disadv": {
+            "percentage": "41.6",
+            "count": "183",
+            "total": "440"
+          },
+          "FARMS": {
+            "percentage": "46.4",
+            "count": "204",
+            "total": "440"
+          },
+          "ML": {
+            "percentage": "\u2264 5.0",
+            "count": "*",
+            "total": "440"
+          },
+          "SWD": {
+            "percentage": "10.2",
+            "count": "45",
+            "total": "440"
+          },
+          "Title 1": {
+            "percentage": "\u2265 95.0",
+            "count": "*",
+            "total": "338"
+          },
+          "Homeless": {
+            "percentage": "*",
+            "count": "*",
+            "total": "440"
+          },
+          "Military": {
+            "percentage": "*",
+            "count": "*",
+            "total": "440"
+          }
+        }
+      },
+      {
+        "name": "Easton High",
+        "code": "0101",
+        "type": "High",
+        "enrollment": {
+          "total": 1179,
+          "by_race": {
+            "Asian": {
+              "count": 23,
+              "percentage": 1.95
+            },
+            "African Am.": {
+              "count": 208,
+              "percentage": 17.64
+            },
+            "Hispanic": {
+              "count": 334,
+              "percentage": 28.33
+            },
+            "White": {
+              "count": 561,
+              "percentage": 47.58
+            },
+            "2+": {
+              "count": 53,
+              "percentage": 4.5
+            }
+          },
+          "by_gender": {
+            "Male": {
+              "count": 613,
+              "percentage": 51.99
+            },
+            "Female": {
+              "count": 566,
+              "percentage": 48.01
+            }
+          }
+        },
+        "mcap_scores": [
+          {
+            "grade": "High School",
+            "subject": "ELA",
+            "proficiency_rate": 56.6
+          },
+          {
+            "grade": "High School",
+            "subject": "Math (Algebra 1)",
+            "proficiency_rate": 5.0
+          },
+          {
+            "grade": "High School",
+            "subject": "Science",
+            "proficiency_rate": 49.4
+          }
+        ],
+        "attendance": [
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "African Am.",
+            "Attendance Rate (%) (All Students)": "88.8",
+            "Days Attended/Days Members (All Students)": "32544.5/36662.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "White",
+            "Attendance Rate (%) (All Students)": "91.7",
+            "Days Attended/Days Members (All Students)": "91976.5/100271.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "2+",
+            "Attendance Rate (%) (All Students)": "90.8",
+            "Days Attended/Days Members (All Students)": "8753.5/9640.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Hispanic",
+            "Attendance Rate (%) (All Students)": "88.6",
+            "Days Attended/Days Members (All Students)": "53492.5/60374.0"
+          },
+          {
+            "Year": "2025",
+            "Race/Ethnicity": "Asian",
+            "Attendance Rate (%) (All Students)": "93.8",
+            "Days Attended/Days Members (All Students)": "3884.5/4140.0"
+          }
+        ],
+        "student_groups": {
+          "ADA 504": {
+            "percentage": "8.7",
+            "count": "102",
+            "total": "1171"
+          },
+          "Eco Disadv": {
+            "percentage": "47.6",
+            "count": "557",
+            "total": "1171"
+          },
+          "FARMS": {
+            "percentage": "58.4",
+            "count": "684",
+            "total": "1171"
+          },
+          "ML": {
+            "percentage": "13.7",
+            "count": "161",
+            "total": "1171"
+          },
+          "Migrant": {
+            "percentage": "*",
+            "count": "*",
+            "total": "439"
+          },
+          "SWD": {
+            "percentage": "8.8",
+            "count": "103",
+            "total": "1171"
+          },
+          "Title 1": {
+            "percentage": "\u2265 95.0",
+            "count": "*",
+            "total": "439"
+          },
+          "Homeless": {
+            "percentage": "6.7",
+            "count": "78",
+            "total": "1171"
+          },
+          "Foster Care": {
+            "percentage": "*",
+            "count": "*",
+            "total": "1171"
+          }
+        }
+      }
+    ],
+    "county_summary": {
+      "total_enrollment": 13455,
+      "total_schools": 8,
+      "schools_by_type": {
+        "Elementary": 5,
+        "Middle": 1,
+        "High": 2
+      },
+      "demographics_total": {}
+    }
+  }
+}

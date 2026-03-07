@@ -1,0 +1,989 @@
+[
+  {
+    "school_name": "Colonel Richardson High School (0801)",
+    "county": "Caroline",
+    "grade": "High School",
+    "subject": "ELA",
+    "proficiency_rate": 63.5
+  },
+  {
+    "school_name": "Colonel Richardson High School (0801)",
+    "county": "Caroline",
+    "grade": "High School",
+    "subject": "Math (Algebra 1)",
+    "proficiency_rate": 5.0
+  },
+  {
+    "school_name": "Colonel Richardson High School (0801)",
+    "county": "Caroline",
+    "grade": "High School",
+    "subject": "Science",
+    "proficiency_rate": 28.3
+  },
+  {
+    "school_name": "Colonel Richardson Middle School (0802)",
+    "county": "Caroline",
+    "grade": 8,
+    "subject": "ELA",
+    "proficiency_rate": 60.0
+  },
+  {
+    "school_name": "Colonel Richardson Middle School (0802)",
+    "county": "Caroline",
+    "grade": 8,
+    "subject": "Math",
+    "proficiency_rate": 5.9
+  },
+  {
+    "school_name": "Colonel Richardson Middle School (0802)",
+    "county": "Caroline",
+    "grade": 8,
+    "subject": "Science",
+    "proficiency_rate": 27.8
+  },
+  {
+    "school_name": "Denton Elementary School (0301)",
+    "county": "Caroline",
+    "grade": 5,
+    "subject": "ELA",
+    "proficiency_rate": 36.0
+  },
+  {
+    "school_name": "Denton Elementary School (0301)",
+    "county": "Caroline",
+    "grade": 5,
+    "subject": "Math",
+    "proficiency_rate": 25.8
+  },
+  {
+    "school_name": "Denton Elementary School (0301)",
+    "county": "Caroline",
+    "grade": 5,
+    "subject": "Science",
+    "proficiency_rate": 17.8
+  },
+  {
+    "school_name": "Federalsburg Elementary School (0501)",
+    "county": "Caroline",
+    "grade": 5,
+    "subject": "ELA",
+    "proficiency_rate": 26.5
+  },
+  {
+    "school_name": "Federalsburg Elementary School (0501)",
+    "county": "Caroline",
+    "grade": 5,
+    "subject": "Math",
+    "proficiency_rate": 16.7
+  },
+  {
+    "school_name": "Federalsburg Elementary School (0501)",
+    "county": "Caroline",
+    "grade": 5,
+    "subject": "Science",
+    "proficiency_rate": 8.0
+  },
+  {
+    "school_name": "Greensboro Elementary School (0201)",
+    "county": "Caroline",
+    "grade": 5,
+    "subject": "ELA",
+    "proficiency_rate": 42.5
+  },
+  {
+    "school_name": "Greensboro Elementary School (0201)",
+    "county": "Caroline",
+    "grade": 5,
+    "subject": "Math",
+    "proficiency_rate": 26.5
+  },
+  {
+    "school_name": "Greensboro Elementary School (0201)",
+    "county": "Caroline",
+    "grade": 5,
+    "subject": "Science",
+    "proficiency_rate": 26.1
+  },
+  {
+    "school_name": "Lockerman Middle School (0302)",
+    "county": "Caroline",
+    "grade": 8,
+    "subject": "ELA",
+    "proficiency_rate": 45.0
+  },
+  {
+    "school_name": "Lockerman Middle School (0302)",
+    "county": "Caroline",
+    "grade": 8,
+    "subject": "Math",
+    "proficiency_rate": 5.0
+  },
+  {
+    "school_name": "Lockerman Middle School (0302)",
+    "county": "Caroline",
+    "grade": 8,
+    "subject": "Science",
+    "proficiency_rate": 22.0
+  },
+  {
+    "school_name": "North Caroline High School (0703)",
+    "county": "Caroline",
+    "grade": "High School",
+    "subject": "ELA",
+    "proficiency_rate": 63.4
+  },
+  {
+    "school_name": "North Caroline High School (0703)",
+    "county": "Caroline",
+    "grade": "High School",
+    "subject": "Math (Algebra 1)",
+    "proficiency_rate": 5.2
+  },
+  {
+    "school_name": "North Caroline High School (0703)",
+    "county": "Caroline",
+    "grade": "High School",
+    "subject": "Science",
+    "proficiency_rate": 49.4
+  },
+  {
+    "school_name": "Preston Elementary School (0401)",
+    "county": "Caroline",
+    "grade": 5,
+    "subject": "ELA",
+    "proficiency_rate": 47.3
+  },
+  {
+    "school_name": "Preston Elementary School (0401)",
+    "county": "Caroline",
+    "grade": 5,
+    "subject": "Math",
+    "proficiency_rate": 38.2
+  },
+  {
+    "school_name": "Preston Elementary School (0401)",
+    "county": "Caroline",
+    "grade": 5,
+    "subject": "Science",
+    "proficiency_rate": 21.4
+  },
+  {
+    "school_name": "Ridgely Elementary School (0701)",
+    "county": "Caroline",
+    "grade": 5,
+    "subject": "ELA",
+    "proficiency_rate": 36.1
+  },
+  {
+    "school_name": "Ridgely Elementary School (0701)",
+    "county": "Caroline",
+    "grade": 5,
+    "subject": "Math",
+    "proficiency_rate": 26.4
+  },
+  {
+    "school_name": "Ridgely Elementary School (0701)",
+    "county": "Caroline",
+    "grade": 5,
+    "subject": "Science",
+    "proficiency_rate": 15.3
+  },
+  {
+    "school_name": "Cambridge-South Dorchester High School (0713)",
+    "county": "Dorchester",
+    "grade": "High School",
+    "subject": "ELA",
+    "proficiency_rate": 32.3
+  },
+  {
+    "school_name": "Cambridge-South Dorchester High School (0713)",
+    "county": "Dorchester",
+    "grade": "High School",
+    "subject": "Math (Algebra 1)",
+    "proficiency_rate": 5.0
+  },
+  {
+    "school_name": "Cambridge-South Dorchester High School (0713)",
+    "county": "Dorchester",
+    "grade": "High School",
+    "subject": "Science",
+    "proficiency_rate": 24.9
+  },
+  {
+    "school_name": "Choptank Elementary School (0716)",
+    "county": "Dorchester",
+    "grade": 5,
+    "subject": "ELA",
+    "proficiency_rate": 21.2
+  },
+  {
+    "school_name": "Choptank Elementary School (0716)",
+    "county": "Dorchester",
+    "grade": 5,
+    "subject": "Math",
+    "proficiency_rate": 5.0
+  },
+  {
+    "school_name": "Choptank Elementary School (0716)",
+    "county": "Dorchester",
+    "grade": 5,
+    "subject": "Science",
+    "proficiency_rate": 8.9
+  },
+  {
+    "school_name": "Hurlock Elementary School (1503)",
+    "county": "Dorchester",
+    "grade": 5,
+    "subject": "ELA",
+    "proficiency_rate": 43.3
+  },
+  {
+    "school_name": "Hurlock Elementary School (1503)",
+    "county": "Dorchester",
+    "grade": 5,
+    "subject": "Math",
+    "proficiency_rate": 23.8
+  },
+  {
+    "school_name": "Hurlock Elementary School (1503)",
+    "county": "Dorchester",
+    "grade": 5,
+    "subject": "Science",
+    "proficiency_rate": 21.3
+  },
+  {
+    "school_name": "Mace's Lane Middle School (0707)",
+    "county": "Dorchester",
+    "grade": 8,
+    "subject": "ELA",
+    "proficiency_rate": 27.5
+  },
+  {
+    "school_name": "Mace's Lane Middle School (0707)",
+    "county": "Dorchester",
+    "grade": 8,
+    "subject": "Math",
+    "proficiency_rate": 5.0
+  },
+  {
+    "school_name": "Mace's Lane Middle School (0707)",
+    "county": "Dorchester",
+    "grade": 8,
+    "subject": "Science",
+    "proficiency_rate": 6.5
+  },
+  {
+    "school_name": "Maple Elementary School (0711)",
+    "county": "Dorchester",
+    "grade": 5,
+    "subject": "ELA",
+    "proficiency_rate": 32.1
+  },
+  {
+    "school_name": "Maple Elementary School (0711)",
+    "county": "Dorchester",
+    "grade": 5,
+    "subject": "Math",
+    "proficiency_rate": 5.1
+  },
+  {
+    "school_name": "Maple Elementary School (0711)",
+    "county": "Dorchester",
+    "grade": 5,
+    "subject": "Science",
+    "proficiency_rate": 5.0
+  },
+  {
+    "school_name": "North Dorchester High School (0207)",
+    "county": "Dorchester",
+    "grade": "High School",
+    "subject": "ELA",
+    "proficiency_rate": 39.1
+  },
+  {
+    "school_name": "North Dorchester High School (0207)",
+    "county": "Dorchester",
+    "grade": "High School",
+    "subject": "Math (Algebra 1)",
+    "proficiency_rate": 5.0
+  },
+  {
+    "school_name": "North Dorchester High School (0207)",
+    "county": "Dorchester",
+    "grade": "High School",
+    "subject": "Science",
+    "proficiency_rate": 38.6
+  },
+  {
+    "school_name": "North Dorchester Middle School (0208)",
+    "county": "Dorchester",
+    "grade": 8,
+    "subject": "ELA",
+    "proficiency_rate": 52.7
+  },
+  {
+    "school_name": "North Dorchester Middle School (0208)",
+    "county": "Dorchester",
+    "grade": 8,
+    "subject": "Math",
+    "proficiency_rate": 14.9
+  },
+  {
+    "school_name": "North Dorchester Middle School (0208)",
+    "county": "Dorchester",
+    "grade": 8,
+    "subject": "Science",
+    "proficiency_rate": 24.6
+  },
+  {
+    "school_name": "Sandy Hill Elementary School (0710)",
+    "county": "Dorchester",
+    "grade": 5,
+    "subject": "ELA",
+    "proficiency_rate": 20.9
+  },
+  {
+    "school_name": "Sandy Hill Elementary School (0710)",
+    "county": "Dorchester",
+    "grade": 5,
+    "subject": "Math",
+    "proficiency_rate": 9.3
+  },
+  {
+    "school_name": "Sandy Hill Elementary School (0710)",
+    "county": "Dorchester",
+    "grade": 5,
+    "subject": "Science",
+    "proficiency_rate": 9.1
+  },
+  {
+    "school_name": "Vienna Elementary School (0302)",
+    "county": "Dorchester",
+    "grade": 5,
+    "subject": "ELA",
+    "proficiency_rate": 59.3
+  },
+  {
+    "school_name": "Vienna Elementary School (0302)",
+    "county": "Dorchester",
+    "grade": 5,
+    "subject": "Math",
+    "proficiency_rate": 25.9
+  },
+  {
+    "school_name": "Vienna Elementary School (0302)",
+    "county": "Dorchester",
+    "grade": 5,
+    "subject": "Science",
+    "proficiency_rate": 18.5
+  },
+  {
+    "school_name": "Warwick Elementary School (0205)",
+    "county": "Dorchester",
+    "grade": 5,
+    "subject": "ELA",
+    "proficiency_rate": 51.1
+  },
+  {
+    "school_name": "Warwick Elementary School (0205)",
+    "county": "Dorchester",
+    "grade": 5,
+    "subject": "Math",
+    "proficiency_rate": 40.4
+  },
+  {
+    "school_name": "Warwick Elementary School (0205)",
+    "county": "Dorchester",
+    "grade": 5,
+    "subject": "Science",
+    "proficiency_rate": 34.0
+  },
+  {
+    "school_name": "Galena Elementary School (0105)",
+    "county": "Kent",
+    "grade": 5,
+    "subject": "ELA",
+    "proficiency_rate": 27.0
+  },
+  {
+    "school_name": "Galena Elementary School (0105)",
+    "county": "Kent",
+    "grade": 5,
+    "subject": "Math",
+    "proficiency_rate": 8.3
+  },
+  {
+    "school_name": "Galena Elementary School (0105)",
+    "county": "Kent",
+    "grade": 5,
+    "subject": "Science",
+    "proficiency_rate": 10.5
+  },
+  {
+    "school_name": "H. H. Garnett Elementary (0403)",
+    "county": "Kent",
+    "grade": 5,
+    "subject": "ELA",
+    "proficiency_rate": 47.2
+  },
+  {
+    "school_name": "H. H. Garnett Elementary (0403)",
+    "county": "Kent",
+    "grade": 5,
+    "subject": "Math",
+    "proficiency_rate": 15.1
+  },
+  {
+    "school_name": "H. H. Garnett Elementary (0403)",
+    "county": "Kent",
+    "grade": 5,
+    "subject": "Science",
+    "proficiency_rate": 11.3
+  },
+  {
+    "school_name": "Kent County High (0301)",
+    "county": "Kent",
+    "grade": "High School",
+    "subject": "ELA",
+    "proficiency_rate": 53.5
+  },
+  {
+    "school_name": "Kent County High (0301)",
+    "county": "Kent",
+    "grade": "High School",
+    "subject": "Math (Algebra 1)",
+    "proficiency_rate": 6.1
+  },
+  {
+    "school_name": "Kent County High (0301)",
+    "county": "Kent",
+    "grade": "High School",
+    "subject": "Science",
+    "proficiency_rate": 27.7
+  },
+  {
+    "school_name": "Kent County Middle School (0402)",
+    "county": "Kent",
+    "grade": 8,
+    "subject": "ELA",
+    "proficiency_rate": 25.0
+  },
+  {
+    "school_name": "Kent County Middle School (0402)",
+    "county": "Kent",
+    "grade": 8,
+    "subject": "Math",
+    "proficiency_rate": 5.0
+  },
+  {
+    "school_name": "Kent County Middle School (0402)",
+    "county": "Kent",
+    "grade": 8,
+    "subject": "Science",
+    "proficiency_rate": 16.8
+  },
+  {
+    "school_name": "Rock Hall Elementary (0504)",
+    "county": "Kent",
+    "grade": 5,
+    "subject": "ELA",
+    "proficiency_rate": 36.0
+  },
+  {
+    "school_name": "Rock Hall Elementary (0504)",
+    "county": "Kent",
+    "grade": 5,
+    "subject": "Math",
+    "proficiency_rate": 36.0
+  },
+  {
+    "school_name": "Rock Hall Elementary (0504)",
+    "county": "Kent",
+    "grade": 5,
+    "subject": "Science",
+    "proficiency_rate": 58.3
+  },
+  {
+    "school_name": "Bayside Elementary School (0403)",
+    "county": "Queen Anne's",
+    "grade": 5,
+    "subject": "ELA",
+    "proficiency_rate": 59.7
+  },
+  {
+    "school_name": "Bayside Elementary School (0403)",
+    "county": "Queen Anne's",
+    "grade": 5,
+    "subject": "Math",
+    "proficiency_rate": 50.0
+  },
+  {
+    "school_name": "Bayside Elementary School (0403)",
+    "county": "Queen Anne's",
+    "grade": 5,
+    "subject": "Science",
+    "proficiency_rate": 44.1
+  },
+  {
+    "school_name": "Centreville Elementary School (0308)",
+    "county": "Queen Anne's",
+    "grade": 5,
+    "subject": "ELA",
+    "proficiency_rate": null
+  },
+  {
+    "school_name": "Centreville Elementary School (0308)",
+    "county": "Queen Anne's",
+    "grade": 5,
+    "subject": "Math",
+    "proficiency_rate": null
+  },
+  {
+    "school_name": "Centreville Elementary School (0308)",
+    "county": "Queen Anne's",
+    "grade": 5,
+    "subject": "Science",
+    "proficiency_rate": null
+  },
+  {
+    "school_name": "Centreville Middle School (0303)",
+    "county": "Queen Anne's",
+    "grade": 8,
+    "subject": "ELA",
+    "proficiency_rate": 48.3
+  },
+  {
+    "school_name": "Centreville Middle School (0303)",
+    "county": "Queen Anne's",
+    "grade": 8,
+    "subject": "Math",
+    "proficiency_rate": 6.6
+  },
+  {
+    "school_name": "Centreville Middle School (0303)",
+    "county": "Queen Anne's",
+    "grade": 8,
+    "subject": "Science",
+    "proficiency_rate": 44.3
+  },
+  {
+    "school_name": "Church Hill Elementary School (0202)",
+    "county": "Queen Anne's",
+    "grade": 5,
+    "subject": "ELA",
+    "proficiency_rate": 45.3
+  },
+  {
+    "school_name": "Church Hill Elementary School (0202)",
+    "county": "Queen Anne's",
+    "grade": 5,
+    "subject": "Math",
+    "proficiency_rate": 39.6
+  },
+  {
+    "school_name": "Church Hill Elementary School (0202)",
+    "county": "Queen Anne's",
+    "grade": 5,
+    "subject": "Science",
+    "proficiency_rate": null
+  },
+  {
+    "school_name": "Grasonville Elementary School (0503)",
+    "county": "Queen Anne's",
+    "grade": 5,
+    "subject": "ELA",
+    "proficiency_rate": 43.2
+  },
+  {
+    "school_name": "Grasonville Elementary School (0503)",
+    "county": "Queen Anne's",
+    "grade": 5,
+    "subject": "Math",
+    "proficiency_rate": 40.9
+  },
+  {
+    "school_name": "Grasonville Elementary School (0503)",
+    "county": "Queen Anne's",
+    "grade": 5,
+    "subject": "Science",
+    "proficiency_rate": 25.3
+  },
+  {
+    "school_name": "Kennard Elementary School (0302)",
+    "county": "Queen Anne's",
+    "grade": 5,
+    "subject": "ELA",
+    "proficiency_rate": 49.7
+  },
+  {
+    "school_name": "Kennard Elementary School (0302)",
+    "county": "Queen Anne's",
+    "grade": 5,
+    "subject": "Math",
+    "proficiency_rate": 36.7
+  },
+  {
+    "school_name": "Kennard Elementary School (0302)",
+    "county": "Queen Anne's",
+    "grade": 5,
+    "subject": "Science",
+    "proficiency_rate": 27.9
+  },
+  {
+    "school_name": "Kent Island Elementary School (0402)",
+    "county": "Queen Anne's",
+    "grade": 5,
+    "subject": "ELA",
+    "proficiency_rate": null
+  },
+  {
+    "school_name": "Kent Island Elementary School (0402)",
+    "county": "Queen Anne's",
+    "grade": 5,
+    "subject": "Math",
+    "proficiency_rate": null
+  },
+  {
+    "school_name": "Kent Island Elementary School (0402)",
+    "county": "Queen Anne's",
+    "grade": 5,
+    "subject": "Science",
+    "proficiency_rate": null
+  },
+  {
+    "school_name": "Kent Island High School (0405)",
+    "county": "Queen Anne's",
+    "grade": "High School",
+    "subject": "ELA",
+    "proficiency_rate": 75.9
+  },
+  {
+    "school_name": "Kent Island High School (0405)",
+    "county": "Queen Anne's",
+    "grade": "High School",
+    "subject": "Math (Algebra 1)",
+    "proficiency_rate": 5.1
+  },
+  {
+    "school_name": "Kent Island High School (0405)",
+    "county": "Queen Anne's",
+    "grade": "High School",
+    "subject": "Science",
+    "proficiency_rate": 53.1
+  },
+  {
+    "school_name": "Matapeake Elementary School (0406)",
+    "county": "Queen Anne's",
+    "grade": 5,
+    "subject": "ELA",
+    "proficiency_rate": 58.6
+  },
+  {
+    "school_name": "Matapeake Elementary School (0406)",
+    "county": "Queen Anne's",
+    "grade": 5,
+    "subject": "Math",
+    "proficiency_rate": 42.9
+  },
+  {
+    "school_name": "Matapeake Elementary School (0406)",
+    "county": "Queen Anne's",
+    "grade": 5,
+    "subject": "Science",
+    "proficiency_rate": 31.4
+  },
+  {
+    "school_name": "Matapeake Middle School (0407)",
+    "county": "Queen Anne's",
+    "grade": 8,
+    "subject": "ELA",
+    "proficiency_rate": 73.6
+  },
+  {
+    "school_name": "Matapeake Middle School (0407)",
+    "county": "Queen Anne's",
+    "grade": 8,
+    "subject": "Math",
+    "proficiency_rate": 22.5
+  },
+  {
+    "school_name": "Matapeake Middle School (0407)",
+    "county": "Queen Anne's",
+    "grade": 8,
+    "subject": "Science",
+    "proficiency_rate": 52.5
+  },
+  {
+    "school_name": "Queen Anne's County High School (0301)",
+    "county": "Queen Anne's",
+    "grade": "High School",
+    "subject": "ELA",
+    "proficiency_rate": 69.5
+  },
+  {
+    "school_name": "Queen Anne's County High School (0301)",
+    "county": "Queen Anne's",
+    "grade": "High School",
+    "subject": "Math (Algebra 1)",
+    "proficiency_rate": 6.2
+  },
+  {
+    "school_name": "Queen Anne's County High School (0301)",
+    "county": "Queen Anne's",
+    "grade": "High School",
+    "subject": "Science",
+    "proficiency_rate": 46.6
+  },
+  {
+    "school_name": "Stevensville Middle School (0404)",
+    "county": "Queen Anne's",
+    "grade": 8,
+    "subject": "ELA",
+    "proficiency_rate": 55.2
+  },
+  {
+    "school_name": "Stevensville Middle School (0404)",
+    "county": "Queen Anne's",
+    "grade": 8,
+    "subject": "Math",
+    "proficiency_rate": 18.5
+  },
+  {
+    "school_name": "Stevensville Middle School (0404)",
+    "county": "Queen Anne's",
+    "grade": 8,
+    "subject": "Science",
+    "proficiency_rate": 42.9
+  },
+  {
+    "school_name": "Sudlersville Elementary School (0106)",
+    "county": "Queen Anne's",
+    "grade": 5,
+    "subject": "ELA",
+    "proficiency_rate": 18.3
+  },
+  {
+    "school_name": "Sudlersville Elementary School (0106)",
+    "county": "Queen Anne's",
+    "grade": 5,
+    "subject": "Math",
+    "proficiency_rate": 20.0
+  },
+  {
+    "school_name": "Sudlersville Elementary School (0106)",
+    "county": "Queen Anne's",
+    "grade": 5,
+    "subject": "Science",
+    "proficiency_rate": null
+  },
+  {
+    "school_name": "Sudlersville Middle School (0101)",
+    "county": "Queen Anne's",
+    "grade": 8,
+    "subject": "ELA",
+    "proficiency_rate": 46.2
+  },
+  {
+    "school_name": "Sudlersville Middle School (0101)",
+    "county": "Queen Anne's",
+    "grade": 8,
+    "subject": "Math",
+    "proficiency_rate": 5.0
+  },
+  {
+    "school_name": "Sudlersville Middle School (0101)",
+    "county": "Queen Anne's",
+    "grade": 8,
+    "subject": "Science",
+    "proficiency_rate": 16.8
+  },
+  {
+    "school_name": "Chapel District Elementary (0401)",
+    "county": "Talbot",
+    "grade": 5,
+    "subject": "ELA",
+    "proficiency_rate": 67.5
+  },
+  {
+    "school_name": "Chapel District Elementary (0401)",
+    "county": "Talbot",
+    "grade": 5,
+    "subject": "Math",
+    "proficiency_rate": 55.0
+  },
+  {
+    "school_name": "Chapel District Elementary (0401)",
+    "county": "Talbot",
+    "grade": 5,
+    "subject": "Science",
+    "proficiency_rate": 45.0
+  },
+  {
+    "school_name": "Easton Elementary (0104)",
+    "county": "Talbot",
+    "grade": 5,
+    "subject": "ELA",
+    "proficiency_rate": 19.8
+  },
+  {
+    "school_name": "Easton Elementary (0104)",
+    "county": "Talbot",
+    "grade": 5,
+    "subject": "Math",
+    "proficiency_rate": 11.9
+  },
+  {
+    "school_name": "Easton Elementary (0104)",
+    "county": "Talbot",
+    "grade": 5,
+    "subject": "Science",
+    "proficiency_rate": 11.9
+  },
+  {
+    "school_name": "Easton High (0101)",
+    "county": "Talbot",
+    "grade": "High School",
+    "subject": "ELA",
+    "proficiency_rate": 56.6
+  },
+  {
+    "school_name": "Easton High (0101)",
+    "county": "Talbot",
+    "grade": "High School",
+    "subject": "Math (Algebra 1)",
+    "proficiency_rate": 5.0
+  },
+  {
+    "school_name": "Easton High (0101)",
+    "county": "Talbot",
+    "grade": "High School",
+    "subject": "Science",
+    "proficiency_rate": 49.4
+  },
+  {
+    "school_name": "Easton Middle (0106)",
+    "county": "Talbot",
+    "grade": 8,
+    "subject": "ELA",
+    "proficiency_rate": 33.2
+  },
+  {
+    "school_name": "Easton Middle (0106)",
+    "county": "Talbot",
+    "grade": 8,
+    "subject": "Math",
+    "proficiency_rate": 5.2
+  },
+  {
+    "school_name": "Easton Middle (0106)",
+    "county": "Talbot",
+    "grade": 8,
+    "subject": "Science",
+    "proficiency_rate": 18.1
+  },
+  {
+    "school_name": "St. Michaels Elementary (0204)",
+    "county": "Talbot",
+    "grade": 5,
+    "subject": "ELA",
+    "proficiency_rate": 38.0
+  },
+  {
+    "school_name": "St. Michaels Elementary (0204)",
+    "county": "Talbot",
+    "grade": 5,
+    "subject": "Math",
+    "proficiency_rate": 26.0
+  },
+  {
+    "school_name": "St. Michaels Elementary (0204)",
+    "county": "Talbot",
+    "grade": 5,
+    "subject": "Science",
+    "proficiency_rate": 30.0
+  },
+  {
+    "school_name": "Tilghman Elementary (0501)",
+    "county": "Talbot",
+    "grade": 5,
+    "subject": "ELA",
+    "proficiency_rate": 29.4
+  },
+  {
+    "school_name": "Tilghman Elementary (0501)",
+    "county": "Talbot",
+    "grade": 5,
+    "subject": "Math",
+    "proficiency_rate": 5.9
+  },
+  {
+    "school_name": "Tilghman Elementary (0501)",
+    "county": "Talbot",
+    "grade": 5,
+    "subject": "Science",
+    "proficiency_rate": 17.6
+  },
+  {
+    "school_name": "White Marsh Elementary (0302)",
+    "county": "Talbot",
+    "grade": 5,
+    "subject": "ELA",
+    "proficiency_rate": 58.5
+  },
+  {
+    "school_name": "White Marsh Elementary (0302)",
+    "county": "Talbot",
+    "grade": 5,
+    "subject": "Math",
+    "proficiency_rate": 39.0
+  },
+  {
+    "school_name": "White Marsh Elementary (0302)",
+    "county": "Talbot",
+    "grade": 5,
+    "subject": "Science",
+    "proficiency_rate": 41.5
+  },
+  {
+    "school_name": "St. Michaels Middle/High School (0202)",
+    "county": "Talbot",
+    "grade": 8,
+    "subject": "ELA",
+    "proficiency_rate": 49.2
+  },
+  {
+    "school_name": "St. Michaels Middle/High School (0202)",
+    "county": "Talbot",
+    "grade": 8,
+    "subject": "Math",
+    "proficiency_rate": 5.0
+  },
+  {
+    "school_name": "St. Michaels Middle/High School (0202)",
+    "county": "Talbot",
+    "grade": 8,
+    "subject": "Science",
+    "proficiency_rate": 23.8
+  },
+  {
+    "school_name": "St. Michaels Middle/High School (0202)",
+    "county": "Talbot",
+    "grade": "High School",
+    "subject": "ELA",
+    "proficiency_rate": 76.7
+  },
+  {
+    "school_name": "St. Michaels Middle/High School (0202)",
+    "county": "Talbot",
+    "grade": "High School",
+    "subject": "Math (Algebra 1)",
+    "proficiency_rate": 7.2
+  },
+  {
+    "school_name": "St. Michaels Middle/High School (0202)",
+    "county": "Talbot",
+    "grade": "High School",
+    "subject": "Science",
+    "proficiency_rate": 42.9
+  }
+]

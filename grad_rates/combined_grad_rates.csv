@@ -1,0 +1,76 @@
+year,county,race,graduation_rate
+2020,Caroline,Black,83.61
+2020,Caroline,Hispanic,73.85
+2020,Caroline,White,91.83
+2020,Dorchester,Black,65.22
+2020,Dorchester,Hispanic,77.27
+2020,Dorchester,White,89.04
+2020,Kent,Black,94.44
+2020,Kent,Hispanic,*
+2020,Kent,White,94.32
+2020,Queen Annes,Black,88.64
+2020,Queen Annes,Hispanic,84.44
+2020,Queen Annes,White,>= 95.00
+2020,Talbot,Black,>= 95.00
+2020,Talbot,Hispanic,87.76
+2020,Talbot,White,>= 95.00
+2021,Caroline,Black,85.07
+2021,Caroline,Hispanic,75.00
+2021,Caroline,White,94.51
+2021,Dorchester,Black,66.67
+2021,Dorchester,Hispanic,86.96
+2021,Dorchester,White,90.00
+2021,Kent,Black,>= 95.00
+2021,Kent,Hispanic,85.71
+2021,Kent,White,>= 95.00
+2021,Queen Annes,Black,90.70
+2021,Queen Annes,Hispanic,84.62
+2021,Queen Annes,White,>= 95.00
+2021,Talbot,Black,93.62
+2021,Talbot,Hispanic,91.18
+2021,Talbot,White,>= 95.00
+2022,Caroline,Black,87.72
+2022,Caroline,Hispanic,65.82
+2022,Caroline,White,91.03
+2022,Dorchester,Black,72.81
+2022,Dorchester,Hispanic,81.48
+2022,Dorchester,White,88.96
+2022,Kent,Black,>= 95.00
+2022,Kent,Hispanic,90.91
+2022,Kent,White,91.95
+2022,Queen Annes,Black,90.00
+2022,Queen Annes,Hispanic,75.51
+2022,Queen Annes,White,>= 95.00
+2022,Talbot,Black,>= 95.00
+2022,Talbot,Hispanic,93.65
+2022,Talbot,White,>= 95.00
+2023,Caroline,Black,85.94
+2023,Caroline,Hispanic,71.83
+2023,Caroline,White,90.76
+2023,Dorchester,Black,77.48
+2023,Dorchester,Hispanic,>= 95.00
+2023,Dorchester,White,90.34
+2023,Kent,Black,>= 95.00
+2023,Kent,Hispanic,93.75
+2023,Kent,White,94.25
+2023,Queen Annes,Black,88.00
+2023,Queen Annes,Hispanic,84.91
+2023,Queen Annes,White,>= 95.00
+2023,Talbot,Black,>= 95.00
+2023,Talbot,Hispanic,>= 95.00
+2023,Talbot,White,>= 95.00
+2024,Caroline,Black,85.71
+2024,Caroline,Hispanic,74.67
+2024,Caroline,White,91.80
+2024,Dorchester,Black,77.63
+2024,Dorchester,Hispanic,83.33
+2024,Dorchester,White,89.93
+2024,Kent,Black,>= 95.00
+2024,Kent,Hispanic,80.95
+2024,Kent,White,93.02
+2024,Queen Annes,Black,94.59
+2024,Queen Annes,Hispanic,92.31
+2024,Queen Annes,White,>= 95.00
+2024,Talbot,Black,>= 95.00
+2024,Talbot,Hispanic,>= 95.00
+2024,Talbot,White,>= 95.00

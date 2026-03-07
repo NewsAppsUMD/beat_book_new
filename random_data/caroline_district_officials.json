@@ -1,0 +1,48 @@
+[
+  {
+    "county": "Caroline",
+    "superintendent": "Derek L. Simmons",
+    "website": "https://www.carolineschools.org/",
+    "board_url": "https://www.carolineschools.org/o/ccps/page/board#members",
+    "board_members": [
+      {
+        "name": "Arevia Michele Wayman",
+        "position": "President",
+        "type": "Appointed",
+        "appointed": "2021, reappointed 2022",
+        "term": "Ends 2026"
+      },
+      {
+        "name": "Mark R. Jones",
+        "position": "Vice President",
+        "type": "Appointed",
+        "appointed": "2020, reappointed 2024",
+        "term": "Ends 2028"
+      },
+      {
+        "name": "Chrissy Bartz",
+        "position": "Member",
+        "type": "Elected",
+        "appointed": "July 2024",
+        "elected": "November 2024",
+        "term": "Ends 2028"
+      },
+      {
+        "name": "Stefanie Johnson",
+        "position": "Member",
+        "type": "Elected",
+        "district": "District 2",
+        "elected": "November 2024",
+        "term": "Ends 2028"
+      },
+      {
+        "name": "P. Troy Plutschak",
+        "position": "Member",
+        "type": "Elected",
+        "elected": "2022",
+        "term": "Ends 2026"
+      }
+    ],
+    "note": "Board has 3 elected members (one from each district), 2 appointed by governor, and 2 non-voting student members (one from each high school). All serve 4-year terms except students who serve 1 year."
+  }
+]

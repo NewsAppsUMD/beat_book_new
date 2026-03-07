@@ -1,0 +1,3475 @@
+{
+  "county_name": "Queen Annes",
+  "county_code": "17",
+  "elementary_schools": [
+    {
+      "school_name": "Bayside Elementary School",
+      "school_code": "0403",
+      "county_code": "17",
+      "county_name": "Queen Anne's County",
+      "summary": {},
+      "enrollment": [
+        {
+          "category": "Race/Ethnicity",
+          "group": "All Students",
+          "enrollment": 368,
+          "year": "2025",
+          "percentage": 100.0
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "Asian",
+          "enrollment": 14,
+          "year": "2025",
+          "percentage": 3.8
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "African Am.",
+          "enrollment": "*",
+          "year": "2025",
+          "percentage": "*"
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "Hispanic",
+          "enrollment": 45,
+          "year": "2025",
+          "percentage": 12.23
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "White",
+          "enrollment": 280,
+          "year": "2025",
+          "percentage": 76.09
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "2+",
+          "enrollment": 23,
+          "year": "2025",
+          "percentage": 6.25
+        },
+        {
+          "category": "Gender",
+          "group": "All Students",
+          "enrollment": 368,
+          "year": "2025",
+          "percentage": 100.0
+        },
+        {
+          "category": "Gender",
+          "group": "Male",
+          "enrollment": 193,
+          "year": "2025",
+          "percentage": 52.45
+        },
+        {
+          "category": "Gender",
+          "group": "Female",
+          "enrollment": 175,
+          "year": "2025",
+          "percentage": 47.55
+        },
+        {
+          "category": "Grade",
+          "group": "All Students",
+          "enrollment": 368,
+          "year": "2025",
+          "percentage": 100.0
+        },
+        {
+          "category": "Grade",
+          "group": "Grade 3",
+          "enrollment": 135,
+          "year": "2025",
+          "percentage": 36.68
+        },
+        {
+          "category": "Grade",
+          "group": "Grade 4",
+          "enrollment": 112,
+          "year": "2025",
+          "percentage": 30.43
+        },
+        {
+          "category": "Grade",
+          "group": "Grade 5",
+          "enrollment": 121,
+          "year": "2025",
+          "percentage": 32.88
+        },
+        {
+          "category": "Grade",
+          "group": "Elementary",
+          "enrollment": 368,
+          "year": "2025",
+          "percentage": 100.0
+        }
+      ],
+      "attendance": [
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "African Am.",
+          "Attendance Rate (%) (All Students)": "*",
+          "Days Attended/Days Members (All Students)": "*/*",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Bayside Elementary School",
+          "school_code": "0403"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "White",
+          "Attendance Rate (%) (All Students)": "93.6",
+          "Days Attended/Days Members (All Students)": "47513.5/50764.0",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Bayside Elementary School",
+          "school_code": "0403"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "2+",
+          "Attendance Rate (%) (All Students)": "92.5",
+          "Days Attended/Days Members (All Students)": "3896.5/4211.0",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Bayside Elementary School",
+          "school_code": "0403"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "Hispanic",
+          "Attendance Rate (%) (All Students)": "91.2",
+          "Days Attended/Days Members (All Students)": "7610.5/8342.0",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Bayside Elementary School",
+          "school_code": "0403"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "Asian",
+          "Attendance Rate (%) (All Students)": "94.2",
+          "Days Attended/Days Members (All Students)": "2373.5/2520.0",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Bayside Elementary School",
+          "school_code": "0403"
+        }
+      ],
+      "student_groups": [
+        {
+          "Year": "2025",
+          "Student Group": "ADA 504",
+          "Result (%) (All Students)": "\u2264 5.0",
+          "Count": "*",
+          "Total": "373",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Bayside Elementary School",
+          "school_code": "0403"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Economically Disadvantaged",
+          "Result (%) (All Students)": "22.0",
+          "Count": "82",
+          "Total": "373",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Bayside Elementary School",
+          "school_code": "0403"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Free and Reduced Meals Students",
+          "Result (%) (All Students)": "30.3",
+          "Count": "113",
+          "Total": "373",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Bayside Elementary School",
+          "school_code": "0403"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Multilingual Learner",
+          "Result (%) (All Students)": "5.6",
+          "Count": "21",
+          "Total": "373",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Bayside Elementary School",
+          "school_code": "0403"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Students with Disabilities",
+          "Result (%) (All Students)": "12.6",
+          "Count": "47",
+          "Total": "373",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Bayside Elementary School",
+          "school_code": "0403"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Homeless",
+          "Result (%) (All Students)": "*",
+          "Count": "*",
+          "Total": "373",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Bayside Elementary School",
+          "school_code": "0403"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Military",
+          "Result (%) (All Students)": "\u2264 5.0",
+          "Count": "*",
+          "Total": "373",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Bayside Elementary School",
+          "school_code": "0403"
+        }
+      ],
+      "overall_attendance_rate": 93.25
+    },
+    {
+      "school_name": "Centreville Elementary School",
+      "school_code": "0308",
+      "county_code": "17",
+      "county_name": "Queen Anne's County",
+      "summary": {},
+      "enrollment": [
+        {
+          "category": "Race/Ethnicity",
+          "group": "All Students",
+          "enrollment": 535,
+          "year": "2025",
+          "percentage": 100.0
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "Asian",
+          "enrollment": "*",
+          "year": "2025",
+          "percentage": "*"
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "African Am.",
+          "enrollment": 20,
+          "year": "2025",
+          "percentage": 3.74
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "Hispanic",
+          "enrollment": 65,
+          "year": "2025",
+          "percentage": 12.15
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "White",
+          "enrollment": 415,
+          "year": "2025",
+          "percentage": 77.57
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "2+",
+          "enrollment": 32,
+          "year": "2025",
+          "percentage": 5.98
+        },
+        {
+          "category": "Gender",
+          "group": "All Students",
+          "enrollment": 535,
+          "year": "2025",
+          "percentage": 100.0
+        },
+        {
+          "category": "Gender",
+          "group": "Male",
+          "enrollment": 282,
+          "year": "2025",
+          "percentage": 52.71
+        },
+        {
+          "category": "Gender",
+          "group": "Female",
+          "enrollment": 253,
+          "year": "2025",
+          "percentage": 47.29
+        },
+        {
+          "category": "Grade",
+          "group": "All Students",
+          "enrollment": 535,
+          "year": "2025",
+          "percentage": 100.0
+        },
+        {
+          "category": "Grade",
+          "group": "Pre-Kindergarten",
+          "enrollment": 86,
+          "year": "2025",
+          "percentage": 16.07
+        },
+        {
+          "category": "Grade",
+          "group": "Kindergarten",
+          "enrollment": 150,
+          "year": "2025",
+          "percentage": 28.04
+        },
+        {
+          "category": "Grade",
+          "group": "Grade 1",
+          "enrollment": 149,
+          "year": "2025",
+          "percentage": 27.85
+        },
+        {
+          "category": "Grade",
+          "group": "Grade 2",
+          "enrollment": 150,
+          "year": "2025",
+          "percentage": 28.04
+        },
+        {
+          "category": "Grade",
+          "group": "Elementary",
+          "enrollment": 299,
+          "year": "2025",
+          "percentage": 55.89
+        }
+      ],
+      "attendance": [
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "African Am.",
+          "Attendance Rate (%) (All Students)": "89.2",
+          "Days Attended/Days Members (All Students)": "1894.5/2123.0",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Centreville Elementary School",
+          "school_code": "0308"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "White",
+          "Attendance Rate (%) (All Students)": "93.3",
+          "Days Attended/Days Members (All Students)": "38522.5/41293.0",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Centreville Elementary School",
+          "school_code": "0308"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "2+",
+          "Attendance Rate (%) (All Students)": "91.2",
+          "Days Attended/Days Members (All Students)": "2794.0/3064.0",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Centreville Elementary School",
+          "school_code": "0308"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "Hispanic",
+          "Attendance Rate (%) (All Students)": "90.7",
+          "Days Attended/Days Members (All Students)": "6260.0/6900.0",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Centreville Elementary School",
+          "school_code": "0308"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "Asian",
+          "Attendance Rate (%) (All Students)": "*",
+          "Days Attended/Days Members (All Students)": "*/*",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Centreville Elementary School",
+          "school_code": "0308"
+        }
+      ],
+      "student_groups": [
+        {
+          "Year": "2025",
+          "Student Group": "ADA 504",
+          "Result (%) (All Students)": "*",
+          "Count": "*",
+          "Total": "540",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Centreville Elementary School",
+          "school_code": "0308"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Economically Disadvantaged",
+          "Result (%) (All Students)": "26.9",
+          "Count": "145",
+          "Total": "540",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Centreville Elementary School",
+          "school_code": "0308"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Free and Reduced Meals Students",
+          "Result (%) (All Students)": "34.6",
+          "Count": "187",
+          "Total": "540",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Centreville Elementary School",
+          "school_code": "0308"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Multilingual Learner",
+          "Result (%) (All Students)": "\u2264 5.0",
+          "Count": "*",
+          "Total": "540",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Centreville Elementary School",
+          "school_code": "0308"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Students with Disabilities",
+          "Result (%) (All Students)": "15.7",
+          "Count": "85",
+          "Total": "540",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Centreville Elementary School",
+          "school_code": "0308"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Homeless",
+          "Result (%) (All Students)": "\u2264 5.0",
+          "Count": "*",
+          "Total": "540",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Centreville Elementary School",
+          "school_code": "0308"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Foster Care",
+          "Result (%) (All Students)": "*",
+          "Count": "*",
+          "Total": "540",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Centreville Elementary School",
+          "school_code": "0308"
+        }
+      ],
+      "overall_attendance_rate": 92.68
+    },
+    {
+      "school_name": "Church Hill Elementary School",
+      "school_code": "0202",
+      "county_code": "17",
+      "county_name": "Queen Anne's County",
+      "summary": {},
+      "enrollment": [
+        {
+          "category": "Race/Ethnicity",
+          "group": "All Students",
+          "enrollment": 329,
+          "year": "2025",
+          "percentage": 100.0
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "Asian",
+          "enrollment": "*",
+          "year": "2025",
+          "percentage": "*"
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "African Am.",
+          "enrollment": 20,
+          "year": "2025",
+          "percentage": 6.08
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "Hispanic",
+          "enrollment": 53,
+          "year": "2025",
+          "percentage": 16.11
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "White",
+          "enrollment": 225,
+          "year": "2025",
+          "percentage": 68.39
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "Am.Ind/AK",
+          "enrollment": "*",
+          "year": "2025",
+          "percentage": "*"
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "HI/Pac.Isl.",
+          "enrollment": "*",
+          "year": "2025",
+          "percentage": "*"
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "2+",
+          "enrollment": 24,
+          "year": "2025",
+          "percentage": 7.29
+        },
+        {
+          "category": "Gender",
+          "group": "All Students",
+          "enrollment": 329,
+          "year": "2025",
+          "percentage": 100.0
+        },
+        {
+          "category": "Gender",
+          "group": "Male",
+          "enrollment": 163,
+          "year": "2025",
+          "percentage": 49.54
+        },
+        {
+          "category": "Gender",
+          "group": "Female",
+          "enrollment": 166,
+          "year": "2025",
+          "percentage": 50.46
+        },
+        {
+          "category": "Grade",
+          "group": "All Students",
+          "enrollment": 329,
+          "year": "2025",
+          "percentage": 100.0
+        },
+        {
+          "category": "Grade",
+          "group": "Pre-Kindergarten",
+          "enrollment": 57,
+          "year": "2025",
+          "percentage": 17.33
+        },
+        {
+          "category": "Grade",
+          "group": "Kindergarten",
+          "enrollment": 55,
+          "year": "2025",
+          "percentage": 16.72
+        },
+        {
+          "category": "Grade",
+          "group": "Grade 1",
+          "enrollment": 56,
+          "year": "2025",
+          "percentage": 17.02
+        },
+        {
+          "category": "Grade",
+          "group": "Grade 2",
+          "enrollment": 50,
+          "year": "2025",
+          "percentage": 15.2
+        },
+        {
+          "category": "Grade",
+          "group": "Grade 3",
+          "enrollment": 50,
+          "year": "2025",
+          "percentage": 15.2
+        },
+        {
+          "category": "Grade",
+          "group": "Grade 4",
+          "enrollment": 61,
+          "year": "2025",
+          "percentage": 18.54
+        },
+        {
+          "category": "Grade",
+          "group": "Elementary",
+          "enrollment": 217,
+          "year": "2025",
+          "percentage": 65.96
+        }
+      ],
+      "attendance": [
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "African Am.",
+          "Attendance Rate (%) (All Students)": "93.6",
+          "Days Attended/Days Members (All Students)": "2003.0/2141.0",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Church Hill Elementary School",
+          "school_code": "0202"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "White",
+          "Attendance Rate (%) (All Students)": "93.5",
+          "Days Attended/Days Members (All Students)": "26795.5/28664.0",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Church Hill Elementary School",
+          "school_code": "0202"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "2+",
+          "Attendance Rate (%) (All Students)": "92.3",
+          "Days Attended/Days Members (All Students)": "2726.0/2954.0",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Church Hill Elementary School",
+          "school_code": "0202"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "Hispanic",
+          "Attendance Rate (%) (All Students)": "92.4",
+          "Days Attended/Days Members (All Students)": "5076.5/5492.0",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Church Hill Elementary School",
+          "school_code": "0202"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "Am.Ind/AK",
+          "Attendance Rate (%) (All Students)": "*",
+          "Days Attended/Days Members (All Students)": "*/*",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Church Hill Elementary School",
+          "school_code": "0202"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "Asian",
+          "Attendance Rate (%) (All Students)": "*",
+          "Days Attended/Days Members (All Students)": "*/*",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Church Hill Elementary School",
+          "school_code": "0202"
+        }
+      ],
+      "student_groups": [
+        {
+          "Year": "2025",
+          "Student Group": "ADA 504",
+          "Result (%) (All Students)": "\u2264 5.0",
+          "Count": "*",
+          "Total": "338",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Church Hill Elementary School",
+          "school_code": "0202"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Economically Disadvantaged",
+          "Result (%) (All Students)": "34.3",
+          "Count": "116",
+          "Total": "338",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Church Hill Elementary School",
+          "school_code": "0202"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Free and Reduced Meals Students",
+          "Result (%) (All Students)": "46.4",
+          "Count": "157",
+          "Total": "338",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Church Hill Elementary School",
+          "school_code": "0202"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Multilingual Learner",
+          "Result (%) (All Students)": "5.9",
+          "Count": "20",
+          "Total": "338",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Church Hill Elementary School",
+          "school_code": "0202"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Students with Disabilities",
+          "Result (%) (All Students)": "13.3",
+          "Count": "45",
+          "Total": "338",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Church Hill Elementary School",
+          "school_code": "0202"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Title 1",
+          "Result (%) (All Students)": "\u2265 95.0",
+          "Count": "*",
+          "Total": "338",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Church Hill Elementary School",
+          "school_code": "0202"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Homeless",
+          "Result (%) (All Students)": "\u2264 5.0",
+          "Count": "*",
+          "Total": "338",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Church Hill Elementary School",
+          "school_code": "0202"
+        }
+      ],
+      "overall_attendance_rate": 93.25
+    },
+    {
+      "school_name": "Grasonville Elementary School",
+      "school_code": "0503",
+      "county_code": "17",
+      "county_name": "Queen Anne's County",
+      "summary": {},
+      "enrollment": [
+        {
+          "category": "Race/Ethnicity",
+          "group": "All Students",
+          "enrollment": 472,
+          "year": "2025",
+          "percentage": 100.0
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "Asian",
+          "enrollment": "*",
+          "year": "2025",
+          "percentage": "*"
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "African Am.",
+          "enrollment": 50,
+          "year": "2025",
+          "percentage": 10.59
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "Hispanic",
+          "enrollment": 80,
+          "year": "2025",
+          "percentage": 16.95
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "White",
+          "enrollment": 293,
+          "year": "2025",
+          "percentage": 62.08
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "Am.Ind/AK",
+          "enrollment": "*",
+          "year": "2025",
+          "percentage": "*"
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "HI/Pac.Isl.",
+          "enrollment": "*",
+          "year": "2025",
+          "percentage": "*"
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "2+",
+          "enrollment": 39,
+          "year": "2025",
+          "percentage": 8.26
+        },
+        {
+          "category": "Gender",
+          "group": "All Students",
+          "enrollment": 472,
+          "year": "2025",
+          "percentage": 100.0
+        },
+        {
+          "category": "Gender",
+          "group": "Male",
+          "enrollment": 222,
+          "year": "2025",
+          "percentage": 47.03
+        },
+        {
+          "category": "Gender",
+          "group": "Female",
+          "enrollment": 250,
+          "year": "2025",
+          "percentage": 52.97
+        },
+        {
+          "category": "Grade",
+          "group": "All Students",
+          "enrollment": 472,
+          "year": "2025",
+          "percentage": 100.0
+        },
+        {
+          "category": "Grade",
+          "group": "Pre-Kindergarten",
+          "enrollment": 34,
+          "year": "2025",
+          "percentage": 7.2
+        },
+        {
+          "category": "Grade",
+          "group": "Kindergarten",
+          "enrollment": 66,
+          "year": "2025",
+          "percentage": 13.98
+        },
+        {
+          "category": "Grade",
+          "group": "Grade 1",
+          "enrollment": 70,
+          "year": "2025",
+          "percentage": 14.83
+        },
+        {
+          "category": "Grade",
+          "group": "Grade 2",
+          "enrollment": 75,
+          "year": "2025",
+          "percentage": 15.89
+        },
+        {
+          "category": "Grade",
+          "group": "Grade 3",
+          "enrollment": 76,
+          "year": "2025",
+          "percentage": 16.1
+        },
+        {
+          "category": "Grade",
+          "group": "Grade 4",
+          "enrollment": 70,
+          "year": "2025",
+          "percentage": 14.83
+        },
+        {
+          "category": "Grade",
+          "group": "Grade 5",
+          "enrollment": 81,
+          "year": "2025",
+          "percentage": 17.16
+        },
+        {
+          "category": "Grade",
+          "group": "Elementary",
+          "enrollment": 372,
+          "year": "2025",
+          "percentage": 78.81
+        }
+      ],
+      "attendance": [
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "African Am.",
+          "Attendance Rate (%) (All Students)": "90.5",
+          "Days Attended/Days Members (All Students)": "7224.0/7981.0",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Grasonville Elementary School",
+          "school_code": "0503"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "HI/Pac.Isl.",
+          "Attendance Rate (%) (All Students)": "*",
+          "Days Attended/Days Members (All Students)": "*/*",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Grasonville Elementary School",
+          "school_code": "0503"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "White",
+          "Attendance Rate (%) (All Students)": "93.7",
+          "Days Attended/Days Members (All Students)": "39318.5/41956.0",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Grasonville Elementary School",
+          "school_code": "0503"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "2+",
+          "Attendance Rate (%) (All Students)": "91.9",
+          "Days Attended/Days Members (All Students)": "5760.0/6270.0",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Grasonville Elementary School",
+          "school_code": "0503"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "Hispanic",
+          "Attendance Rate (%) (All Students)": "93.3",
+          "Days Attended/Days Members (All Students)": "10583.5/11348.0",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Grasonville Elementary School",
+          "school_code": "0503"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "Asian",
+          "Attendance Rate (%) (All Students)": "*",
+          "Days Attended/Days Members (All Students)": "*/*",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Grasonville Elementary School",
+          "school_code": "0503"
+        }
+      ],
+      "student_groups": [
+        {
+          "Year": "2025",
+          "Student Group": "ADA 504",
+          "Result (%) (All Students)": "\u2264 5.0",
+          "Count": "*",
+          "Total": "489",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Grasonville Elementary School",
+          "school_code": "0503"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Economically Disadvantaged",
+          "Result (%) (All Students)": "34.4",
+          "Count": "168",
+          "Total": "489",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Grasonville Elementary School",
+          "school_code": "0503"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Free and Reduced Meals Students",
+          "Result (%) (All Students)": "47.9",
+          "Count": "234",
+          "Total": "489",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Grasonville Elementary School",
+          "school_code": "0503"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Multilingual Learner",
+          "Result (%) (All Students)": "10.2",
+          "Count": "50",
+          "Total": "489",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Grasonville Elementary School",
+          "school_code": "0503"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Students with Disabilities",
+          "Result (%) (All Students)": "10.4",
+          "Count": "51",
+          "Total": "489",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Grasonville Elementary School",
+          "school_code": "0503"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Title 1",
+          "Result (%) (All Students)": "\u2265 95.0",
+          "Count": "*",
+          "Total": "489",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Grasonville Elementary School",
+          "school_code": "0503"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Homeless",
+          "Result (%) (All Students)": "\u2264 5.0",
+          "Count": "*",
+          "Total": "489",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Grasonville Elementary School",
+          "school_code": "0503"
+        }
+      ],
+      "overall_attendance_rate": 93.09
+    },
+    {
+      "school_name": "Kennard Elementary School",
+      "school_code": "0302",
+      "county_code": "17",
+      "county_name": "Queen Anne's County",
+      "summary": {},
+      "enrollment": [
+        {
+          "category": "Race/Ethnicity",
+          "group": "All Students",
+          "enrollment": 477,
+          "year": "2025",
+          "percentage": 100.0
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "Asian",
+          "enrollment": "*",
+          "year": "2025",
+          "percentage": "*"
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "African Am.",
+          "enrollment": 38,
+          "year": "2025",
+          "percentage": 7.97
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "Hispanic",
+          "enrollment": 43,
+          "year": "2025",
+          "percentage": 9.01
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "White",
+          "enrollment": 355,
+          "year": "2025",
+          "percentage": 74.42
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "Am.Ind/AK",
+          "enrollment": "*",
+          "year": "2025",
+          "percentage": "*"
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "2+",
+          "enrollment": 35,
+          "year": "2025",
+          "percentage": 7.34
+        },
+        {
+          "category": "Gender",
+          "group": "All Students",
+          "enrollment": 477,
+          "year": "2025",
+          "percentage": 100.0
+        },
+        {
+          "category": "Gender",
+          "group": "Male",
+          "enrollment": 244,
+          "year": "2025",
+          "percentage": 51.15
+        },
+        {
+          "category": "Gender",
+          "group": "Female",
+          "enrollment": 233,
+          "year": "2025",
+          "percentage": 48.85
+        },
+        {
+          "category": "Grade",
+          "group": "All Students",
+          "enrollment": 477,
+          "year": "2025",
+          "percentage": 100.0
+        },
+        {
+          "category": "Grade",
+          "group": "Grade 3",
+          "enrollment": 161,
+          "year": "2025",
+          "percentage": 33.75
+        },
+        {
+          "category": "Grade",
+          "group": "Grade 4",
+          "enrollment": 166,
+          "year": "2025",
+          "percentage": 34.8
+        },
+        {
+          "category": "Grade",
+          "group": "Grade 5",
+          "enrollment": 150,
+          "year": "2025",
+          "percentage": 31.45
+        },
+        {
+          "category": "Grade",
+          "group": "Elementary",
+          "enrollment": 477,
+          "year": "2025",
+          "percentage": 100.0
+        }
+      ],
+      "attendance": [
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "African Am.",
+          "Attendance Rate (%) (All Students)": "92.9",
+          "Days Attended/Days Members (All Students)": "6104.5/6572.0",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Kennard Elementary School",
+          "school_code": "0302"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "White",
+          "Attendance Rate (%) (All Students)": "93.4",
+          "Days Attended/Days Members (All Students)": "59485.5/63703.0",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Kennard Elementary School",
+          "school_code": "0302"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "2+",
+          "Attendance Rate (%) (All Students)": "92.5",
+          "Days Attended/Days Members (All Students)": "5752.5/6219.0",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Kennard Elementary School",
+          "school_code": "0302"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "Hispanic",
+          "Attendance Rate (%) (All Students)": "92.9",
+          "Days Attended/Days Members (All Students)": "6868.5/7390.0",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Kennard Elementary School",
+          "school_code": "0302"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "Am.Ind/AK",
+          "Attendance Rate (%) (All Students)": "*",
+          "Days Attended/Days Members (All Students)": "*/*",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Kennard Elementary School",
+          "school_code": "0302"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "Asian",
+          "Attendance Rate (%) (All Students)": "*",
+          "Days Attended/Days Members (All Students)": "*/*",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Kennard Elementary School",
+          "school_code": "0302"
+        }
+      ],
+      "student_groups": [
+        {
+          "Year": "2025",
+          "Student Group": "ADA 504",
+          "Result (%) (All Students)": "5.3",
+          "Count": "25",
+          "Total": "470",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Kennard Elementary School",
+          "school_code": "0302"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Economically Disadvantaged",
+          "Result (%) (All Students)": "27.4",
+          "Count": "129",
+          "Total": "470",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Kennard Elementary School",
+          "school_code": "0302"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Free and Reduced Meals Students",
+          "Result (%) (All Students)": "35.1",
+          "Count": "165",
+          "Total": "470",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Kennard Elementary School",
+          "school_code": "0302"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Multilingual Learner",
+          "Result (%) (All Students)": "\u2264 5.0",
+          "Count": "*",
+          "Total": "470",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Kennard Elementary School",
+          "school_code": "0302"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Migrant",
+          "Result (%) (All Students)": "*",
+          "Count": "*",
+          "Total": "470",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Kennard Elementary School",
+          "school_code": "0302"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Students with Disabilities",
+          "Result (%) (All Students)": "11.3",
+          "Count": "53",
+          "Total": "470",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Kennard Elementary School",
+          "school_code": "0302"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Homeless",
+          "Result (%) (All Students)": "*",
+          "Count": "*",
+          "Total": "470",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Kennard Elementary School",
+          "school_code": "0302"
+        }
+      ],
+      "overall_attendance_rate": 93.24
+    },
+    {
+      "school_name": "Kent Island Elementary School",
+      "school_code": "0402",
+      "county_code": "17",
+      "county_name": "Queen Anne's County",
+      "summary": {},
+      "enrollment": [
+        {
+          "category": "Race/Ethnicity",
+          "group": "All Students",
+          "enrollment": 452,
+          "year": "2025",
+          "percentage": 100.0
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "Asian",
+          "enrollment": "*",
+          "year": "2025",
+          "percentage": "*"
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "African Am.",
+          "enrollment": 18,
+          "year": "2025",
+          "percentage": 3.98
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "Hispanic",
+          "enrollment": 66,
+          "year": "2025",
+          "percentage": 14.6
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "White",
+          "enrollment": 324,
+          "year": "2025",
+          "percentage": 71.68
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "Am.Ind/AK",
+          "enrollment": "*",
+          "year": "2025",
+          "percentage": "*"
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "2+",
+          "enrollment": 39,
+          "year": "2025",
+          "percentage": 8.63
+        },
+        {
+          "category": "Gender",
+          "group": "All Students",
+          "enrollment": 452,
+          "year": "2025",
+          "percentage": 100.0
+        },
+        {
+          "category": "Gender",
+          "group": "Male",
+          "enrollment": 238,
+          "year": "2025",
+          "percentage": 52.65
+        },
+        {
+          "category": "Gender",
+          "group": "Female",
+          "enrollment": 214,
+          "year": "2025",
+          "percentage": 47.35
+        },
+        {
+          "category": "Grade",
+          "group": "All Students",
+          "enrollment": 452,
+          "year": "2025",
+          "percentage": 100.0
+        },
+        {
+          "category": "Grade",
+          "group": "Pre-Kindergarten",
+          "enrollment": 63,
+          "year": "2025",
+          "percentage": 13.94
+        },
+        {
+          "category": "Grade",
+          "group": "Kindergarten",
+          "enrollment": 136,
+          "year": "2025",
+          "percentage": 30.09
+        },
+        {
+          "category": "Grade",
+          "group": "Grade 1",
+          "enrollment": 141,
+          "year": "2025",
+          "percentage": 31.19
+        },
+        {
+          "category": "Grade",
+          "group": "Grade 2",
+          "enrollment": 112,
+          "year": "2025",
+          "percentage": 24.78
+        },
+        {
+          "category": "Grade",
+          "group": "Elementary",
+          "enrollment": 253,
+          "year": "2025",
+          "percentage": 55.97
+        }
+      ],
+      "attendance": [
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "African Am.",
+          "Attendance Rate (%) (All Students)": "94.6",
+          "Days Attended/Days Members (All Students)": "1873.0/1980.0",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Kent Island Elementary School",
+          "school_code": "0402"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "White",
+          "Attendance Rate (%) (All Students)": "93.9",
+          "Days Attended/Days Members (All Students)": "31615.0/33663.0",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Kent Island Elementary School",
+          "school_code": "0402"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "2+",
+          "Attendance Rate (%) (All Students)": "92.2",
+          "Days Attended/Days Members (All Students)": "2820.5/3060.0",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Kent Island Elementary School",
+          "school_code": "0402"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "Hispanic",
+          "Attendance Rate (%) (All Students)": "91.8",
+          "Days Attended/Days Members (All Students)": "5801.5/6319.0",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Kent Island Elementary School",
+          "school_code": "0402"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "Am.Ind/AK",
+          "Attendance Rate (%) (All Students)": "*",
+          "Days Attended/Days Members (All Students)": "*/*",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Kent Island Elementary School",
+          "school_code": "0402"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "Asian",
+          "Attendance Rate (%) (All Students)": "*",
+          "Days Attended/Days Members (All Students)": "*/*",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Kent Island Elementary School",
+          "school_code": "0402"
+        }
+      ],
+      "student_groups": [
+        {
+          "Year": "2025",
+          "Student Group": "ADA 504",
+          "Result (%) (All Students)": "\u2264 5.0",
+          "Count": "*",
+          "Total": "462",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Kent Island Elementary School",
+          "school_code": "0402"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Economically Disadvantaged",
+          "Result (%) (All Students)": "28.6",
+          "Count": "132",
+          "Total": "462",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Kent Island Elementary School",
+          "school_code": "0402"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Free and Reduced Meals Students",
+          "Result (%) (All Students)": "35.3",
+          "Count": "163",
+          "Total": "462",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Kent Island Elementary School",
+          "school_code": "0402"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Multilingual Learner",
+          "Result (%) (All Students)": "\u2264 5.0",
+          "Count": "*",
+          "Total": "462",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Kent Island Elementary School",
+          "school_code": "0402"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Students with Disabilities",
+          "Result (%) (All Students)": "15.2",
+          "Count": "70",
+          "Total": "462",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Kent Island Elementary School",
+          "school_code": "0402"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Homeless",
+          "Result (%) (All Students)": "\u2264 5.0",
+          "Count": "*",
+          "Total": "462",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Kent Island Elementary School",
+          "school_code": "0402"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Military",
+          "Result (%) (All Students)": "5.6",
+          "Count": "26",
+          "Total": "462",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Kent Island Elementary School",
+          "school_code": "0402"
+        }
+      ],
+      "overall_attendance_rate": 93.53
+    },
+    {
+      "school_name": "Matapeake Elementary School",
+      "school_code": "0406",
+      "county_code": "17",
+      "county_name": "Queen Anne's County",
+      "summary": {},
+      "enrollment": [
+        {
+          "category": "Race/Ethnicity",
+          "group": "All Students",
+          "enrollment": 472,
+          "year": "2025",
+          "percentage": 100.0
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "Asian",
+          "enrollment": "*",
+          "year": "2025",
+          "percentage": "*"
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "African Am.",
+          "enrollment": "*",
+          "year": "2025",
+          "percentage": "*"
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "Hispanic",
+          "enrollment": 34,
+          "year": "2025",
+          "percentage": 7.2
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "White",
+          "enrollment": 392,
+          "year": "2025",
+          "percentage": 83.05
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "Am.Ind/AK",
+          "enrollment": "*",
+          "year": "2025",
+          "percentage": "*"
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "2+",
+          "enrollment": 34,
+          "year": "2025",
+          "percentage": 7.2
+        },
+        {
+          "category": "Gender",
+          "group": "All Students",
+          "enrollment": 472,
+          "year": "2025",
+          "percentage": 100.0
+        },
+        {
+          "category": "Gender",
+          "group": "Male",
+          "enrollment": 229,
+          "year": "2025",
+          "percentage": 48.52
+        },
+        {
+          "category": "Gender",
+          "group": "Female",
+          "enrollment": 243,
+          "year": "2025",
+          "percentage": 51.48
+        },
+        {
+          "category": "Grade",
+          "group": "All Students",
+          "enrollment": 472,
+          "year": "2025",
+          "percentage": 100.0
+        },
+        {
+          "category": "Grade",
+          "group": "Pre-Kindergarten",
+          "enrollment": 36,
+          "year": "2025",
+          "percentage": 7.63
+        },
+        {
+          "category": "Grade",
+          "group": "Kindergarten",
+          "enrollment": 77,
+          "year": "2025",
+          "percentage": 16.31
+        },
+        {
+          "category": "Grade",
+          "group": "Grade 1",
+          "enrollment": 69,
+          "year": "2025",
+          "percentage": 14.62
+        },
+        {
+          "category": "Grade",
+          "group": "Grade 2",
+          "enrollment": 77,
+          "year": "2025",
+          "percentage": 16.31
+        },
+        {
+          "category": "Grade",
+          "group": "Grade 3",
+          "enrollment": 73,
+          "year": "2025",
+          "percentage": 15.47
+        },
+        {
+          "category": "Grade",
+          "group": "Grade 4",
+          "enrollment": 69,
+          "year": "2025",
+          "percentage": 14.62
+        },
+        {
+          "category": "Grade",
+          "group": "Grade 5",
+          "enrollment": 71,
+          "year": "2025",
+          "percentage": 15.04
+        },
+        {
+          "category": "Grade",
+          "group": "Elementary",
+          "enrollment": 359,
+          "year": "2025",
+          "percentage": 76.06
+        }
+      ],
+      "attendance": [
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "African Am.",
+          "Attendance Rate (%) (All Students)": "*",
+          "Days Attended/Days Members (All Students)": "*/*",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Matapeake Elementary School",
+          "school_code": "0406"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "White",
+          "Attendance Rate (%) (All Students)": "94.3",
+          "Days Attended/Days Members (All Students)": "51141.0/54226.0",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Matapeake Elementary School",
+          "school_code": "0406"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "2+",
+          "Attendance Rate (%) (All Students)": "94.1",
+          "Days Attended/Days Members (All Students)": "4359.0/4632.0",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Matapeake Elementary School",
+          "school_code": "0406"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "Hispanic",
+          "Attendance Rate (%) (All Students)": "94.7",
+          "Days Attended/Days Members (All Students)": "4461.0/4712.0",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Matapeake Elementary School",
+          "school_code": "0406"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "Am.Ind/AK",
+          "Attendance Rate (%) (All Students)": "*",
+          "Days Attended/Days Members (All Students)": "*/*",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Matapeake Elementary School",
+          "school_code": "0406"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "Asian",
+          "Attendance Rate (%) (All Students)": "*",
+          "Days Attended/Days Members (All Students)": "*/*",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Matapeake Elementary School",
+          "school_code": "0406"
+        }
+      ],
+      "student_groups": [
+        {
+          "Year": "2025",
+          "Student Group": "ADA 504",
+          "Result (%) (All Students)": "\u2264 5.0",
+          "Count": "*",
+          "Total": "472",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Matapeake Elementary School",
+          "school_code": "0406"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Economically Disadvantaged",
+          "Result (%) (All Students)": "21.6",
+          "Count": "102",
+          "Total": "472",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Matapeake Elementary School",
+          "school_code": "0406"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Free and Reduced Meals Students",
+          "Result (%) (All Students)": "25.4",
+          "Count": "120",
+          "Total": "472",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Matapeake Elementary School",
+          "school_code": "0406"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Multilingual Learner",
+          "Result (%) (All Students)": "*",
+          "Count": "*",
+          "Total": "472",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Matapeake Elementary School",
+          "school_code": "0406"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Students with Disabilities",
+          "Result (%) (All Students)": "9.7",
+          "Count": "46",
+          "Total": "472",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Matapeake Elementary School",
+          "school_code": "0406"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Homeless",
+          "Result (%) (All Students)": "*",
+          "Count": "*",
+          "Total": "472",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Matapeake Elementary School",
+          "school_code": "0406"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Military",
+          "Result (%) (All Students)": "\u2264 5.0",
+          "Count": "*",
+          "Total": "472",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Matapeake Elementary School",
+          "school_code": "0406"
+        }
+      ],
+      "overall_attendance_rate": 94.32
+    },
+    {
+      "school_name": "Sudlersville Elementary School",
+      "school_code": "0106",
+      "county_code": "17",
+      "county_name": "Queen Anne's County",
+      "summary": {},
+      "enrollment": [
+        {
+          "category": "Race/Ethnicity",
+          "group": "All Students",
+          "enrollment": 315,
+          "year": "2025",
+          "percentage": 100.0
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "African Am.",
+          "enrollment": 20,
+          "year": "2025",
+          "percentage": 6.35
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "Hispanic",
+          "enrollment": 115,
+          "year": "2025",
+          "percentage": 36.51
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "White",
+          "enrollment": 164,
+          "year": "2025",
+          "percentage": 52.06
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "Am.Ind/AK",
+          "enrollment": "*",
+          "year": "2025",
+          "percentage": "*"
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "2+",
+          "enrollment": 15,
+          "year": "2025",
+          "percentage": 4.76
+        },
+        {
+          "category": "Gender",
+          "group": "All Students",
+          "enrollment": 315,
+          "year": "2025",
+          "percentage": 100.0
+        },
+        {
+          "category": "Gender",
+          "group": "Male",
+          "enrollment": 158,
+          "year": "2025",
+          "percentage": 50.16
+        },
+        {
+          "category": "Gender",
+          "group": "Female",
+          "enrollment": 157,
+          "year": "2025",
+          "percentage": 49.84
+        },
+        {
+          "category": "Grade",
+          "group": "All Students",
+          "enrollment": 315,
+          "year": "2025",
+          "percentage": 100.0
+        },
+        {
+          "category": "Grade",
+          "group": "Pre-Kindergarten",
+          "enrollment": 47,
+          "year": "2025",
+          "percentage": 14.92
+        },
+        {
+          "category": "Grade",
+          "group": "Kindergarten",
+          "enrollment": 48,
+          "year": "2025",
+          "percentage": 15.24
+        },
+        {
+          "category": "Grade",
+          "group": "Grade 1",
+          "enrollment": 48,
+          "year": "2025",
+          "percentage": 15.24
+        },
+        {
+          "category": "Grade",
+          "group": "Grade 2",
+          "enrollment": 59,
+          "year": "2025",
+          "percentage": 18.73
+        },
+        {
+          "category": "Grade",
+          "group": "Grade 3",
+          "enrollment": 65,
+          "year": "2025",
+          "percentage": 20.63
+        },
+        {
+          "category": "Grade",
+          "group": "Grade 4",
+          "enrollment": 48,
+          "year": "2025",
+          "percentage": 15.24
+        },
+        {
+          "category": "Grade",
+          "group": "Elementary",
+          "enrollment": 220,
+          "year": "2025",
+          "percentage": 69.84
+        }
+      ],
+      "attendance": [
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "African Am.",
+          "Attendance Rate (%) (All Students)": "88.6",
+          "Days Attended/Days Members (All Students)": "2125.0/2399.0",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Sudlersville Elementary School",
+          "school_code": "0106"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "White",
+          "Attendance Rate (%) (All Students)": "93.7",
+          "Days Attended/Days Members (All Students)": "18634.0/19878.0",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Sudlersville Elementary School",
+          "school_code": "0106"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "2+",
+          "Attendance Rate (%) (All Students)": "94.1",
+          "Days Attended/Days Members (All Students)": "2039.5/2168.0",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Sudlersville Elementary School",
+          "school_code": "0106"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "Hispanic",
+          "Attendance Rate (%) (All Students)": "93.4",
+          "Days Attended/Days Members (All Students)": "13650.0/14612.0",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Sudlersville Elementary School",
+          "school_code": "0106"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "Am.Ind/AK",
+          "Attendance Rate (%) (All Students)": "*",
+          "Days Attended/Days Members (All Students)": "*/*",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Sudlersville Elementary School",
+          "school_code": "0106"
+        }
+      ],
+      "student_groups": [
+        {
+          "Year": "2025",
+          "Student Group": "ADA 504",
+          "Result (%) (All Students)": "\u2264 5.0",
+          "Count": "*",
+          "Total": "309",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Sudlersville Elementary School",
+          "school_code": "0106"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Economically Disadvantaged",
+          "Result (%) (All Students)": "45.3",
+          "Count": "140",
+          "Total": "309",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Sudlersville Elementary School",
+          "school_code": "0106"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Free and Reduced Meals Students",
+          "Result (%) (All Students)": "68.0",
+          "Count": "210",
+          "Total": "309",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Sudlersville Elementary School",
+          "school_code": "0106"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Multilingual Learner",
+          "Result (%) (All Students)": "26.2",
+          "Count": "81",
+          "Total": "309",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Sudlersville Elementary School",
+          "school_code": "0106"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Migrant",
+          "Result (%) (All Students)": "\u2264 5.0",
+          "Count": "*",
+          "Total": "309",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Sudlersville Elementary School",
+          "school_code": "0106"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Students with Disabilities",
+          "Result (%) (All Students)": "13.6",
+          "Count": "42",
+          "Total": "309",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Sudlersville Elementary School",
+          "school_code": "0106"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Title 1",
+          "Result (%) (All Students)": "\u2265 95.0",
+          "Count": "*",
+          "Total": "309",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Sudlersville Elementary School",
+          "school_code": "0106"
+        }
+      ],
+      "overall_attendance_rate": 93.32
+    }
+  ],
+  "middle_schools": [
+    {
+      "school_name": "Sudlersville Middle School",
+      "school_code": "0101",
+      "county_code": "17",
+      "county_name": "Queen Anne's County",
+      "summary": {},
+      "enrollment": [
+        {
+          "category": "Race/Ethnicity",
+          "group": "All Students",
+          "enrollment": 447,
+          "year": "2025",
+          "percentage": 100.0
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "African Am.",
+          "enrollment": 28,
+          "year": "2025",
+          "percentage": 6.26
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "Hispanic",
+          "enrollment": 115,
+          "year": "2025",
+          "percentage": 25.73
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "White",
+          "enrollment": 272,
+          "year": "2025",
+          "percentage": 60.85
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "2+",
+          "enrollment": 32,
+          "year": "2025",
+          "percentage": 7.16
+        },
+        {
+          "category": "Gender",
+          "group": "All Students",
+          "enrollment": 447,
+          "year": "2025",
+          "percentage": 100.0
+        },
+        {
+          "category": "Gender",
+          "group": "Male",
+          "enrollment": 256,
+          "year": "2025",
+          "percentage": 57.27
+        },
+        {
+          "category": "Gender",
+          "group": "Female",
+          "enrollment": 191,
+          "year": "2025",
+          "percentage": 42.73
+        },
+        {
+          "category": "Grade",
+          "group": "All Students",
+          "enrollment": 447,
+          "year": "2025",
+          "percentage": 100.0
+        },
+        {
+          "category": "Grade",
+          "group": "Grade 5",
+          "enrollment": 115,
+          "year": "2025",
+          "percentage": 25.73
+        },
+        {
+          "category": "Grade",
+          "group": "Elementary",
+          "enrollment": 115,
+          "year": "2025",
+          "percentage": 25.73
+        }
+      ],
+      "attendance": [
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "African Am.",
+          "Attendance Rate (%) (All Students)": "90.0",
+          "Days Attended/Days Members (All Students)": "4658.0/5173.0",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Sudlersville Middle School",
+          "school_code": "0101"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "White",
+          "Attendance Rate (%) (All Students)": "93.4",
+          "Days Attended/Days Members (All Students)": "44768.5/47942.0",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Sudlersville Middle School",
+          "school_code": "0101"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "2+",
+          "Attendance Rate (%) (All Students)": "88.6",
+          "Days Attended/Days Members (All Students)": "5227.5/5900.0",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Sudlersville Middle School",
+          "school_code": "0101"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "Hispanic",
+          "Attendance Rate (%) (All Students)": "93.0",
+          "Days Attended/Days Members (All Students)": "18587.5/19981.0",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Sudlersville Middle School",
+          "school_code": "0101"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "Am.Ind/AK",
+          "Attendance Rate (%) (All Students)": "*",
+          "Days Attended/Days Members (All Students)": "*/*",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Sudlersville Middle School",
+          "school_code": "0101"
+        }
+      ],
+      "student_groups": [
+        {
+          "Year": "2025",
+          "Student Group": "ADA 504",
+          "Result (%) (All Students)": "9.8",
+          "Count": "43",
+          "Total": "439",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Sudlersville Middle School",
+          "school_code": "0101"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Economically Disadvantaged",
+          "Result (%) (All Students)": "39.4",
+          "Count": "173",
+          "Total": "439",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Sudlersville Middle School",
+          "school_code": "0101"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Free and Reduced Meals Students",
+          "Result (%) (All Students)": "57.6",
+          "Count": "253",
+          "Total": "439",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Sudlersville Middle School",
+          "school_code": "0101"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Multilingual Learner",
+          "Result (%) (All Students)": "12.1",
+          "Count": "53",
+          "Total": "439",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Sudlersville Middle School",
+          "school_code": "0101"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Migrant",
+          "Result (%) (All Students)": "*",
+          "Count": "*",
+          "Total": "439",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Sudlersville Middle School",
+          "school_code": "0101"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Students with Disabilities",
+          "Result (%) (All Students)": "16.2",
+          "Count": "71",
+          "Total": "439",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Sudlersville Middle School",
+          "school_code": "0101"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Title 1",
+          "Result (%) (All Students)": "\u2265 95.0",
+          "Count": "*",
+          "Total": "439",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Sudlersville Middle School",
+          "school_code": "0101"
+        }
+      ],
+      "overall_attendance_rate": 92.72
+    },
+    {
+      "school_name": "Centreville Middle School",
+      "school_code": "0303",
+      "county_code": "17",
+      "county_name": "Queen Anne's County",
+      "summary": {},
+      "enrollment": [
+        {
+          "category": "Race/Ethnicity",
+          "group": "All Students",
+          "enrollment": 501,
+          "year": "2025",
+          "percentage": 100.0
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "Asian",
+          "enrollment": "*",
+          "year": "2025",
+          "percentage": "*"
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "African Am.",
+          "enrollment": 38,
+          "year": "2025",
+          "percentage": 7.58
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "Hispanic",
+          "enrollment": 41,
+          "year": "2025",
+          "percentage": 8.18
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "White",
+          "enrollment": 385,
+          "year": "2025",
+          "percentage": 76.85
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "2+",
+          "enrollment": 33,
+          "year": "2025",
+          "percentage": 6.59
+        },
+        {
+          "category": "Gender",
+          "group": "All Students",
+          "enrollment": 501,
+          "year": "2025",
+          "percentage": 100.0
+        },
+        {
+          "category": "Gender",
+          "group": "Male",
+          "enrollment": 255,
+          "year": "2025",
+          "percentage": 50.9
+        },
+        {
+          "category": "Gender",
+          "group": "Female",
+          "enrollment": 245,
+          "year": "2025",
+          "percentage": 48.9
+        },
+        {
+          "category": "Grade",
+          "group": "All Students",
+          "enrollment": 501,
+          "year": "2025",
+          "percentage": 100.0
+        }
+      ],
+      "attendance": [
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "African Am.",
+          "Attendance Rate (%) (All Students)": "90.6",
+          "Days Attended/Days Members (All Students)": "6330.0/6983.0",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Centreville Middle School",
+          "school_code": "0303"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "White",
+          "Attendance Rate (%) (All Students)": "93.4",
+          "Days Attended/Days Members (All Students)": "65006.5/69624.0",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Centreville Middle School",
+          "school_code": "0303"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "2+",
+          "Attendance Rate (%) (All Students)": "92.9",
+          "Days Attended/Days Members (All Students)": "5518.5/5940.0",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Centreville Middle School",
+          "school_code": "0303"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "Hispanic",
+          "Attendance Rate (%) (All Students)": "94.1",
+          "Days Attended/Days Members (All Students)": "7014.5/7458.0",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Centreville Middle School",
+          "school_code": "0303"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "Asian",
+          "Attendance Rate (%) (All Students)": "*",
+          "Days Attended/Days Members (All Students)": "*/*",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Centreville Middle School",
+          "school_code": "0303"
+        }
+      ],
+      "student_groups": [
+        {
+          "Year": "2025",
+          "Student Group": "ADA 504",
+          "Result (%) (All Students)": "8.3",
+          "Count": "42",
+          "Total": "507",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Centreville Middle School",
+          "school_code": "0303"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Economically Disadvantaged",
+          "Result (%) (All Students)": "25.0",
+          "Count": "127",
+          "Total": "507",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Centreville Middle School",
+          "school_code": "0303"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Free and Reduced Meals Students",
+          "Result (%) (All Students)": "34.3",
+          "Count": "174",
+          "Total": "507",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Centreville Middle School",
+          "school_code": "0303"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Multilingual Learner",
+          "Result (%) (All Students)": "\u2264 5.0",
+          "Count": "*",
+          "Total": "507",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Centreville Middle School",
+          "school_code": "0303"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Students with Disabilities",
+          "Result (%) (All Students)": "9.5",
+          "Count": "48",
+          "Total": "507",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Centreville Middle School",
+          "school_code": "0303"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Homeless",
+          "Result (%) (All Students)": "\u2264 5.0",
+          "Count": "*",
+          "Total": "507",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Centreville Middle School",
+          "school_code": "0303"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Foster Care",
+          "Result (%) (All Students)": "*",
+          "Count": "*",
+          "Total": "507",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Centreville Middle School",
+          "school_code": "0303"
+        }
+      ],
+      "overall_attendance_rate": 93.18
+    },
+    {
+      "school_name": "Matapeake Middle School",
+      "school_code": "0407",
+      "county_code": "17",
+      "county_name": "Queen Anne's County",
+      "summary": {},
+      "enrollment": [
+        {
+          "category": "Race/Ethnicity",
+          "group": "All Students",
+          "enrollment": 360,
+          "year": "2025",
+          "percentage": 100.0
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "Asian",
+          "enrollment": "*",
+          "year": "2025",
+          "percentage": "*"
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "African Am.",
+          "enrollment": 12,
+          "year": "2025",
+          "percentage": 3.33
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "Hispanic",
+          "enrollment": 38,
+          "year": "2025",
+          "percentage": 10.56
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "White",
+          "enrollment": 284,
+          "year": "2025",
+          "percentage": 78.89
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "Am.Ind/AK",
+          "enrollment": "*",
+          "year": "2025",
+          "percentage": "*"
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "2+",
+          "enrollment": 22,
+          "year": "2025",
+          "percentage": 6.11
+        },
+        {
+          "category": "Gender",
+          "group": "All Students",
+          "enrollment": 360,
+          "year": "2025",
+          "percentage": 100.0
+        },
+        {
+          "category": "Gender",
+          "group": "Male",
+          "enrollment": 205,
+          "year": "2025",
+          "percentage": 56.94
+        },
+        {
+          "category": "Gender",
+          "group": "Female",
+          "enrollment": 155,
+          "year": "2025",
+          "percentage": 43.06
+        },
+        {
+          "category": "Grade",
+          "group": "All Students",
+          "enrollment": 360,
+          "year": "2025",
+          "percentage": 100.0
+        }
+      ],
+      "attendance": [
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "African Am.",
+          "Attendance Rate (%) (All Students)": "90.3",
+          "Days Attended/Days Members (All Students)": "1951.0/2160.0",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Matapeake Middle School",
+          "school_code": "0407"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "White",
+          "Attendance Rate (%) (All Students)": "93.4",
+          "Days Attended/Days Members (All Students)": "47429.0/50784.0",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Matapeake Middle School",
+          "school_code": "0407"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "2+",
+          "Attendance Rate (%) (All Students)": "86.8",
+          "Days Attended/Days Members (All Students)": "3308.5/3810.0",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Matapeake Middle School",
+          "school_code": "0407"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "Hispanic",
+          "Attendance Rate (%) (All Students)": "91.8",
+          "Days Attended/Days Members (All Students)": "6300.0/6860.0",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Matapeake Middle School",
+          "school_code": "0407"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "Am.Ind/AK",
+          "Attendance Rate (%) (All Students)": "*",
+          "Days Attended/Days Members (All Students)": "*/*",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Matapeake Middle School",
+          "school_code": "0407"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "Asian",
+          "Attendance Rate (%) (All Students)": "*",
+          "Days Attended/Days Members (All Students)": "*/*",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Matapeake Middle School",
+          "school_code": "0407"
+        }
+      ],
+      "student_groups": [
+        {
+          "Year": "2025",
+          "Student Group": "ADA 504",
+          "Result (%) (All Students)": "12.9",
+          "Count": "46",
+          "Total": "356",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Matapeake Middle School",
+          "school_code": "0407"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Economically Disadvantaged",
+          "Result (%) (All Students)": "25.3",
+          "Count": "90",
+          "Total": "356",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Matapeake Middle School",
+          "school_code": "0407"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Free and Reduced Meals Students",
+          "Result (%) (All Students)": "31.2",
+          "Count": "111",
+          "Total": "356",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Matapeake Middle School",
+          "school_code": "0407"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Multilingual Learner",
+          "Result (%) (All Students)": "*",
+          "Count": "*",
+          "Total": "356",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Matapeake Middle School",
+          "school_code": "0407"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Students with Disabilities",
+          "Result (%) (All Students)": "8.7",
+          "Count": "31",
+          "Total": "356",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Matapeake Middle School",
+          "school_code": "0407"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Homeless",
+          "Result (%) (All Students)": "*",
+          "Count": "*",
+          "Total": "356",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Matapeake Middle School",
+          "school_code": "0407"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Military",
+          "Result (%) (All Students)": "\u2264 5.0",
+          "Count": "*",
+          "Total": "356",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Matapeake Middle School",
+          "school_code": "0407"
+        }
+      ],
+      "overall_attendance_rate": 92.73
+    },
+    {
+      "school_name": "Stevensville Middle School",
+      "school_code": "0404",
+      "county_code": "17",
+      "county_name": "Queen Anne's County",
+      "summary": {},
+      "enrollment": [
+        {
+          "category": "Race/Ethnicity",
+          "group": "All Students",
+          "enrollment": 452,
+          "year": "2025",
+          "percentage": 100.0
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "Asian",
+          "enrollment": "*",
+          "year": "2025",
+          "percentage": "*"
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "African Am.",
+          "enrollment": 29,
+          "year": "2025",
+          "percentage": 6.42
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "Hispanic",
+          "enrollment": 59,
+          "year": "2025",
+          "percentage": 13.05
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "White",
+          "enrollment": 331,
+          "year": "2025",
+          "percentage": 73.23
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "2+",
+          "enrollment": 29,
+          "year": "2025",
+          "percentage": 6.42
+        },
+        {
+          "category": "Gender",
+          "group": "All Students",
+          "enrollment": 452,
+          "year": "2025",
+          "percentage": 100.0
+        },
+        {
+          "category": "Gender",
+          "group": "Male",
+          "enrollment": 223,
+          "year": "2025",
+          "percentage": 49.34
+        },
+        {
+          "category": "Gender",
+          "group": "Female",
+          "enrollment": 228,
+          "year": "2025",
+          "percentage": 50.44
+        },
+        {
+          "category": "Grade",
+          "group": "All Students",
+          "enrollment": 452,
+          "year": "2025",
+          "percentage": 100.0
+        }
+      ],
+      "attendance": [
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "African Am.",
+          "Attendance Rate (%) (All Students)": "90.9",
+          "Days Attended/Days Members (All Students)": "5083.5/5594.0",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Stevensville Middle School",
+          "school_code": "0404"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "White",
+          "Attendance Rate (%) (All Students)": "92.6",
+          "Days Attended/Days Members (All Students)": "55220.0/59619.0",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Stevensville Middle School",
+          "school_code": "0404"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "2+",
+          "Attendance Rate (%) (All Students)": "89.4",
+          "Days Attended/Days Members (All Students)": "4764.0/5329.0",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Stevensville Middle School",
+          "school_code": "0404"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "Hispanic",
+          "Attendance Rate (%) (All Students)": "90.4",
+          "Days Attended/Days Members (All Students)": "9831.0/10881.0",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Stevensville Middle School",
+          "school_code": "0404"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "Asian",
+          "Attendance Rate (%) (All Students)": "*",
+          "Days Attended/Days Members (All Students)": "*/*",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Stevensville Middle School",
+          "school_code": "0404"
+        }
+      ],
+      "student_groups": [
+        {
+          "Year": "2025",
+          "Student Group": "ADA 504",
+          "Result (%) (All Students)": "11.1",
+          "Count": "51",
+          "Total": "460",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Stevensville Middle School",
+          "school_code": "0404"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Economically Disadvantaged",
+          "Result (%) (All Students)": "27.2",
+          "Count": "125",
+          "Total": "460",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Stevensville Middle School",
+          "school_code": "0404"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Free and Reduced Meals Students",
+          "Result (%) (All Students)": "38.5",
+          "Count": "177",
+          "Total": "460",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Stevensville Middle School",
+          "school_code": "0404"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Multilingual Learner",
+          "Result (%) (All Students)": "6.5",
+          "Count": "30",
+          "Total": "460",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Stevensville Middle School",
+          "school_code": "0404"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Students with Disabilities",
+          "Result (%) (All Students)": "10.9",
+          "Count": "50",
+          "Total": "460",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Stevensville Middle School",
+          "school_code": "0404"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Homeless",
+          "Result (%) (All Students)": "\u2264 5.0",
+          "Count": "*",
+          "Total": "460",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Stevensville Middle School",
+          "school_code": "0404"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Military",
+          "Result (%) (All Students)": "\u2264 5.0",
+          "Count": "*",
+          "Total": "460",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Stevensville Middle School",
+          "school_code": "0404"
+        }
+      ],
+      "overall_attendance_rate": 91.99
+    }
+  ],
+  "high_schools": [
+    {
+      "school_name": "Kent Island High School",
+      "school_code": "0405",
+      "county_code": "17",
+      "county_name": "Queen Anne's County",
+      "summary": {},
+      "enrollment": [
+        {
+          "category": "Race/Ethnicity",
+          "group": "All Students",
+          "enrollment": 1153,
+          "year": "2025",
+          "percentage": 100.0
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "Asian",
+          "enrollment": 15,
+          "year": "2025",
+          "percentage": 1.3
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "African Am.",
+          "enrollment": 61,
+          "year": "2025",
+          "percentage": 5.29
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "Hispanic",
+          "enrollment": 122,
+          "year": "2025",
+          "percentage": 10.58
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "White",
+          "enrollment": 888,
+          "year": "2025",
+          "percentage": 77.02
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "Am.Ind/AK",
+          "enrollment": "*",
+          "year": "2025",
+          "percentage": "*"
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "HI/Pac.Isl.",
+          "enrollment": "*",
+          "year": "2025",
+          "percentage": "*"
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "2+",
+          "enrollment": 63,
+          "year": "2025",
+          "percentage": 5.46
+        },
+        {
+          "category": "Gender",
+          "group": "All Students",
+          "enrollment": 1153,
+          "year": "2025",
+          "percentage": 100.0
+        },
+        {
+          "category": "Gender",
+          "group": "Male",
+          "enrollment": 609,
+          "year": "2025",
+          "percentage": 52.82
+        },
+        {
+          "category": "Gender",
+          "group": "Female",
+          "enrollment": 544,
+          "year": "2025",
+          "percentage": 47.18
+        },
+        {
+          "category": "Grade",
+          "group": "All Students",
+          "enrollment": 1153,
+          "year": "2025",
+          "percentage": 100.0
+        }
+      ],
+      "attendance": [
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "African Am.",
+          "Attendance Rate (%) (All Students)": "90.8",
+          "Days Attended/Days Members (All Students)": "9877.5/10875.0",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Kent Island High School",
+          "school_code": "0405"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "HI/Pac.Isl.",
+          "Attendance Rate (%) (All Students)": "*",
+          "Days Attended/Days Members (All Students)": "*/*",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Kent Island High School",
+          "school_code": "0405"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "White",
+          "Attendance Rate (%) (All Students)": "92.8",
+          "Days Attended/Days Members (All Students)": "147943.0/159348.0",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Kent Island High School",
+          "school_code": "0405"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "2+",
+          "Attendance Rate (%) (All Students)": "89.2",
+          "Days Attended/Days Members (All Students)": "10024.5/11234.0",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Kent Island High School",
+          "school_code": "0405"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "Hispanic",
+          "Attendance Rate (%) (All Students)": "90.7",
+          "Days Attended/Days Members (All Students)": "19760.5/21793.0",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Kent Island High School",
+          "school_code": "0405"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "Am.Ind/AK",
+          "Attendance Rate (%) (All Students)": "*",
+          "Days Attended/Days Members (All Students)": "*/*",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Kent Island High School",
+          "school_code": "0405"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "Asian",
+          "Attendance Rate (%) (All Students)": "\u2265 95.0",
+          "Days Attended/Days Members (All Students)": "*/*",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Kent Island High School",
+          "school_code": "0405"
+        }
+      ],
+      "student_groups": [
+        {
+          "Year": "2025",
+          "Student Group": "ADA 504",
+          "Result (%) (All Students)": "13.5",
+          "Count": "156",
+          "Total": "1152",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Kent Island High School",
+          "school_code": "0405"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Economically Disadvantaged",
+          "Result (%) (All Students)": "24.1",
+          "Count": "278",
+          "Total": "1152",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Kent Island High School",
+          "school_code": "0405"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Free and Reduced Meals Students",
+          "Result (%) (All Students)": "30.8",
+          "Count": "355",
+          "Total": "1152",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Kent Island High School",
+          "school_code": "0405"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Multilingual Learner",
+          "Result (%) (All Students)": "\u2264 5.0",
+          "Count": "*",
+          "Total": "1152",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Kent Island High School",
+          "school_code": "0405"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Students with Disabilities",
+          "Result (%) (All Students)": "7.5",
+          "Count": "86",
+          "Total": "1152",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Kent Island High School",
+          "school_code": "0405"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Homeless",
+          "Result (%) (All Students)": "\u2264 5.0",
+          "Count": "*",
+          "Total": "1152",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Kent Island High School",
+          "school_code": "0405"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Foster Care",
+          "Result (%) (All Students)": "*",
+          "Count": "*",
+          "Total": "1152",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Kent Island High School",
+          "school_code": "0405"
+        }
+      ],
+      "overall_attendance_rate": 92.3
+    },
+    {
+      "school_name": "Queen Anne's County High School",
+      "school_code": "0301",
+      "county_code": "17",
+      "county_name": "Queen Anne's County",
+      "summary": {},
+      "enrollment": [
+        {
+          "category": "Race/Ethnicity",
+          "group": "All Students",
+          "enrollment": 1145,
+          "year": "2025",
+          "percentage": 100.0
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "Asian",
+          "enrollment": 10,
+          "year": "2025",
+          "percentage": 0.87
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "African Am.",
+          "enrollment": 97,
+          "year": "2025",
+          "percentage": 8.47
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "Hispanic",
+          "enrollment": 154,
+          "year": "2025",
+          "percentage": 13.45
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "White",
+          "enrollment": 825,
+          "year": "2025",
+          "percentage": 72.05
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "Am.Ind/AK",
+          "enrollment": "*",
+          "year": "2025",
+          "percentage": "*"
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "2+",
+          "enrollment": 58,
+          "year": "2025",
+          "percentage": 5.07
+        },
+        {
+          "category": "Gender",
+          "group": "All Students",
+          "enrollment": 1145,
+          "year": "2025",
+          "percentage": 100.0
+        },
+        {
+          "category": "Gender",
+          "group": "Male",
+          "enrollment": 558,
+          "year": "2025",
+          "percentage": 48.73
+        },
+        {
+          "category": "Gender",
+          "group": "Female",
+          "enrollment": 587,
+          "year": "2025",
+          "percentage": 51.27
+        },
+        {
+          "category": "Grade",
+          "group": "All Students",
+          "enrollment": 1145,
+          "year": "2025",
+          "percentage": 100.0
+        }
+      ],
+      "attendance": [
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "African Am.",
+          "Attendance Rate (%) (All Students)": "88.1",
+          "Days Attended/Days Members (All Students)": "14690.5/16666.0",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Queen Anne's County High School",
+          "school_code": "0301"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "White",
+          "Attendance Rate (%) (All Students)": "91.9",
+          "Days Attended/Days Members (All Students)": "135773.5/147798.0",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Queen Anne's County High School",
+          "school_code": "0301"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "2+",
+          "Attendance Rate (%) (All Students)": "88.4",
+          "Days Attended/Days Members (All Students)": "8972.0/10153.0",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Queen Anne's County High School",
+          "school_code": "0301"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "Hispanic",
+          "Attendance Rate (%) (All Students)": "89.2",
+          "Days Attended/Days Members (All Students)": "24827.5/27849.0",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Queen Anne's County High School",
+          "school_code": "0301"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "Am.Ind/AK",
+          "Attendance Rate (%) (All Students)": "*",
+          "Days Attended/Days Members (All Students)": "*/*",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Queen Anne's County High School",
+          "school_code": "0301"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "Asian",
+          "Attendance Rate (%) (All Students)": "90.0",
+          "Days Attended/Days Members (All Students)": "1620.5/1800.0",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Queen Anne's County High School",
+          "school_code": "0301"
+        }
+      ],
+      "student_groups": [
+        {
+          "Year": "2025",
+          "Student Group": "ADA 504",
+          "Result (%) (All Students)": "7.4",
+          "Count": "84",
+          "Total": "1138",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Queen Anne's County High School",
+          "school_code": "0301"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Economically Disadvantaged",
+          "Result (%) (All Students)": "30.5",
+          "Count": "347",
+          "Total": "1138",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Queen Anne's County High School",
+          "school_code": "0301"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Free and Reduced Meals Students",
+          "Result (%) (All Students)": "40.2",
+          "Count": "458",
+          "Total": "1138",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Queen Anne's County High School",
+          "school_code": "0301"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Multilingual Learner",
+          "Result (%) (All Students)": "\u2264 5.0",
+          "Count": "*",
+          "Total": "1138",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Queen Anne's County High School",
+          "school_code": "0301"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Migrant",
+          "Result (%) (All Students)": "*",
+          "Count": "*",
+          "Total": "1138",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Queen Anne's County High School",
+          "school_code": "0301"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Students with Disabilities",
+          "Result (%) (All Students)": "9.5",
+          "Count": "108",
+          "Total": "1138",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Queen Anne's County High School",
+          "school_code": "0301"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Homeless",
+          "Result (%) (All Students)": "\u2264 5.0",
+          "Count": "*",
+          "Total": "1138",
+          "county_name": "Queen Anne's County",
+          "county_code": "17",
+          "school_name": "Queen Anne's County High School",
+          "school_code": "0301"
+        }
+      ],
+      "overall_attendance_rate": 91.0
+    }
+  ],
+  "other_schools": []
+}

@@ -1,0 +1,72 @@
+{
+  "Caroline": {
+    "White": {
+      "ELA": 58.3,
+      "Math": 28.7
+    },
+    "Black": {
+      "ELA": 30.8,
+      "Math": 9.1
+    },
+    "Hispanic": {
+      "ELA": 36.8,
+      "Math": 15.2
+    }
+  },
+  "Dorchester": {
+    "White": {
+      "ELA": 58.2,
+      "Math": 28.6
+    },
+    "Black": {
+      "ELA": 25.0,
+      "Math": 5.1
+    },
+    "Hispanic": {
+      "ELA": 34.8,
+      "Math": 11.7
+    }
+  },
+  "Kent": {
+    "White": {
+      "ELA": 53.6,
+      "Math": 24.7
+    },
+    "Black": {
+      "ELA": 22.1,
+      "Math": 7.3
+    },
+    "Hispanic": {
+      "ELA": 23.8,
+      "Math": "Not found"
+    }
+  },
+  "Queen Anne's": {
+    "White": {
+      "ELA": 63.5,
+      "Math": 36.1
+    },
+    "Black": {
+      "ELA": 37.2,
+      "Math": 11.7
+    },
+    "Hispanic": {
+      "ELA": 38.8,
+      "Math": 20.7
+    }
+  },
+  "Talbot": {
+    "White": {
+      "ELA": 62.5,
+      "Math": 30.3
+    },
+    "Black": {
+      "ELA": 25.7,
+      "Math": 25.7
+    },
+    "Hispanic": {
+      "ELA": 25.0,
+      "Math": 7.8
+    }
+  }
+}

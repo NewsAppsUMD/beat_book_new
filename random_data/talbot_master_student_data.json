@@ -1,0 +1,1969 @@
+{
+  "county_name": "Talbot",
+  "county_code": "20",
+  "elementary_schools": [
+    {
+      "school_name": "Chapel District Elementary",
+      "school_code": "0401",
+      "county_code": "20",
+      "county_name": "Talbot County",
+      "summary": {},
+      "enrollment": [
+        {
+          "category": "Race/Ethnicity",
+          "group": "All Students",
+          "enrollment": 359,
+          "year": "2025",
+          "percentage": 100.0
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "Asian",
+          "enrollment": "*",
+          "year": "2025",
+          "percentage": "*"
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "African Am.",
+          "enrollment": 11,
+          "year": "2025",
+          "percentage": 3.06
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "Hispanic",
+          "enrollment": 42,
+          "year": "2025",
+          "percentage": 11.7
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "White",
+          "enrollment": 278,
+          "year": "2025",
+          "percentage": 77.44
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "2+",
+          "enrollment": 26,
+          "year": "2025",
+          "percentage": 7.24
+        },
+        {
+          "category": "Gender",
+          "group": "All Students",
+          "enrollment": 359,
+          "year": "2025",
+          "percentage": 100.0
+        },
+        {
+          "category": "Gender",
+          "group": "Male",
+          "enrollment": 175,
+          "year": "2025",
+          "percentage": 48.75
+        },
+        {
+          "category": "Gender",
+          "group": "Female",
+          "enrollment": 184,
+          "year": "2025",
+          "percentage": 51.25
+        },
+        {
+          "category": "Grade",
+          "group": "All Students",
+          "enrollment": 359,
+          "year": "2025",
+          "percentage": 100.0
+        },
+        {
+          "category": "Grade",
+          "group": "Pre-Kindergarten",
+          "enrollment": 50,
+          "year": "2025",
+          "percentage": 13.93
+        },
+        {
+          "category": "Grade",
+          "group": "Kindergarten",
+          "enrollment": 58,
+          "year": "2025",
+          "percentage": 16.16
+        },
+        {
+          "category": "Grade",
+          "group": "Grade 1",
+          "enrollment": 40,
+          "year": "2025",
+          "percentage": 11.14
+        },
+        {
+          "category": "Grade",
+          "group": "Grade 2",
+          "enrollment": 67,
+          "year": "2025",
+          "percentage": 18.66
+        },
+        {
+          "category": "Grade",
+          "group": "Grade 3",
+          "enrollment": 54,
+          "year": "2025",
+          "percentage": 15.04
+        },
+        {
+          "category": "Grade",
+          "group": "Grade 4",
+          "enrollment": 51,
+          "year": "2025",
+          "percentage": 14.21
+        },
+        {
+          "category": "Grade",
+          "group": "Grade 5",
+          "enrollment": 39,
+          "year": "2025",
+          "percentage": 10.86
+        },
+        {
+          "category": "Grade",
+          "group": "Elementary",
+          "enrollment": 251,
+          "year": "2025",
+          "percentage": 69.92
+        }
+      ],
+      "attendance": [
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "African Am.",
+          "Attendance Rate (%) (All Students)": "*",
+          "Days Attended/Days Members (All Students)": "*/*",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "Chapel District Elementary",
+          "school_code": "0401"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "White",
+          "Attendance Rate (%) (All Students)": "93.8",
+          "Days Attended/Days Members (All Students)": "33300.0/35505.0",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "Chapel District Elementary",
+          "school_code": "0401"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "2+",
+          "Attendance Rate (%) (All Students)": "\u2265 95.0",
+          "Days Attended/Days Members (All Students)": "*/*",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "Chapel District Elementary",
+          "school_code": "0401"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "Hispanic",
+          "Attendance Rate (%) (All Students)": "92.8",
+          "Days Attended/Days Members (All Students)": "5155.0/5556.0",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "Chapel District Elementary",
+          "school_code": "0401"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "Asian",
+          "Attendance Rate (%) (All Students)": "*",
+          "Days Attended/Days Members (All Students)": "*/*",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "Chapel District Elementary",
+          "school_code": "0401"
+        }
+      ],
+      "student_groups": [
+        {
+          "Year": "2025",
+          "Student Group": "ADA 504",
+          "Result (%) (All Students)": "5.2",
+          "Count": "19",
+          "Total": "367",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "Chapel District Elementary",
+          "school_code": "0401"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Economically Disadvantaged",
+          "Result (%) (All Students)": "35.7",
+          "Count": "131",
+          "Total": "367",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "Chapel District Elementary",
+          "school_code": "0401"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Free and Reduced Meals Students",
+          "Result (%) (All Students)": "42.0",
+          "Count": "154",
+          "Total": "367",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "Chapel District Elementary",
+          "school_code": "0401"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Multilingual Learner",
+          "Result (%) (All Students)": "6.0",
+          "Count": "22",
+          "Total": "367",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "Chapel District Elementary",
+          "school_code": "0401"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Migrant",
+          "Result (%) (All Students)": "*",
+          "Count": "*",
+          "Total": "367",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "Chapel District Elementary",
+          "school_code": "0401"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Students with Disabilities",
+          "Result (%) (All Students)": "12.3",
+          "Count": "45",
+          "Total": "367",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "Chapel District Elementary",
+          "school_code": "0401"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Title 1",
+          "Result (%) (All Students)": "22.6",
+          "Count": "83",
+          "Total": "367",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "Chapel District Elementary",
+          "school_code": "0401"
+        }
+      ],
+      "overall_attendance_rate": 93.65
+    },
+    {
+      "school_name": "Easton Elementary",
+      "school_code": "0104",
+      "county_code": "20",
+      "county_name": "Talbot County",
+      "summary": {},
+      "enrollment": [
+        {
+          "category": "Race/Ethnicity",
+          "group": "All Students",
+          "enrollment": 1075,
+          "year": "2025",
+          "percentage": 100.0
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "Asian",
+          "enrollment": 35,
+          "year": "2025",
+          "percentage": 3.26
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "African Am.",
+          "enrollment": 192,
+          "year": "2025",
+          "percentage": 17.86
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "Hispanic",
+          "enrollment": 486,
+          "year": "2025",
+          "percentage": 45.21
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "White",
+          "enrollment": 294,
+          "year": "2025",
+          "percentage": 27.35
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "2+",
+          "enrollment": 68,
+          "year": "2025",
+          "percentage": 6.33
+        },
+        {
+          "category": "Gender",
+          "group": "All Students",
+          "enrollment": 1075,
+          "year": "2025",
+          "percentage": 100.0
+        },
+        {
+          "category": "Gender",
+          "group": "Male",
+          "enrollment": 560,
+          "year": "2025",
+          "percentage": 52.09
+        },
+        {
+          "category": "Gender",
+          "group": "Female",
+          "enrollment": 515,
+          "year": "2025",
+          "percentage": 47.91
+        },
+        {
+          "category": "Grade",
+          "group": "All Students",
+          "enrollment": 1075,
+          "year": "2025",
+          "percentage": 100.0
+        },
+        {
+          "category": "Grade",
+          "group": "Pre-Kindergarten",
+          "enrollment": 167,
+          "year": "2025",
+          "percentage": 15.53
+        },
+        {
+          "category": "Grade",
+          "group": "Kindergarten",
+          "enrollment": 145,
+          "year": "2025",
+          "percentage": 13.49
+        },
+        {
+          "category": "Grade",
+          "group": "Grade 1",
+          "enrollment": 139,
+          "year": "2025",
+          "percentage": 12.93
+        },
+        {
+          "category": "Grade",
+          "group": "Grade 2",
+          "enrollment": 167,
+          "year": "2025",
+          "percentage": 15.53
+        },
+        {
+          "category": "Grade",
+          "group": "Grade 3",
+          "enrollment": 149,
+          "year": "2025",
+          "percentage": 13.86
+        },
+        {
+          "category": "Grade",
+          "group": "Grade 4",
+          "enrollment": 129,
+          "year": "2025",
+          "percentage": 12.0
+        },
+        {
+          "category": "Grade",
+          "group": "Grade 5",
+          "enrollment": 179,
+          "year": "2025",
+          "percentage": 16.65
+        },
+        {
+          "category": "Grade",
+          "group": "Elementary",
+          "enrollment": 763,
+          "year": "2025",
+          "percentage": 70.98
+        }
+      ],
+      "attendance": [
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "African Am.",
+          "Attendance Rate (%) (All Students)": "92.8",
+          "Days Attended/Days Members (All Students)": "24580.0/26488.0",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "Easton Elementary",
+          "school_code": "0104"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "White",
+          "Attendance Rate (%) (All Students)": "93.3",
+          "Days Attended/Days Members (All Students)": "32780.5/35133.0",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "Easton Elementary",
+          "school_code": "0104"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "2+",
+          "Attendance Rate (%) (All Students)": "90.4",
+          "Days Attended/Days Members (All Students)": "7124.0/7883.0",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "Easton Elementary",
+          "school_code": "0104"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "Hispanic",
+          "Attendance Rate (%) (All Students)": "93.6",
+          "Days Attended/Days Members (All Students)": "60349.5/64484.0",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "Easton Elementary",
+          "school_code": "0104"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "Asian",
+          "Attendance Rate (%) (All Students)": "\u2265 95.0",
+          "Days Attended/Days Members (All Students)": "*/*",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "Easton Elementary",
+          "school_code": "0104"
+        }
+      ],
+      "student_groups": [
+        {
+          "Year": "2025",
+          "Student Group": "ADA 504",
+          "Result (%) (All Students)": "\u2264 5.0",
+          "Count": "*",
+          "Total": "1085",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "Easton Elementary",
+          "school_code": "0104"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Economically Disadvantaged",
+          "Result (%) (All Students)": "60.8",
+          "Count": "660",
+          "Total": "1085",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "Easton Elementary",
+          "school_code": "0104"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Free and Reduced Meals Students",
+          "Result (%) (All Students)": "74.9",
+          "Count": "813",
+          "Total": "1085",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "Easton Elementary",
+          "school_code": "0104"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Multilingual Learner",
+          "Result (%) (All Students)": "30.1",
+          "Count": "327",
+          "Total": "1085",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "Easton Elementary",
+          "school_code": "0104"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Students with Disabilities",
+          "Result (%) (All Students)": "13.1",
+          "Count": "142",
+          "Total": "1085",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "Easton Elementary",
+          "school_code": "0104"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Title 1",
+          "Result (%) (All Students)": "\u2265 95.0",
+          "Count": "*",
+          "Total": "1085",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "Easton Elementary",
+          "school_code": "0104"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Homeless",
+          "Result (%) (All Students)": "7.2",
+          "Count": "78",
+          "Total": "1085",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "Easton Elementary",
+          "school_code": "0104"
+        }
+      ],
+      "overall_attendance_rate": 93.17
+    },
+    {
+      "school_name": "St. Michaels Elementary",
+      "school_code": "0204",
+      "county_code": "20",
+      "county_name": "Talbot County",
+      "summary": {},
+      "enrollment": [
+        {
+          "category": "Race/Ethnicity",
+          "group": "All Students",
+          "enrollment": 332,
+          "year": "2025",
+          "percentage": 100.0
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "Asian",
+          "enrollment": "*",
+          "year": "2025",
+          "percentage": "*"
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "African Am.",
+          "enrollment": 44,
+          "year": "2025",
+          "percentage": 13.25
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "Hispanic",
+          "enrollment": 33,
+          "year": "2025",
+          "percentage": 9.94
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "White",
+          "enrollment": 234,
+          "year": "2025",
+          "percentage": 70.48
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "Am.Ind/AK",
+          "enrollment": "*",
+          "year": "2025",
+          "percentage": "*"
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "2+",
+          "enrollment": 16,
+          "year": "2025",
+          "percentage": 4.82
+        },
+        {
+          "category": "Gender",
+          "group": "All Students",
+          "enrollment": 332,
+          "year": "2025",
+          "percentage": 100.0
+        },
+        {
+          "category": "Gender",
+          "group": "Male",
+          "enrollment": 163,
+          "year": "2025",
+          "percentage": 49.1
+        },
+        {
+          "category": "Gender",
+          "group": "Female",
+          "enrollment": 169,
+          "year": "2025",
+          "percentage": 50.9
+        },
+        {
+          "category": "Grade",
+          "group": "All Students",
+          "enrollment": 332,
+          "year": "2025",
+          "percentage": 100.0
+        },
+        {
+          "category": "Grade",
+          "group": "Pre-Kindergarten",
+          "enrollment": 44,
+          "year": "2025",
+          "percentage": 13.25
+        },
+        {
+          "category": "Grade",
+          "group": "Kindergarten",
+          "enrollment": 40,
+          "year": "2025",
+          "percentage": 12.05
+        },
+        {
+          "category": "Grade",
+          "group": "Grade 1",
+          "enrollment": 44,
+          "year": "2025",
+          "percentage": 13.25
+        },
+        {
+          "category": "Grade",
+          "group": "Grade 2",
+          "enrollment": 47,
+          "year": "2025",
+          "percentage": 14.16
+        },
+        {
+          "category": "Grade",
+          "group": "Grade 3",
+          "enrollment": 59,
+          "year": "2025",
+          "percentage": 17.77
+        },
+        {
+          "category": "Grade",
+          "group": "Grade 4",
+          "enrollment": 47,
+          "year": "2025",
+          "percentage": 14.16
+        },
+        {
+          "category": "Grade",
+          "group": "Grade 5",
+          "enrollment": 51,
+          "year": "2025",
+          "percentage": 15.36
+        },
+        {
+          "category": "Grade",
+          "group": "Elementary",
+          "enrollment": 248,
+          "year": "2025",
+          "percentage": 74.7
+        }
+      ],
+      "attendance": [
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "African Am.",
+          "Attendance Rate (%) (All Students)": "94.0",
+          "Days Attended/Days Members (All Students)": "5548.5/5902.0",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "St. Michaels Elementary",
+          "school_code": "0204"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "White",
+          "Attendance Rate (%) (All Students)": "94.7",
+          "Days Attended/Days Members (All Students)": "29359.0/31018.0",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "St. Michaels Elementary",
+          "school_code": "0204"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "2+",
+          "Attendance Rate (%) (All Students)": "94.7",
+          "Days Attended/Days Members (All Students)": "1704.0/1800.0",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "St. Michaels Elementary",
+          "school_code": "0204"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "Hispanic",
+          "Attendance Rate (%) (All Students)": "93.2",
+          "Days Attended/Days Members (All Students)": "4749.0/5098.0",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "St. Michaels Elementary",
+          "school_code": "0204"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "Asian",
+          "Attendance Rate (%) (All Students)": "*",
+          "Days Attended/Days Members (All Students)": "*/*",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "St. Michaels Elementary",
+          "school_code": "0204"
+        }
+      ],
+      "student_groups": [
+        {
+          "Year": "2025",
+          "Student Group": "ADA 504",
+          "Result (%) (All Students)": "8.9",
+          "Count": "29",
+          "Total": "327",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "St. Michaels Elementary",
+          "school_code": "0204"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Economically Disadvantaged",
+          "Result (%) (All Students)": "43.4",
+          "Count": "142",
+          "Total": "327",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "St. Michaels Elementary",
+          "school_code": "0204"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Free and Reduced Meals Students",
+          "Result (%) (All Students)": "48.0",
+          "Count": "157",
+          "Total": "327",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "St. Michaels Elementary",
+          "school_code": "0204"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Multilingual Learner",
+          "Result (%) (All Students)": "\u2264 5.0",
+          "Count": "*",
+          "Total": "327",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "St. Michaels Elementary",
+          "school_code": "0204"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Students with Disabilities",
+          "Result (%) (All Students)": "16.5",
+          "Count": "54",
+          "Total": "327",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "St. Michaels Elementary",
+          "school_code": "0204"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Title 1",
+          "Result (%) (All Students)": "\u2265 95.0",
+          "Count": "*",
+          "Total": "327",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "St. Michaels Elementary",
+          "school_code": "0204"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Homeless",
+          "Result (%) (All Students)": "*",
+          "Count": "*",
+          "Total": "327",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "St. Michaels Elementary",
+          "school_code": "0204"
+        }
+      ],
+      "overall_attendance_rate": 94.39
+    },
+    {
+      "school_name": "Tilghman Elementary",
+      "school_code": "0501",
+      "county_code": "20",
+      "county_name": "Talbot County",
+      "summary": {},
+      "enrollment": [
+        {
+          "category": "Race/Ethnicity",
+          "group": "All Students",
+          "enrollment": 99,
+          "year": "2025",
+          "percentage": 100.0
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "African Am.",
+          "enrollment": "*",
+          "year": "2025",
+          "percentage": "*"
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "Hispanic",
+          "enrollment": "*",
+          "year": "2025",
+          "percentage": "*"
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "White",
+          "enrollment": 92,
+          "year": "2025",
+          "percentage": 92.93
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "2+",
+          "enrollment": "*",
+          "year": "2025",
+          "percentage": "*"
+        },
+        {
+          "category": "Gender",
+          "group": "All Students",
+          "enrollment": 99,
+          "year": "2025",
+          "percentage": 100.0
+        },
+        {
+          "category": "Gender",
+          "group": "Male",
+          "enrollment": 51,
+          "year": "2025",
+          "percentage": 51.52
+        },
+        {
+          "category": "Gender",
+          "group": "Female",
+          "enrollment": 48,
+          "year": "2025",
+          "percentage": 48.48
+        },
+        {
+          "category": "Grade",
+          "group": "All Students",
+          "enrollment": 99,
+          "year": "2025",
+          "percentage": 100.0
+        },
+        {
+          "category": "Grade",
+          "group": "Pre-Kindergarten",
+          "enrollment": 17,
+          "year": "2025",
+          "percentage": 17.17
+        },
+        {
+          "category": "Grade",
+          "group": "Kindergarten",
+          "enrollment": "*",
+          "year": "2025",
+          "percentage": "*"
+        },
+        {
+          "category": "Grade",
+          "group": "Grade 1",
+          "enrollment": 20,
+          "year": "2025",
+          "percentage": 20.2
+        },
+        {
+          "category": "Grade",
+          "group": "Grade 2",
+          "enrollment": 16,
+          "year": "2025",
+          "percentage": 16.16
+        },
+        {
+          "category": "Grade",
+          "group": "Grade 3",
+          "enrollment": 13,
+          "year": "2025",
+          "percentage": 13.13
+        },
+        {
+          "category": "Grade",
+          "group": "Grade 4",
+          "enrollment": "*",
+          "year": "2025",
+          "percentage": "*"
+        },
+        {
+          "category": "Grade",
+          "group": "Grade 5",
+          "enrollment": 17,
+          "year": "2025",
+          "percentage": 17.17
+        },
+        {
+          "category": "Grade",
+          "group": "Elementary",
+          "enrollment": 74,
+          "year": "2025",
+          "percentage": 74.75
+        }
+      ],
+      "attendance": [
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "African Am.",
+          "Attendance Rate (%) (All Students)": "*",
+          "Days Attended/Days Members (All Students)": "*/*",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "Tilghman Elementary",
+          "school_code": "0501"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "White",
+          "Attendance Rate (%) (All Students)": "91.6",
+          "Days Attended/Days Members (All Students)": "11088.0/12105.0",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "Tilghman Elementary",
+          "school_code": "0501"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "2+",
+          "Attendance Rate (%) (All Students)": "*",
+          "Days Attended/Days Members (All Students)": "*/*",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "Tilghman Elementary",
+          "school_code": "0501"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "Hispanic",
+          "Attendance Rate (%) (All Students)": "*",
+          "Days Attended/Days Members (All Students)": "*/*",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "Tilghman Elementary",
+          "school_code": "0501"
+        }
+      ],
+      "student_groups": [
+        {
+          "Year": "2025",
+          "Student Group": "ADA 504",
+          "Result (%) (All Students)": "*",
+          "Count": "*",
+          "Total": "101",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "Tilghman Elementary",
+          "school_code": "0501"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Economically Disadvantaged",
+          "Result (%) (All Students)": "58.4",
+          "Count": "59",
+          "Total": "101",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "Tilghman Elementary",
+          "school_code": "0501"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Free and Reduced Meals Students",
+          "Result (%) (All Students)": "63.4",
+          "Count": "64",
+          "Total": "101",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "Tilghman Elementary",
+          "school_code": "0501"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Multilingual Learner",
+          "Result (%) (All Students)": "*",
+          "Count": "*",
+          "Total": "101",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "Tilghman Elementary",
+          "school_code": "0501"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Students with Disabilities",
+          "Result (%) (All Students)": "13.9",
+          "Count": "14",
+          "Total": "101",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "Tilghman Elementary",
+          "school_code": "0501"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Title 1",
+          "Result (%) (All Students)": "27.7",
+          "Count": "28",
+          "Total": "101",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "Tilghman Elementary",
+          "school_code": "0501"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Homeless",
+          "Result (%) (All Students)": "*",
+          "Count": "*",
+          "Total": "101",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "Tilghman Elementary",
+          "school_code": "0501"
+        }
+      ],
+      "overall_attendance_rate": 91.6
+    },
+    {
+      "school_name": "White Marsh Elementary",
+      "school_code": "0302",
+      "county_code": "20",
+      "county_name": "Talbot County",
+      "summary": {},
+      "enrollment": [
+        {
+          "category": "Race/Ethnicity",
+          "group": "All Students",
+          "enrollment": 289,
+          "year": "2025",
+          "percentage": 100.0
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "Asian",
+          "enrollment": "*",
+          "year": "2025",
+          "percentage": "*"
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "African Am.",
+          "enrollment": 32,
+          "year": "2025",
+          "percentage": 11.07
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "Hispanic",
+          "enrollment": 55,
+          "year": "2025",
+          "percentage": 19.03
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "White",
+          "enrollment": 178,
+          "year": "2025",
+          "percentage": 61.59
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "2+",
+          "enrollment": 16,
+          "year": "2025",
+          "percentage": 5.54
+        },
+        {
+          "category": "Gender",
+          "group": "All Students",
+          "enrollment": 289,
+          "year": "2025",
+          "percentage": 100.0
+        },
+        {
+          "category": "Gender",
+          "group": "Male",
+          "enrollment": 141,
+          "year": "2025",
+          "percentage": 48.79
+        },
+        {
+          "category": "Gender",
+          "group": "Female",
+          "enrollment": 148,
+          "year": "2025",
+          "percentage": 51.21
+        },
+        {
+          "category": "Grade",
+          "group": "All Students",
+          "enrollment": 289,
+          "year": "2025",
+          "percentage": 100.0
+        },
+        {
+          "category": "Grade",
+          "group": "Pre-Kindergarten",
+          "enrollment": 41,
+          "year": "2025",
+          "percentage": 14.19
+        },
+        {
+          "category": "Grade",
+          "group": "Kindergarten",
+          "enrollment": 30,
+          "year": "2025",
+          "percentage": 10.38
+        },
+        {
+          "category": "Grade",
+          "group": "Grade 1",
+          "enrollment": 50,
+          "year": "2025",
+          "percentage": 17.3
+        },
+        {
+          "category": "Grade",
+          "group": "Grade 2",
+          "enrollment": 45,
+          "year": "2025",
+          "percentage": 15.57
+        },
+        {
+          "category": "Grade",
+          "group": "Grade 3",
+          "enrollment": 45,
+          "year": "2025",
+          "percentage": 15.57
+        },
+        {
+          "category": "Grade",
+          "group": "Grade 4",
+          "enrollment": 38,
+          "year": "2025",
+          "percentage": 13.15
+        },
+        {
+          "category": "Grade",
+          "group": "Grade 5",
+          "enrollment": 40,
+          "year": "2025",
+          "percentage": 13.84
+        },
+        {
+          "category": "Grade",
+          "group": "Elementary",
+          "enrollment": 218,
+          "year": "2025",
+          "percentage": 75.43
+        }
+      ],
+      "attendance": [
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "African Am.",
+          "Attendance Rate (%) (All Students)": "93.8",
+          "Days Attended/Days Members (All Students)": "3715.0/3960.0",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "White Marsh Elementary",
+          "school_code": "0302"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "White",
+          "Attendance Rate (%) (All Students)": "94.1",
+          "Days Attended/Days Members (All Students)": "23946.0/25450.0",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "White Marsh Elementary",
+          "school_code": "0302"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "2+",
+          "Attendance Rate (%) (All Students)": "94.8",
+          "Days Attended/Days Members (All Students)": "1877.5/1980.0",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "White Marsh Elementary",
+          "school_code": "0302"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "Hispanic",
+          "Attendance Rate (%) (All Students)": "93.0",
+          "Days Attended/Days Members (All Students)": "6197.0/6667.0",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "White Marsh Elementary",
+          "school_code": "0302"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "Asian",
+          "Attendance Rate (%) (All Students)": "*",
+          "Days Attended/Days Members (All Students)": "*/*",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "White Marsh Elementary",
+          "school_code": "0302"
+        }
+      ],
+      "student_groups": [
+        {
+          "Year": "2025",
+          "Student Group": "ADA 504",
+          "Result (%) (All Students)": "\u2264 5.0",
+          "Count": "*",
+          "Total": "285",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "White Marsh Elementary",
+          "school_code": "0302"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Economically Disadvantaged",
+          "Result (%) (All Students)": "46.3",
+          "Count": "132",
+          "Total": "285",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "White Marsh Elementary",
+          "school_code": "0302"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Free and Reduced Meals Students",
+          "Result (%) (All Students)": "56.1",
+          "Count": "160",
+          "Total": "285",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "White Marsh Elementary",
+          "school_code": "0302"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Multilingual Learner",
+          "Result (%) (All Students)": "11.6",
+          "Count": "33",
+          "Total": "285",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "White Marsh Elementary",
+          "school_code": "0302"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Students with Disabilities",
+          "Result (%) (All Students)": "7.7",
+          "Count": "22",
+          "Total": "285",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "White Marsh Elementary",
+          "school_code": "0302"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Title 1",
+          "Result (%) (All Students)": "\u2265 95.0",
+          "Count": "*",
+          "Total": "285",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "White Marsh Elementary",
+          "school_code": "0302"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Homeless",
+          "Result (%) (All Students)": "5.3",
+          "Count": "15",
+          "Total": "285",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "White Marsh Elementary",
+          "school_code": "0302"
+        }
+      ],
+      "overall_attendance_rate": 93.9
+    }
+  ],
+  "middle_schools": [
+    {
+      "school_name": "Easton Middle",
+      "school_code": "0106",
+      "county_code": "20",
+      "county_name": "Talbot County",
+      "summary": {},
+      "enrollment": [
+        {
+          "category": "Race/Ethnicity",
+          "group": "All Students",
+          "enrollment": 703,
+          "year": "2025",
+          "percentage": 100.0
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "Asian",
+          "enrollment": 10,
+          "year": "2025",
+          "percentage": 1.42
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "African Am.",
+          "enrollment": 128,
+          "year": "2025",
+          "percentage": 18.21
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "Hispanic",
+          "enrollment": 232,
+          "year": "2025",
+          "percentage": 33.0
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "White",
+          "enrollment": 270,
+          "year": "2025",
+          "percentage": 38.41
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "2+",
+          "enrollment": 63,
+          "year": "2025",
+          "percentage": 8.96
+        },
+        {
+          "category": "Gender",
+          "group": "All Students",
+          "enrollment": 703,
+          "year": "2025",
+          "percentage": 100.0
+        },
+        {
+          "category": "Gender",
+          "group": "Male",
+          "enrollment": 365,
+          "year": "2025",
+          "percentage": 51.92
+        },
+        {
+          "category": "Gender",
+          "group": "Female",
+          "enrollment": 338,
+          "year": "2025",
+          "percentage": 48.08
+        },
+        {
+          "category": "Grade",
+          "group": "All Students",
+          "enrollment": 703,
+          "year": "2025",
+          "percentage": 100.0
+        }
+      ],
+      "attendance": [
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "African Am.",
+          "Attendance Rate (%) (All Students)": "92.4",
+          "Days Attended/Days Members (All Students)": "21332.0/23085.0",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "Easton Middle",
+          "school_code": "0106"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "White",
+          "Attendance Rate (%) (All Students)": "92.6",
+          "Days Attended/Days Members (All Students)": "44320.0/47870.0",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "Easton Middle",
+          "school_code": "0106"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "2+",
+          "Attendance Rate (%) (All Students)": "91.7",
+          "Days Attended/Days Members (All Students)": "10717.5/11686.0",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "Easton Middle",
+          "school_code": "0106"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "Hispanic",
+          "Attendance Rate (%) (All Students)": "92.5",
+          "Days Attended/Days Members (All Students)": "38239.0/41357.0",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "Easton Middle",
+          "school_code": "0106"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "Asian",
+          "Attendance Rate (%) (All Students)": "*",
+          "Days Attended/Days Members (All Students)": "*/*",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "Easton Middle",
+          "school_code": "0106"
+        }
+      ],
+      "student_groups": [
+        {
+          "Year": "2025",
+          "Student Group": "ADA 504",
+          "Result (%) (All Students)": "8.0",
+          "Count": "56",
+          "Total": "698",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "Easton Middle",
+          "school_code": "0106"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Economically Disadvantaged",
+          "Result (%) (All Students)": "54.7",
+          "Count": "382",
+          "Total": "698",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "Easton Middle",
+          "school_code": "0106"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Free and Reduced Meals Students",
+          "Result (%) (All Students)": "67.8",
+          "Count": "473",
+          "Total": "698",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "Easton Middle",
+          "school_code": "0106"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Multilingual Learner",
+          "Result (%) (All Students)": "15.8",
+          "Count": "110",
+          "Total": "698",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "Easton Middle",
+          "school_code": "0106"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Students with Disabilities",
+          "Result (%) (All Students)": "13.3",
+          "Count": "93",
+          "Total": "698",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "Easton Middle",
+          "school_code": "0106"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Homeless",
+          "Result (%) (All Students)": "5.6",
+          "Count": "39",
+          "Total": "698",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "Easton Middle",
+          "school_code": "0106"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Foster Care",
+          "Result (%) (All Students)": "*",
+          "Count": "*",
+          "Total": "698",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "Easton Middle",
+          "school_code": "0106"
+        }
+      ],
+      "overall_attendance_rate": 92.43
+    }
+  ],
+  "high_schools": [
+    {
+      "school_name": "St. Michaels Middle/High School",
+      "school_code": "0202",
+      "county_code": "20",
+      "county_name": "Talbot County",
+      "summary": {},
+      "enrollment": [
+        {
+          "category": "Race/Ethnicity",
+          "group": "All Students",
+          "enrollment": 449,
+          "year": "2025",
+          "percentage": 100.0
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "Asian",
+          "enrollment": "*",
+          "year": "2025",
+          "percentage": "*"
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "African Am.",
+          "enrollment": 53,
+          "year": "2025",
+          "percentage": 11.8
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "Hispanic",
+          "enrollment": 50,
+          "year": "2025",
+          "percentage": 11.14
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "White",
+          "enrollment": 309,
+          "year": "2025",
+          "percentage": 68.82
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "2+",
+          "enrollment": 31,
+          "year": "2025",
+          "percentage": 6.9
+        },
+        {
+          "category": "Gender",
+          "group": "All Students",
+          "enrollment": 449,
+          "year": "2025",
+          "percentage": 100.0
+        },
+        {
+          "category": "Gender",
+          "group": "Male",
+          "enrollment": 246,
+          "year": "2025",
+          "percentage": 54.79
+        },
+        {
+          "category": "Gender",
+          "group": "Female",
+          "enrollment": 203,
+          "year": "2025",
+          "percentage": 45.21
+        },
+        {
+          "category": "Grade",
+          "group": "All Students",
+          "enrollment": 449,
+          "year": "2025",
+          "percentage": 100.0
+        }
+      ],
+      "attendance": [
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "African Am.",
+          "Attendance Rate (%) (All Students)": "89.5",
+          "Days Attended/Days Members (All Students)": "8306.0/9280.0",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "St. Michaels Middle/High School",
+          "school_code": "0202"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "White",
+          "Attendance Rate (%) (All Students)": "92.0",
+          "Days Attended/Days Members (All Students)": "50555.0/54948.0",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "St. Michaels Middle/High School",
+          "school_code": "0202"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "2+",
+          "Attendance Rate (%) (All Students)": "92.2",
+          "Days Attended/Days Members (All Students)": "5171.0/5607.0",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "St. Michaels Middle/High School",
+          "school_code": "0202"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "Hispanic",
+          "Attendance Rate (%) (All Students)": "90.3",
+          "Days Attended/Days Members (All Students)": "7984.0/8846.0",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "St. Michaels Middle/High School",
+          "school_code": "0202"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "Asian",
+          "Attendance Rate (%) (All Students)": "*",
+          "Days Attended/Days Members (All Students)": "*/*",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "St. Michaels Middle/High School",
+          "school_code": "0202"
+        }
+      ],
+      "student_groups": [
+        {
+          "Year": "2025",
+          "Student Group": "ADA 504",
+          "Result (%) (All Students)": "12.7",
+          "Count": "56",
+          "Total": "440",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "St. Michaels Middle/High School",
+          "school_code": "0202"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Economically Disadvantaged",
+          "Result (%) (All Students)": "41.6",
+          "Count": "183",
+          "Total": "440",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "St. Michaels Middle/High School",
+          "school_code": "0202"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Free and Reduced Meals Students",
+          "Result (%) (All Students)": "46.4",
+          "Count": "204",
+          "Total": "440",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "St. Michaels Middle/High School",
+          "school_code": "0202"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Multilingual Learner",
+          "Result (%) (All Students)": "\u2264 5.0",
+          "Count": "*",
+          "Total": "440",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "St. Michaels Middle/High School",
+          "school_code": "0202"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Students with Disabilities",
+          "Result (%) (All Students)": "10.2",
+          "Count": "45",
+          "Total": "440",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "St. Michaels Middle/High School",
+          "school_code": "0202"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Homeless",
+          "Result (%) (All Students)": "*",
+          "Count": "*",
+          "Total": "440",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "St. Michaels Middle/High School",
+          "school_code": "0202"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Military",
+          "Result (%) (All Students)": "*",
+          "Count": "*",
+          "Total": "440",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "St. Michaels Middle/High School",
+          "school_code": "0202"
+        }
+      ],
+      "overall_attendance_rate": 91.53
+    },
+    {
+      "school_name": "Easton High",
+      "school_code": "0101",
+      "county_code": "20",
+      "county_name": "Talbot County",
+      "summary": {},
+      "enrollment": [
+        {
+          "category": "Race/Ethnicity",
+          "group": "All Students",
+          "enrollment": 1179,
+          "year": "2025",
+          "percentage": 100.0
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "Asian",
+          "enrollment": 23,
+          "year": "2025",
+          "percentage": 1.95
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "African Am.",
+          "enrollment": 208,
+          "year": "2025",
+          "percentage": 17.64
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "Hispanic",
+          "enrollment": 334,
+          "year": "2025",
+          "percentage": 28.33
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "White",
+          "enrollment": 561,
+          "year": "2025",
+          "percentage": 47.58
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "2+",
+          "enrollment": 53,
+          "year": "2025",
+          "percentage": 4.5
+        },
+        {
+          "category": "Gender",
+          "group": "All Students",
+          "enrollment": 1179,
+          "year": "2025",
+          "percentage": 100.0
+        },
+        {
+          "category": "Gender",
+          "group": "Male",
+          "enrollment": 613,
+          "year": "2025",
+          "percentage": 51.99
+        },
+        {
+          "category": "Gender",
+          "group": "Female",
+          "enrollment": 566,
+          "year": "2025",
+          "percentage": 48.01
+        },
+        {
+          "category": "Grade",
+          "group": "All Students",
+          "enrollment": 1179,
+          "year": "2025",
+          "percentage": 100.0
+        }
+      ],
+      "attendance": [
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "African Am.",
+          "Attendance Rate (%) (All Students)": "88.8",
+          "Days Attended/Days Members (All Students)": "32544.5/36662.0",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "Easton High",
+          "school_code": "0101"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "White",
+          "Attendance Rate (%) (All Students)": "91.7",
+          "Days Attended/Days Members (All Students)": "91976.5/100271.0",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "Easton High",
+          "school_code": "0101"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "2+",
+          "Attendance Rate (%) (All Students)": "90.8",
+          "Days Attended/Days Members (All Students)": "8753.5/9640.0",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "Easton High",
+          "school_code": "0101"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "Hispanic",
+          "Attendance Rate (%) (All Students)": "88.6",
+          "Days Attended/Days Members (All Students)": "53492.5/60374.0",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "Easton High",
+          "school_code": "0101"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "Asian",
+          "Attendance Rate (%) (All Students)": "93.8",
+          "Days Attended/Days Members (All Students)": "3884.5/4140.0",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "Easton High",
+          "school_code": "0101"
+        }
+      ],
+      "student_groups": [
+        {
+          "Year": "2025",
+          "Student Group": "ADA 504",
+          "Result (%) (All Students)": "8.7",
+          "Count": "102",
+          "Total": "1171",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "Easton High",
+          "school_code": "0101"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Economically Disadvantaged",
+          "Result (%) (All Students)": "47.6",
+          "Count": "557",
+          "Total": "1171",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "Easton High",
+          "school_code": "0101"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Free and Reduced Meals Students",
+          "Result (%) (All Students)": "58.4",
+          "Count": "684",
+          "Total": "1171",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "Easton High",
+          "school_code": "0101"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Multilingual Learner",
+          "Result (%) (All Students)": "13.7",
+          "Count": "161",
+          "Total": "1171",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "Easton High",
+          "school_code": "0101"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Students with Disabilities",
+          "Result (%) (All Students)": "8.8",
+          "Count": "103",
+          "Total": "1171",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "Easton High",
+          "school_code": "0101"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Homeless",
+          "Result (%) (All Students)": "6.7",
+          "Count": "78",
+          "Total": "1171",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "Easton High",
+          "school_code": "0101"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Foster Care",
+          "Result (%) (All Students)": "*",
+          "Count": "*",
+          "Total": "1171",
+          "county_name": "Talbot County",
+          "county_code": "20",
+          "school_name": "Easton High",
+          "school_code": "0101"
+        }
+      ],
+      "overall_attendance_rate": 90.32
+    }
+  ],
+  "other_schools": []
+}

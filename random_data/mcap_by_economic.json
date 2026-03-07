@@ -1,0 +1,52 @@
+{
+  "Caroline": {
+    "Economically Disadvantaged": {
+      "ELA": 40.7,
+      "Math": 16.5
+    },
+    "Not Economically Disadvantaged": {
+      "ELA": 61.2,
+      "Math": 30.7
+    }
+  },
+  "Dorchester": {
+    "Economically Disadvantaged": {
+      "ELA": 34.0,
+      "Math": 11.4
+    },
+    "Not Economically Disadvantaged": {
+      "ELA": 57.4,
+      "Math": 26.5
+    }
+  },
+  "Kent": {
+    "Economically Disadvantaged": {
+      "ELA": 32.3,
+      "Math": 11.8
+    },
+    "Not Economically Disadvantaged": {
+      "ELA": 55.5,
+      "Math": 24.2
+    }
+  },
+  "Queen Anne's": {
+    "Economically Disadvantaged": {
+      "ELA": 38.6,
+      "Math": 17.5
+    },
+    "Not Economically Disadvantaged": {
+      "ELA": 64.6,
+      "Math": 37.6
+    }
+  },
+  "Talbot": {
+    "Economically Disadvantaged": {
+      "ELA": 33.6,
+      "Math": 10.9
+    },
+    "Not Economically Disadvantaged": {
+      "ELA": 58.2,
+      "Math": 27.6
+    }
+  }
+}

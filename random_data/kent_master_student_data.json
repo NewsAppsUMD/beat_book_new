@@ -1,0 +1,1234 @@
+{
+  "county_name": "Kent",
+  "county_code": "14",
+  "elementary_schools": [
+    {
+      "school_name": "Galena Elementary School",
+      "school_code": "0105",
+      "county_code": "14",
+      "county_name": "Kent County",
+      "summary": {},
+      "enrollment": [
+        {
+          "category": "Race/Ethnicity",
+          "group": "All Students",
+          "enrollment": 309,
+          "year": "2025",
+          "percentage": 100.0
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "African Am.",
+          "enrollment": 22,
+          "year": "2025",
+          "percentage": 7.12
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "Hispanic",
+          "enrollment": 63,
+          "year": "2025",
+          "percentage": 20.39
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "White",
+          "enrollment": 201,
+          "year": "2025",
+          "percentage": 65.05
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "2+",
+          "enrollment": 23,
+          "year": "2025",
+          "percentage": 7.44
+        },
+        {
+          "category": "Gender",
+          "group": "All Students",
+          "enrollment": 309,
+          "year": "2025",
+          "percentage": 100.0
+        },
+        {
+          "category": "Gender",
+          "group": "Male",
+          "enrollment": 152,
+          "year": "2025",
+          "percentage": 49.19
+        },
+        {
+          "category": "Gender",
+          "group": "Female",
+          "enrollment": 157,
+          "year": "2025",
+          "percentage": 50.81
+        },
+        {
+          "category": "Grade",
+          "group": "All Students",
+          "enrollment": 309,
+          "year": "2025",
+          "percentage": 100.0
+        },
+        {
+          "category": "Grade",
+          "group": "Pre-Kindergarten",
+          "enrollment": 43,
+          "year": "2025",
+          "percentage": 13.92
+        },
+        {
+          "category": "Grade",
+          "group": "Kindergarten",
+          "enrollment": 49,
+          "year": "2025",
+          "percentage": 15.86
+        },
+        {
+          "category": "Grade",
+          "group": "Grade 1",
+          "enrollment": 49,
+          "year": "2025",
+          "percentage": 15.86
+        },
+        {
+          "category": "Grade",
+          "group": "Grade 2",
+          "enrollment": 49,
+          "year": "2025",
+          "percentage": 15.86
+        },
+        {
+          "category": "Grade",
+          "group": "Grade 3",
+          "enrollment": 42,
+          "year": "2025",
+          "percentage": 13.59
+        },
+        {
+          "category": "Grade",
+          "group": "Grade 4",
+          "enrollment": 36,
+          "year": "2025",
+          "percentage": 11.65
+        },
+        {
+          "category": "Grade",
+          "group": "Grade 5",
+          "enrollment": 41,
+          "year": "2025",
+          "percentage": 13.27
+        },
+        {
+          "category": "Grade",
+          "group": "Elementary",
+          "enrollment": 217,
+          "year": "2025",
+          "percentage": 70.23
+        }
+      ],
+      "attendance": [
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "African Am.",
+          "Attendance Rate (%) (All Students)": "\u2265 95.0",
+          "Days Attended/Days Members (All Students)": "*/*",
+          "county_name": "Kent County",
+          "county_code": "14",
+          "school_name": "Galena Elementary School",
+          "school_code": "0105"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "White",
+          "Attendance Rate (%) (All Students)": "92.9",
+          "Days Attended/Days Members (All Students)": "23318.5/25109.0",
+          "county_name": "Kent County",
+          "county_code": "14",
+          "school_name": "Galena Elementary School",
+          "school_code": "0105"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "2+",
+          "Attendance Rate (%) (All Students)": "90.0",
+          "Days Attended/Days Members (All Students)": "2892.0/3212.0",
+          "county_name": "Kent County",
+          "county_code": "14",
+          "school_name": "Galena Elementary School",
+          "school_code": "0105"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "Hispanic",
+          "Attendance Rate (%) (All Students)": "92.3",
+          "Days Attended/Days Members (All Students)": "7207.5/7805.0",
+          "county_name": "Kent County",
+          "county_code": "14",
+          "school_name": "Galena Elementary School",
+          "school_code": "0105"
+        }
+      ],
+      "student_groups": [
+        {
+          "Year": "2025",
+          "Student Group": "ADA 504",
+          "Result (%) (All Students)": "\u2264 5.0",
+          "Count": "*",
+          "Total": "314",
+          "county_name": "Kent County",
+          "county_code": "14",
+          "school_name": "Galena Elementary School",
+          "school_code": "0105"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Economically Disadvantaged",
+          "Result (%) (All Students)": "49.4",
+          "Count": "155",
+          "Total": "314",
+          "county_name": "Kent County",
+          "county_code": "14",
+          "school_name": "Galena Elementary School",
+          "school_code": "0105"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Free and Reduced Meals Students",
+          "Result (%) (All Students)": "57.6",
+          "Count": "181",
+          "Total": "314",
+          "county_name": "Kent County",
+          "county_code": "14",
+          "school_name": "Galena Elementary School",
+          "school_code": "0105"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Multilingual Learner",
+          "Result (%) (All Students)": "8.0",
+          "Count": "25",
+          "Total": "314",
+          "county_name": "Kent County",
+          "county_code": "14",
+          "school_name": "Galena Elementary School",
+          "school_code": "0105"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Migrant",
+          "Result (%) (All Students)": "*",
+          "Count": "*",
+          "Total": "314",
+          "county_name": "Kent County",
+          "county_code": "14",
+          "school_name": "Galena Elementary School",
+          "school_code": "0105"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Students with Disabilities",
+          "Result (%) (All Students)": "11.5",
+          "Count": "36",
+          "Total": "314",
+          "county_name": "Kent County",
+          "county_code": "14",
+          "school_name": "Galena Elementary School",
+          "school_code": "0105"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Title 1",
+          "Result (%) (All Students)": "\u2265 95.0",
+          "Count": "*",
+          "Total": "314",
+          "county_name": "Kent County",
+          "county_code": "14",
+          "school_name": "Galena Elementary School",
+          "school_code": "0105"
+        }
+      ],
+      "overall_attendance_rate": 92.5
+    },
+    {
+      "school_name": "H. H. Garnett Elementary",
+      "school_code": "0403",
+      "county_code": "14",
+      "county_name": "Kent County",
+      "summary": {},
+      "enrollment": [
+        {
+          "category": "Race/Ethnicity",
+          "group": "All Students",
+          "enrollment": 322,
+          "year": "2025",
+          "percentage": 100.0
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "Asian",
+          "enrollment": 10,
+          "year": "2025",
+          "percentage": 3.11
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "African Am.",
+          "enrollment": 95,
+          "year": "2025",
+          "percentage": 29.5
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "Hispanic",
+          "enrollment": 47,
+          "year": "2025",
+          "percentage": 14.6
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "White",
+          "enrollment": 133,
+          "year": "2025",
+          "percentage": 41.3
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "2+",
+          "enrollment": 37,
+          "year": "2025",
+          "percentage": 11.49
+        },
+        {
+          "category": "Gender",
+          "group": "All Students",
+          "enrollment": 322,
+          "year": "2025",
+          "percentage": 100.0
+        },
+        {
+          "category": "Gender",
+          "group": "Male",
+          "enrollment": 172,
+          "year": "2025",
+          "percentage": 53.42
+        },
+        {
+          "category": "Gender",
+          "group": "Female",
+          "enrollment": 150,
+          "year": "2025",
+          "percentage": 46.58
+        },
+        {
+          "category": "Grade",
+          "group": "All Students",
+          "enrollment": 322,
+          "year": "2025",
+          "percentage": 100.0
+        },
+        {
+          "category": "Grade",
+          "group": "Pre-Kindergarten",
+          "enrollment": 40,
+          "year": "2025",
+          "percentage": 12.42
+        },
+        {
+          "category": "Grade",
+          "group": "Kindergarten",
+          "enrollment": 42,
+          "year": "2025",
+          "percentage": 13.04
+        },
+        {
+          "category": "Grade",
+          "group": "Grade 1",
+          "enrollment": 48,
+          "year": "2025",
+          "percentage": 14.91
+        },
+        {
+          "category": "Grade",
+          "group": "Grade 2",
+          "enrollment": 42,
+          "year": "2025",
+          "percentage": 13.04
+        },
+        {
+          "category": "Grade",
+          "group": "Grade 3",
+          "enrollment": 47,
+          "year": "2025",
+          "percentage": 14.6
+        },
+        {
+          "category": "Grade",
+          "group": "Grade 4",
+          "enrollment": 50,
+          "year": "2025",
+          "percentage": 15.53
+        },
+        {
+          "category": "Grade",
+          "group": "Grade 5",
+          "enrollment": 53,
+          "year": "2025",
+          "percentage": 16.46
+        },
+        {
+          "category": "Grade",
+          "group": "Elementary",
+          "enrollment": 240,
+          "year": "2025",
+          "percentage": 74.53
+        }
+      ],
+      "attendance": [
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "African Am.",
+          "Attendance Rate (%) (All Students)": "92.8",
+          "Days Attended/Days Members (All Students)": "12247.5/13198.0",
+          "county_name": "Kent County",
+          "county_code": "14",
+          "school_name": "H. H. Garnett Elementary",
+          "school_code": "0403"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "White",
+          "Attendance Rate (%) (All Students)": "93.3",
+          "Days Attended/Days Members (All Students)": "16592.5/17778.0",
+          "county_name": "Kent County",
+          "county_code": "14",
+          "school_name": "H. H. Garnett Elementary",
+          "school_code": "0403"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "2+",
+          "Attendance Rate (%) (All Students)": "92.3",
+          "Days Attended/Days Members (All Students)": "4632.0/5016.0",
+          "county_name": "Kent County",
+          "county_code": "14",
+          "school_name": "H. H. Garnett Elementary",
+          "school_code": "0403"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "Hispanic",
+          "Attendance Rate (%) (All Students)": "92.8",
+          "Days Attended/Days Members (All Students)": "5235.0/5643.0",
+          "county_name": "Kent County",
+          "county_code": "14",
+          "school_name": "H. H. Garnett Elementary",
+          "school_code": "0403"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "Asian",
+          "Attendance Rate (%) (All Students)": "*",
+          "Days Attended/Days Members (All Students)": "*/*",
+          "county_name": "Kent County",
+          "county_code": "14",
+          "school_name": "H. H. Garnett Elementary",
+          "school_code": "0403"
+        }
+      ],
+      "student_groups": [
+        {
+          "Year": "2025",
+          "Student Group": "ADA 504",
+          "Result (%) (All Students)": "\u2264 5.0",
+          "Count": "*",
+          "Total": "327",
+          "county_name": "Kent County",
+          "county_code": "14",
+          "school_name": "H. H. Garnett Elementary",
+          "school_code": "0403"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Economically Disadvantaged",
+          "Result (%) (All Students)": "66.7",
+          "Count": "218",
+          "Total": "327",
+          "county_name": "Kent County",
+          "county_code": "14",
+          "school_name": "H. H. Garnett Elementary",
+          "school_code": "0403"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Free and Reduced Meals Students",
+          "Result (%) (All Students)": "73.1",
+          "Count": "239",
+          "Total": "327",
+          "county_name": "Kent County",
+          "county_code": "14",
+          "school_name": "H. H. Garnett Elementary",
+          "school_code": "0403"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Multilingual Learner",
+          "Result (%) (All Students)": "9.5",
+          "Count": "31",
+          "Total": "327",
+          "county_name": "Kent County",
+          "county_code": "14",
+          "school_name": "H. H. Garnett Elementary",
+          "school_code": "0403"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Students with Disabilities",
+          "Result (%) (All Students)": "10.7",
+          "Count": "35",
+          "Total": "327",
+          "county_name": "Kent County",
+          "county_code": "14",
+          "school_name": "H. H. Garnett Elementary",
+          "school_code": "0403"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Title 1",
+          "Result (%) (All Students)": "\u2265 95.0",
+          "Count": "*",
+          "Total": "327",
+          "county_name": "Kent County",
+          "county_code": "14",
+          "school_name": "H. H. Garnett Elementary",
+          "school_code": "0403"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Homeless",
+          "Result (%) (All Students)": "\u2264 5.0",
+          "Count": "*",
+          "Total": "327",
+          "county_name": "Kent County",
+          "county_code": "14",
+          "school_name": "H. H. Garnett Elementary",
+          "school_code": "0403"
+        }
+      ],
+      "overall_attendance_rate": 92.97
+    },
+    {
+      "school_name": "Rock Hall Elementary",
+      "school_code": "0504",
+      "county_code": "14",
+      "county_name": "Kent County",
+      "summary": {},
+      "enrollment": [
+        {
+          "category": "Race/Ethnicity",
+          "group": "All Students",
+          "enrollment": 198,
+          "year": "2025",
+          "percentage": 100.0
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "African Am.",
+          "enrollment": 49,
+          "year": "2025",
+          "percentage": 24.75
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "Hispanic",
+          "enrollment": "*",
+          "year": "2025",
+          "percentage": "*"
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "White",
+          "enrollment": 116,
+          "year": "2025",
+          "percentage": 58.59
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "Am.Ind/AK",
+          "enrollment": "*",
+          "year": "2025",
+          "percentage": "*"
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "2+",
+          "enrollment": 23,
+          "year": "2025",
+          "percentage": 11.62
+        },
+        {
+          "category": "Gender",
+          "group": "All Students",
+          "enrollment": 198,
+          "year": "2025",
+          "percentage": 100.0
+        },
+        {
+          "category": "Gender",
+          "group": "Male",
+          "enrollment": 108,
+          "year": "2025",
+          "percentage": 54.55
+        },
+        {
+          "category": "Gender",
+          "group": "Female",
+          "enrollment": 90,
+          "year": "2025",
+          "percentage": 45.45
+        },
+        {
+          "category": "Grade",
+          "group": "All Students",
+          "enrollment": 198,
+          "year": "2025",
+          "percentage": 100.0
+        },
+        {
+          "category": "Grade",
+          "group": "Pre-Kindergarten",
+          "enrollment": 20,
+          "year": "2025",
+          "percentage": 10.1
+        },
+        {
+          "category": "Grade",
+          "group": "Kindergarten",
+          "enrollment": 31,
+          "year": "2025",
+          "percentage": 15.66
+        },
+        {
+          "category": "Grade",
+          "group": "Grade 1",
+          "enrollment": 29,
+          "year": "2025",
+          "percentage": 14.65
+        },
+        {
+          "category": "Grade",
+          "group": "Grade 2",
+          "enrollment": 30,
+          "year": "2025",
+          "percentage": 15.15
+        },
+        {
+          "category": "Grade",
+          "group": "Grade 3",
+          "enrollment": 31,
+          "year": "2025",
+          "percentage": 15.66
+        },
+        {
+          "category": "Grade",
+          "group": "Grade 4",
+          "enrollment": 34,
+          "year": "2025",
+          "percentage": 17.17
+        },
+        {
+          "category": "Grade",
+          "group": "Grade 5",
+          "enrollment": 23,
+          "year": "2025",
+          "percentage": 11.62
+        },
+        {
+          "category": "Grade",
+          "group": "Elementary",
+          "enrollment": 147,
+          "year": "2025",
+          "percentage": 74.24
+        }
+      ],
+      "attendance": [
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "African Am.",
+          "Attendance Rate (%) (All Students)": "93.2",
+          "Days Attended/Days Members (All Students)": "5858.0/6284.0",
+          "county_name": "Kent County",
+          "county_code": "14",
+          "school_name": "Rock Hall Elementary",
+          "school_code": "0504"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "White",
+          "Attendance Rate (%) (All Students)": "92.8",
+          "Days Attended/Days Members (All Students)": "14533.0/15656.0",
+          "county_name": "Kent County",
+          "county_code": "14",
+          "school_name": "Rock Hall Elementary",
+          "school_code": "0504"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "2+",
+          "Attendance Rate (%) (All Students)": "94.2",
+          "Days Attended/Days Members (All Students)": "2698.5/2866.0",
+          "county_name": "Kent County",
+          "county_code": "14",
+          "school_name": "Rock Hall Elementary",
+          "school_code": "0504"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "Hispanic",
+          "Attendance Rate (%) (All Students)": "*",
+          "Days Attended/Days Members (All Students)": "*/*",
+          "county_name": "Kent County",
+          "county_code": "14",
+          "school_name": "Rock Hall Elementary",
+          "school_code": "0504"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "Am.Ind/AK",
+          "Attendance Rate (%) (All Students)": "*",
+          "Days Attended/Days Members (All Students)": "*/*",
+          "county_name": "Kent County",
+          "county_code": "14",
+          "school_name": "Rock Hall Elementary",
+          "school_code": "0504"
+        }
+      ],
+      "student_groups": [
+        {
+          "Year": "2025",
+          "Student Group": "ADA 504",
+          "Result (%) (All Students)": "*",
+          "Count": "*",
+          "Total": "194",
+          "county_name": "Kent County",
+          "county_code": "14",
+          "school_name": "Rock Hall Elementary",
+          "school_code": "0504"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Economically Disadvantaged",
+          "Result (%) (All Students)": "67.5",
+          "Count": "131",
+          "Total": "194",
+          "county_name": "Kent County",
+          "county_code": "14",
+          "school_name": "Rock Hall Elementary",
+          "school_code": "0504"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Free and Reduced Meals Students",
+          "Result (%) (All Students)": "75.8",
+          "Count": "147",
+          "Total": "194",
+          "county_name": "Kent County",
+          "county_code": "14",
+          "school_name": "Rock Hall Elementary",
+          "school_code": "0504"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Multilingual Learner",
+          "Result (%) (All Students)": "*",
+          "Count": "*",
+          "Total": "194",
+          "county_name": "Kent County",
+          "county_code": "14",
+          "school_name": "Rock Hall Elementary",
+          "school_code": "0504"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Students with Disabilities",
+          "Result (%) (All Students)": "16.0",
+          "Count": "31",
+          "Total": "194",
+          "county_name": "Kent County",
+          "county_code": "14",
+          "school_name": "Rock Hall Elementary",
+          "school_code": "0504"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Title 1",
+          "Result (%) (All Students)": "\u2265 95.0",
+          "Count": "*",
+          "Total": "194",
+          "county_name": "Kent County",
+          "county_code": "14",
+          "school_name": "Rock Hall Elementary",
+          "school_code": "0504"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Homeless",
+          "Result (%) (All Students)": "7.7",
+          "Count": "15",
+          "Total": "194",
+          "county_name": "Kent County",
+          "county_code": "14",
+          "school_name": "Rock Hall Elementary",
+          "school_code": "0504"
+        }
+      ],
+      "overall_attendance_rate": 93.08
+    }
+  ],
+  "middle_schools": [
+    {
+      "school_name": "Kent County Middle School",
+      "school_code": "0402",
+      "county_code": "14",
+      "county_name": "Kent County",
+      "summary": {},
+      "enrollment": [
+        {
+          "category": "Race/Ethnicity",
+          "group": "All Students",
+          "enrollment": 354,
+          "year": "2025",
+          "percentage": 100.0
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "African Am.",
+          "enrollment": 90,
+          "year": "2025",
+          "percentage": 25.42
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "Hispanic",
+          "enrollment": 52,
+          "year": "2025",
+          "percentage": 14.69
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "White",
+          "enrollment": 176,
+          "year": "2025",
+          "percentage": 49.72
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "Am.Ind/AK",
+          "enrollment": "*",
+          "year": "2025",
+          "percentage": "*"
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "2+",
+          "enrollment": 34,
+          "year": "2025",
+          "percentage": 9.6
+        },
+        {
+          "category": "Gender",
+          "group": "All Students",
+          "enrollment": 354,
+          "year": "2025",
+          "percentage": 100.0
+        },
+        {
+          "category": "Gender",
+          "group": "Male",
+          "enrollment": 179,
+          "year": "2025",
+          "percentage": 50.56
+        },
+        {
+          "category": "Gender",
+          "group": "Female",
+          "enrollment": 175,
+          "year": "2025",
+          "percentage": 49.44
+        },
+        {
+          "category": "Grade",
+          "group": "All Students",
+          "enrollment": 354,
+          "year": "2025",
+          "percentage": 100.0
+        }
+      ],
+      "attendance": [
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "African Am.",
+          "Attendance Rate (%) (All Students)": "90.8",
+          "Days Attended/Days Members (All Students)": "14513.0/15991.0",
+          "county_name": "Kent County",
+          "county_code": "14",
+          "school_name": "Kent County Middle School",
+          "school_code": "0402"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "White",
+          "Attendance Rate (%) (All Students)": "92.7",
+          "Days Attended/Days Members (All Students)": "29227.0/31520.0",
+          "county_name": "Kent County",
+          "county_code": "14",
+          "school_name": "Kent County Middle School",
+          "school_code": "0402"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "2+",
+          "Attendance Rate (%) (All Students)": "92.0",
+          "Days Attended/Days Members (All Students)": "5676.5/6173.0",
+          "county_name": "Kent County",
+          "county_code": "14",
+          "school_name": "Kent County Middle School",
+          "school_code": "0402"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "Hispanic",
+          "Attendance Rate (%) (All Students)": "93.1",
+          "Days Attended/Days Members (All Students)": "9326.5/10014.0",
+          "county_name": "Kent County",
+          "county_code": "14",
+          "school_name": "Kent County Middle School",
+          "school_code": "0402"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "Am.Ind/AK",
+          "Attendance Rate (%) (All Students)": "*",
+          "Days Attended/Days Members (All Students)": "*/*",
+          "county_name": "Kent County",
+          "county_code": "14",
+          "school_name": "Kent County Middle School",
+          "school_code": "0402"
+        }
+      ],
+      "student_groups": [
+        {
+          "Year": "2025",
+          "Student Group": "ADA 504",
+          "Result (%) (All Students)": "8.8",
+          "Count": "32",
+          "Total": "362",
+          "county_name": "Kent County",
+          "county_code": "14",
+          "school_name": "Kent County Middle School",
+          "school_code": "0402"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Economically Disadvantaged",
+          "Result (%) (All Students)": "68.2",
+          "Count": "247",
+          "Total": "362",
+          "county_name": "Kent County",
+          "county_code": "14",
+          "school_name": "Kent County Middle School",
+          "school_code": "0402"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Free and Reduced Meals Students",
+          "Result (%) (All Students)": "74.6",
+          "Count": "270",
+          "Total": "362",
+          "county_name": "Kent County",
+          "county_code": "14",
+          "school_name": "Kent County Middle School",
+          "school_code": "0402"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Multilingual Learner",
+          "Result (%) (All Students)": "7.7",
+          "Count": "28",
+          "Total": "362",
+          "county_name": "Kent County",
+          "county_code": "14",
+          "school_name": "Kent County Middle School",
+          "school_code": "0402"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Migrant",
+          "Result (%) (All Students)": "*",
+          "Count": "*",
+          "Total": "362",
+          "county_name": "Kent County",
+          "county_code": "14",
+          "school_name": "Kent County Middle School",
+          "school_code": "0402"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Students with Disabilities",
+          "Result (%) (All Students)": "14.1",
+          "Count": "51",
+          "Total": "362",
+          "county_name": "Kent County",
+          "county_code": "14",
+          "school_name": "Kent County Middle School",
+          "school_code": "0402"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Title 1",
+          "Result (%) (All Students)": "\u2265 95.0",
+          "Count": "*",
+          "Total": "362",
+          "county_name": "Kent County",
+          "county_code": "14",
+          "school_name": "Kent County Middle School",
+          "school_code": "0402"
+        }
+      ],
+      "overall_attendance_rate": 92.22
+    }
+  ],
+  "high_schools": [
+    {
+      "school_name": "Kent County High",
+      "school_code": "0301",
+      "county_code": "14",
+      "county_name": "Kent County",
+      "summary": {},
+      "enrollment": [
+        {
+          "category": "Race/Ethnicity",
+          "group": "All Students",
+          "enrollment": 511,
+          "year": "2025",
+          "percentage": 100.0
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "Asian",
+          "enrollment": "*",
+          "year": "2025",
+          "percentage": "*"
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "African Am.",
+          "enrollment": 128,
+          "year": "2025",
+          "percentage": 25.05
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "Hispanic",
+          "enrollment": 64,
+          "year": "2025",
+          "percentage": 12.52
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "White",
+          "enrollment": 279,
+          "year": "2025",
+          "percentage": 54.6
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "Am.Ind/AK",
+          "enrollment": "*",
+          "year": "2025",
+          "percentage": "*"
+        },
+        {
+          "category": "Race/Ethnicity",
+          "group": "2+",
+          "enrollment": 35,
+          "year": "2025",
+          "percentage": 6.85
+        },
+        {
+          "category": "Gender",
+          "group": "All Students",
+          "enrollment": 511,
+          "year": "2025",
+          "percentage": 100.0
+        },
+        {
+          "category": "Gender",
+          "group": "Male",
+          "enrollment": 252,
+          "year": "2025",
+          "percentage": 49.32
+        },
+        {
+          "category": "Gender",
+          "group": "Female",
+          "enrollment": 259,
+          "year": "2025",
+          "percentage": 50.68
+        },
+        {
+          "category": "Grade",
+          "group": "All Students",
+          "enrollment": 511,
+          "year": "2025",
+          "percentage": 100.0
+        }
+      ],
+      "attendance": [
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "African Am.",
+          "Attendance Rate (%) (All Students)": "83.2",
+          "Days Attended/Days Members (All Students)": "18341.0/22055.0",
+          "county_name": "Kent County",
+          "county_code": "14",
+          "school_name": "Kent County High",
+          "school_code": "0301"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "White",
+          "Attendance Rate (%) (All Students)": "87.6",
+          "Days Attended/Days Members (All Students)": "43854.0/50049.0",
+          "county_name": "Kent County",
+          "county_code": "14",
+          "school_name": "Kent County High",
+          "school_code": "0301"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "2+",
+          "Attendance Rate (%) (All Students)": "84.4",
+          "Days Attended/Days Members (All Students)": "5294.5/6270.0",
+          "county_name": "Kent County",
+          "county_code": "14",
+          "school_name": "Kent County High",
+          "school_code": "0301"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "Hispanic",
+          "Attendance Rate (%) (All Students)": "88.4",
+          "Days Attended/Days Members (All Students)": "10288.5/11636.0",
+          "county_name": "Kent County",
+          "county_code": "14",
+          "school_name": "Kent County High",
+          "school_code": "0301"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "Am.Ind/AK",
+          "Attendance Rate (%) (All Students)": "*",
+          "Days Attended/Days Members (All Students)": "*/*",
+          "county_name": "Kent County",
+          "county_code": "14",
+          "school_name": "Kent County High",
+          "school_code": "0301"
+        },
+        {
+          "Year": "2025",
+          "Race/Ethnicity": "Asian",
+          "Attendance Rate (%) (All Students)": "*",
+          "Days Attended/Days Members (All Students)": "*/*",
+          "county_name": "Kent County",
+          "county_code": "14",
+          "school_name": "Kent County High",
+          "school_code": "0301"
+        }
+      ],
+      "student_groups": [
+        {
+          "Year": "2025",
+          "Student Group": "ADA 504",
+          "Result (%) (All Students)": "11.3",
+          "Count": "57",
+          "Total": "505",
+          "county_name": "Kent County",
+          "county_code": "14",
+          "school_name": "Kent County High",
+          "school_code": "0301"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Economically Disadvantaged",
+          "Result (%) (All Students)": "59.4",
+          "Count": "300",
+          "Total": "505",
+          "county_name": "Kent County",
+          "county_code": "14",
+          "school_name": "Kent County High",
+          "school_code": "0301"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Free and Reduced Meals Students",
+          "Result (%) (All Students)": "62.0",
+          "Count": "313",
+          "Total": "505",
+          "county_name": "Kent County",
+          "county_code": "14",
+          "school_name": "Kent County High",
+          "school_code": "0301"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Multilingual Learner",
+          "Result (%) (All Students)": "\u2264 5.0",
+          "Count": "*",
+          "Total": "505",
+          "county_name": "Kent County",
+          "county_code": "14",
+          "school_name": "Kent County High",
+          "school_code": "0301"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Migrant",
+          "Result (%) (All Students)": "*",
+          "Count": "*",
+          "Total": "505",
+          "county_name": "Kent County",
+          "county_code": "14",
+          "school_name": "Kent County High",
+          "school_code": "0301"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Students with Disabilities",
+          "Result (%) (All Students)": "13.5",
+          "Count": "68",
+          "Total": "505",
+          "county_name": "Kent County",
+          "county_code": "14",
+          "school_name": "Kent County High",
+          "school_code": "0301"
+        },
+        {
+          "Year": "2025",
+          "Student Group": "Homeless",
+          "Result (%) (All Students)": "\u2264 5.0",
+          "Count": "*",
+          "Total": "505",
+          "county_name": "Kent County",
+          "county_code": "14",
+          "school_name": "Kent County High",
+          "school_code": "0301"
+        }
+      ],
+      "overall_attendance_rate": 86.41
+    }
+  ],
+  "other_schools": []
+}

@@ -1,0 +1,31 @@
+[
+  {
+    "county": "Kent",
+    "superintendent": "Dr. Mary McComas",
+    "website": "https://www.kent.k12.md.us/",
+    "board_url": "https://go.boarddocs.com/mabe/kcps/Board.nsf/Public",
+    "board_members": [
+      {
+        "name": "Laura McKenzie",
+        "position": "Board Member"
+      },
+      {
+        "name": "John Queen",
+        "position": "Board Member"
+      },
+      {
+        "name": "Aretha Dorsey",
+        "position": "Board Member"
+      },
+      {
+        "name": "Frank Rhodes",
+        "position": "Board Member"
+      },
+      {
+        "name": "Trish McGee",
+        "position": "Board Member"
+      }
+    ],
+    "note": "Five member elected board. Each member serves a four year term. Student member serves one year. Specific election dates not listed on board website."
+  }
+]

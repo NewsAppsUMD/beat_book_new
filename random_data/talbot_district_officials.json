@@ -1,0 +1,46 @@
+[
+  {
+    "county": "Talbot",
+    "superintendent": "Dr. Sharon Pepukayi",
+    "website": "https://www.tcps.k12.md.us/",
+    "board_url": "https://www.tcps.k12.md.us/page/board-of-education",
+    "board_members": [
+      {
+        "name": "Emily Jackson",
+        "position": "President",
+        "district": "District 4"
+      },
+      {
+        "name": "Amy Dodson",
+        "position": "Vice President",
+        "district": "District 3"
+      },
+      {
+        "name": "Dyshekia W. M. Strawberry",
+        "position": "Board Member",
+        "district": "District 1"
+      },
+      {
+        "name": "Ann O'Connor",
+        "position": "Board Member",
+        "district": "District 2"
+      },
+      {
+        "name": "Karla Wieland-Cherry",
+        "position": "Board Member",
+        "district": "District 5"
+      },
+      {
+        "name": "Cynthia M. Jurrius",
+        "position": "Board Member",
+        "district": "District 6"
+      },
+      {
+        "name": "Deborah Bridges",
+        "position": "Board Member",
+        "district": "District 7"
+      }
+    ],
+    "note": "Board members serve by district. Specific election/appointment dates not publicly listed on board website."
+  }
+]

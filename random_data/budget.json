@@ -1,0 +1,211 @@
+{
+  "caroline": {
+    "county": "Caroline County",
+    "core_fiscal": {
+      "county_operating_budget": 79208471,
+      "ccps_total_operating_budget": 100373108,
+      "county_local_appropriation": 20301228,
+      "state_aid": 79028144,
+      "other_revenue": 1043736,
+      "pct_county_budget_to_schools": 25.6,
+      "local_share_pct": 20.2,
+      "state_share_pct": 78.8
+    },
+    "enrollment_per_pupil": {
+      "enrollment": 5400,
+      "total_per_pupil": 19796,
+      "local_per_pupil": 3760,
+      "state_per_pupil": 14630
+    },
+    "blueprint_drivers": {
+      "compensatory_education": "Major driver; high-poverty formula",
+      "concentration_of_poverty": "Multiple CEP schools",
+      "special_education": "Rising costs, placements",
+      "pre_k_expansion": "Creates staffing and space pressures"
+    },
+    "capital_outlook": {
+      "short_term_1_3_years": "HVAC, safety, modernization planning",
+      "long_term_5_10_years": "Major school replacements likely"
+    },
+    "emerging_issues": [
+      "Heavy Blueprint dependency",
+      "Special education and utilities rising steeply",
+      "Local revenue capacity limited"
+    ],
+    "narrative": "Caroline County exemplifies the Blueprint-dependent, low-wealth school system. CCPS’s operating budget exceeds the county’s entire general fund, reflecting deep reliance on the state. Poverty-based Blueprint formulas provide essential funding but leave little flexibility for enhanced investments. Rising special education costs, health premiums, and utilities stress operations. A new facilities cycle is emerging, with likely elementary school replacements."
+  },
+
+  "dorchester": {
+    "county": "Dorchester County",
+    "core_fiscal": {
+      "county_operating_budget": 91963965,
+      "dcps_total_operating_budget": 87624755,
+      "county_local_appropriation": 26316174,
+      "state_aid": 60438581,
+      "other_revenue": 870000,
+      "pct_county_budget_to_schools": 28.6,
+      "local_share_pct": 30.0,
+      "state_share_pct": 69.0
+    },
+    "enrollment_per_pupil": {
+      "enrollment": 4500,
+      "total_per_pupil": 21009,
+      "local_per_pupil": 5850,
+      "state_per_pupil": 13430
+    },
+    "blueprint_drivers": {
+      "compensatory_education": "Very large allocation",
+      "concentration_of_poverty": "Multiple CEP schools",
+      "special_education": "High and rising",
+      "pre_k": "Expansion pressure across buildings"
+    },
+    "capital_outlook": {
+      "short_term_1_3_years": "HVAC, roofs → state-funded",
+      "long_term_5_10_years": "High obsolescence risk"
+    },
+    "emerging_issues": [
+      "School budget nearly equals county general fund",
+      "Heavy reliance on state capital",
+      "Staffing and fixed costs limit flexibility"
+    ],
+    "narrative": "Dorchester is one of Maryland’s most state-dependent districts. Local capacity is extremely limited, and DCPS leans heavily on Blueprint aid. High-poverty formulas drive revenue, but reflect deep need. Capital needs—HVAC, roofs, mechanical systems—are significant, with nearly all major projects dependent on state support. Operational costs such as transportation and special education continue to rise."
+  },
+
+  "kent": {
+    "county": "Kent County",
+    "core_fiscal": {
+      "county_operating_budget": 85275779,
+      "kcps_total_operating_budget": 35021363,
+      "county_local_appropriation": 21499813,
+      "state_aid": 11721545,
+      "other_revenue": 1800005,
+      "pct_county_budget_to_schools": 25.2,
+      "local_share_pct": 61.4,
+      "state_share_pct": 33.5
+    },
+    "enrollment_per_pupil": {
+      "enrollment": 1800,
+      "total_per_pupil": 21188,
+      "local_per_pupil": 11940,
+      "state_per_pupil": 6510
+    },
+    "blueprint_drivers": {
+      "compensatory_ed": "Lower than neighbors",
+      "special_ed": "Very high per-pupil cost",
+      "ccr": "Modest expansion"
+    },
+    "capital_outlook": {
+      "short_term_1_3_years": "Routine maintenance only",
+      "long_term_5_10_years": "Deferred maintenance risks rising"
+    },
+    "emerging_issues": [
+      "Most locally dependent system in the region",
+      "Inefficient cost structure due to small size",
+      "Retention challenges vs. wealthier neighbors"
+    ],
+    "narrative": "Kent faces structural inefficiencies from being a very small school district. With ~1,800 students, fixed costs consume a large share of resources, and limited Blueprint funding leaves taxpayers bearing the burden. Staffing, programming options, and capital renewal all face challenges due to scale. Deferred maintenance is becoming a significant concern."
+  },
+
+  "queen_annes": {
+    "county": "Queen Anne's County",
+    "core_fiscal": {
+      "county_operating_budget": 209064803,
+      "qacps_total_operating_budget": 127507215,
+      "county_local_appropriation": 82729260,
+      "state_aid": 43557955,
+      "other_revenue": 1220000,
+      "pct_county_budget_to_schools": 39.6,
+      "local_share_pct": 64.9,
+      "state_share_pct": 34.2
+    },
+    "enrollment_per_pupil": {
+      "enrollment": 8000,
+      "total_per_pupil": 17662,
+      "local_per_pupil": 10340,
+      "state_per_pupil": 5440
+    },
+    "blueprint_drivers": {
+      "special_ed": "Major cost center",
+      "ccr": "Strong expansion",
+      "pre_k": "Increasing space pressures",
+      "cep": "Fewer CEP schools than lower-wealth counties"
+    },
+    "capital_outlook": {
+      "short_term_1_3_years": "Safety upgrades, fleet replacement",
+      "long_term_5_10_years": "Elementary modernization likely; growth pressures rising"
+    },
+    "emerging_issues": [
+      "Highest fiscal effort in the region",
+      "Transportation and plant operations cost growth",
+      "Enrollment growth will drive future capital needs"
+    ],
+    "narrative": "Queen Anne's is the region’s highest-capacity local funder, directing nearly 40% of its general fund to education. Strong local revenue allows for robust staffing, CCR pathways, and program expansion. But rising enrollment, transportation costs, and future modernization projects will require sustained investment."
+  },
+
+  "talbot": {
+    "county": "Talbot County",
+    "core_fiscal": {
+      "county_operating_budget": 161117000,
+      "tcps_total_operating_budget": 91370448,
+      "county_local_appropriation": 32697702,
+      "state_aid": 48069432,
+      "federal_other": 10603314,
+      "pct_county_budget_to_schools": 20.3,
+      "local_share_pct": 35.8,
+      "state_share_pct": 55.6
+    },
+    "enrollment_per_pupil": {
+      "enrollment": 4300,
+      "total_per_pupil": 19238,
+      "local_per_pupil": 7600,
+      "state_per_pupil": 11180
+    },
+    "blueprint_drivers": {
+      "ccr": "Expanding under Blueprint",
+      "special_ed": "Rising costs across grades",
+      "pre_k": "Space and staffing pressure",
+      "career_ladder": "Multi-year salary obligations"
+    },
+    "capital_outlook": {
+      "short_term_1_3_years": "Limited upgrades",
+      "long_term_5_10_years": "Major modernization cycle likely"
+    },
+    "emerging_issues": [
+      "Hybrid revenue model",
+      "Blueprint mandates increasing operational costs",
+      "Capital needs beginning to accumulate"
+    ],
+    "narrative": "Talbot sits between the region’s higher-wealth and lower-wealth districts. TCPS relies on strong state support plus a county surtax. Blueprint requirements—CCR, career ladder, pre-K—are steadily increasing costs. Capital needs are accumulating, pointing toward an upcoming modernization cycle."
+  },
+
+  "cross_county": {
+    "county_effort": [
+      { "county": "Caroline", "county_budget": 79.21, "local_to_schools": 20.30, "pct": 25.6 },
+      { "county": "Dorchester", "county_budget": 91.96, "local_to_schools": 26.32, "pct": 28.6 },
+      { "county": "Kent", "county_budget": 85.28, "local_to_schools": 21.50, "pct": 25.2 },
+      { "county": "Queen Anne's", "county_budget": 209.06, "local_to_schools": 82.73, "pct": 39.6 },
+      { "county": "Talbot", "county_budget": 161.12, "local_to_schools": 32.70, "pct": 20.3 }
+    ],
+    "per_pupil_spending": [
+      { "county": "Caroline", "total": 19796, "local": 3760, "state": 14630 },
+      { "county": "Dorchester", "total": 21009, "local": 5850, "state": 13430 },
+      { "county": "Kent", "total": 21188, "local": 11940, "state": 6510 },
+      { "county": "Queen Anne's", "total": 17662, "local": 10340, "state": 5440 },
+      { "county": "Talbot", "total": 19238, "local": 7600, "state": 11180 }
+    ],
+    "enrollment": [
+      { "county": "Caroline", "enrollment": 5400 },
+      { "county": "Dorchester", "enrollment": 4500 },
+      { "county": "Kent", "enrollment": 1800 },
+      { "county": "Queen Anne's", "enrollment": 8000 },
+      { "county": "Talbot", "enrollment": 4300 }
+    ],
+    "regional_takeaways": [
+      "Local wealth drives educational opportunity",
+      "Blueprint-dependent systems face structural vulnerabilities",
+      "Small-district economics create high per-pupil costs",
+      "Capital needs emerging across all counties",
+      "Blueprint shaping major cost centers"
+    ]
+  }
+}
