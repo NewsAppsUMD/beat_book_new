@@ -1,0 +1,702 @@
+school_name,school_code,county_code,county_name,category,group,enrollment,year
+Denton Elementary School,0301,05,Caroline County,Race/Ethnicity,All Students,596,2025
+Denton Elementary School,0301,05,Caroline County,Race/Ethnicity,Asian,17,2025
+Denton Elementary School,0301,05,Caroline County,Race/Ethnicity,African Am.,91,2025
+Denton Elementary School,0301,05,Caroline County,Race/Ethnicity,Hispanic,58,2025
+Denton Elementary School,0301,05,Caroline County,Race/Ethnicity,White,351,2025
+Denton Elementary School,0301,05,Caroline County,Race/Ethnicity,Am.Ind/AK,*,2025
+Denton Elementary School,0301,05,Caroline County,Race/Ethnicity,HI/Pac.Isl.,*,2025
+Denton Elementary School,0301,05,Caroline County,Race/Ethnicity,2+,77,2025
+Denton Elementary School,0301,05,Caroline County,Gender,All Students,596,2025
+Denton Elementary School,0301,05,Caroline County,Gender,Male,309,2025
+Denton Elementary School,0301,05,Caroline County,Gender,Female,287,2025
+Denton Elementary School,0301,05,Caroline County,Grade,All Students,596,2025
+Denton Elementary School,0301,05,Caroline County,Grade,Pre-Kindergarten,47,2025
+Denton Elementary School,0301,05,Caroline County,Grade,Kindergarten,86,2025
+Denton Elementary School,0301,05,Caroline County,Grade,Grade 1,99,2025
+Denton Elementary School,0301,05,Caroline County,Grade,Grade 2,92,2025
+Denton Elementary School,0301,05,Caroline County,Grade,Grade 3,85,2025
+Denton Elementary School,0301,05,Caroline County,Grade,Grade 4,92,2025
+Denton Elementary School,0301,05,Caroline County,Grade,Grade 5,95,2025
+Denton Elementary School,0301,05,Caroline County,Grade,Elementary,463,2025
+Federalsburg Elementary School,0501,05,Caroline County,Race/Ethnicity,All Students,415,2025
+Federalsburg Elementary School,0501,05,Caroline County,Race/Ethnicity,Asian,11,2025
+Federalsburg Elementary School,0501,05,Caroline County,Race/Ethnicity,African Am.,160,2025
+Federalsburg Elementary School,0501,05,Caroline County,Race/Ethnicity,Hispanic,29,2025
+Federalsburg Elementary School,0501,05,Caroline County,Race/Ethnicity,White,148,2025
+Federalsburg Elementary School,0501,05,Caroline County,Race/Ethnicity,2+,67,2025
+Federalsburg Elementary School,0501,05,Caroline County,Gender,All Students,415,2025
+Federalsburg Elementary School,0501,05,Caroline County,Gender,Male,215,2025
+Federalsburg Elementary School,0501,05,Caroline County,Gender,Female,200,2025
+Federalsburg Elementary School,0501,05,Caroline County,Grade,All Students,415,2025
+Federalsburg Elementary School,0501,05,Caroline County,Grade,Pre-Kindergarten,67,2025
+Federalsburg Elementary School,0501,05,Caroline County,Grade,Kindergarten,64,2025
+Federalsburg Elementary School,0501,05,Caroline County,Grade,Grade 1,64,2025
+Federalsburg Elementary School,0501,05,Caroline County,Grade,Grade 2,52,2025
+Federalsburg Elementary School,0501,05,Caroline County,Grade,Grade 3,54,2025
+Federalsburg Elementary School,0501,05,Caroline County,Grade,Grade 4,66,2025
+Federalsburg Elementary School,0501,05,Caroline County,Grade,Grade 5,48,2025
+Federalsburg Elementary School,0501,05,Caroline County,Grade,Elementary,284,2025
+Greensboro Elementary School,0201,05,Caroline County,Race/Ethnicity,All Students,840,2025
+Greensboro Elementary School,0201,05,Caroline County,Race/Ethnicity,Asian,*,2025
+Greensboro Elementary School,0201,05,Caroline County,Race/Ethnicity,African Am.,31,2025
+Greensboro Elementary School,0201,05,Caroline County,Race/Ethnicity,Hispanic,421,2025
+Greensboro Elementary School,0201,05,Caroline County,Race/Ethnicity,White,335,2025
+Greensboro Elementary School,0201,05,Caroline County,Race/Ethnicity,2+,51,2025
+Greensboro Elementary School,0201,05,Caroline County,Gender,All Students,840,2025
+Greensboro Elementary School,0201,05,Caroline County,Gender,Male,423,2025
+Greensboro Elementary School,0201,05,Caroline County,Gender,Female,417,2025
+Greensboro Elementary School,0201,05,Caroline County,Grade,All Students,840,2025
+Greensboro Elementary School,0201,05,Caroline County,Grade,Pre-Kindergarten,106,2025
+Greensboro Elementary School,0201,05,Caroline County,Grade,Kindergarten,135,2025
+Greensboro Elementary School,0201,05,Caroline County,Grade,Grade 1,129,2025
+Greensboro Elementary School,0201,05,Caroline County,Grade,Grade 2,123,2025
+Greensboro Elementary School,0201,05,Caroline County,Grade,Grade 3,117,2025
+Greensboro Elementary School,0201,05,Caroline County,Grade,Grade 4,120,2025
+Greensboro Elementary School,0201,05,Caroline County,Grade,Grade 5,110,2025
+Greensboro Elementary School,0201,05,Caroline County,Grade,Elementary,599,2025
+Preston Elementary School,0401,05,Caroline County,Race/Ethnicity,All Students,381,2025
+Preston Elementary School,0401,05,Caroline County,Race/Ethnicity,Asian,*,2025
+Preston Elementary School,0401,05,Caroline County,Race/Ethnicity,African Am.,32,2025
+Preston Elementary School,0401,05,Caroline County,Race/Ethnicity,Hispanic,46,2025
+Preston Elementary School,0401,05,Caroline County,Race/Ethnicity,White,271,2025
+Preston Elementary School,0401,05,Caroline County,Race/Ethnicity,Am.Ind/AK,*,2025
+Preston Elementary School,0401,05,Caroline County,Race/Ethnicity,2+,28,2025
+Preston Elementary School,0401,05,Caroline County,Gender,All Students,381,2025
+Preston Elementary School,0401,05,Caroline County,Gender,Male,202,2025
+Preston Elementary School,0401,05,Caroline County,Gender,Female,179,2025
+Preston Elementary School,0401,05,Caroline County,Grade,All Students,381,2025
+Preston Elementary School,0401,05,Caroline County,Grade,Pre-Kindergarten,47,2025
+Preston Elementary School,0401,05,Caroline County,Grade,Kindergarten,48,2025
+Preston Elementary School,0401,05,Caroline County,Grade,Grade 1,49,2025
+Preston Elementary School,0401,05,Caroline County,Grade,Grade 2,62,2025
+Preston Elementary School,0401,05,Caroline County,Grade,Grade 3,67,2025
+Preston Elementary School,0401,05,Caroline County,Grade,Grade 4,50,2025
+Preston Elementary School,0401,05,Caroline County,Grade,Grade 5,58,2025
+Preston Elementary School,0401,05,Caroline County,Grade,Elementary,286,2025
+Ridgely Elementary School,0701,05,Caroline County,Race/Ethnicity,All Students,433,2025
+Ridgely Elementary School,0701,05,Caroline County,Race/Ethnicity,Asian,*,2025
+Ridgely Elementary School,0701,05,Caroline County,Race/Ethnicity,African Am.,48,2025
+Ridgely Elementary School,0701,05,Caroline County,Race/Ethnicity,Hispanic,54,2025
+Ridgely Elementary School,0701,05,Caroline County,Race/Ethnicity,White,298,2025
+Ridgely Elementary School,0701,05,Caroline County,Race/Ethnicity,2+,31,2025
+Ridgely Elementary School,0701,05,Caroline County,Gender,All Students,433,2025
+Ridgely Elementary School,0701,05,Caroline County,Gender,Male,209,2025
+Ridgely Elementary School,0701,05,Caroline County,Gender,Female,224,2025
+Ridgely Elementary School,0701,05,Caroline County,Grade,All Students,433,2025
+Ridgely Elementary School,0701,05,Caroline County,Grade,Pre-Kindergarten,47,2025
+Ridgely Elementary School,0701,05,Caroline County,Grade,Kindergarten,71,2025
+Ridgely Elementary School,0701,05,Caroline County,Grade,Grade 1,57,2025
+Ridgely Elementary School,0701,05,Caroline County,Grade,Grade 2,57,2025
+Ridgely Elementary School,0701,05,Caroline County,Grade,Grade 3,60,2025
+Ridgely Elementary School,0701,05,Caroline County,Grade,Grade 4,72,2025
+Ridgely Elementary School,0701,05,Caroline County,Grade,Grade 5,69,2025
+Ridgely Elementary School,0701,05,Caroline County,Grade,Elementary,315,2025
+Colonel Richardson Middle School,0802,05,Caroline County,Race/Ethnicity,All Students,390,2025
+Colonel Richardson Middle School,0802,05,Caroline County,Race/Ethnicity,Asian,*,2025
+Colonel Richardson Middle School,0802,05,Caroline County,Race/Ethnicity,African Am.,84,2025
+Colonel Richardson Middle School,0802,05,Caroline County,Race/Ethnicity,Hispanic,37,2025
+Colonel Richardson Middle School,0802,05,Caroline County,Race/Ethnicity,White,220,2025
+Colonel Richardson Middle School,0802,05,Caroline County,Race/Ethnicity,Am.Ind/AK,*,2025
+Colonel Richardson Middle School,0802,05,Caroline County,Race/Ethnicity,2+,44,2025
+Colonel Richardson Middle School,0802,05,Caroline County,Gender,All Students,390,2025
+Colonel Richardson Middle School,0802,05,Caroline County,Gender,Male,189,2025
+Colonel Richardson Middle School,0802,05,Caroline County,Gender,Female,201,2025
+Colonel Richardson Middle School,0802,05,Caroline County,Grade,All Students,390,2025
+Lockerman Middle School,0302,05,Caroline County,Race/Ethnicity,All Students,827,2025
+Lockerman Middle School,0302,05,Caroline County,Race/Ethnicity,Asian,10,2025
+Lockerman Middle School,0302,05,Caroline County,Race/Ethnicity,African Am.,87,2025
+Lockerman Middle School,0302,05,Caroline County,Race/Ethnicity,Hispanic,203,2025
+Lockerman Middle School,0302,05,Caroline County,Race/Ethnicity,White,458,2025
+Lockerman Middle School,0302,05,Caroline County,Race/Ethnicity,2+,69,2025
+Lockerman Middle School,0302,05,Caroline County,Gender,All Students,827,2025
+Lockerman Middle School,0302,05,Caroline County,Gender,Male,411,2025
+Lockerman Middle School,0302,05,Caroline County,Gender,Female,416,2025
+Lockerman Middle School,0302,05,Caroline County,Grade,All Students,827,2025
+Colonel Richardson High School,0801,05,Caroline County,Race/Ethnicity,All Students,528,2025
+Colonel Richardson High School,0801,05,Caroline County,Race/Ethnicity,Asian,13,2025
+Colonel Richardson High School,0801,05,Caroline County,Race/Ethnicity,African Am.,128,2025
+Colonel Richardson High School,0801,05,Caroline County,Race/Ethnicity,Hispanic,50,2025
+Colonel Richardson High School,0801,05,Caroline County,Race/Ethnicity,White,291,2025
+Colonel Richardson High School,0801,05,Caroline County,Race/Ethnicity,Am.Ind/AK,*,2025
+Colonel Richardson High School,0801,05,Caroline County,Race/Ethnicity,2+,45,2025
+Colonel Richardson High School,0801,05,Caroline County,Gender,All Students,528,2025
+Colonel Richardson High School,0801,05,Caroline County,Gender,Male,253,2025
+Colonel Richardson High School,0801,05,Caroline County,Gender,Female,275,2025
+Colonel Richardson High School,0801,05,Caroline County,Grade,All Students,528,2025
+North Caroline High School,0703,05,Caroline County,Race/Ethnicity,All Students,1238,2025
+North Caroline High School,0703,05,Caroline County,Race/Ethnicity,Asian,16,2025
+North Caroline High School,0703,05,Caroline County,Race/Ethnicity,African Am.,137,2025
+North Caroline High School,0703,05,Caroline County,Race/Ethnicity,Hispanic,307,2025
+North Caroline High School,0703,05,Caroline County,Race/Ethnicity,White,686,2025
+North Caroline High School,0703,05,Caroline County,Race/Ethnicity,Am.Ind/AK,*,2025
+North Caroline High School,0703,05,Caroline County,Race/Ethnicity,2+,91,2025
+North Caroline High School,0703,05,Caroline County,Gender,All Students,1238,2025
+North Caroline High School,0703,05,Caroline County,Gender,Male,633,2025
+North Caroline High School,0703,05,Caroline County,Gender,Female,605,2025
+North Caroline High School,0703,05,Caroline County,Grade,All Students,1238,2025
+Choptank Elementary School,0716,09,Dorchester County,Race/Ethnicity,All Students,319,2025
+Choptank Elementary School,0716,09,Dorchester County,Race/Ethnicity,African Am.,230,2025
+Choptank Elementary School,0716,09,Dorchester County,Race/Ethnicity,Hispanic,46,2025
+Choptank Elementary School,0716,09,Dorchester County,Race/Ethnicity,White,16,2025
+Choptank Elementary School,0716,09,Dorchester County,Race/Ethnicity,Am.Ind/AK,*,2025
+Choptank Elementary School,0716,09,Dorchester County,Race/Ethnicity,2+,25,2025
+Choptank Elementary School,0716,09,Dorchester County,Gender,All Students,319,2025
+Choptank Elementary School,0716,09,Dorchester County,Gender,Male,159,2025
+Choptank Elementary School,0716,09,Dorchester County,Gender,Female,160,2025
+Choptank Elementary School,0716,09,Dorchester County,Grade,All Students,319,2025
+Choptank Elementary School,0716,09,Dorchester County,Grade,Pre-Kindergarten,28,2025
+Choptank Elementary School,0716,09,Dorchester County,Grade,Kindergarten,39,2025
+Choptank Elementary School,0716,09,Dorchester County,Grade,Grade 1,48,2025
+Choptank Elementary School,0716,09,Dorchester County,Grade,Grade 2,43,2025
+Choptank Elementary School,0716,09,Dorchester County,Grade,Grade 3,56,2025
+Choptank Elementary School,0716,09,Dorchester County,Grade,Grade 4,45,2025
+Choptank Elementary School,0716,09,Dorchester County,Grade,Grade 5,60,2025
+Choptank Elementary School,0716,09,Dorchester County,Grade,Elementary,252,2025
+Hurlock Elementary School,1503,09,Dorchester County,Race/Ethnicity,All Students,391,2025
+Hurlock Elementary School,1503,09,Dorchester County,Race/Ethnicity,Asian,*,2025
+Hurlock Elementary School,1503,09,Dorchester County,Race/Ethnicity,African Am.,145,2025
+Hurlock Elementary School,1503,09,Dorchester County,Race/Ethnicity,Hispanic,48,2025
+Hurlock Elementary School,1503,09,Dorchester County,Race/Ethnicity,White,149,2025
+Hurlock Elementary School,1503,09,Dorchester County,Race/Ethnicity,HI/Pac.Isl.,*,2025
+Hurlock Elementary School,1503,09,Dorchester County,Race/Ethnicity,2+,45,2025
+Hurlock Elementary School,1503,09,Dorchester County,Gender,All Students,391,2025
+Hurlock Elementary School,1503,09,Dorchester County,Gender,Male,205,2025
+Hurlock Elementary School,1503,09,Dorchester County,Gender,Female,186,2025
+Hurlock Elementary School,1503,09,Dorchester County,Grade,All Students,391,2025
+Hurlock Elementary School,1503,09,Dorchester County,Grade,Pre-Kindergarten,56,2025
+Hurlock Elementary School,1503,09,Dorchester County,Grade,Kindergarten,55,2025
+Hurlock Elementary School,1503,09,Dorchester County,Grade,Grade 1,52,2025
+Hurlock Elementary School,1503,09,Dorchester County,Grade,Grade 2,42,2025
+Hurlock Elementary School,1503,09,Dorchester County,Grade,Grade 3,70,2025
+Hurlock Elementary School,1503,09,Dorchester County,Grade,Grade 4,53,2025
+Hurlock Elementary School,1503,09,Dorchester County,Grade,Grade 5,63,2025
+Hurlock Elementary School,1503,09,Dorchester County,Grade,Elementary,280,2025
+Maple Elementary School,0711,09,Dorchester County,Race/Ethnicity,All Students,483,2025
+Maple Elementary School,0711,09,Dorchester County,Race/Ethnicity,Asian,*,2025
+Maple Elementary School,0711,09,Dorchester County,Race/Ethnicity,African Am.,183,2025
+Maple Elementary School,0711,09,Dorchester County,Race/Ethnicity,Hispanic,160,2025
+Maple Elementary School,0711,09,Dorchester County,Race/Ethnicity,White,97,2025
+Maple Elementary School,0711,09,Dorchester County,Race/Ethnicity,Am.Ind/AK,*,2025
+Maple Elementary School,0711,09,Dorchester County,Race/Ethnicity,HI/Pac.Isl.,*,2025
+Maple Elementary School,0711,09,Dorchester County,Race/Ethnicity,2+,38,2025
+Maple Elementary School,0711,09,Dorchester County,Gender,All Students,483,2025
+Maple Elementary School,0711,09,Dorchester County,Gender,Male,242,2025
+Maple Elementary School,0711,09,Dorchester County,Gender,Female,241,2025
+Maple Elementary School,0711,09,Dorchester County,Grade,All Students,483,2025
+Maple Elementary School,0711,09,Dorchester County,Grade,Pre-Kindergarten,90,2025
+Maple Elementary School,0711,09,Dorchester County,Grade,Kindergarten,60,2025
+Maple Elementary School,0711,09,Dorchester County,Grade,Grade 1,81,2025
+Maple Elementary School,0711,09,Dorchester County,Grade,Grade 2,63,2025
+Maple Elementary School,0711,09,Dorchester County,Grade,Grade 3,67,2025
+Maple Elementary School,0711,09,Dorchester County,Grade,Grade 4,64,2025
+Maple Elementary School,0711,09,Dorchester County,Grade,Grade 5,58,2025
+Maple Elementary School,0711,09,Dorchester County,Grade,Elementary,333,2025
+Sandy Hill Elementary School,0710,09,Dorchester County,Race/Ethnicity,All Students,393,2025
+Sandy Hill Elementary School,0710,09,Dorchester County,Race/Ethnicity,Asian,*,2025
+Sandy Hill Elementary School,0710,09,Dorchester County,Race/Ethnicity,African Am.,234,2025
+Sandy Hill Elementary School,0710,09,Dorchester County,Race/Ethnicity,Hispanic,50,2025
+Sandy Hill Elementary School,0710,09,Dorchester County,Race/Ethnicity,White,74,2025
+Sandy Hill Elementary School,0710,09,Dorchester County,Race/Ethnicity,2+,33,2025
+Sandy Hill Elementary School,0710,09,Dorchester County,Gender,All Students,393,2025
+Sandy Hill Elementary School,0710,09,Dorchester County,Gender,Male,184,2025
+Sandy Hill Elementary School,0710,09,Dorchester County,Gender,Female,209,2025
+Sandy Hill Elementary School,0710,09,Dorchester County,Grade,All Students,393,2025
+Sandy Hill Elementary School,0710,09,Dorchester County,Grade,Pre-Kindergarten,81,2025
+Sandy Hill Elementary School,0710,09,Dorchester County,Grade,Kindergarten,50,2025
+Sandy Hill Elementary School,0710,09,Dorchester County,Grade,Grade 1,53,2025
+Sandy Hill Elementary School,0710,09,Dorchester County,Grade,Grade 2,50,2025
+Sandy Hill Elementary School,0710,09,Dorchester County,Grade,Grade 3,55,2025
+Sandy Hill Elementary School,0710,09,Dorchester County,Grade,Grade 4,57,2025
+Sandy Hill Elementary School,0710,09,Dorchester County,Grade,Grade 5,47,2025
+Sandy Hill Elementary School,0710,09,Dorchester County,Grade,Elementary,262,2025
+Vienna Elementary School,0302,09,Dorchester County,Race/Ethnicity,All Students,183,2025
+Vienna Elementary School,0302,09,Dorchester County,Race/Ethnicity,African Am.,20,2025
+Vienna Elementary School,0302,09,Dorchester County,Race/Ethnicity,Hispanic,17,2025
+Vienna Elementary School,0302,09,Dorchester County,Race/Ethnicity,White,127,2025
+Vienna Elementary School,0302,09,Dorchester County,Race/Ethnicity,Am.Ind/AK,*,2025
+Vienna Elementary School,0302,09,Dorchester County,Race/Ethnicity,2+,18,2025
+Vienna Elementary School,0302,09,Dorchester County,Gender,All Students,183,2025
+Vienna Elementary School,0302,09,Dorchester County,Gender,Male,94,2025
+Vienna Elementary School,0302,09,Dorchester County,Gender,Female,89,2025
+Vienna Elementary School,0302,09,Dorchester County,Grade,All Students,183,2025
+Vienna Elementary School,0302,09,Dorchester County,Grade,Pre-Kindergarten,31,2025
+Vienna Elementary School,0302,09,Dorchester County,Grade,Kindergarten,18,2025
+Vienna Elementary School,0302,09,Dorchester County,Grade,Grade 1,33,2025
+Vienna Elementary School,0302,09,Dorchester County,Grade,Grade 2,24,2025
+Vienna Elementary School,0302,09,Dorchester County,Grade,Grade 3,27,2025
+Vienna Elementary School,0302,09,Dorchester County,Grade,Grade 4,21,2025
+Vienna Elementary School,0302,09,Dorchester County,Grade,Grade 5,29,2025
+Vienna Elementary School,0302,09,Dorchester County,Grade,Elementary,134,2025
+Warwick Elementary School,0205,09,Dorchester County,Race/Ethnicity,All Students,346,2025
+Warwick Elementary School,0205,09,Dorchester County,Race/Ethnicity,Asian,*,2025
+Warwick Elementary School,0205,09,Dorchester County,Race/Ethnicity,African Am.,23,2025
+Warwick Elementary School,0205,09,Dorchester County,Race/Ethnicity,Hispanic,17,2025
+Warwick Elementary School,0205,09,Dorchester County,Race/Ethnicity,White,283,2025
+Warwick Elementary School,0205,09,Dorchester County,Race/Ethnicity,2+,22,2025
+Warwick Elementary School,0205,09,Dorchester County,Gender,All Students,346,2025
+Warwick Elementary School,0205,09,Dorchester County,Gender,Male,185,2025
+Warwick Elementary School,0205,09,Dorchester County,Gender,Female,161,2025
+Warwick Elementary School,0205,09,Dorchester County,Grade,All Students,346,2025
+Warwick Elementary School,0205,09,Dorchester County,Grade,Pre-Kindergarten,25,2025
+Warwick Elementary School,0205,09,Dorchester County,Grade,Kindergarten,58,2025
+Warwick Elementary School,0205,09,Dorchester County,Grade,Grade 1,49,2025
+Warwick Elementary School,0205,09,Dorchester County,Grade,Grade 2,47,2025
+Warwick Elementary School,0205,09,Dorchester County,Grade,Grade 3,63,2025
+Warwick Elementary School,0205,09,Dorchester County,Grade,Grade 4,58,2025
+Warwick Elementary School,0205,09,Dorchester County,Grade,Grade 5,46,2025
+Warwick Elementary School,0205,09,Dorchester County,Grade,Elementary,263,2025
+South Dorchester School,0508,09,Dorchester County,Race/Ethnicity,All Students,230,2025
+South Dorchester School,0508,09,Dorchester County,Race/Ethnicity,Asian,*,2025
+South Dorchester School,0508,09,Dorchester County,Race/Ethnicity,African Am.,*,2025
+South Dorchester School,0508,09,Dorchester County,Race/Ethnicity,Hispanic,11,2025
+South Dorchester School,0508,09,Dorchester County,Race/Ethnicity,White,197,2025
+South Dorchester School,0508,09,Dorchester County,Race/Ethnicity,2+,11,2025
+South Dorchester School,0508,09,Dorchester County,Gender,All Students,230,2025
+South Dorchester School,0508,09,Dorchester County,Gender,Male,108,2025
+South Dorchester School,0508,09,Dorchester County,Gender,Female,122,2025
+South Dorchester School,0508,09,Dorchester County,Grade,All Students,230,2025
+South Dorchester School,0508,09,Dorchester County,Grade,Pre-Kindergarten,15,2025
+South Dorchester School,0508,09,Dorchester County,Grade,Kindergarten,26,2025
+South Dorchester School,0508,09,Dorchester County,Grade,Grade 1,27,2025
+South Dorchester School,0508,09,Dorchester County,Grade,Grade 2,17,2025
+South Dorchester School,0508,09,Dorchester County,Grade,Grade 3,23,2025
+South Dorchester School,0508,09,Dorchester County,Grade,Grade 4,22,2025
+South Dorchester School,0508,09,Dorchester County,Grade,Grade 5,25,2025
+South Dorchester School,0508,09,Dorchester County,Grade,Elementary,114,2025
+Mace's Lane Middle School,0707,09,Dorchester County,Race/Ethnicity,All Students,490,2025
+Mace's Lane Middle School,0707,09,Dorchester County,Race/Ethnicity,Asian,*,2025
+Mace's Lane Middle School,0707,09,Dorchester County,Race/Ethnicity,African Am.,287,2025
+Mace's Lane Middle School,0707,09,Dorchester County,Race/Ethnicity,Hispanic,89,2025
+Mace's Lane Middle School,0707,09,Dorchester County,Race/Ethnicity,White,62,2025
+Mace's Lane Middle School,0707,09,Dorchester County,Race/Ethnicity,2+,49,2025
+Mace's Lane Middle School,0707,09,Dorchester County,Gender,All Students,490,2025
+Mace's Lane Middle School,0707,09,Dorchester County,Gender,Male,269,2025
+Mace's Lane Middle School,0707,09,Dorchester County,Gender,Female,221,2025
+Mace's Lane Middle School,0707,09,Dorchester County,Grade,All Students,490,2025
+North Dorchester Middle School,0208,09,Dorchester County,Race/Ethnicity,All Students,414,2025
+North Dorchester Middle School,0208,09,Dorchester County,Race/Ethnicity,Asian,*,2025
+North Dorchester Middle School,0208,09,Dorchester County,Race/Ethnicity,African Am.,81,2025
+North Dorchester Middle School,0208,09,Dorchester County,Race/Ethnicity,Hispanic,43,2025
+North Dorchester Middle School,0208,09,Dorchester County,Race/Ethnicity,White,253,2025
+North Dorchester Middle School,0208,09,Dorchester County,Race/Ethnicity,2+,30,2025
+North Dorchester Middle School,0208,09,Dorchester County,Gender,All Students,414,2025
+North Dorchester Middle School,0208,09,Dorchester County,Gender,Male,206,2025
+North Dorchester Middle School,0208,09,Dorchester County,Gender,Female,208,2025
+North Dorchester Middle School,0208,09,Dorchester County,Grade,All Students,414,2025
+Cambridge-South Dorchester High School,0713,09,Dorchester County,Race/Ethnicity,All Students,811,2025
+Cambridge-South Dorchester High School,0713,09,Dorchester County,Race/Ethnicity,Asian,*,2025
+Cambridge-South Dorchester High School,0713,09,Dorchester County,Race/Ethnicity,African Am.,461,2025
+Cambridge-South Dorchester High School,0713,09,Dorchester County,Race/Ethnicity,Hispanic,97,2025
+Cambridge-South Dorchester High School,0713,09,Dorchester County,Race/Ethnicity,White,198,2025
+Cambridge-South Dorchester High School,0713,09,Dorchester County,Race/Ethnicity,HI/Pac.Isl.,*,2025
+Cambridge-South Dorchester High School,0713,09,Dorchester County,Race/Ethnicity,2+,49,2025
+Cambridge-South Dorchester High School,0713,09,Dorchester County,Gender,All Students,811,2025
+Cambridge-South Dorchester High School,0713,09,Dorchester County,Gender,Male,424,2025
+Cambridge-South Dorchester High School,0713,09,Dorchester County,Gender,Female,383,2025
+Cambridge-South Dorchester High School,0713,09,Dorchester County,Grade,All Students,811,2025
+North Dorchester High School,0207,09,Dorchester County,Race/Ethnicity,All Students,526,2025
+North Dorchester High School,0207,09,Dorchester County,Race/Ethnicity,Asian,*,2025
+North Dorchester High School,0207,09,Dorchester County,Race/Ethnicity,African Am.,121,2025
+North Dorchester High School,0207,09,Dorchester County,Race/Ethnicity,Hispanic,60,2025
+North Dorchester High School,0207,09,Dorchester County,Race/Ethnicity,White,299,2025
+North Dorchester High School,0207,09,Dorchester County,Race/Ethnicity,Am.Ind/AK,*,2025
+North Dorchester High School,0207,09,Dorchester County,Race/Ethnicity,2+,38,2025
+North Dorchester High School,0207,09,Dorchester County,Gender,All Students,526,2025
+North Dorchester High School,0207,09,Dorchester County,Gender,Male,257,2025
+North Dorchester High School,0207,09,Dorchester County,Gender,Female,269,2025
+North Dorchester High School,0207,09,Dorchester County,Grade,All Students,526,2025
+Galena Elementary School,0105,14,Kent County,Race/Ethnicity,All Students,309,2025
+Galena Elementary School,0105,14,Kent County,Race/Ethnicity,African Am.,22,2025
+Galena Elementary School,0105,14,Kent County,Race/Ethnicity,Hispanic,63,2025
+Galena Elementary School,0105,14,Kent County,Race/Ethnicity,White,201,2025
+Galena Elementary School,0105,14,Kent County,Race/Ethnicity,2+,23,2025
+Galena Elementary School,0105,14,Kent County,Gender,All Students,309,2025
+Galena Elementary School,0105,14,Kent County,Gender,Male,152,2025
+Galena Elementary School,0105,14,Kent County,Gender,Female,157,2025
+Galena Elementary School,0105,14,Kent County,Grade,All Students,309,2025
+Galena Elementary School,0105,14,Kent County,Grade,Pre-Kindergarten,43,2025
+Galena Elementary School,0105,14,Kent County,Grade,Kindergarten,49,2025
+Galena Elementary School,0105,14,Kent County,Grade,Grade 1,49,2025
+Galena Elementary School,0105,14,Kent County,Grade,Grade 2,49,2025
+Galena Elementary School,0105,14,Kent County,Grade,Grade 3,42,2025
+Galena Elementary School,0105,14,Kent County,Grade,Grade 4,36,2025
+Galena Elementary School,0105,14,Kent County,Grade,Grade 5,41,2025
+Galena Elementary School,0105,14,Kent County,Grade,Elementary,217,2025
+H. H. Garnett Elementary,0403,14,Kent County,Race/Ethnicity,All Students,322,2025
+H. H. Garnett Elementary,0403,14,Kent County,Race/Ethnicity,Asian,10,2025
+H. H. Garnett Elementary,0403,14,Kent County,Race/Ethnicity,African Am.,95,2025
+H. H. Garnett Elementary,0403,14,Kent County,Race/Ethnicity,Hispanic,47,2025
+H. H. Garnett Elementary,0403,14,Kent County,Race/Ethnicity,White,133,2025
+H. H. Garnett Elementary,0403,14,Kent County,Race/Ethnicity,2+,37,2025
+H. H. Garnett Elementary,0403,14,Kent County,Gender,All Students,322,2025
+H. H. Garnett Elementary,0403,14,Kent County,Gender,Male,172,2025
+H. H. Garnett Elementary,0403,14,Kent County,Gender,Female,150,2025
+H. H. Garnett Elementary,0403,14,Kent County,Grade,All Students,322,2025
+H. H. Garnett Elementary,0403,14,Kent County,Grade,Pre-Kindergarten,40,2025
+H. H. Garnett Elementary,0403,14,Kent County,Grade,Kindergarten,42,2025
+H. H. Garnett Elementary,0403,14,Kent County,Grade,Grade 1,48,2025
+H. H. Garnett Elementary,0403,14,Kent County,Grade,Grade 2,42,2025
+H. H. Garnett Elementary,0403,14,Kent County,Grade,Grade 3,47,2025
+H. H. Garnett Elementary,0403,14,Kent County,Grade,Grade 4,50,2025
+H. H. Garnett Elementary,0403,14,Kent County,Grade,Grade 5,53,2025
+H. H. Garnett Elementary,0403,14,Kent County,Grade,Elementary,240,2025
+Rock Hall Elementary,0504,14,Kent County,Race/Ethnicity,All Students,198,2025
+Rock Hall Elementary,0504,14,Kent County,Race/Ethnicity,African Am.,49,2025
+Rock Hall Elementary,0504,14,Kent County,Race/Ethnicity,Hispanic,*,2025
+Rock Hall Elementary,0504,14,Kent County,Race/Ethnicity,White,116,2025
+Rock Hall Elementary,0504,14,Kent County,Race/Ethnicity,Am.Ind/AK,*,2025
+Rock Hall Elementary,0504,14,Kent County,Race/Ethnicity,2+,23,2025
+Rock Hall Elementary,0504,14,Kent County,Gender,All Students,198,2025
+Rock Hall Elementary,0504,14,Kent County,Gender,Male,108,2025
+Rock Hall Elementary,0504,14,Kent County,Gender,Female,90,2025
+Rock Hall Elementary,0504,14,Kent County,Grade,All Students,198,2025
+Rock Hall Elementary,0504,14,Kent County,Grade,Pre-Kindergarten,20,2025
+Rock Hall Elementary,0504,14,Kent County,Grade,Kindergarten,31,2025
+Rock Hall Elementary,0504,14,Kent County,Grade,Grade 1,29,2025
+Rock Hall Elementary,0504,14,Kent County,Grade,Grade 2,30,2025
+Rock Hall Elementary,0504,14,Kent County,Grade,Grade 3,31,2025
+Rock Hall Elementary,0504,14,Kent County,Grade,Grade 4,34,2025
+Rock Hall Elementary,0504,14,Kent County,Grade,Grade 5,23,2025
+Rock Hall Elementary,0504,14,Kent County,Grade,Elementary,147,2025
+Kent County Middle School,0402,14,Kent County,Race/Ethnicity,All Students,354,2025
+Kent County Middle School,0402,14,Kent County,Race/Ethnicity,African Am.,90,2025
+Kent County Middle School,0402,14,Kent County,Race/Ethnicity,Hispanic,52,2025
+Kent County Middle School,0402,14,Kent County,Race/Ethnicity,White,176,2025
+Kent County Middle School,0402,14,Kent County,Race/Ethnicity,Am.Ind/AK,*,2025
+Kent County Middle School,0402,14,Kent County,Race/Ethnicity,2+,34,2025
+Kent County Middle School,0402,14,Kent County,Gender,All Students,354,2025
+Kent County Middle School,0402,14,Kent County,Gender,Male,179,2025
+Kent County Middle School,0402,14,Kent County,Gender,Female,175,2025
+Kent County Middle School,0402,14,Kent County,Grade,All Students,354,2025
+Kent County High,0301,14,Kent County,Race/Ethnicity,All Students,511,2025
+Kent County High,0301,14,Kent County,Race/Ethnicity,Asian,*,2025
+Kent County High,0301,14,Kent County,Race/Ethnicity,African Am.,128,2025
+Kent County High,0301,14,Kent County,Race/Ethnicity,Hispanic,64,2025
+Kent County High,0301,14,Kent County,Race/Ethnicity,White,279,2025
+Kent County High,0301,14,Kent County,Race/Ethnicity,Am.Ind/AK,*,2025
+Kent County High,0301,14,Kent County,Race/Ethnicity,2+,35,2025
+Kent County High,0301,14,Kent County,Gender,All Students,511,2025
+Kent County High,0301,14,Kent County,Gender,Male,252,2025
+Kent County High,0301,14,Kent County,Gender,Female,259,2025
+Kent County High,0301,14,Kent County,Grade,All Students,511,2025
+Bayside Elementary School,0403,17,Queen Anne's County,Race/Ethnicity,All Students,368,2025
+Bayside Elementary School,0403,17,Queen Anne's County,Race/Ethnicity,Asian,14,2025
+Bayside Elementary School,0403,17,Queen Anne's County,Race/Ethnicity,African Am.,*,2025
+Bayside Elementary School,0403,17,Queen Anne's County,Race/Ethnicity,Hispanic,45,2025
+Bayside Elementary School,0403,17,Queen Anne's County,Race/Ethnicity,White,280,2025
+Bayside Elementary School,0403,17,Queen Anne's County,Race/Ethnicity,2+,23,2025
+Bayside Elementary School,0403,17,Queen Anne's County,Gender,All Students,368,2025
+Bayside Elementary School,0403,17,Queen Anne's County,Gender,Male,193,2025
+Bayside Elementary School,0403,17,Queen Anne's County,Gender,Female,175,2025
+Bayside Elementary School,0403,17,Queen Anne's County,Grade,All Students,368,2025
+Bayside Elementary School,0403,17,Queen Anne's County,Grade,Grade 3,135,2025
+Bayside Elementary School,0403,17,Queen Anne's County,Grade,Grade 4,112,2025
+Bayside Elementary School,0403,17,Queen Anne's County,Grade,Grade 5,121,2025
+Bayside Elementary School,0403,17,Queen Anne's County,Grade,Elementary,368,2025
+Centreville Elementary School,0308,17,Queen Anne's County,Race/Ethnicity,All Students,535,2025
+Centreville Elementary School,0308,17,Queen Anne's County,Race/Ethnicity,Asian,*,2025
+Centreville Elementary School,0308,17,Queen Anne's County,Race/Ethnicity,African Am.,20,2025
+Centreville Elementary School,0308,17,Queen Anne's County,Race/Ethnicity,Hispanic,65,2025
+Centreville Elementary School,0308,17,Queen Anne's County,Race/Ethnicity,White,415,2025
+Centreville Elementary School,0308,17,Queen Anne's County,Race/Ethnicity,2+,32,2025
+Centreville Elementary School,0308,17,Queen Anne's County,Gender,All Students,535,2025
+Centreville Elementary School,0308,17,Queen Anne's County,Gender,Male,282,2025
+Centreville Elementary School,0308,17,Queen Anne's County,Gender,Female,253,2025
+Centreville Elementary School,0308,17,Queen Anne's County,Grade,All Students,535,2025
+Centreville Elementary School,0308,17,Queen Anne's County,Grade,Pre-Kindergarten,86,2025
+Centreville Elementary School,0308,17,Queen Anne's County,Grade,Kindergarten,150,2025
+Centreville Elementary School,0308,17,Queen Anne's County,Grade,Grade 1,149,2025
+Centreville Elementary School,0308,17,Queen Anne's County,Grade,Grade 2,150,2025
+Centreville Elementary School,0308,17,Queen Anne's County,Grade,Elementary,299,2025
+Church Hill Elementary School,0202,17,Queen Anne's County,Race/Ethnicity,All Students,329,2025
+Church Hill Elementary School,0202,17,Queen Anne's County,Race/Ethnicity,Asian,*,2025
+Church Hill Elementary School,0202,17,Queen Anne's County,Race/Ethnicity,African Am.,20,2025
+Church Hill Elementary School,0202,17,Queen Anne's County,Race/Ethnicity,Hispanic,53,2025
+Church Hill Elementary School,0202,17,Queen Anne's County,Race/Ethnicity,White,225,2025
+Church Hill Elementary School,0202,17,Queen Anne's County,Race/Ethnicity,Am.Ind/AK,*,2025
+Church Hill Elementary School,0202,17,Queen Anne's County,Race/Ethnicity,HI/Pac.Isl.,*,2025
+Church Hill Elementary School,0202,17,Queen Anne's County,Race/Ethnicity,2+,24,2025
+Church Hill Elementary School,0202,17,Queen Anne's County,Gender,All Students,329,2025
+Church Hill Elementary School,0202,17,Queen Anne's County,Gender,Male,163,2025
+Church Hill Elementary School,0202,17,Queen Anne's County,Gender,Female,166,2025
+Church Hill Elementary School,0202,17,Queen Anne's County,Grade,All Students,329,2025
+Church Hill Elementary School,0202,17,Queen Anne's County,Grade,Pre-Kindergarten,57,2025
+Church Hill Elementary School,0202,17,Queen Anne's County,Grade,Kindergarten,55,2025
+Church Hill Elementary School,0202,17,Queen Anne's County,Grade,Grade 1,56,2025
+Church Hill Elementary School,0202,17,Queen Anne's County,Grade,Grade 2,50,2025
+Church Hill Elementary School,0202,17,Queen Anne's County,Grade,Grade 3,50,2025
+Church Hill Elementary School,0202,17,Queen Anne's County,Grade,Grade 4,61,2025
+Church Hill Elementary School,0202,17,Queen Anne's County,Grade,Elementary,217,2025
+Grasonville Elementary School,0503,17,Queen Anne's County,Race/Ethnicity,All Students,472,2025
+Grasonville Elementary School,0503,17,Queen Anne's County,Race/Ethnicity,Asian,*,2025
+Grasonville Elementary School,0503,17,Queen Anne's County,Race/Ethnicity,African Am.,50,2025
+Grasonville Elementary School,0503,17,Queen Anne's County,Race/Ethnicity,Hispanic,80,2025
+Grasonville Elementary School,0503,17,Queen Anne's County,Race/Ethnicity,White,293,2025
+Grasonville Elementary School,0503,17,Queen Anne's County,Race/Ethnicity,Am.Ind/AK,*,2025
+Grasonville Elementary School,0503,17,Queen Anne's County,Race/Ethnicity,HI/Pac.Isl.,*,2025
+Grasonville Elementary School,0503,17,Queen Anne's County,Race/Ethnicity,2+,39,2025
+Grasonville Elementary School,0503,17,Queen Anne's County,Gender,All Students,472,2025
+Grasonville Elementary School,0503,17,Queen Anne's County,Gender,Male,222,2025
+Grasonville Elementary School,0503,17,Queen Anne's County,Gender,Female,250,2025
+Grasonville Elementary School,0503,17,Queen Anne's County,Grade,All Students,472,2025
+Grasonville Elementary School,0503,17,Queen Anne's County,Grade,Pre-Kindergarten,34,2025
+Grasonville Elementary School,0503,17,Queen Anne's County,Grade,Kindergarten,66,2025
+Grasonville Elementary School,0503,17,Queen Anne's County,Grade,Grade 1,70,2025
+Grasonville Elementary School,0503,17,Queen Anne's County,Grade,Grade 2,75,2025
+Grasonville Elementary School,0503,17,Queen Anne's County,Grade,Grade 3,76,2025
+Grasonville Elementary School,0503,17,Queen Anne's County,Grade,Grade 4,70,2025
+Grasonville Elementary School,0503,17,Queen Anne's County,Grade,Grade 5,81,2025
+Grasonville Elementary School,0503,17,Queen Anne's County,Grade,Elementary,372,2025
+Kennard Elementary School,0302,17,Queen Anne's County,Race/Ethnicity,All Students,477,2025
+Kennard Elementary School,0302,17,Queen Anne's County,Race/Ethnicity,Asian,*,2025
+Kennard Elementary School,0302,17,Queen Anne's County,Race/Ethnicity,African Am.,38,2025
+Kennard Elementary School,0302,17,Queen Anne's County,Race/Ethnicity,Hispanic,43,2025
+Kennard Elementary School,0302,17,Queen Anne's County,Race/Ethnicity,White,355,2025
+Kennard Elementary School,0302,17,Queen Anne's County,Race/Ethnicity,Am.Ind/AK,*,2025
+Kennard Elementary School,0302,17,Queen Anne's County,Race/Ethnicity,2+,35,2025
+Kennard Elementary School,0302,17,Queen Anne's County,Gender,All Students,477,2025
+Kennard Elementary School,0302,17,Queen Anne's County,Gender,Male,244,2025
+Kennard Elementary School,0302,17,Queen Anne's County,Gender,Female,233,2025
+Kennard Elementary School,0302,17,Queen Anne's County,Grade,All Students,477,2025
+Kennard Elementary School,0302,17,Queen Anne's County,Grade,Grade 3,161,2025
+Kennard Elementary School,0302,17,Queen Anne's County,Grade,Grade 4,166,2025
+Kennard Elementary School,0302,17,Queen Anne's County,Grade,Grade 5,150,2025
+Kennard Elementary School,0302,17,Queen Anne's County,Grade,Elementary,477,2025
+Kent Island Elementary School,0402,17,Queen Anne's County,Race/Ethnicity,All Students,452,2025
+Kent Island Elementary School,0402,17,Queen Anne's County,Race/Ethnicity,Asian,*,2025
+Kent Island Elementary School,0402,17,Queen Anne's County,Race/Ethnicity,African Am.,18,2025
+Kent Island Elementary School,0402,17,Queen Anne's County,Race/Ethnicity,Hispanic,66,2025
+Kent Island Elementary School,0402,17,Queen Anne's County,Race/Ethnicity,White,324,2025
+Kent Island Elementary School,0402,17,Queen Anne's County,Race/Ethnicity,Am.Ind/AK,*,2025
+Kent Island Elementary School,0402,17,Queen Anne's County,Race/Ethnicity,2+,39,2025
+Kent Island Elementary School,0402,17,Queen Anne's County,Gender,All Students,452,2025
+Kent Island Elementary School,0402,17,Queen Anne's County,Gender,Male,238,2025
+Kent Island Elementary School,0402,17,Queen Anne's County,Gender,Female,214,2025
+Kent Island Elementary School,0402,17,Queen Anne's County,Grade,All Students,452,2025
+Kent Island Elementary School,0402,17,Queen Anne's County,Grade,Pre-Kindergarten,63,2025
+Kent Island Elementary School,0402,17,Queen Anne's County,Grade,Kindergarten,136,2025
+Kent Island Elementary School,0402,17,Queen Anne's County,Grade,Grade 1,141,2025
+Kent Island Elementary School,0402,17,Queen Anne's County,Grade,Grade 2,112,2025
+Kent Island Elementary School,0402,17,Queen Anne's County,Grade,Elementary,253,2025
+Matapeake Elementary School,0406,17,Queen Anne's County,Race/Ethnicity,All Students,472,2025
+Matapeake Elementary School,0406,17,Queen Anne's County,Race/Ethnicity,Asian,*,2025
+Matapeake Elementary School,0406,17,Queen Anne's County,Race/Ethnicity,African Am.,*,2025
+Matapeake Elementary School,0406,17,Queen Anne's County,Race/Ethnicity,Hispanic,34,2025
+Matapeake Elementary School,0406,17,Queen Anne's County,Race/Ethnicity,White,392,2025
+Matapeake Elementary School,0406,17,Queen Anne's County,Race/Ethnicity,Am.Ind/AK,*,2025
+Matapeake Elementary School,0406,17,Queen Anne's County,Race/Ethnicity,2+,34,2025
+Matapeake Elementary School,0406,17,Queen Anne's County,Gender,All Students,472,2025
+Matapeake Elementary School,0406,17,Queen Anne's County,Gender,Male,229,2025
+Matapeake Elementary School,0406,17,Queen Anne's County,Gender,Female,243,2025
+Matapeake Elementary School,0406,17,Queen Anne's County,Grade,All Students,472,2025
+Matapeake Elementary School,0406,17,Queen Anne's County,Grade,Pre-Kindergarten,36,2025
+Matapeake Elementary School,0406,17,Queen Anne's County,Grade,Kindergarten,77,2025
+Matapeake Elementary School,0406,17,Queen Anne's County,Grade,Grade 1,69,2025
+Matapeake Elementary School,0406,17,Queen Anne's County,Grade,Grade 2,77,2025
+Matapeake Elementary School,0406,17,Queen Anne's County,Grade,Grade 3,73,2025
+Matapeake Elementary School,0406,17,Queen Anne's County,Grade,Grade 4,69,2025
+Matapeake Elementary School,0406,17,Queen Anne's County,Grade,Grade 5,71,2025
+Matapeake Elementary School,0406,17,Queen Anne's County,Grade,Elementary,359,2025
+Sudlersville Elementary School,0106,17,Queen Anne's County,Race/Ethnicity,All Students,315,2025
+Sudlersville Elementary School,0106,17,Queen Anne's County,Race/Ethnicity,African Am.,20,2025
+Sudlersville Elementary School,0106,17,Queen Anne's County,Race/Ethnicity,Hispanic,115,2025
+Sudlersville Elementary School,0106,17,Queen Anne's County,Race/Ethnicity,White,164,2025
+Sudlersville Elementary School,0106,17,Queen Anne's County,Race/Ethnicity,Am.Ind/AK,*,2025
+Sudlersville Elementary School,0106,17,Queen Anne's County,Race/Ethnicity,2+,15,2025
+Sudlersville Elementary School,0106,17,Queen Anne's County,Gender,All Students,315,2025
+Sudlersville Elementary School,0106,17,Queen Anne's County,Gender,Male,158,2025
+Sudlersville Elementary School,0106,17,Queen Anne's County,Gender,Female,157,2025
+Sudlersville Elementary School,0106,17,Queen Anne's County,Grade,All Students,315,2025
+Sudlersville Elementary School,0106,17,Queen Anne's County,Grade,Pre-Kindergarten,47,2025
+Sudlersville Elementary School,0106,17,Queen Anne's County,Grade,Kindergarten,48,2025
+Sudlersville Elementary School,0106,17,Queen Anne's County,Grade,Grade 1,48,2025
+Sudlersville Elementary School,0106,17,Queen Anne's County,Grade,Grade 2,59,2025
+Sudlersville Elementary School,0106,17,Queen Anne's County,Grade,Grade 3,65,2025
+Sudlersville Elementary School,0106,17,Queen Anne's County,Grade,Grade 4,48,2025
+Sudlersville Elementary School,0106,17,Queen Anne's County,Grade,Elementary,220,2025
+Sudlersville Middle School,0101,17,Queen Anne's County,Race/Ethnicity,All Students,447,2025
+Sudlersville Middle School,0101,17,Queen Anne's County,Race/Ethnicity,African Am.,28,2025
+Sudlersville Middle School,0101,17,Queen Anne's County,Race/Ethnicity,Hispanic,115,2025
+Sudlersville Middle School,0101,17,Queen Anne's County,Race/Ethnicity,White,272,2025
+Sudlersville Middle School,0101,17,Queen Anne's County,Race/Ethnicity,2+,32,2025
+Sudlersville Middle School,0101,17,Queen Anne's County,Gender,All Students,447,2025
+Sudlersville Middle School,0101,17,Queen Anne's County,Gender,Male,256,2025
+Sudlersville Middle School,0101,17,Queen Anne's County,Gender,Female,191,2025
+Sudlersville Middle School,0101,17,Queen Anne's County,Grade,All Students,447,2025
+Sudlersville Middle School,0101,17,Queen Anne's County,Grade,Grade 5,115,2025
+Sudlersville Middle School,0101,17,Queen Anne's County,Grade,Elementary,115,2025
+Centreville Middle School,0303,17,Queen Anne's County,Race/Ethnicity,All Students,501,2025
+Centreville Middle School,0303,17,Queen Anne's County,Race/Ethnicity,Asian,*,2025
+Centreville Middle School,0303,17,Queen Anne's County,Race/Ethnicity,African Am.,38,2025
+Centreville Middle School,0303,17,Queen Anne's County,Race/Ethnicity,Hispanic,41,2025
+Centreville Middle School,0303,17,Queen Anne's County,Race/Ethnicity,White,385,2025
+Centreville Middle School,0303,17,Queen Anne's County,Race/Ethnicity,2+,33,2025
+Centreville Middle School,0303,17,Queen Anne's County,Gender,All Students,501,2025
+Centreville Middle School,0303,17,Queen Anne's County,Gender,Male,255,2025
+Centreville Middle School,0303,17,Queen Anne's County,Gender,Female,245,2025
+Centreville Middle School,0303,17,Queen Anne's County,Grade,All Students,501,2025
+Matapeake Middle School,0407,17,Queen Anne's County,Race/Ethnicity,All Students,360,2025
+Matapeake Middle School,0407,17,Queen Anne's County,Race/Ethnicity,Asian,*,2025
+Matapeake Middle School,0407,17,Queen Anne's County,Race/Ethnicity,African Am.,12,2025
+Matapeake Middle School,0407,17,Queen Anne's County,Race/Ethnicity,Hispanic,38,2025
+Matapeake Middle School,0407,17,Queen Anne's County,Race/Ethnicity,White,284,2025
+Matapeake Middle School,0407,17,Queen Anne's County,Race/Ethnicity,Am.Ind/AK,*,2025
+Matapeake Middle School,0407,17,Queen Anne's County,Race/Ethnicity,2+,22,2025
+Matapeake Middle School,0407,17,Queen Anne's County,Gender,All Students,360,2025
+Matapeake Middle School,0407,17,Queen Anne's County,Gender,Male,205,2025
+Matapeake Middle School,0407,17,Queen Anne's County,Gender,Female,155,2025
+Matapeake Middle School,0407,17,Queen Anne's County,Grade,All Students,360,2025
+Stevensville Middle School,0404,17,Queen Anne's County,Race/Ethnicity,All Students,452,2025
+Stevensville Middle School,0404,17,Queen Anne's County,Race/Ethnicity,Asian,*,2025
+Stevensville Middle School,0404,17,Queen Anne's County,Race/Ethnicity,African Am.,29,2025
+Stevensville Middle School,0404,17,Queen Anne's County,Race/Ethnicity,Hispanic,59,2025
+Stevensville Middle School,0404,17,Queen Anne's County,Race/Ethnicity,White,331,2025
+Stevensville Middle School,0404,17,Queen Anne's County,Race/Ethnicity,2+,29,2025
+Stevensville Middle School,0404,17,Queen Anne's County,Gender,All Students,452,2025
+Stevensville Middle School,0404,17,Queen Anne's County,Gender,Male,223,2025
+Stevensville Middle School,0404,17,Queen Anne's County,Gender,Female,228,2025
+Stevensville Middle School,0404,17,Queen Anne's County,Grade,All Students,452,2025
+Kent Island High School,0405,17,Queen Anne's County,Race/Ethnicity,All Students,1153,2025
+Kent Island High School,0405,17,Queen Anne's County,Race/Ethnicity,Asian,15,2025
+Kent Island High School,0405,17,Queen Anne's County,Race/Ethnicity,African Am.,61,2025
+Kent Island High School,0405,17,Queen Anne's County,Race/Ethnicity,Hispanic,122,2025
+Kent Island High School,0405,17,Queen Anne's County,Race/Ethnicity,White,888,2025
+Kent Island High School,0405,17,Queen Anne's County,Race/Ethnicity,Am.Ind/AK,*,2025
+Kent Island High School,0405,17,Queen Anne's County,Race/Ethnicity,HI/Pac.Isl.,*,2025
+Kent Island High School,0405,17,Queen Anne's County,Race/Ethnicity,2+,63,2025
+Kent Island High School,0405,17,Queen Anne's County,Gender,All Students,1153,2025
+Kent Island High School,0405,17,Queen Anne's County,Gender,Male,609,2025
+Kent Island High School,0405,17,Queen Anne's County,Gender,Female,544,2025
+Kent Island High School,0405,17,Queen Anne's County,Grade,All Students,1153,2025
+Queen Anne's County High School,0301,17,Queen Anne's County,Race/Ethnicity,All Students,1145,2025
+Queen Anne's County High School,0301,17,Queen Anne's County,Race/Ethnicity,Asian,10,2025
+Queen Anne's County High School,0301,17,Queen Anne's County,Race/Ethnicity,African Am.,97,2025
+Queen Anne's County High School,0301,17,Queen Anne's County,Race/Ethnicity,Hispanic,154,2025
+Queen Anne's County High School,0301,17,Queen Anne's County,Race/Ethnicity,White,825,2025
+Queen Anne's County High School,0301,17,Queen Anne's County,Race/Ethnicity,Am.Ind/AK,*,2025
+Queen Anne's County High School,0301,17,Queen Anne's County,Race/Ethnicity,2+,58,2025
+Queen Anne's County High School,0301,17,Queen Anne's County,Gender,All Students,1145,2025
+Queen Anne's County High School,0301,17,Queen Anne's County,Gender,Male,558,2025
+Queen Anne's County High School,0301,17,Queen Anne's County,Gender,Female,587,2025
+Queen Anne's County High School,0301,17,Queen Anne's County,Grade,All Students,1145,2025
+Chapel District Elementary,0401,20,Talbot County,Race/Ethnicity,All Students,359,2025
+Chapel District Elementary,0401,20,Talbot County,Race/Ethnicity,Asian,*,2025
+Chapel District Elementary,0401,20,Talbot County,Race/Ethnicity,African Am.,11,2025
+Chapel District Elementary,0401,20,Talbot County,Race/Ethnicity,Hispanic,42,2025
+Chapel District Elementary,0401,20,Talbot County,Race/Ethnicity,White,278,2025
+Chapel District Elementary,0401,20,Talbot County,Race/Ethnicity,2+,26,2025
+Chapel District Elementary,0401,20,Talbot County,Gender,All Students,359,2025
+Chapel District Elementary,0401,20,Talbot County,Gender,Male,175,2025
+Chapel District Elementary,0401,20,Talbot County,Gender,Female,184,2025
+Chapel District Elementary,0401,20,Talbot County,Grade,All Students,359,2025
+Chapel District Elementary,0401,20,Talbot County,Grade,Pre-Kindergarten,50,2025
+Chapel District Elementary,0401,20,Talbot County,Grade,Kindergarten,58,2025
+Chapel District Elementary,0401,20,Talbot County,Grade,Grade 1,40,2025
+Chapel District Elementary,0401,20,Talbot County,Grade,Grade 2,67,2025
+Chapel District Elementary,0401,20,Talbot County,Grade,Grade 3,54,2025
+Chapel District Elementary,0401,20,Talbot County,Grade,Grade 4,51,2025
+Chapel District Elementary,0401,20,Talbot County,Grade,Grade 5,39,2025
+Chapel District Elementary,0401,20,Talbot County,Grade,Elementary,251,2025
+Easton Elementary,0104,20,Talbot County,Race/Ethnicity,All Students,1075,2025
+Easton Elementary,0104,20,Talbot County,Race/Ethnicity,Asian,35,2025
+Easton Elementary,0104,20,Talbot County,Race/Ethnicity,African Am.,192,2025
+Easton Elementary,0104,20,Talbot County,Race/Ethnicity,Hispanic,486,2025
+Easton Elementary,0104,20,Talbot County,Race/Ethnicity,White,294,2025
+Easton Elementary,0104,20,Talbot County,Race/Ethnicity,2+,68,2025
+Easton Elementary,0104,20,Talbot County,Gender,All Students,1075,2025
+Easton Elementary,0104,20,Talbot County,Gender,Male,560,2025
+Easton Elementary,0104,20,Talbot County,Gender,Female,515,2025
+Easton Elementary,0104,20,Talbot County,Grade,All Students,1075,2025
+Easton Elementary,0104,20,Talbot County,Grade,Pre-Kindergarten,167,2025
+Easton Elementary,0104,20,Talbot County,Grade,Kindergarten,145,2025
+Easton Elementary,0104,20,Talbot County,Grade,Grade 1,139,2025
+Easton Elementary,0104,20,Talbot County,Grade,Grade 2,167,2025
+Easton Elementary,0104,20,Talbot County,Grade,Grade 3,149,2025
+Easton Elementary,0104,20,Talbot County,Grade,Grade 4,129,2025
+Easton Elementary,0104,20,Talbot County,Grade,Grade 5,179,2025
+Easton Elementary,0104,20,Talbot County,Grade,Elementary,763,2025
+St. Michaels Elementary,0204,20,Talbot County,Race/Ethnicity,All Students,332,2025
+St. Michaels Elementary,0204,20,Talbot County,Race/Ethnicity,Asian,*,2025
+St. Michaels Elementary,0204,20,Talbot County,Race/Ethnicity,African Am.,44,2025
+St. Michaels Elementary,0204,20,Talbot County,Race/Ethnicity,Hispanic,33,2025
+St. Michaels Elementary,0204,20,Talbot County,Race/Ethnicity,White,234,2025
+St. Michaels Elementary,0204,20,Talbot County,Race/Ethnicity,Am.Ind/AK,*,2025
+St. Michaels Elementary,0204,20,Talbot County,Race/Ethnicity,2+,16,2025
+St. Michaels Elementary,0204,20,Talbot County,Gender,All Students,332,2025
+St. Michaels Elementary,0204,20,Talbot County,Gender,Male,163,2025
+St. Michaels Elementary,0204,20,Talbot County,Gender,Female,169,2025
+St. Michaels Elementary,0204,20,Talbot County,Grade,All Students,332,2025
+St. Michaels Elementary,0204,20,Talbot County,Grade,Pre-Kindergarten,44,2025
+St. Michaels Elementary,0204,20,Talbot County,Grade,Kindergarten,40,2025
+St. Michaels Elementary,0204,20,Talbot County,Grade,Grade 1,44,2025
+St. Michaels Elementary,0204,20,Talbot County,Grade,Grade 2,47,2025
+St. Michaels Elementary,0204,20,Talbot County,Grade,Grade 3,59,2025
+St. Michaels Elementary,0204,20,Talbot County,Grade,Grade 4,47,2025
+St. Michaels Elementary,0204,20,Talbot County,Grade,Grade 5,51,2025
+St. Michaels Elementary,0204,20,Talbot County,Grade,Elementary,248,2025
+Tilghman Elementary,0501,20,Talbot County,Race/Ethnicity,All Students,99,2025
+Tilghman Elementary,0501,20,Talbot County,Race/Ethnicity,African Am.,*,2025
+Tilghman Elementary,0501,20,Talbot County,Race/Ethnicity,Hispanic,*,2025
+Tilghman Elementary,0501,20,Talbot County,Race/Ethnicity,White,92,2025
+Tilghman Elementary,0501,20,Talbot County,Race/Ethnicity,2+,*,2025
+Tilghman Elementary,0501,20,Talbot County,Gender,All Students,99,2025
+Tilghman Elementary,0501,20,Talbot County,Gender,Male,51,2025
+Tilghman Elementary,0501,20,Talbot County,Gender,Female,48,2025
+Tilghman Elementary,0501,20,Talbot County,Grade,All Students,99,2025
+Tilghman Elementary,0501,20,Talbot County,Grade,Pre-Kindergarten,17,2025
+Tilghman Elementary,0501,20,Talbot County,Grade,Kindergarten,*,2025
+Tilghman Elementary,0501,20,Talbot County,Grade,Grade 1,20,2025
+Tilghman Elementary,0501,20,Talbot County,Grade,Grade 2,16,2025
+Tilghman Elementary,0501,20,Talbot County,Grade,Grade 3,13,2025
+Tilghman Elementary,0501,20,Talbot County,Grade,Grade 4,*,2025
+Tilghman Elementary,0501,20,Talbot County,Grade,Grade 5,17,2025
+Tilghman Elementary,0501,20,Talbot County,Grade,Elementary,74,2025
+White Marsh Elementary,0302,20,Talbot County,Race/Ethnicity,All Students,289,2025
+White Marsh Elementary,0302,20,Talbot County,Race/Ethnicity,Asian,*,2025
+White Marsh Elementary,0302,20,Talbot County,Race/Ethnicity,African Am.,32,2025
+White Marsh Elementary,0302,20,Talbot County,Race/Ethnicity,Hispanic,55,2025
+White Marsh Elementary,0302,20,Talbot County,Race/Ethnicity,White,178,2025
+White Marsh Elementary,0302,20,Talbot County,Race/Ethnicity,2+,16,2025
+White Marsh Elementary,0302,20,Talbot County,Gender,All Students,289,2025
+White Marsh Elementary,0302,20,Talbot County,Gender,Male,141,2025
+White Marsh Elementary,0302,20,Talbot County,Gender,Female,148,2025
+White Marsh Elementary,0302,20,Talbot County,Grade,All Students,289,2025
+White Marsh Elementary,0302,20,Talbot County,Grade,Pre-Kindergarten,41,2025
+White Marsh Elementary,0302,20,Talbot County,Grade,Kindergarten,30,2025
+White Marsh Elementary,0302,20,Talbot County,Grade,Grade 1,50,2025
+White Marsh Elementary,0302,20,Talbot County,Grade,Grade 2,45,2025
+White Marsh Elementary,0302,20,Talbot County,Grade,Grade 3,45,2025
+White Marsh Elementary,0302,20,Talbot County,Grade,Grade 4,38,2025
+White Marsh Elementary,0302,20,Talbot County,Grade,Grade 5,40,2025
+White Marsh Elementary,0302,20,Talbot County,Grade,Elementary,218,2025
+Easton Middle,0106,20,Talbot County,Race/Ethnicity,All Students,703,2025
+Easton Middle,0106,20,Talbot County,Race/Ethnicity,Asian,10,2025
+Easton Middle,0106,20,Talbot County,Race/Ethnicity,African Am.,128,2025
+Easton Middle,0106,20,Talbot County,Race/Ethnicity,Hispanic,232,2025
+Easton Middle,0106,20,Talbot County,Race/Ethnicity,White,270,2025
+Easton Middle,0106,20,Talbot County,Race/Ethnicity,2+,63,2025
+Easton Middle,0106,20,Talbot County,Gender,All Students,703,2025
+Easton Middle,0106,20,Talbot County,Gender,Male,365,2025
+Easton Middle,0106,20,Talbot County,Gender,Female,338,2025
+Easton Middle,0106,20,Talbot County,Grade,All Students,703,2025
+St. Michaels Middle/High School,0202,20,Talbot County,Race/Ethnicity,All Students,449,2025
+St. Michaels Middle/High School,0202,20,Talbot County,Race/Ethnicity,Asian,*,2025
+St. Michaels Middle/High School,0202,20,Talbot County,Race/Ethnicity,African Am.,53,2025
+St. Michaels Middle/High School,0202,20,Talbot County,Race/Ethnicity,Hispanic,50,2025
+St. Michaels Middle/High School,0202,20,Talbot County,Race/Ethnicity,White,309,2025
+St. Michaels Middle/High School,0202,20,Talbot County,Race/Ethnicity,2+,31,2025
+St. Michaels Middle/High School,0202,20,Talbot County,Gender,All Students,449,2025
+St. Michaels Middle/High School,0202,20,Talbot County,Gender,Male,246,2025
+St. Michaels Middle/High School,0202,20,Talbot County,Gender,Female,203,2025
+St. Michaels Middle/High School,0202,20,Talbot County,Grade,All Students,449,2025
+Easton High,0101,20,Talbot County,Race/Ethnicity,All Students,1179,2025
+Easton High,0101,20,Talbot County,Race/Ethnicity,Asian,23,2025
+Easton High,0101,20,Talbot County,Race/Ethnicity,African Am.,208,2025
+Easton High,0101,20,Talbot County,Race/Ethnicity,Hispanic,334,2025
+Easton High,0101,20,Talbot County,Race/Ethnicity,White,561,2025
+Easton High,0101,20,Talbot County,Race/Ethnicity,2+,53,2025
+Easton High,0101,20,Talbot County,Gender,All Students,1179,2025
+Easton High,0101,20,Talbot County,Gender,Male,613,2025
+Easton High,0101,20,Talbot County,Gender,Female,566,2025
+Easton High,0101,20,Talbot County,Grade,All Students,1179,2025
